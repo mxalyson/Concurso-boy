@@ -6,25 +6,27 @@ import { carregarOpcoesFiltro } from "@/lib/opcoes-filtro";
 import { buscarQuestoes, resumir } from "@/lib/questoes";
 import { criarCadernoDeFiltros } from "@/app/actions/cadernos";
 import { CartaoQuestao } from "@/components/questao/cartao-questao";
-import { PainelFiltros, SeletorOrdem } from "@/components/questao/painel-filtros";
+import { PainelFiltros, PorPagina, SeletorOrdem } from "@/components/questao/painel-filtros";
 import { Paginacao } from "@/components/paginacao";
 import { Botao, CabecalhoPagina, LinkBotao, Vazio } from "@/components/ui";
 
 export const metadata = { title: "Banco de questões" };
 
-const POR_PAGINA = 10;
+const POR_PAGINA = [5, 10, 20, 50];
 
 export default async function PaginaQuestoes({ searchParams }: { searchParams: Promise<Record<string, string | string[] | undefined>> }) {
   const usuario = await exigirUsuario();
   const params = await searchParams;
   const filtros = lerFiltros(params);
   const pagina = Math.max(1, Number(params.pg) || 1);
-  const { total, questoes } = buscarQuestoes(filtros, usuario.id, pagina, POR_PAGINA);
+  const porPagina = POR_PAGINA.includes(Number(params.pp)) ? Number(params.pp) : 10;
+  const { total, questoes } = buscarQuestoes(filtros, usuario.id, pagina, porPagina);
   const opcoes = carregarOpcoesFiltro(usuario.id);
   const query = filtrosParaParams(filtros);
   const href = (p: number) => {
     const q = new URLSearchParams(query);
     if (p > 1) q.set("pg", String(p));
+    if (porPagina !== 10) q.set("pp", String(porPagina));
     return `/questoes?${q}`;
   };
 
@@ -44,6 +46,7 @@ export default async function PaginaQuestoes({ searchParams }: { searchParams: P
         </p>
         <div className="flex flex-wrap items-center gap-2">
           <SeletorOrdem filtros={filtros} />
+          <PorPagina valor={porPagina} />
           {total > 0 && (
             <>
               <details className="relative">
@@ -90,11 +93,11 @@ export default async function PaginaQuestoes({ searchParams }: { searchParams: P
       ) : (
         <div className="space-y-4">
           {questoes.map((q, i) => (
-            <CartaoQuestao key={q.id} questao={resumir(q)} indice={(pagina - 1) * POR_PAGINA + i + 1} />
+            <CartaoQuestao key={q.id} questao={resumir(q)} indice={(pagina - 1) * porPagina + i + 1} />
           ))}
         </div>
       )}
-      <Paginacao total={total} pagina={pagina} porPagina={POR_PAGINA} href={href} />
+      <Paginacao total={total} pagina={pagina} porPagina={porPagina} href={href} />
     </>
   );
 }

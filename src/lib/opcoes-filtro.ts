@@ -45,5 +45,10 @@ export function carregarOpcoesFiltro(usuarioId: number): OpcoesFiltro {
     esferas: contar("o.esfera", "JOIN orgaos o ON o.id = p.orgao_id"),
     ufs: contar("o.uf", "JOIN orgaos o ON o.id = p.orgao_id"),
     cadernos: db().prepare("SELECT id, nome FROM cadernos WHERE usuario_id = ? ORDER BY nome").all(usuarioId) as { id: number; nome: string }[],
+    salvos: db().prepare("SELECT id, nome, params FROM filtros_salvos WHERE usuario_id = ? ORDER BY nome").all(usuarioId) as {
+      id: number;
+      nome: string;
+      params: string;
+    }[],
   };
 }

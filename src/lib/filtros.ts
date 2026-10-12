@@ -2,9 +2,10 @@
 // ser usado tanto no servidor quanto no navegador.
 
 export type StatusFiltro = "nao_resolvidas" | "resolvidas" | "acertei" | "errei";
-export type OrdemFiltro = "recentes" | "antigas" | "aleatoria" | "mais_respondidas" | "dificeis";
+export type OrdemFiltro = "recentes" | "antigas" | "adicionadas" | "relevancia" | "comentadas" | "aleatoria" | "mais_respondidas" | "dificeis";
 
-export type ComFiltro = "comentario" | "imagem" | "texto";
+export type ComFiltro = "comentario" | "forum" | "anotacao" | "imagem" | "texto";
+export type ExcluirFiltro = "cadernos" | "simulados";
 export type OrigemFiltro = "oficial" | "autoral";
 
 export type Filtros = {
@@ -25,6 +26,8 @@ export type Filtros = {
   ufs?: string[];
   /** Só questões com comentário, com imagem ou com texto associado. */
   com?: ComFiltro[];
+  /** Esconde questões que já estão nos cadernos ou simulados do usuário. */
+  excluir?: ExcluirFiltro[];
   origem?: OrigemFiltro;
   tipo?: "multipla" | "certo_errado";
   cargo?: string;
@@ -63,7 +66,7 @@ function numeros(params: Params, chave: string): number[] {
 }
 
 const STATUS: StatusFiltro[] = ["nao_resolvidas", "resolvidas", "acertei", "errei"];
-const ORDENS: OrdemFiltro[] = ["recentes", "antigas", "aleatoria", "mais_respondidas", "dificeis"];
+const ORDENS: OrdemFiltro[] = ["recentes", "antigas", "adicionadas", "relevancia", "comentadas", "aleatoria", "mais_respondidas", "dificeis"];
 
 export function lerFiltros(params: Params): Filtros {
   const tipo = pegar(params, "tipo");
@@ -83,7 +86,8 @@ export function lerFiltros(params: Params): Filtros {
     cargos: textos(params, "cg"),
     esferas: lista(params, "esf").filter((e) => ["federal", "estadual", "municipal", "distrital"].includes(e)),
     ufs: lista(params, "uf").filter((u) => /^[A-Z]{2}$/.test(u)),
-    com: lista(params, "com").filter((c): c is ComFiltro => ["comentario", "imagem", "texto"].includes(c)),
+    com: lista(params, "com").filter((c): c is ComFiltro => ["comentario", "forum", "anotacao", "imagem", "texto"].includes(c)),
+    excluir: lista(params, "exc").filter((c): c is ExcluirFiltro => ["cadernos", "simulados"].includes(c)),
     origem: ((o) => (o === "oficial" || o === "autoral" ? o : undefined))(pegar(params, "orig")),
     escolaridades: lista(params, "esc").filter((e) => ["fundamental", "medio", "superior"].includes(e)),
     dificuldades: numeros(params, "dif").filter((n) => n <= 3),
@@ -116,6 +120,7 @@ export function filtrosParaParams(f: Partial<Filtros>): URLSearchParams {
   if (f.esferas?.length) p.set("esf", f.esferas.join(","));
   if (f.ufs?.length) p.set("uf", f.ufs.join(","));
   if (f.com?.length) p.set("com", f.com.join(","));
+  if (f.excluir?.length) p.set("exc", f.excluir.join(","));
   definir("orig", f.origem);
   if (f.escolaridades?.length) p.set("esc", f.escolaridades.join(","));
   if (f.dificuldades?.length) p.set("dif", f.dificuldades.join(","));
@@ -145,6 +150,7 @@ export function contarFiltrosAtivos(f: Filtros): number {
     (f.esferas?.length ?? 0) +
     (f.ufs?.length ?? 0) +
     (f.com?.length ?? 0) +
+    (f.excluir?.length ?? 0) +
     (f.origem ? 1 : 0) +
     f.escolaridades.length +
     f.dificuldades.length +

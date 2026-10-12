@@ -187,6 +187,12 @@ export function montarFiltro(f: Filtros, usuarioId: number): Clausula {
   if (f.esferas?.length) naProva.push(`pp.orgao_id IN (SELECT id FROM orgaos WHERE esfera IN (${em(f.esferas)}))`);
   if (f.ufs?.length) naProva.push(`pp.orgao_id IN (SELECT id FROM orgaos WHERE uf IN (${em(f.ufs)}))`);
   if (f.com?.includes("comentario")) where.push("q.comentario IS NOT NULL AND trim(q.comentario) <> ''");
+  if (f.com?.includes("forum")) where.push("EXISTS (SELECT 1 FROM comentarios c WHERE c.questao_id = q.id)");
+  if (f.com?.includes("anotacao")) where.push("EXISTS (SELECT 1 FROM anotacoes an WHERE an.questao_id = q.id AND an.usuario_id = @usuario)");
+  if (f.excluir?.includes("cadernos"))
+    where.push("NOT EXISTS (SELECT 1 FROM caderno_questoes cq JOIN cadernos c ON c.id = cq.caderno_id WHERE cq.questao_id = q.id AND c.usuario_id = @usuario)");
+  if (f.excluir?.includes("simulados"))
+    where.push("NOT EXISTS (SELECT 1 FROM simulado_questoes sq JOIN simulados s ON s.id = sq.simulado_id WHERE sq.questao_id = q.id AND s.usuario_id = @usuario)");
   if (f.com?.includes("imagem")) where.push("q.imagens <> '[]'");
   if (f.com?.includes("texto")) where.push("q.texto_base IS NOT NULL AND trim(q.texto_base) <> ''");
   if (f.origem === "autoral") where.push("p.banca_id IN (SELECT id FROM bancas WHERE sigla = 'AUTORAL')");
@@ -221,6 +227,21 @@ export function montarFiltro(f: Filtros, usuarioId: number): Clausula {
   return { where, params };
 }
 
+/** Consulta FTS quando a ordenação é por relevância (senão null). */
+function relevancia(f: Filtros) {
+  if (f.ordem !== "relevancia" || !f.q || /^#?\d+$/.test(f.q)) return null;
+  return consultaFts(f.q);
+}
+
+/** Prefixo WITH da ordenação por relevância (ranking das palavras-chave). */
+function comRelevancia(f: Filtros, params: Record<string, unknown>) {
+  const fts = relevancia(f);
+  if (!fts) return "";
+  params.fts_rel = fts;
+  return `WITH rel AS MATERIALIZED (SELECT rowid AS id, row_number() OVER (ORDER BY rank) AS ordem
+    FROM questoes_fts WHERE questoes_fts MATCH @fts_rel) `;
+}
+
 function ordenacao(f: Filtros): string {
   switch (f.ordem) {
     case "antigas":
@@ -230,6 +251,14 @@ function ordenacao(f: Filtros): string {
       const semente = f.semente ?? 7919;
       return `ORDER BY ((q.id * ${semente}) % 1000003), q.id`;
     }
+    case "adicionadas":
+      return "ORDER BY q.id DESC";
+    case "comentadas":
+      return "ORDER BY (q.comentario IS NOT NULL AND trim(q.comentario) <> '') DESC, p.ano DESC NULLS LAST, q.id DESC";
+    case "relevancia":
+      // relevância das palavras-chave (bm25 do índice de busca, calculado uma vez em "rel")
+      if (relevancia(f)) return "ORDER BY (SELECT rel.ordem FROM rel WHERE rel.id = q.id), q.id DESC";
+      return "ORDER BY p.ano DESC NULLS LAST, q.id DESC";
     case "mais_respondidas":
       return "ORDER BY (SELECT count(*) FROM respostas r WHERE r.questao_id = q.id) DESC, q.id DESC";
     case "dificeis":
@@ -255,7 +284,7 @@ export function buscarQuestoes(f: Filtros, usuarioId: number, pagina = 1, porPag
       .get(params) as { n: number }
   ).n;
   const linhas = db()
-    .prepare(`${SELECT_BASE} ${whereSql} ${ordenacao(f)} LIMIT @limite OFFSET @offset`)
+    .prepare(`${comRelevancia(f, params)}${SELECT_BASE} ${whereSql} ${ordenacao(f)} LIMIT @limite OFFSET @offset`)
     .all({ ...params, limite: porPagina, offset: (pagina - 1) * porPagina }) as Linha[];
   return { total, questoes: linhas.map(converter) };
 }
@@ -268,7 +297,7 @@ export function idsQuestoes(f: Filtros, usuarioId: number, limite: number, aleat
   return (
     db()
       .prepare(
-        `SELECT q.id FROM questoes q LEFT JOIN provas p ON p.id = q.prova_id
+        `${aleatorio ? "" : comRelevancia(f, params)}SELECT q.id FROM questoes q LEFT JOIN provas p ON p.id = q.prova_id
          WHERE ${where.join(" AND ")} ${ordem} LIMIT @limite`,
       )
       .all({ ...params, limite }) as { id: number }[]

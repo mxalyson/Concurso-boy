@@ -308,4 +308,15 @@ export const MIGRACOES: (string | ((c: Database.Database) => void))[] = [
   CREATE INDEX questao_provas_prova ON questao_provas(prova_id, numero);
   INSERT INTO questao_provas (questao_id, prova_id, numero) SELECT id, prova_id, numero FROM questoes WHERE prova_id IS NOT NULL;
   `,
+  /* sql */ `
+  -- Filtros salvos pelo usuário ("Meus filtros")
+  CREATE TABLE filtros_salvos (
+    id INTEGER PRIMARY KEY,
+    usuario_id INTEGER NOT NULL REFERENCES usuarios(id) ON DELETE CASCADE,
+    nome TEXT NOT NULL,
+    params TEXT NOT NULL,
+    criado_em TEXT NOT NULL DEFAULT (datetime('now'))
+  );
+  CREATE INDEX filtros_salvos_usuario ON filtros_salvos(usuario_id);
+  `,
 ];
