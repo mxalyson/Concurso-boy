@@ -10,7 +10,7 @@
 #   python3 auto.py --novas             # só concursos ainda não vistos (para rodar no cron)
 #
 # Requer poppler-utils (pdftotext, pdfinfo), Python 3 com pyspellchecker, pymupdf, pillow e numpy.
-import argparse, gzip, json, os, re, shutil, subprocess, sys, tempfile, time, unicodedata
+import argparse, gzip, hashlib, json, os, re, shutil, subprocess, sys, tempfile, time, unicodedata
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
@@ -158,11 +158,19 @@ def parse_gabarito(txt):
     return gab
 
 
+def nome_arquivo(ev, chave, prova):
+    """Nome do lote: concurso + cargo + identificador do caderno (gerais e específicos do
+    mesmo cargo são cadernos diferentes)."""
+    cargo = nome_cargo(prova["descricaoArquivo"], ev)
+    h = hashlib.sha1(chave.encode()).hexdigest()[:6]
+    return f"cebraspe-auto-{slug(ev['eventoURL'])}-{slug(cargo)[:50]}-{h}"
+
+
 def processar(ev, chave, prova, gab, pasta_saida, pasta_imagens, forcar=False):
     """Processa um caderno. Devolve (status, mensagem, arquivo|None)."""
     evento = ev["eventoURL"]
     cargo = nome_cargo(prova["descricaoArquivo"], ev)
-    nome = f"cebraspe-auto-{slug(evento)}-{slug(cargo)}"
+    nome = nome_arquivo(ev, chave, prova)
     saida = os.path.join(pasta_saida, nome + ".json")
     final = saida + ".gz"  # lotes automáticos ficam compactados (o seed lê .json e .json.gz)
     if os.path.exists(final) and not forcar:
@@ -296,6 +304,20 @@ def main():
                 continue
             id_caderno = f"{ev['eventoURL']}|{chave}"
             anterior = estado["cadernos"].get(id_caderno)
+            # lotes gravados com o nome antigo (sem identificador do caderno): renomeia se o
+            # arquivo é só deste caderno; se dois cadernos disputaram o mesmo nome, refaz
+            if anterior and anterior.get("arquivo") and anterior["status"] == "importada":
+                antigo = os.path.join(args.saida, anterior["arquivo"])
+                novo = os.path.join(args.saida, nome_arquivo(ev, chave, prova) + ".json.gz")
+                donos = [k for k, v in estado["cadernos"].items() if v.get("arquivo") == anterior["arquivo"]]
+                if os.path.exists(antigo) and antigo != novo and len(donos) == 1:
+                    os.rename(antigo, novo)
+                    anterior["arquivo"] = os.path.basename(novo)
+                elif len(donos) > 1:
+                    if os.path.exists(antigo):
+                        os.remove(antigo)
+                    for k in donos:
+                        estado["cadernos"][k]["status"] = "refazer"
             if args.novas and anterior and anterior["status"] in ("importada", "pulada", "existente"):
                 continue
             tarefas.append((id_caderno, ev, chave, prova, gab))
