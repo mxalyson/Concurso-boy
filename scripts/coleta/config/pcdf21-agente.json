@@ -1,0 +1,52 @@
+{
+  "prova": {
+    "banca": "CEBRASPE", "orgao": "PC-DF", "orgao_nome": "Polícia Civil do Distrito Federal", "esfera": "estadual", "uf": "DF",
+    "cargo": "Agente de Polícia", "ano": 2021, "escolaridade": "superior",
+    "url_prova": "https://cdn.cebraspe.org.br/concursos/PC_DF_20_AGENTE/arquivos/PCDF_AGENTE_001_COMJUSTIFICATIVA.PDF",
+    "url_gabarito": "https://cdn.cebraspe.org.br/concursos/PC_DF_20_AGENTE/arquivos/GAB_DEFINITIVO_MATRIZ_550_PCDF_AGENTE_001_00.PDF"
+  },
+  "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos)",
+  "excluir": [83, 84, 85, 86, 89, [97, 102], [112, 114]],
+  "desatualizadas": [54, 55],
+  "classificacao": [
+    {"itens": [51, 51], "disciplina": "Direito Administrativo", "assunto": "Agentes públicos > Lei 8.112/1990"},
+    {"itens": [52, 52], "disciplina": "Direito Administrativo", "assunto": "Atos administrativos > Elementos"},
+    {"itens": [53, 53], "disciplina": "Direito Administrativo", "assunto": "Poderes administrativos"},
+    {"itens": [54, 55], "disciplina": "Direito Administrativo", "assunto": "Licitações e contratos (Lei 8.666/1993)"},
+    {"itens": [56, 56], "disciplina": "Direito Administrativo", "assunto": "Responsabilidade civil do Estado"},
+    {"itens": [57, 58], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"},
+    {"itens": [59, 60], "disciplina": "Direito Constitucional", "assunto": "Segurança pública"},
+    {"itens": [61, 64], "disciplina": "Direito Penal", "assunto": "Aplicação da lei penal"},
+    {"itens": [65, 66], "disciplina": "Direito Penal", "assunto": "Crimes em espécie"},
+    {"itens": [67, 67], "disciplina": "Direito Penal", "assunto": "Crimes hediondos"},
+    {"itens": [68, 68], "disciplina": "Direito Penal", "assunto": "Crimes contra a Administração Pública > Prevaricação"},
+    {"itens": [69, 69], "disciplina": "Direito Processual Penal", "assunto": "Aplicação da lei processual penal"},
+    {"itens": [70, 72], "disciplina": "Direito Processual Penal", "assunto": "Inquérito policial"},
+    {"itens": [73, 73], "disciplina": "Direito Processual Penal", "assunto": "Prisão e liberdade provisória"},
+    {"itens": [74, 74], "disciplina": "Direito Processual Penal", "assunto": "Prisão em flagrante"},
+    {"itens": [75, 75], "disciplina": "Direito Processual Penal", "assunto": "Juizados especiais criminais"},
+    {"itens": [76, 76], "disciplina": "Direito Processual Penal", "assunto": "Tribunal do júri"},
+    {"itens": [77, 81], "disciplina": "Direitos Humanos", "assunto": "Direitos humanos na Constituição Federal"},
+    {"itens": [82, 82], "disciplina": "Direitos Humanos", "assunto": "Política Nacional de Direitos Humanos"},
+    {"itens": [87, 87], "disciplina": "Informática", "assunto": "Redes e internet"},
+    {"itens": [88, 88], "disciplina": "Informática", "assunto": "Sistemas operacionais"},
+    {"itens": [90, 91], "disciplina": "Informática", "assunto": "Ciência de dados"},
+    {"itens": [92, 92], "disciplina": "Informática", "assunto": "Programação"},
+    {"itens": [93, 93], "disciplina": "Informática", "assunto": "Sistemas de informação"},
+    {"itens": [94, 95], "disciplina": "Informática", "assunto": "Teoria da informação"},
+    {"itens": [96, 96], "disciplina": "Informática", "assunto": "Banco de dados"},
+    {"itens": [103, 104], "disciplina": "Estatística", "assunto": "Amostragem e estimação"},
+    {"itens": [105, 107], "disciplina": "Estatística", "assunto": "Testes de hipóteses"},
+    {"itens": [108, 108], "disciplina": "Estatística", "assunto": "Regressão linear"},
+    {"itens": [109, 111], "disciplina": "Contabilidade Geral", "assunto": "Patrimônio e escrituração"},
+    {"itens": [115, 120], "disciplina": "Contabilidade Geral", "assunto": "Operações típicas e registros contábeis"}
+  ],
+  "bases": [
+    {"itens": [87, 87], "texto_base": "Julgue o próximo item, relativo a aplicativos e procedimentos associados à Internet."},
+    {"itens": [90, 91], "texto_base": "Com relação a mineração de dados, aprendizado de máquina e aplicações Python, julgue os itens a seguir."},
+    {"itens": [93, 93], "texto_base": "A respeito de metadados de arquivos, julgue o item a seguir."}
+  ],
+  "corrigir": {
+    "87": {"enunciado": "Caso se deseje pesquisar, no Google, exatamente a frase “operação apate” (entre aspas), restringindo-se a pesquisa ao sítio da PCDF, em <https://www.pcdf.df.gov.br>, mas excluindo-se as páginas que contenham a palavra “drogas” (sem aspas), a pesquisa deverá ser feita conforme apresentado a seguir.\n\n\"operação apate\" -drogas site:pcdf.df.gov.br"}
+  }
+}

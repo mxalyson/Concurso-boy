@@ -70,7 +70,20 @@ O banco é um arquivo SQLite: hospede em um servidor com disco persistente (VPS,
 
 ## De onde vêm as questões
 
-O sistema vem com **94 questões autorais de exemplo** (marcadas com a banca “AUTORAL” e identificadas como não oficiais) e 10 resumos, só para você ver tudo funcionando. Para ter um banco real, importe provas:
+O sistema vem com **534 questões de provas oficiais** já revisadas, além de 94 questões autorais de exemplo (banca “AUTORAL”) e 10 resumos:
+
+| Banca | Prova | Questões |
+|---|---|---|
+| Cebraspe | Polícia Federal 2021 — Agente | 105 |
+| Cebraspe | PRF 2021 — Policial Rodoviário Federal | 109 |
+| Cebraspe | INSS 2022 — Técnico do Seguro Social | 119 |
+| Cebraspe | PC-DF 2021 — Agente (com a justificativa oficial da banca em cada item) | 56 |
+| FGV | TRT-16 2022 — Técnico Judiciário (Área Administrativa) | 67 |
+| FGV | TRT-16 2022 — Analista Judiciário (Área Judiciária) | 78 |
+
+Foram usados os PDFs e os gabaritos **definitivos** publicados pelas bancas; itens que dependem de imagem, tabela ou fórmula foram deixados de fora. Os lotes ficam em `data/provas/` e o processo de coleta está em `scripts/coleta/LEIA-ME.md`.
+
+Para ampliar o banco, importe mais provas:
 
 1. **Sites oficiais das bancas** — Cebraspe, FGV Conhecimento, FCC, Vunesp, Cesgranrio, IBFC, Quadrix, Instituto AOCP, Idecan e outras publicam a prova e o gabarito (preliminar e definitivo) de cada concurso. É a melhor fonte, inclusive para provas antigas.
 2. **Agregadores de provas em PDF**, como o PCI Concursos, que reúnem links para provas e gabaritos de anos anteriores.

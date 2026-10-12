@@ -1,0 +1,52 @@
+{
+  "prova": {
+    "banca": "CEBRASPE", "orgao": "INSS", "orgao_nome": "Instituto Nacional do Seguro Social", "esfera": "federal",
+    "cargo": "Técnico do Seguro Social", "ano": 2022, "escolaridade": "medio",
+    "url_prova": "https://cdn.cebraspe.org.br/concursos/INSS_22/arquivos/760_INSS_CB1_01.PDF",
+    "url_gabarito": "https://cdn.cebraspe.org.br/concursos/INSS_22/arquivos/GAB_DEFINITIVO_760_INSS_CB1_01.PDF"
+  },
+  "fonte": "Cebraspe — INSS 2022 — Técnico do Seguro Social",
+  "excluir": [43],
+  "classificacao": [
+    {"itens": [1, 14], "disciplina": "Língua Portuguesa", "assunto": "Interpretação de texto"},
+    {"itens": [15, 17], "disciplina": "Ética no Serviço Público", "assunto": "Código de Ética (Decreto 1.171/1994)"},
+    {"itens": [18, 20], "disciplina": "Ética no Serviço Público", "assunto": "Sistema de Gestão da Ética do Poder Executivo Federal"},
+    {"itens": [21, 26], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais"},
+    {"itens": [27, 30], "disciplina": "Direito Constitucional", "assunto": "Administração Pública"},
+    {"itens": [31, 31], "disciplina": "Direito Administrativo", "assunto": "Organização administrativa"},
+    {"itens": [32, 32], "disciplina": "Direito Administrativo", "assunto": "Poderes administrativos"},
+    {"itens": [33, 33], "disciplina": "Direito Administrativo", "assunto": "Fontes do direito administrativo"},
+    {"itens": [34, 34], "disciplina": "Direito Administrativo", "assunto": "Organização administrativa"},
+    {"itens": [35, 35], "disciplina": "Direito Administrativo", "assunto": "Agentes públicos > Lei 8.112/1990"},
+    {"itens": [36, 36], "disciplina": "Direito Administrativo", "assunto": "Atos administrativos > Extinção"},
+    {"itens": [37, 37], "disciplina": "Direito Administrativo", "assunto": "Serviços públicos"},
+    {"itens": [38, 38], "disciplina": "Direito Administrativo", "assunto": "Processo administrativo (Lei 9.784/1999)"},
+    {"itens": [39, 39], "disciplina": "Direito Administrativo", "assunto": "Responsabilidade civil do Estado"},
+    {"itens": [40, 40], "disciplina": "Direito Administrativo", "assunto": "Improbidade administrativa"},
+    {"itens": [41, 42], "disciplina": "Informática", "assunto": "Redes e internet"},
+    {"itens": [44, 44], "disciplina": "Informática", "assunto": "Segurança da informação > Golpes na internet"},
+    {"itens": [45, 45], "disciplina": "Informática", "assunto": "Sistemas operacionais (Windows)"},
+    {"itens": [46, 47], "disciplina": "Raciocínio Lógico", "assunto": "Porcentagem"},
+    {"itens": [48, 50], "disciplina": "Raciocínio Lógico", "assunto": "Lógica proposicional > Tabela-verdade"},
+    {"itens": [51, 52], "disciplina": "Direito Previdenciário", "assunto": "Seguridade social > Princípios constitucionais"},
+    {"itens": [53, 54], "disciplina": "Direito Previdenciário", "assunto": "Aplicação das normas previdenciárias"},
+    {"itens": [55, 60], "disciplina": "Direito Previdenciário", "assunto": "Regime geral de previdência social (RGPS)"},
+    {"itens": [61, 66], "disciplina": "Direito Previdenciário", "assunto": "Custeio > Empresa, empregador doméstico e financiamento"},
+    {"itens": [67, 72], "disciplina": "Direito Previdenciário", "assunto": "Custeio > Salário de contribuição"},
+    {"itens": [73, 75], "disciplina": "Direito Previdenciário", "assunto": "Custeio > Arrecadação e recolhimento"},
+    {"itens": [76, 80], "disciplina": "Direito Previdenciário", "assunto": "Pensões especiais"},
+    {"itens": [81, 82], "disciplina": "Direito Previdenciário", "assunto": "Reabilitação profissional"},
+    {"itens": [83, 84], "disciplina": "Direito Previdenciário", "assunto": "Prescrição e recursos administrativos"},
+    {"itens": [85, 86], "disciplina": "Direito Previdenciário", "assunto": "Crimes contra a seguridade social"},
+    {"itens": [87, 95], "disciplina": "Direito Previdenciário", "assunto": "Plano de benefícios"},
+    {"itens": [96, 99], "disciplina": "Direito Previdenciário", "assunto": "RPPS, contagem recíproca e compensação"},
+    {"itens": [100, 105], "disciplina": "Direito Previdenciário", "assunto": "Assistência social"},
+    {"itens": [106, 107], "disciplina": "Direito Previdenciário", "assunto": "Reforma da previdência (EC 103/2019)"},
+    {"itens": [108, 112], "disciplina": "Direito Previdenciário", "assunto": "Aposentadoria da pessoa com deficiência"},
+    {"itens": [113, 117], "disciplina": "Direito Previdenciário", "assunto": "Seguridade social > Organização"},
+    {"itens": [118, 120], "disciplina": "Direito Previdenciário", "assunto": "Cadastro Nacional de Informações Sociais (CNIS)"}
+  ],
+  "bases": [
+    {"itens": [41, 42], "texto_base": "[Figura: página de um sítio na Internet, acessada por endereço iniciado com cadeado seguido de https://, que exibe o seguinte aviso.]\n\nPara melhorar a sua experiência na plataforma e prover serviços personalizados, utilizamos cookies. Ao aceitar, você terá acesso a todas as funcionalidades do site. Se clicar em “Rejeitar Cookies”, os cookies que não forem estritamente necessários serão desativados. Para escolher quais quer autorizar, clique em “Gerenciar cookies”. Saiba mais em nossa Declaração de Cookies.\n\nTendo como base a figura anterior, julgue os seguintes itens."}
+  ]
+}

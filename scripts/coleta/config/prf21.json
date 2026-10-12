@@ -1,0 +1,52 @@
+{
+  "prova": {
+    "banca": "CEBRASPE", "orgao": "PRF", "orgao_nome": "Polícia Rodoviária Federal", "esfera": "federal",
+    "cargo": "Policial Rodoviário Federal", "ano": 2021, "escolaridade": "superior",
+    "url_prova": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/578_PRF_001_01.PDF",
+    "url_gabarito": "https://cdn.cebraspe.org.br/concursos/PRF_21/arquivos/GAB_DEFINITIVO_578_PRF_001_01.PDF"
+  },
+  "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal",
+  "excluir": [43, 44, 72],
+  "desatualizadas": [63, 80],
+  "classificacao": [
+    {"itens": [9, 21], "disciplina": "Língua Portuguesa", "assunto": "Interpretação de texto"},
+    {"itens": [22, 26], "disciplina": "Língua Portuguesa", "assunto": "Redação oficial"},
+    {"itens": [27, 30], "disciplina": "Matemática", "assunto": "Proporcionalidade e funções"},
+    {"itens": [31, 32], "disciplina": "Matemática", "assunto": "Sequências numéricas"},
+    {"itens": [33, 35], "disciplina": "Informática", "assunto": "Redes e internet"},
+    {"itens": [36, 36], "disciplina": "Informática", "assunto": "Transformação digital"},
+    {"itens": [37, 37], "disciplina": "Informática", "assunto": "Segurança da informação > Códigos maliciosos"},
+    {"itens": [38, 38], "disciplina": "Informática", "assunto": "Computação em nuvem"},
+    {"itens": [39, 39], "disciplina": "Informática", "assunto": "Segurança da informação"},
+    {"itens": [40, 42], "disciplina": "Física", "assunto": "Cinemática e dinâmica"},
+    {"itens": [45, 50], "disciplina": "Ética no Serviço Público", "assunto": "Ética e servidores públicos federais"},
+    {"itens": [51, 53], "disciplina": "Geopolítica Brasileira", "assunto": "Transportes no Brasil"},
+    {"itens": [54, 55], "disciplina": "Geopolítica Brasileira", "assunto": "Rede urbana e metrópoles"},
+    {"itens": [56, 60], "disciplina": "Legislação de Trânsito", "assunto": "Código de Trânsito Brasileiro"},
+    {"itens": [61, 70], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN"},
+    {"itens": [71, 73], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN > Registrador de velocidade e tempo"},
+    {"itens": [74, 76], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN > Pesos e dimensões"},
+    {"itens": [77, 79], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN > Tempo de direção e descanso"},
+    {"itens": [80, 82], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN"},
+    {"itens": [83, 85], "disciplina": "Legislação de Trânsito", "assunto": "Resoluções do CONTRAN > Transporte de cargas"},
+    {"itens": [86, 86], "disciplina": "Direito Administrativo", "assunto": "Controle da administração pública"},
+    {"itens": [87, 87], "disciplina": "Direito Administrativo", "assunto": "Organização administrativa"},
+    {"itens": [88, 88], "disciplina": "Direito Administrativo", "assunto": "Licitações e contratos (Lei 14.133/2021)"},
+    {"itens": [89, 89], "disciplina": "Direito Administrativo", "assunto": "Poderes administrativos"},
+    {"itens": [90, 90], "disciplina": "Direito Administrativo", "assunto": "Controle da administração pública"},
+    {"itens": [91, 92], "disciplina": "Legislação Específica", "assunto": "Carreira de policial rodoviário federal"},
+    {"itens": [93, 97], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais"},
+    {"itens": [98, 99], "disciplina": "Direito Constitucional", "assunto": "Defesa do Estado e das instituições democráticas"},
+    {"itens": [100, 104], "disciplina": "Direito Penal", "assunto": "Crimes em espécie"},
+    {"itens": [105, 109], "disciplina": "Direito Processual Penal", "assunto": "Prisão, busca e prova"},
+    {"itens": [110, 115], "disciplina": "Legislação Penal Especial", "assunto": "Legislação penal especial"},
+    {"itens": [116, 120], "disciplina": "Direitos Humanos", "assunto": "Direitos humanos na Constituição Federal"}
+  ],
+  "bases": [
+    {"itens": [27, 30], "texto_base": "Foi modelado que o espalhamento de uma notícia em uma população — entendido como o percentual de indivíduos dessa população que recebe essa notícia por unidade de tempo — é diretamente proporcional ao percentual de indivíduos da população que já conhecem a notícia multiplicado pelo percentual de indivíduos dessa população que ainda não a conhecem até aquele instante. A constante k de proporcionalidade depende, entre outros fatores, do impacto da notícia na vida dos envolvidos e de propriedades dos meios de comunicação disponíveis.\n\nTendo como base essas informações e considerando que, para certa notícia, k = 1, julgue os itens seguintes."}
+  ],
+  "corrigir": {
+    "26": {"enunciado": "O assunto das comunicações oficiais deve apresentar de forma geral o que será tratado no documento e seu formato deve seguir as orientações do MRPR, conforme o exemplo a seguir.\n\nAssunto: Realização de concurso público."},
+    "35": {"enunciado": "Caso sejam digitados os termos descritos a seguir na ferramenta de busca do Google, serão pesquisadas publicações que contenham os termos “PRF” e “campanha” na rede social Twitter.\n\ncampanha PRF @twitter"}
+  }
+}

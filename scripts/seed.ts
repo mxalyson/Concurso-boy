@@ -1,5 +1,7 @@
 // Carrega o conteúdo de exemplo: questões autorais comentadas e resumos teóricos.
 // Uso: npm run db:seed   (pode ser executado várias vezes; não duplica conteúdo)
+import fs from "node:fs";
+import path from "node:path";
 import { db } from "../src/lib/db";
 import { importarLote } from "../src/lib/importacao";
 import { obterOuCriarAssunto, obterOuCriarDisciplina } from "../src/lib/taxonomia";
@@ -37,6 +39,16 @@ for (const nivel of ["medio", "superior"] as const) {
   const r = importarLote(lote);
   console.log(`Questões (${nivel}): ${r.inseridas} inseridas, ${r.duplicadas} já existiam, ${r.erros.length} erros`);
   for (const e of r.erros) console.error(`  #${e.indice}: ${e.mensagem}`);
+}
+
+// Provas reais (Cebraspe, FGV...) já revisadas, em data/provas/*.json
+const pastaProvas = path.resolve("data/provas");
+if (fs.existsSync(pastaProvas)) {
+  for (const arquivo of fs.readdirSync(pastaProvas).filter((a) => a.endsWith(".json")).sort()) {
+    const r = importarLote(JSON.parse(fs.readFileSync(path.join(pastaProvas, arquivo), "utf8")));
+    console.log(`${arquivo}: ${r.inseridas} inseridas, ${r.duplicadas} já existiam, ${r.erros.length} erros`);
+    for (const e of r.erros.slice(0, 10)) console.error(`  #${e.indice}: ${e.mensagem}`);
+  }
 }
 
 let novos = 0;
