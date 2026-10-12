@@ -3,17 +3,19 @@
   "banca": "FGV",
   "banca_nome": "FGV",
   "orgao": "TJ RS",
+  "orgao_nome": "Tribunal de Justiça do Rio Grande do Sul",
   "cargo": "Técnico do Poder Judiciário – Área: Administrativo-Judiciária",
   "ano": "2025",
   "uf": "RS",
   "esfera": "estadual",
-  "escolaridade": "medio"
+  "escolaridade": "medio",
+  "area": "Tribunais"
  },
  "questoes": [
   {
    "numero": "1",
-   "disciplina": "Análise das estruturas linguísticas do texto",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Análise das estruturas linguísticas do texto > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nNo livro Os Sertões, Euclides da Cunha, numa comparação entre o sertanejo e o gaúcho, traça o seguinte texto:\n\nAs suas vestes são um traje de festa, ante a vestimenta rústica do vaqueiro. As amplas bombachas, adrede talhadas para a movimentação fácil sobre os baguais, no galope fechado ou no corcovear raivoso, não se estragam em espinhos dilaceradores de caatingas. O seu poncho vistoso jamais fica perdido, embaraçado nos esgalhos das árvores garranchentas. E, rompendo pelas coxilhas, arrebatadamente na marcha do redomão desinsofrido, calçando as largas botas russilhonas, em que retinem as rosetas das esporas de prata; lenço de seda encarnado, ao pescoço; coberto pelo sombreiro de enormes abas flexíveis, e tendo à cinta, rebrilhando, presas pela guaiaca, a pistola e a faca - é um vitorioso jovial e forte. O cavalo, sócio inseparável desta existência algo romanesca, é quase objeto de luxo. Demonstra-o o arreamento complicado e espetaculoso. O gaúcho andrajoso sobre um \"pingo\" bem aperado está decente, está corretíssimo.\n\nCUNHA, Euclides da. Os Sertões. São Paulo: Três, 1984 (Biblioteca do Estudante).",
    "enunciado": "Com base no trecho, assinale a opção que apresenta uma afirmativa correta sobre sua estruturação ou significação.",
@@ -46,8 +48,8 @@
   },
   {
    "numero": "2",
-   "disciplina": "Adjetivos",
-   "assunto": "Classes de palavras (classes gramaticais)",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Adjetivos > Classes de palavras (classes gramaticais)",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nNo livro Os Sertões, Euclides da Cunha, numa comparação entre o sertanejo e o gaúcho, traça o seguinte texto:\n\nAs suas vestes são um traje de festa, ante a vestimenta rústica do vaqueiro. As amplas bombachas, adrede talhadas para a movimentação fácil sobre os baguais, no galope fechado ou no corcovear raivoso, não se estragam em espinhos dilaceradores de caatingas. O seu poncho vistoso jamais fica perdido, embaraçado nos esgalhos das árvores garranchentas. E, rompendo pelas coxilhas, arrebatadamente na marcha do redomão desinsofrido, calçando as largas botas russilhonas, em que retinem as rosetas das esporas de prata; lenço de seda encarnado, ao pescoço; coberto pelo sombreiro de enormes abas flexíveis, e tendo à cinta, rebrilhando, presas pela guaiaca, a pistola e a faca - é um vitorioso jovial e forte. O cavalo, sócio inseparável desta existência algo romanesca, é quase objeto de luxo. Demonstra-o o arreamento complicado e espetaculoso. O gaúcho andrajoso sobre um \"pingo\" bem aperado está decente, está corretíssimo.\n\nCUNHA, Euclides da. Os Sertões. São Paulo: Três, 1984 (Biblioteca do Estudante).",
    "enunciado": "Nesse mesmo segmento textual de Euclides da Cunha, o trecho, que mostra maior quantidade da classe gramatical dos adjetivos, é",
@@ -181,8 +183,8 @@
   },
   {
    "numero": "6",
-   "disciplina": "Ordem dos termos da oração",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ordem dos termos da oração > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Cada opção apresenta uma frase formada a partir de um conjunto de termos sintáticos.\n\nAssinale a opção em que esses termos estão organizados na ordem direta.",
    "alternativas": [
@@ -214,8 +216,8 @@
   },
   {
    "numero": "7",
-   "disciplina": "Reorganização e reescrita de orações e períodos",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Reorganização e reescrita de orações e períodos > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Todas as frases a seguir mostram palavras repetidas, que foram reescritas de forma a eliminar a repetição.\n\nA frase em que a estratégia utilizada na reescritura foi a omissão do termo repetido, é:",
    "alternativas": [
@@ -280,8 +282,8 @@
   },
   {
    "numero": "9",
-   "disciplina": "Equivalência e substituição de palavras, locuções, expressões e trechos.",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Equivalência e substituição de palavras, locuções, expressões e trechos. > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Uma das marcas da língua escrita é a possibilidade de múltiplas construções com o mesmo significado. Nas frases a seguir, a locução sublinhada foi substituída por um só vocábulo.\n\nAssinale a opção em que essa substituição foi feita de forma adequada.",
    "alternativas": [
@@ -478,8 +480,8 @@
   },
   {
    "numero": "15",
-   "disciplina": "Parônimos",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Parônimos > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Os parônimos trazem problemas a quem escreve, pois são palavras de grafia semelhante, mas de significados distintos. É o caso de “cerca de”, “acerca de” e “há cerca de”. O uso adequado desses termos ocorre quando cada um deles é empregado de acordo com o seu sentido próprio.\n\nA esse respeito, leia as frases a seguir, extraídas do livro Os Sertões, de Euclides da Cunha, e assinale a opção em que um desses parônimos foi usado corretamente.",
    "alternativas": [
@@ -511,8 +513,8 @@
   },
   {
    "numero": "16",
-   "disciplina": "Sentidos do texto",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Leia as frases a seguir, retiradas do romance O Cortiço, de Aluísio Azevedo, e assinale a que apresenta a troca indevida entre os verbos “costumar” e “acostumar”.",
    "alternativas": [
@@ -577,8 +579,8 @@
   },
   {
    "numero": "18",
-   "disciplina": "Mudança de posição/ordem (deslocamento)",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Mudança de posição/ordem (deslocamento) > Língua Portuguesa",
    "tipo": "multipla",
    "enunciado": "Leia o primeiro parágrafo do romance Memórias de um Sargento de Milícias, do escritor Manoel Antônio de Almeida.\n\nEra no tempo do rei. Uma das quatro esquinas que formam as ruas do Ouvidor e da Quitanda, cortando-se mutuamente, chamava-se nesse tempo o canto dos meirinhos; e bem lhe assentava o nome, porque era aí o lugar de encontro favorito de todos os indivíduos dessa classe (que gozava então de não pequena consideração).\n\nNesse segmento inicial da obra, há uma série de palavras que podem mudar de posição sem alteração de sentido.\n\nA opção em que a mudança realizada ocorre por necessidade de clareza, já que o termo deslocado está originalmente mal colocado, é",
    "alternativas": [
@@ -610,8 +612,8 @@
   },
   {
    "numero": "19",
-   "disciplina": "Emprego dos tempos verbais",
-   "assunto": "Interpretação de Texto",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos tempos verbais > Interpretação de Texto",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "No texto, o autor apresenta uma situação em que o narrador, entrevistado por uma jovem repórter, reflete com humor sobre o processo de criação da crônica. No início, os verbos aparecem no passado, e, em seguida, passam a ser empregados no presente.\n\nEssa alternância verbal ocorre porque",
@@ -780,8 +782,8 @@
   },
   {
    "numero": "24",
-   "disciplina": "Análise sintática",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Análise sintática > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "Assinale a opção em que a palavra destacada exerce a mesma função sintática que o termo em destaque no trecho “e me perguntou como nascia uma crônica”.",
@@ -814,8 +816,8 @@
   },
   {
    "numero": "25",
-   "disciplina": "Pontuação",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pontuação > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "Leia o trecho a seguir.\n\n“E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto”.\n\nAssinale a afirmativa correta sobre o trecho sublinhado",
@@ -848,8 +850,8 @@
   },
   {
    "numero": "26",
-   "disciplina": "Flexões verbais",
-   "assunto": "Verbos",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Flexões verbais > Verbos",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "Assinale a opção correta sobre as marcas de flexão presentes na palavra sublinhada em “Você espreme o cérebro e não pinga nada”.",
@@ -882,8 +884,8 @@
   },
   {
    "numero": "27",
-   "disciplina": "Acentuação gráfica",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Acentuação gráfica > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "Assinale a opção que apresenta a justificativa correta para a ausência de acento gráfico na palavra “ideias”.",
@@ -916,8 +918,8 @@
   },
   {
    "numero": "28",
-   "disciplina": "Interpretação de Texto",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
    "enunciado": "Assinale a afirmativa correta sobre a interpretação do texto “Nasce uma crônica”.",
@@ -1847,8 +1849,8 @@
   },
   {
    "numero": "56",
-   "disciplina": "Regimento Interno",
-   "assunto": "Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Regimento Interno > Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS",
    "tipo": "multipla",
    "enunciado": "Nos termos do Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul, o Órgão Especial, funcionando no exercício delegado das atribuições administrativas e jurisdicionais da competência originária do Tribunal Pleno, é constituído por vinte e cinco Desembargadores, provendo-se doze vagas pelo critério de antiguidade no Tribunal de Justiça e a outra metade por eleição pelo Tribunal Pleno.\n\nDe acordo com a narrativa e considerando as disposições do Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul, analise as afirmativas a seguir.\n\nI. O Presidente do Tribunal será excluído do cálculo das metades do Órgão Especial e presidirá as suas sessões, sendo substituído, nos seus impedimentos, pelo Desembargador por ele indicado.\n\nII. Compete ao Órgão Especial, além das atribuições previstas em lei e no Regimento Interno do Tribunal, deliberar sobre as propostas orçamentárias do Poder Judiciário.\n\nIII. Para fins de ordenação dos trabalhos administrativos e jurisdicionais do Órgão Especial, será observado o critério do merecimento.\n\nEstá correto o que se afirma em",
    "alternativas": [
@@ -1913,8 +1915,8 @@
   },
   {
    "numero": "58",
-   "disciplina": "Capítulo III - Das Penas",
-   "assunto": "Direito Administrativo",
+   "disciplina": "Direito Penal",
+   "assunto": "Capítulo III - Das Penas > Direito Administrativo",
    "tipo": "multipla",
    "enunciado": "Caio, agente público no Estado Alfa, agindo dolosamente, permitiu que veículos pertencentes ao Poder Público fossem empregados em obras e serviços particulares, gerando lesividade relevante ao bem jurídico tutelado.\n\nNesse cenário, considerando as disposições da Lei nº 8.429/1992, em caso de condenação pela prática de ato doloso de improbidade administrativa, poderá ser aplicada, a Caio, a sanção de",
    "alternativas": [
@@ -1979,8 +1981,8 @@
   },
   {
    "numero": "60",
-   "disciplina": "Do Processo Licitatório",
-   "assunto": "Direito Administrativo",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Do Processo Licitatório > Direito Administrativo",
    "tipo": "multipla",
    "enunciado": "A sociedade empresária Gama, interessada em participar de procedimentos licitatórios realizados pelo Estado do Rio Grande do Sul, resolveu, por meio dos seus sócios, consultar a legislação de regência, para conhecer o regramento aplicável à matéria.\n\nConsiderando as disposições da Lei nº 14.133/2021, avalie as afirmativas a seguir a respeito do caso citado e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) As licitações serão realizadas preferencialmente sob a forma presencial, admitida a utilização da modalidade eletrônica, desde que motivada.\n\n( ) Nos procedimentos realizados por meio eletrônico, a Administração poderá determinar, como condição de validade e eficácia, que os licitantes pratiquem seus atos em formato eletrônico.\n\n( ) Na licitação sob a forma presencial, a sessão pública de apresentação de propostas poderá, a critério da Administração Pública, ser gravada em áudio e vídeo, hipótese em que a gravação será juntada aos autos do processo licitatório depois de seu encerramento.\n\nAs afirmativas são, respectivamente,",
    "alternativas": [
@@ -2078,8 +2080,8 @@
   },
   {
    "numero": "63",
-   "disciplina": "Do Supremo Tribunal Federal (artigos 101 a 103 da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Do Supremo Tribunal Federal (artigos 101 a 103 da CF) > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "O Ministério Público e a Polícia Civil do Estado Gama, em atuação conjunta, descobriram a existência de complexa articulação para desviar recursos públicos do Tribunal de Contas do referido ente federativo, com a participação ativa de diversos agentes públicos e, também, de João, chefe de determinada missão diplomática de caráter permanente. Registre-se que as investigações demonstraram que os fatos têm relação com o cargo ocupado por João, que se valia da sua função para atrair sociedades empresárias internacionais para as práticas criminosas.\n\nNesse cenário, considerando as disposições da Constituição Federal, João, que ainda é chefe de missão diplomática em caráter permanente, será processado e julgado perante o",
    "alternativas": [
@@ -2177,8 +2179,8 @@
   },
   {
    "numero": "66",
-   "disciplina": "Estados ou Dos Estados (artigos 25 a 28 da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Estados ou Dos Estados (artigos 25 a 28 da CF) > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "Nos termos da Constituição Federal, os Estados organizam-se e regem-se pelas constituições e leis que adotarem, observados os princípios do texto constitucional. Ademais, estabeleceu-se que o número de Deputados da Assembleia Legislativa corresponderá, como regra, ao triplo da representação do Estado na Câmara dos Deputados.\n\nA esse respeito, considerando as disposições da Constituição Federal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) O mandato dos Deputados Estaduais será de quatro anos, sendo-lhes aplicáveis as regras previstas na Constituição Federal relativas ao sistema eleitoral, à inviolabilidade, às imunidades, à remuneração, à perda de mandato, à licença, aos impedimentos e à incorporação às Forças Armadas.\n\n( ) Caberá às Assembleias Legislativas organizar o seu regimento interno, a polícia e os serviços administrativos de sua secretaria, bem como prover os cargos respectivos.\n\n( ) Lei complementar estadual disporá sobre a iniciativa popular no processo legislativo estadual.\n\nAs afirmativas são, respectivamente,",
    "alternativas": [
@@ -2210,8 +2212,8 @@
   },
   {
    "numero": "67",
-   "disciplina": "Ministério Público (artigos 127 a 130-A da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Ministério Público (artigos 127 a 130-A da CF) > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "No contexto de uma maior interlocução entre as carreiras públicas, José, membro do Ministério Público do Estado Alfa, foi convidado a ministrar palestra aos novos servidores públicos do Tribunal de Justiça do referido ente federativo. Com efeito, o membro do Parquet abordou as vedações a que estão sujeitos os Promotores de Justiça.\n\nNesse cenário, considerando as disposições da Constituição Federal, os membros do Ministério Público estão sujeitos às seguintes vedações, à exceção de uma. Assinale-a.",
    "alternativas": [
@@ -2276,8 +2278,8 @@
   },
   {
    "numero": "69",
-   "disciplina": "Suítes ou Pacotes de Escritório",
-   "assunto": "Informática",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório > Informática",
    "tipo": "multipla",
    "enunciado": "O Power Automate da Microsoft é uma ferramenta que permite automatizar tarefas e processos de trabalho.\n\nA seguir, indique a opção que apresenta os tipos de fluxo que os profissionais do TJ-RS podem criar, utilizando essa ferramenta.",
    "alternativas": [
@@ -2309,8 +2311,8 @@
   },
   {
    "numero": "70",
-   "disciplina": "Segurança da Informação",
-   "assunto": "Informática",
+   "disciplina": "Informática",
+   "assunto": "Segurança da Informação > Informática",
    "tipo": "multipla",
    "enunciado": "A equipe de respostas a incidentes de segurança do TJ-RS detectou que um desktop com sistema operacional Windows 11 foi alvo de um ciberataque. Um invasor enviou códigos prejudiciais por e-mail a um estagiário, que, ao executá-los, instalou um cavalo de Tróia no desktop. Esse código malicioso alterou o arquivo de hosts do desktop, redirecionando o tráfego do usuário para um site falso: sempre que o estagiário digitava um endereço correto, como www.google.com, o arquivo de hosts corrompido o direcionava a um site fraudulento.\n\nCom base nessas informações, assinale a opção que indica a classificação correta do ataque detectado.",
    "alternativas": [
@@ -2381,8 +2383,8 @@
   },
   {
    "numero": "72",
-   "disciplina": "Windows",
-   "assunto": "Informática",
+   "disciplina": "Informática",
+   "assunto": "Windows > Informática",
    "tipo": "multipla",
    "enunciado": "O Windows 11, a partir da versão 24H2, passou a oferecer o recurso Sudo, que permite aos usuários executarem comandos do perfil de administrador diretamente em uma sessão de console.\n\nCom base nas informações sobre o recurso Sudo no Windows 11, analise as afirmativas a seguir.\n\nI. Sudo só pode ser elevado por meio do recurso de segurança Controle de Conta de Usuário projetado para proteger o sistema operacional contra alterações não autorizadas usando o prompt de verificação.\n\nII. Para habilitar o Sudo, basta acionar a sequência de ações “Configurações> Sistema> Para Desenvolvedores” e habilitar a opção Sudo como ativado.\n\nIII. Sudo só suporta três opções de configuração diferentes, a saber: Em uma nova janela (forceNewWindow), Entrada fechada (disableInput) e Em segundo plano (background).\n\nEstá correto o que se afirma em",
    "alternativas": [
@@ -2609,8 +2611,8 @@
   },
   {
    "numero": "78",
-   "disciplina": "Telefonia Móvel (3G; 4G/LTE; 4,5G/LTE-Advanced-Pro; 5G)",
-   "assunto": "Redes de Computadores",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Telefonia Móvel (3G; 4G/LTE; 4,5G/LTE-Advanced-Pro; 5G) > Redes de Computadores",
    "tipo": "multipla",
    "enunciado": "O 5G é um dos padrões tecnológicos mais recentes para serviços móveis. Com características como altas taxas de transmissão de dados e baixa latência, o 5G possibilita uma ampla gama de aplicações, inclusive no âmbito dos Tribunais de Justiça.\n\nConsiderando a operação multibanda do 5G e suas vantagens em relação ao 4G, analise as afirmativas a seguir.\n\nI. A tecnologia sem fio 5G é dividida em quatro tipos de banda (baixa, média, alta e ultra-alta), em função do espectro de frequências de rádio que eles suportam. Na banda de ultra-alta frequência, as velocidades de pico do 5G podem atingir até 10 vezes as do 4G.\n\nII. A banda baixa do 5G opera abaixo de 1 GHz, próxima às frequências usadas pelo 4G. A banda média usa frequências na faixa de 1 a 2,6 GHz e de 3,5 a 6 GHz. A latência do 5G pode ser de quatro a cinco vezes menor que a do 4G, em parte devido ao aperfeiçoamento da tecnologia de rádio 5G.\n\nIII. A banda alta utiliza frequências na faixa de 8 a 15 GHz, enquanto a banda ultra-alta opera entre 20 e 25 GHz. O 5G pode suportar até 1.000 vezes mais dispositivos e endpoints do que o 4G.\n\nEstá correto o que se afirma em",
    "alternativas": [
@@ -2675,8 +2677,8 @@
   },
   {
    "numero": "80",
-   "disciplina": "Hardware",
-   "assunto": "Conceitos básicos em Informática",
+   "disciplina": "Informática",
+   "assunto": "Hardware > Conceitos básicos em Informática",
    "tipo": "multipla",
    "enunciado": "Os codecs permitem aos usuários que reproduzam diferentes formatos de arquivos de áudio e vídeo. O Media Player do Windows suporta uma grande variedade de codecs.\n\nCom base nisso, selecione a opção que apresenta, respectivamente, um codec de áudio e um codec de vídeo.",
    "alternativas": [

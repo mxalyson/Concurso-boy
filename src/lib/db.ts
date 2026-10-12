@@ -23,7 +23,9 @@ function migrar(conexao: Database.Database) {
   const versao = conexao.pragma("user_version", { simple: true }) as number;
   for (let i = versao; i < MIGRACOES.length; i++) {
     conexao.transaction(() => {
-      conexao.exec(MIGRACOES[i]);
+      const m = MIGRACOES[i];
+      if (typeof m === "string") conexao.exec(m);
+      else m(conexao);
       conexao.pragma(`user_version = ${i + 1}`);
     })();
   }

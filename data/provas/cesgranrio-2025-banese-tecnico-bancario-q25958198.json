@@ -3,11 +3,13 @@
   "banca": "CESGRANRIO",
   "banca_nome": "CESGRANRIO",
   "orgao": "BANESE",
+  "orgao_nome": "Banco do Estado de Sergipe",
   "cargo": "Técnico Bancário",
   "ano": "2025",
   "uf": "SE",
   "esfera": "estadual",
-  "escolaridade": "medio"
+  "escolaridade": "medio",
+  "area": "Bancária"
  },
  "questoes": [
   {
@@ -148,8 +150,8 @@
   },
   {
    "numero": "5",
-   "disciplina": "Conjunções subordinativas condicionais",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Conjunções subordinativas condicionais > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
    "enunciado": "No trecho “Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.” (parágrafo 1), a relação lógica que se estabelece entre as ideias por meio da expressão destacada é de",
@@ -182,8 +184,8 @@
   },
   {
    "numero": "6",
-   "disciplina": "Concordância verbal",
-   "assunto": "Norma culta ou norma padrão",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Concordância verbal > Norma culta ou norma padrão",
    "tipo": "multipla",
    "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
    "enunciado": "A frase em que a concordância do verbo em destaque está empregada de acordo com a norma-padrão da Língua Portuguesa é:",
@@ -352,8 +354,8 @@
   },
   {
    "numero": "11",
-   "disciplina": "Funções",
-   "assunto": "Matemática",
+   "disciplina": "Matemática",
+   "assunto": "Funções > Matemática",
    "tipo": "multipla",
    "enunciado": "Sejam f : mathbbRarrowmathbbR_+^* e g : mathbbR_+^*arrowmathbbR as funções algebricamente definidas por f(x)=3^(2x) e g(x)=log₉(x).\n\nPara todo x > 0, tem-se que f(g(x)) é igual a",
    "alternativas": [
@@ -424,8 +426,8 @@
   },
   {
    "numero": "13",
-   "disciplina": "Sequência, progressão aritmética e geométrica",
-   "assunto": "Matemática",
+   "disciplina": "Matemática",
+   "assunto": "Sequência, progressão aritmética e geométrica > Matemática",
    "tipo": "multipla",
    "enunciado": "Uma sequência numérica é tal que seus termos a₁= a₂ = 1 e a_(n+2) = a_(n+1) -a_(n), para todo n ≥ 1.\n\nO termo a₃₅ dessa sequência é igual a",
    "alternativas": [
@@ -523,8 +525,8 @@
   },
   {
    "numero": "16",
-   "disciplina": "Regra de Três",
-   "assunto": "Conversão de Medidas",
+   "disciplina": "Matemática",
+   "assunto": "Regra de Três > Conversão de Medidas",
    "tipo": "multipla",
    "enunciado": "Um laboratório farmacêutico precisa transferir 240 litros de vacina para ampolas de 15 cm³ de capacidade cada, enchendo-as completamente.\n\nConsiderando-se essas informações, quantas ampolas serão utilizadas para essa transferência?\n\nDado\n\n1 dm³ corresponde a 1 litro",
    "alternativas": [
@@ -622,8 +624,8 @@
   },
   {
    "numero": "19",
-   "disciplina": "Condicional \"se....então\"",
-   "assunto": "Raciocínio Lógico",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Condicional \"se....então\" > Raciocínio Lógico",
    "tipo": "multipla",
    "enunciado": "Se você não canta, então eu choro. Se você canta, então eu não danço. Ora, eu danço.\n\nLogo,",
    "alternativas": [
@@ -886,8 +888,8 @@
   },
   {
    "numero": "27",
-   "disciplina": "Redes Sociais e Grupos de discussão",
-   "assunto": "Informática",
+   "disciplina": "Informática",
+   "assunto": "Redes Sociais e Grupos de discussão > Informática",
    "tipo": "multipla",
    "enunciado": "No gerenciamento da comunicação de uma agência bancária, a equipe técnica foi designada para melhorar o atendimento ao cliente e agilizar a troca de informações importantes. É uma situação comum um cliente precisar de informações urgentes sobre uma transação suspeita em sua conta, fora do horário comercial, e, para garantir um suporte eficiente, a equipe deve escolher a ferramenta mais adequada.\n\nUma prática eficiente e alinhada ao uso profissional de redes sociais no contexto bancário é",
    "alternativas": [
@@ -919,8 +921,8 @@
   },
   {
    "numero": "28",
-   "disciplina": "Windows",
-   "assunto": "Sistemas Operacionais",
+   "disciplina": "Informática",
+   "assunto": "Windows > Sistemas Operacionais",
    "tipo": "multipla",
    "enunciado": "Um técnico bancário precisa garantir a segurança e a eficiência no uso de computadores com o sistema operacional Windows 11 em uma agência bancária. Durante a instalação e a configuração do sistema operacional, ele é solicitado a habilitar funcionalidades que aumentem a segurança, sem comprometer o desempenho da máquina, considerando-se que ela realiza grande número de operações bancárias diárias.\n\nPara atingir esse objetivo, na instalação do Windows 11 nesses computadores, o técnico deve configurá-lo de forma a",
    "alternativas": [
@@ -952,8 +954,8 @@
   },
   {
    "numero": "29",
-   "disciplina": "Redes de Computadores",
-   "assunto": "LAN (Local Area Network)",
+   "disciplina": "Tecnologia da Informação",
+   "assunto": "Redes de Computadores > LAN (Local Area Network)",
    "tipo": "multipla",
    "enunciado": "A equipe de suporte técnico de um banco precisa garantir que a comunicação entre as suas agências seja segura e eficiente. Para isso, a equipe está configurando a rede local (LAN) e a conexão com a rede corporativa (intranet) para acesso a serviços internos.\n\nDurante essa configuração, a(s) seguinte(s) prática(s) é(são) adequada(s) para garantir a segurança e o desempenho na comunicação da rede:",
    "alternativas": [
@@ -985,8 +987,8 @@
   },
   {
    "numero": "30",
-   "disciplina": "Videoconferência",
-   "assunto": "Internet",
+   "disciplina": "Informática",
+   "assunto": "Videoconferência > Internet",
    "tipo": "multipla",
    "enunciado": "Durante uma reunião on-line importante com a diretoria de um banco, realizada no Microsoft Teams, a equipe de suporte percebe que um dos participantes está com dificuldades para compartilhar um arquivo na tela, o que está atrasando a apresentação dos resultados trimestrais.\n\nPara resolver o problema, de forma rápida e segura, e manter o fluxo da reunião, a equipe de suporte deve",
    "alternativas": [
@@ -1183,8 +1185,8 @@
   },
   {
    "numero": "36",
-   "disciplina": "Mercado de Crédito",
-   "assunto": "Riscos da Atividade Bancária",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Mercado de Crédito > Riscos da Atividade Bancária",
    "tipo": "multipla",
    "enunciado": "Dentre as diversas modalidades de crédito existentes no Brasil, figura o empréstimo pessoal consignado.\n\nNessa modalidade de empréstimo, as taxas de juros cobradas pelos bancos comerciais são mais baixas do que o crédito pessoal comum, porque o empréstimo pessoal consignado",
    "alternativas": [
@@ -1216,8 +1218,8 @@
   },
   {
    "numero": "37",
-   "disciplina": "Câmbio Fixo",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Câmbio Fixo > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "A escolha do regime cambial mais apropriado para um país depende dos objetivos econômicos almejados pelas autoridades governamentais.\n\nO regime em que o Banco Central define a taxa de câmbio e procura mantê-la constante ao longo do tempo é denominado",
    "alternativas": [
@@ -1315,8 +1317,8 @@
   },
   {
    "numero": "40",
-   "disciplina": "Mercado de Crédito",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Mercado de Crédito > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "As instituições financeiras desempenham papéis distintos em diferentes segmentos do mercado financeiro, como o mercado de crédito, o mercado de capitais e o mercado de câmbio.\n\nNo mercado de crédito, as instituições financeiras",
    "alternativas": [
@@ -1447,8 +1449,8 @@
   },
   {
    "numero": "44",
-   "disciplina": "Relação Câmbio x Balança Comercial (exportações e importações)",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Relação Câmbio x Balança Comercial (exportações e importações) > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Em sua Carta de Conjuntura n. 65, do 4⁠º trimestre de 2024, o Ipea descreveu\n\nEntre dezembro de 2023 e novembro de 2024, o preço do dólar em reais, tomando as médias dos meses, subiu de R$ 4,90 para R$ 5,81, em alta de 18,6%, correspondente à desvalorização de 15,7% do real. Isso, depois de cair 6,5% ao longo de 2023 (valorização de 6,9%), a partir de R$ 5,24 em dezembro de 2022.\n\nBASTOS, Estêvão Kopschitz Xavier et al. Balança comercial, acordo Mercosul-União Europeia e taxa de câmbio. Carta de Conjuntura, n. 65. Nota de Conjuntura 22, Brasília, DF: Ipea, p. 8, 4. Trim. 2024. Disponível em: https://repositorio.ipea.gov. br/bitstream/11058/16442/26/CC_n65_nota_22_setor_externo_balanca_comercial.pdf. Acesso em: 28 jan. 2025.\n\nVariações na taxa de câmbio têm impactos relevantes sobre o comércio exterior, pois uma desvalorização do Real frente ao Dólar americano, como descrito no fragmento apresentado, tudo o mais constante, tende a",
    "alternativas": [
@@ -1480,8 +1482,8 @@
   },
   {
    "numero": "45",
-   "disciplina": "Relação Câmbio x Taxa de Juros",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Relação Câmbio x Taxa de Juros > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Em 19 de setembro de 2024, a CNN Brasil noticiou\n\nApós a Superquarta, com corte de juro pelo Federal Reserve (Fed) e elevação da Selic pelo Banco Central (BC), o diferencial entre as taxas americana e brasileira voltou a subir após mais de dois anos. A última elevação havia ocorrido em agosto de 2022, quando o BC brasileiro fixou a Selic em 13,75%. A partir daquele momento, a Selic permaneceu intocada por um ano, até agosto de 2023, e então passou a cair. Já a taxa americana só subiu, saindo de 2% a 2,25% para 5,25% a 5,5%. Desta maneira, o diferencial entre as taxas só caiu.\n\nMOLITERNO, Danilo. CNN Brasil, 19 set. 2024. Disponível em: https://www.cnnbrasil.com.br/economia/macroeconomia/distancia-entre-juro-brasileiro-e-americano-sobe-pela-1a-vez-em-mais-de-2-anos/. Acesso em: 28 jan. 2025.\n\nO aumento do diferencial entre as taxas de juros nos EUA (que foi reduzida) e no Brasil (que foi aumentada), conforme descrito no fragmento de reportagem apresentado, tudo o mais constante, tende a",
    "alternativas": [
@@ -1579,8 +1581,8 @@
   },
   {
    "numero": "48",
-   "disciplina": "Arbitragem",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Arbitragem > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Nos mercados de câmbio, a estratégia de comprar e vender uma moeda simultaneamente em mercados diferentes, lucrando com a diferença de preços, é denominada",
    "alternativas": [
@@ -1612,8 +1614,8 @@
   },
   {
    "numero": "49",
-   "disciplina": "Garantias Reais",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Garantias Reais > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Nas operações de empréstimo, os bancos exigem garantias que resguardem o reembolso do crédito em caso de inadimplemento dos tomadores do empréstimo.\n\nNÃO constitui garantia real o (a)",
    "alternativas": [
@@ -1678,8 +1680,8 @@
   },
   {
    "numero": "51",
-   "disciplina": "Técnicas de atendimento e de vendas",
-   "assunto": "Atendimento ao Público",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Técnicas de atendimento e de vendas > Atendimento ao Público",
    "tipo": "multipla",
    "enunciado": "Um banco pretende estabelecer uma estratégia de valor para a precificação de seus serviços baseado na redução da incerteza.\n\nPara atingir esse objetivo, o banco deve definir",
    "alternativas": [
@@ -1711,8 +1713,8 @@
   },
   {
    "numero": "52",
-   "disciplina": "Técnicas de atendimento e de vendas",
-   "assunto": "Atendimento ao Público",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Técnicas de atendimento e de vendas > Atendimento ao Público",
    "tipo": "multipla",
    "enunciado": "O Banese identificou uma discrepância entre o desempenho de um fornecedor de serviço e as expectativas do cliente, mediante um diagrama de causa e efeito.\n\nEssa situação descreve uma",
    "alternativas": [
@@ -1777,8 +1779,8 @@
   },
   {
    "numero": "54",
-   "disciplina": "Transformação digital no Sistema Financeiro.",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Transformação digital no Sistema Financeiro. > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "O Banese, para promover atendimentos mais ágeis e dinâmicos aos seus clientes, fez um treinamento focando as desvantagens e as vantagens de oferecer um atendimento remoto.\n\nComo resultado do aprendizado, seus funcionários se conscientizaram de que o atendimento ao cliente por canais remotos pode apresentar as seguintes desvantagens:",
    "alternativas": [
@@ -1810,8 +1812,8 @@
   },
   {
    "numero": "55",
-   "disciplina": "Administração de Marketing",
-   "assunto": "Administração Geral",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Administração de Marketing > Administração Geral",
    "tipo": "multipla",
    "enunciado": "Ao abrir o Instagram do Banese, é possível identificar a seguinte mensagem:\n\nPara o Banese, 2024 foi tempo de ir além.\n\nComo banco, crescemos em números e avançamos na qualidade dos produtos e serviços que ofertamos ao povo sergipano.\n\nComo agentes do desenvolvimento regional, apoiamos iniciativas que nos aproximam da nossa gente, no turismo, no esporte, na cultura e em ações sociais que fortalecem o estado e promovem oportunidades para todos.\n\nEm 2025, a parceria tá garantida! Estaremos ao lado dos sergipanos com novos projetos, mais inovação e o compromisso de sempre. Continuaremos tocando o coração dos sergipanos e construindo juntos um futuro ainda mais próspero.\n\nEssa promoção do banco é denominada",
    "alternativas": [
@@ -1843,8 +1845,8 @@
   },
   {
    "numero": "56",
-   "disciplina": "Microcrédito Produtivo Orientado;",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Microcrédito Produtivo Orientado; > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Uma instituição bancária optou por duas práticas de finanças sustentáveis:\n\n(i) atividades de empréstimo e financiamento de quantias apropriadas em condições razoáveis (taxas de juros e prazos), garantindo que seus clientes não comprometam grande parcela de sua renda com um financiamento que, em determinado momento, possa não ser honrado — nessa prática, a organização orienta o cliente a não se expor a riscos financeiros desnecessários e inapropriados, considerando seus objetivos de curto e longo prazos;\n\n(ii) concessão de financiamentos de pequenos empreendimentos para classes de baixa renda, que não têm acesso às linhas tradicionais de crédito dos bancos, e/ou bens materiais ou vínculos empregatícios, que sirvam de garantia para pedidos de crédito — nessa prática, a verba é concedida a um grupo de indivíduos e tem como principal objetivo a criação de atividades geradoras de renda, e a garantia de pagamento do empréstimo é dada pelo próprio grupo, fazendo com que cada um se autofiscalize e ajude no desenvolvimento de suas atividades, aumentando, por consequência, a probabilidade de pagamento da dívida.\n\nEssas práticas são denominadas, respectivamente,",
    "alternativas": [
@@ -1909,8 +1911,8 @@
   },
   {
    "numero": "58",
-   "disciplina": "Negociação",
-   "assunto": "Administração Geral",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Negociação > Administração Geral",
    "tipo": "multipla",
    "enunciado": "Após analisar o ambiente de negócios, a direção do Banco Z decidiu que adotaria a estratégia competitiva genérica de liderança em custo baixo.\n\nPara colocar essa estratégia em prática, o Banco Z deverá",
    "alternativas": [
@@ -1975,8 +1977,8 @@
   },
   {
    "numero": "60",
-   "disciplina": "Segmentação de Mercado",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Segmentação de Mercado > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "A diretoria de um banco de investimentos pretende adotar uma estratégia baseada em uma segmentação comportamental em seu próximo planejamento.\n\nSendo assim, ela deverá direcionar suas ações para o seguinte público-alvo:",
    "alternativas": [
@@ -2107,8 +2109,8 @@
   },
   {
    "numero": "64",
-   "disciplina": "Mercado Financeiro",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Mercado Financeiro > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Determinado integrante dos quadros do Banese foi sorteado para realizar curso de finanças em prestigiada universidade americana com o objetivo de apreender os modernos sistemas bancários e colher os novos produtos utilizados no mercado internacional. Ao retornar ao Brasil, retoma sua carreira no banco e passa a ocupar cargo de gerência em unidade especializada em clientes de alto poder aquisitivo. Para demonstrar seu conhecimento profundo do mercado internacional, passa a utilizar jargões estrangeiros no contato diário com a vasta clientela do banco.\n\nNos termos do Normativo SARB nº 27/2023, o gerente, no contato diário com a clientela, deve",
    "alternativas": [
@@ -2206,8 +2208,8 @@
   },
   {
    "numero": "67",
-   "disciplina": "Correspondentes Bancários",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Correspondentes Bancários > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Por ser um país de proporções continentais e com muitas regiões carentes de serviços financeiros, é fundamental que pequenos comércios, como farmácias e casas lotéricas, possam atuar como intermediários na oferta de serviços bancários no Brasil.\n\nEm relação ao funcionamento dos correspondentes bancários, verifica-se que o(s)",
    "alternativas": [
@@ -2239,8 +2241,8 @@
   },
   {
    "numero": "68",
-   "disciplina": "Arranjos de Pagamentos",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Arranjos de Pagamentos > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "Uma loja de departamentos oferece aos seus usuários o sistema de cashback em seus cartões de fidelidade, que consiste em dar desconto equivalente a 1% do valor da compra atual nas compras seguintes nessa loja.\n\nEsse tipo de arranjo de pagamento é considerado",
    "alternativas": [
@@ -2272,8 +2274,8 @@
   },
   {
    "numero": "69",
-   "disciplina": "O dinheiro na era digital: blockchain, bitcoin e demais criptomoedas.",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "O dinheiro na era digital: blockchain, bitcoin e demais criptomoedas. > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "A partir de 2008, quando foi apresentado o Bitcoin, o rápido desenvolvimento de tecnologias relacionadas aos criptoativos e à tecnologia da blockchain trouxeram uma perspectiva de adoção em massa das moedas digitais.\n\nCom relação às moedas digitais, verifica-se que a(s)",
    "alternativas": [
@@ -2305,8 +2307,8 @@
   },
   {
    "numero": "70",
-   "disciplina": "Open Banking",
-   "assunto": "Conhecimentos Bancários",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Open Banking > Conhecimentos Bancários",
    "tipo": "multipla",
    "enunciado": "O projeto de Open Banking do Banco Central do Brasil (BCB) foi posteriormente renomeado de Open Finance, sinalizando para a sociedade sua maior abrangência.\n\nO projeto de Open Finance brasileiro diz respeito à(ao)",
    "alternativas": [
@@ -2536,8 +2538,8 @@
   },
   {
    "numero": "77",
-   "disciplina": "Integridade",
-   "assunto": "Tecnologia da Informação",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Integridade > Tecnologia da Informação",
    "tipo": "multipla",
    "enunciado": "A integridade é um dos pilares da segurança da informação. O controle de integridade permite determinar alteração ou destruição intencional e alteração ou perda acidental de dados, ou seja, assegura que as alterações nos dados sejam detectáveis.\n\nUm mecanismo de segurança amplamente usado para produzir o código de verificação de integridade é o(a)",
    "alternativas": [

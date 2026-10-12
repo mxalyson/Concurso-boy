@@ -13,6 +13,7 @@ import {
   Layers,
   LayoutDashboard,
   ListChecks,
+  ScrollText,
   LogOut,
   Menu,
   RotateCcw,
@@ -32,6 +33,7 @@ const GRUPOS = [
     titulo: "Questões",
     itens: [
       { href: "/questoes", rotulo: "Banco de questões", icone: ListChecks },
+      { href: "/provas", rotulo: "Provas", icone: ScrollText },
       { href: "/cadernos", rotulo: "Cadernos", icone: FileStack },
       { href: "/simulados", rotulo: "Simulados", icone: ClipboardList },
       { href: "/revisoes", rotulo: "Revisões", icone: RotateCcw },

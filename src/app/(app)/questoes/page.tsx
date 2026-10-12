@@ -32,7 +32,7 @@ export default async function PaginaQuestoes({ searchParams }: { searchParams: P
     <>
       <CabecalhoPagina
         titulo="Banco de questões"
-        descricao="Filtre por disciplina, assunto, banca, órgão e ano. Resolva, comente e acompanhe seu desempenho."
+        descricao="Filtre por disciplina, assunto, banca, prova, órgão, cargo, ano, área, dificuldade e mais. Resolva, comente e acompanhe seu desempenho."
         icone={<ListChecks className="h-5 w-5" />}
       />
       <PainelFiltros key={query.toString()} opcoes={opcoes} filtros={filtros} />

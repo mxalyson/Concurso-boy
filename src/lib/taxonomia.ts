@@ -1,3 +1,4 @@
+import { areaPorRegras } from "./areas";
 import { db } from "./db";
 import { slugify } from "./utils";
 
@@ -201,6 +202,8 @@ export function obterOuCriarProva(dados: {
   urlProva?: string | null;
   urlGabarito?: string | null;
   origem?: OrigemProva;
+  /** Área/carreira; sem ela, é deduzida do órgão e do cargo. */
+  area?: string | null;
 }): number {
   const existente = db()
     .prepare(
@@ -208,12 +211,19 @@ export function obterOuCriarProva(dados: {
          AND ifnull(cargo, '') = ? AND ifnull(ano, 0) = ?`,
     )
     .get(dados.bancaId ?? 0, dados.orgaoId ?? 0, dados.cargo ?? "", dados.ano ?? 0) as { id: number } | undefined;
-  if (existente) return existente.id;
+  if (existente) {
+    if (dados.area) db().prepare("UPDATE provas SET area = ? WHERE id = ? AND area IS NULL").run(dados.area, existente.id);
+    return existente.id;
+  }
+  const orgao = dados.orgaoId
+    ? (db().prepare("SELECT sigla, nome FROM orgaos WHERE id = ?").get(dados.orgaoId) as { sigla: string; nome: string } | undefined)
+    : undefined;
+  const area = dados.area || areaPorRegras(orgao?.sigla, orgao?.nome, dados.cargo);
   return Number(
     db()
       .prepare(
-        `INSERT INTO provas (banca_id, orgao_id, cargo, ano, escolaridade, url_prova, url_gabarito, origem)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+        `INSERT INTO provas (banca_id, orgao_id, cargo, ano, escolaridade, url_prova, url_gabarito, origem, area)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
       )
       .run(
         dados.bancaId,
@@ -224,6 +234,7 @@ export function obterOuCriarProva(dados: {
         dados.urlProva ?? null,
         dados.urlGabarito ?? null,
         dados.origem ?? "manual",
+        area,
       ).lastInsertRowid,
   );
 }

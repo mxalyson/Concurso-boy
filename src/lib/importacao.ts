@@ -31,6 +31,7 @@ const CamposProva = z.object({
   escolaridade: opcional,
   url_prova: opcional,
   url_gabarito: opcional,
+  area: opcional,
 });
 
 export const QuestaoImportacao = CamposProva.extend({
@@ -189,6 +190,7 @@ export function prepararQuestao(bruto: unknown, padrao: CamposProva & { discipli
       urlProva: q.url_prova ?? null,
       urlGabarito: q.url_gabarito ?? null,
       origem: q.origem === "automatica" ? "automatica" : "manual",
+      area: q.area ?? null,
     });
   }
   const dificuldade = q.dificuldade ? Number.parseInt(q.dificuldade, 10) : NaN;

@@ -122,6 +122,14 @@ export function consultaFts(texto: string): string | null {
   return termos.map((t) => `"${t}"*`).join(" ");
 }
 
+/**
+ * Dificuldade efetiva: a informada pela fonte ou, sem ela, a calculada pelo índice de acerto
+ * dos estudantes (com ao menos 5 respostas): ≥ 70% fácil, ≥ 40% média, abaixo difícil.
+ */
+export const DIFICULDADE_SQL = `COALESCE(q.dificuldade, (
+  SELECT CASE WHEN count(*) < 5 THEN NULL WHEN avg(r.correta) >= 0.7 THEN 1 WHEN avg(r.correta) >= 0.4 THEN 2 ELSE 3 END
+  FROM respostas r WHERE r.questao_id = q.id))`;
+
 type Clausula = { where: string[]; params: Record<string, unknown> };
 
 export function montarFiltro(f: Filtros, usuarioId: number): Clausula {
@@ -163,7 +171,17 @@ export function montarFiltro(f: Filtros, usuarioId: number): Clausula {
   if (f.orgaos.length) where.push(`p.orgao_id IN (${em(f.orgaos)})`);
   if (f.anos.length) where.push(`p.ano IN (${em(f.anos)})`);
   if (f.escolaridades.length) where.push(`p.escolaridade IN (${em(f.escolaridades)})`);
-  if (f.dificuldades.length) where.push(`q.dificuldade IN (${em(f.dificuldades)})`);
+  if (f.dificuldades.length) where.push(`${DIFICULDADE_SQL} IN (${em(f.dificuldades)})`);
+  if (f.provas?.length) where.push(`q.prova_id IN (${em(f.provas)})`);
+  if (f.areas?.length) where.push(`p.area IN (${em(f.areas)})`);
+  if (f.cargos?.length) where.push(`p.cargo IN (${em(f.cargos)})`);
+  if (f.esferas?.length) where.push(`p.orgao_id IN (SELECT id FROM orgaos WHERE esfera IN (${em(f.esferas)}))`);
+  if (f.ufs?.length) where.push(`p.orgao_id IN (SELECT id FROM orgaos WHERE uf IN (${em(f.ufs)}))`);
+  if (f.com?.includes("comentario")) where.push("q.comentario IS NOT NULL AND trim(q.comentario) <> ''");
+  if (f.com?.includes("imagem")) where.push("q.imagens <> '[]'");
+  if (f.com?.includes("texto")) where.push("q.texto_base IS NOT NULL AND trim(q.texto_base) <> ''");
+  if (f.origem === "autoral") where.push("p.banca_id IN (SELECT id FROM bancas WHERE sigla = 'AUTORAL')");
+  if (f.origem === "oficial") where.push("(p.banca_id IS NULL OR p.banca_id NOT IN (SELECT id FROM bancas WHERE sigla = 'AUTORAL'))");
   if (f.tipo) where.push(`q.tipo = ${em([f.tipo])}`);
   if (f.cargo) where.push(`p.cargo LIKE ${em([`%${f.cargo}%`])}`);
   if (!f.incluirAnuladas) where.push("q.anulada = 0");
@@ -206,6 +224,8 @@ function ordenacao(f: Filtros): string {
       return `ORDER BY (SELECT avg(r.correta) FROM respostas r WHERE r.questao_id = q.id) ASC NULLS LAST,
         q.dificuldade DESC NULLS LAST, q.id DESC`;
     default:
+      // uma prova só: na ordem do caderno de prova
+      if (f.provas?.length === 1) return "ORDER BY q.numero ASC NULLS LAST, q.id ASC";
       return "ORDER BY p.ano DESC NULLS LAST, q.id DESC";
   }
 }

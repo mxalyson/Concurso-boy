@@ -3,10 +3,12 @@
   "banca": "FCC",
   "banca_nome": "FCC",
   "orgao": "TRF 4",
+  "orgao_nome": "Tribunal Regional Federal da 4ª Região",
   "cargo": "Técnico Judiciário - Área: Administrativa",
   "ano": "2025",
   "esfera": "federal",
-  "escolaridade": "superior"
+  "escolaridade": "superior",
+  "area": "Tribunais"
  },
  "questoes": [
   {
@@ -45,8 +47,8 @@
   },
   {
    "numero": "2",
-   "disciplina": "Mecanismos de coesão textual",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Mecanismos de coesão textual > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
    "enunciado": "Do ponto de vista da coesão textual, a construção Por um lado [...] por outro (3º parágrafo) tem como função:",
@@ -79,8 +81,8 @@
   },
   {
    "numero": "3",
-   "disciplina": "A sintaxe do período composto",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "A sintaxe do período composto > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
    "enunciado": "A articulação entre os trechos O conteúdo mantinha-se preservado e Ninguém divulgava um texto de [...] (1º parágrafo), em relação ao último período do parágrafo, pode ser descrita como de",
@@ -147,8 +149,8 @@
   },
   {
    "numero": "5",
-   "disciplina": "Emprego dos modos verbais",
-   "assunto": "Emprego dos tempos verbais",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos modos verbais > Emprego dos tempos verbais",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
    "enunciado": "Na frase Mais tarde pipocavam biografias, saciando a curiosidade do público, a forma verbal pipocavam expressa",
@@ -249,8 +251,8 @@
   },
   {
    "numero": "8",
-   "disciplina": "Emprego dos tempos verbais",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos tempos verbais > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
    "enunciado": "Em relação ao emprego dos tempos verbais no poema, observa-se que o",
@@ -283,8 +285,8 @@
   },
   {
    "numero": "9",
-   "disciplina": "Figuras de linguagem",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Figuras de linguagem > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
    "enunciado": "A figura de linguagem que melhor caracteriza a construção da imagem da natureza no poema é a",
@@ -351,7 +353,7 @@
   },
   {
    "numero": "11",
-   "disciplina": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
+   "disciplina": "Legislação Federal",
    "assunto": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
    "tipo": "multipla",
    "enunciado": "Conforme preceitua a Lei nº 13.146/2015, a recusa de oferta de obra intelectual em formato acessível à pessoa com deficiência é",
@@ -384,8 +386,8 @@
   },
   {
    "numero": "12",
-   "disciplina": "Lei nº 10.098/2000 -Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências",
-   "assunto": "Legislação Federal",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 10.098/2000 -Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências > Legislação Federal",
    "tipo": "multipla",
    "enunciado": "Considere a seguinte situação hipotética: determinado município do Estado do Paraná promoverá importante evento cultural, a ser realizado em espaço público, a céu aberto, propiciando diversas apresentações de música e dança. No evento, serão instalados 20 banheiros químicos, dentre os quais deverão ser destinadas unidades acessíveis a pessoas com deficiência ou com mobilidade reduzida. Nos termos da Lei nº 10.098/2000, o número mínimo de banheiros químicos corresponderá a",
    "alternativas": [
@@ -450,8 +452,8 @@
   },
   {
    "numero": "14",
-   "disciplina": "Risco",
-   "assunto": "Tecnologia da Informação",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Risco > Tecnologia da Informação",
    "tipo": "multipla",
    "enunciado": "No exercício das atividades de desenvolvimento e supervisão de soluções de Inteligência Artificial (IA) no Poder Judiciário, a equipe de inovação precisa avaliar cuidadosamente os riscos associados ao uso de sistemas de IA generativa. Considerando os principais desafios identificados na literatura e nas normativas sobre o tema, o uso de IA generativa pode implicar riscos relacionados",
    "alternativas": [
@@ -516,8 +518,8 @@
   },
   {
    "numero": "16",
-   "disciplina": "Inteligência Artificial",
-   "assunto": "Tecnologia da Informação",
+   "disciplina": "Tecnologia da Informação",
+   "assunto": "Inteligência Artificial > Tecnologia da Informação",
    "tipo": "multipla",
    "enunciado": "Em um projeto de modernização do atendimento no Poder Judiciário, a equipe de inovação foi desafiada a criar uma solução capaz de compreender a linguagem natural dos usuários, gerar respostas contextualizadas a partir de dados disponíveis e, em alguns casos, propor redações automáticas de documentos iniciais para facilitar o acesso à Justiça. Considerando os conceitos de Inteligência Artificial (IA) aplicados ao setor público, a solução mais adequada para atender a esses requisitos corresponde ao uso de",
    "alternativas": [
@@ -1012,8 +1014,8 @@
   },
   {
    "numero": "31",
-   "disciplina": "Limitações do poder de tributar ou limitações do poder de tributar (artigos 150 a 152 da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Limitações do poder de tributar ou limitações do poder de tributar (artigos 150 a 152 da CF) > Direito Constitucional",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
    "enunciado": "Com relação à limitação do poder de tributar, é vedado à União",
@@ -1080,8 +1082,8 @@
   },
   {
    "numero": "33",
-   "disciplina": "Direitos Políticos (artigos 14 a 16 da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos Políticos (artigos 14 a 16 da CF) > Direito Constitucional",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
    "enunciado": "Nivaldo, 31 anos de idade, é Prefeito do Município \"Y\", situado no Estado \"Z\", eleito em 2024, e pretende se candidatar a Governador do Estado \"Z\" nas eleições de 2026. Nina, brasileira, analfabeta, 23 anos de idade, vendedora de pipoca, vizinha de Nivaldo, é bastante conhecida no bairro e já declarou, expressa e informalmente, que irá votar em Nivaldo para Governador do Estado e irá se candidatar a Deputada Estadual nas mesmas eleições. Considerando apenas as informações fornecidas, nessa situação, Nivaldo",
@@ -1114,8 +1116,8 @@
   },
   {
    "numero": "34",
-   "disciplina": "Responsabilidade Ambiental",
-   "assunto": "Direito ambiental",
+   "disciplina": "Direito Ambiental",
+   "assunto": "Responsabilidade Ambiental > Direito ambiental",
    "tipo": "multipla",
    "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
    "enunciado": "Com relação ao meio ambiente, considere:\n\nI.Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com a solução técnica exigida pelo órgão público competente, na forma da lei.\n\nII.As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas apenas se não houver ou se não for cumprida a obrigação de reparar os danos causados.\n\nIII.A Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são patrimônio nacional e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais.\n\nEstá correto o que se afirma em",
@@ -1214,8 +1216,8 @@
   },
   {
    "numero": "37",
-   "disciplina": "Da Alteração dos Contratos e Dos Preços",
-   "assunto": "Direito Administrativo",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Da Alteração dos Contratos e Dos Preços > Direito Administrativo",
    "tipo": "multipla",
    "enunciado": "Um TRF celebrou um contrato de prestação de serviços com a empresa VigiLegal Ltda., para prestação de serviços contínuos de vigilância e controle de portaria, com a previsão de cinco postos de trabalho a serem ocupados por equipe de profissionais dedicados continuamente à tarefa. Após 8 meses da assinatura do ajuste, o preposto da empresa encaminha ao gestor do contrato um pleito de reequilíbrio econômico-financeiro do ajuste, em razão do início da vigência de nova convenção coletiva relativa à categoria envolvida na contratação. Em vista de tal situação e tendo verificado que as disposições da convenção vinculam legalmente a Administração, o gestor deverá",
    "alternativas": [
@@ -1247,8 +1249,8 @@
   },
   {
    "numero": "38",
-   "disciplina": "Lei nº 8.429/92 - Lei de Improbidade Administrativa",
-   "assunto": "Sanções Cabíveis",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 8.429/92 - Lei de Improbidade Administrativa > Sanções Cabíveis",
    "tipo": "multipla",
    "enunciado": "No que toca à aplicação das sanções, a Lei de Improbidade Administrativa (Lei nº 8.429/1992), em sua redação vigente, estabelece que a sanção",
    "alternativas": [
@@ -1280,8 +1282,8 @@
   },
   {
    "numero": "39",
-   "disciplina": "Lei nº 11.416/2006 -Dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União; revoga as Leis nos 9.421, de 24 de dezembro de 1996, 10.475, de 27 de junho de 2002, 10.417, de 5 de abril de 2002, e 10.944, de 16 de setembro de 2004; e dá outr",
-   "assunto": "Legislação Federal",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 11.416/2006 -Dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União; revoga as Leis nos 9.421, de 24 de dezembro de 1996, 10.475, de 27 de junho de 2002, 10.417, de 5 de abril de 2002, e 10.944, de 16 de setembro de 2004; e dá outr > Legislação Federal",
    "tipo": "multipla",
    "enunciado": "A Lei nº 11.416/2006 (Lei das Carreiras dos Servidores do Poder Judiciário da União)",
    "alternativas": [
@@ -1313,8 +1315,8 @@
   },
   {
    "numero": "40",
-   "disciplina": "Requisitos para a celebração do acordo de não persecução penal",
-   "assunto": "Acordo de não persecução penal",
+   "disciplina": "Direito Processual Penal",
+   "assunto": "Requisitos para a celebração do acordo de não persecução penal > Acordo de não persecução penal",
    "tipo": "multipla",
    "enunciado": "Considere os seguintes casos hipotéticos, envolvendo pessoas primárias e sem qualquer antecedente criminal, que estão sendo investigadas em inquéritos policiais instaurados:\n\nI. Benício praticou o crime de lavagem de capitais, tipificado no art. 1º, caput, da Lei nº 9.613/1998 (Art. 1º Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal), ao qual são cominadas penas de reclusão, de 3 a 10 anos, e multa.\n\nII. Marcela praticou o delito de lesão corporal dolosa grave contra sua colega de trabalho Maria, resultando aceleração do parto, tipificado no art. 129, § 1º, IV, do Código Penal (Art. 129. Ofender a integridade corporal ou a saúde de outrem. § 1º: Se resulta: [...] IV. aceleração do parto), ao qual é cominada pena de reclusão, de 1 a 5 anos.\n\nIII. Rosália praticou o delito de contratação direta ilegal, tipificado no art. 337-E, do Código Penal (Art. 337-E. Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei), ao qual são cominadas penas de reclusão de 4 a 8 anos, e multa.\n\nIV. Paulo praticou o delito de ameaça contra sua esposa, tipificado no art. 147, caput, do Código Penal (Art. 147. Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave), com pena cominada de detenção, de 1 a 6 meses, ou multa.\n\nNos termos preconizados pelo Código de Processo Penal, após as alterações promovidas pelo Pacote Anticrime, ao término das investigações, não sendo o caso de arquivamento do inquérito policial, presentes os demais requisitos legais, o Ministério Público poderá propor o acordo de não persecução penal APENAS para",
    "alternativas": [
@@ -1346,8 +1348,8 @@
   },
   {
    "numero": "41",
-   "disciplina": "Hipóteses de Cabimento",
-   "assunto": "Apelação",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Hipóteses de Cabimento > Apelação",
    "tipo": "multipla",
    "enunciado": "O Ministério Púbico Federal ajuizou ação penal em face de Lucas, imputando-lhe a prática de determinado crime de ação pública incondicionada, perpetrado no contexto das enchentes que acometeram o Rio Grande do Sul, em relação ao qual descabe qualquer instituto de justiça penal negociada. O magistrado ao qual dirigida a ação penal, analisando a denúncia, declinou de sua competência, por entender que competiria o processamento e julgamento do feito à Justiça Comum Estadual. Neste caso, inconformado, o Ministério Público Federal poderá interpor:",
    "alternativas": [
@@ -1379,8 +1381,8 @@
   },
   {
    "numero": "42",
-   "disciplina": "Da Prisão e da Liberdade Provisória",
-   "assunto": "Da Prisão Preventiva",
+   "disciplina": "Direito Processual Penal",
+   "assunto": "Da Prisão e da Liberdade Provisória > Da Prisão Preventiva",
    "tipo": "multipla",
    "enunciado": "Considere as seguintes situações hipotéticas de pessoas que estão presas preventivamente:\n\nI. João praticou o delito de facilitação de contrabando, tipificado no art. 318 do Código Penal (Art. 318 - Facilitar, com infração de dever funcional, a prática de contrabando [...]), com penas cominadas de reclusão, de 3 a 8 anos, e multa, e é o único responsável pelos cuidados de seu filho de 13 anos.\n\nII. Maria, gestante, praticou o delito de roubo, previsto no art. 157, caput, do Código Penal (Art. 157- Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência), com penas cominadas de reclusão, de 4 a 10 anos, e multa.\n\nIII. Andrea, mãe de criança com 10 anos de idade, perpetrou o delito de interrupção do processo eleitoral, tipificado no art. 359-N, do Código Penal (Art. 359-N. Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral), ao qual são cominadas penas de reclusão, de 3 a 6 anos, e multa.\n\nIV. Carlos, com 80 anos de idade, valendo-se de inteligência artificial, perpetrou o delito de falsificação de documento público, tipificado no art. 297, caput, do Código Penal (Art. 297 - Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro), ao qual são cominadas penas de reclusão, de 2 a 6 anos, e multa.\n\nNos termos preconizados pelo Código de Processo Penal, presentes os demais requisitos legais, o Juiz poderá, em tese, substituir a prisão preventiva pela prisão domiciliar APENAS para:",
    "alternativas": [
@@ -1478,8 +1480,8 @@
   },
   {
    "numero": "45",
-   "disciplina": "Conceito de Litisconsórcio",
-   "assunto": "Direito Processual Civil - CPC 2015",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Conceito de Litisconsórcio > Direito Processual Civil - CPC 2015",
    "tipo": "multipla",
    "enunciado": "O litisconsórcio ocorre quando",
    "alternativas": [
@@ -1511,8 +1513,8 @@
   },
   {
    "numero": "46",
-   "disciplina": "Princípio da Fungibilidade",
-   "assunto": "Direito Processual Civil - CPC 2015",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Princípio da Fungibilidade > Direito Processual Civil - CPC 2015",
    "tipo": "multipla",
    "enunciado": "A fungibilidade recursal",
    "alternativas": [
@@ -1577,8 +1579,8 @@
   },
   {
    "numero": "48",
-   "disciplina": "Organização da Seguridade Social",
-   "assunto": "Direito Previdenciário",
+   "disciplina": "Direito Previdenciário",
+   "assunto": "Organização da Seguridade Social > Direito Previdenciário",
    "tipo": "multipla",
    "enunciado": "A seguridade social compreende um conjunto integrado de ações de iniciativa do Poder Público e da sociedade, destinadas a assegurar os direitos à:",
    "alternativas": [
@@ -1610,8 +1612,8 @@
   },
   {
    "numero": "49",
-   "disciplina": "Conceito",
-   "assunto": "Direito Previdenciário",
+   "disciplina": "Direito Previdenciário",
+   "assunto": "Conceito > Direito Previdenciário",
    "tipo": "multipla",
    "enunciado": "São características do Regime Geral de Previdência Social:",
    "alternativas": [

@@ -1,0 +1,2019 @@
+{
+ "prova": {
+  "banca": "IBFC",
+  "banca_nome": "IBFC",
+  "orgao": "PM PR",
+  "orgao_nome": "Polícia Militar do Paraná",
+  "cargo": "Soldado Policial Militar",
+  "ano": "2025",
+  "uf": "PR",
+  "esfera": "estadual",
+  "escolaridade": "superior",
+  "area": "Segurança Pública"
+ },
+ "questoes": [
+  {
+   "numero": "1",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Flexão verbal de número (singular, plural)",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "No primeiro parágrafo do texto, emprega-se a primeira pessoa do singular. Assinale a alternativa que explica a mudança percebida, no segundo parágrafo, na forma de enunciar.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os amigos da enunciadora são incluídos como uma espécie de voz coletiva."
+    },
+    {
+     "letra": "B",
+     "texto": "Os mais jovens e os mais velhos passam a ser sujeitos da enunciação."
+    },
+    {
+     "letra": "C",
+     "texto": "O emprego discursivo do “nós” não remete a nenhum enunciador específico."
+    },
+    {
+     "letra": "D",
+     "texto": "A enunciadora insere os leitores em geral no posicionamento que apresenta."
+    },
+    {
+     "letra": "E",
+     "texto": "A primeira pessoa do plural refere-se ao caráter atemporal da juventude."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 1"
+  },
+  {
+   "numero": "2",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Uso da Vírgula",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "Em “Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade.” (4º§), a relação entre as ideias teria seu valor explicitado, caso as vírgulas fossem seguidas de um conectivo de valor:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "conclusivo."
+    },
+    {
+     "letra": "B",
+     "texto": "alternativo."
+    },
+    {
+     "letra": "C",
+     "texto": "aditivo."
+    },
+    {
+     "letra": "D",
+     "texto": "adversativo"
+    },
+    {
+     "letra": "E",
+     "texto": "explicativo."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 2"
+  },
+  {
+   "numero": "3",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pressupostos e subentendidos",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "No último parágrafo, a autora altera a estratégia discursiva que é empregada ao longo do texto ao se referir aos jovens. Nesse parágrafo, a alteração foi explicitada por meio:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do emprego de mecanismos de interlocução."
+    },
+    {
+     "letra": "B",
+     "texto": "da oposição entre os jovens e os velhos."
+    },
+    {
+     "letra": "C",
+     "texto": "do uso de uma linguagem mais impessoal."
+    },
+    {
+     "letra": "D",
+     "texto": "da apresentação de uma abordagem mais restritiva."
+    },
+    {
+     "letra": "E",
+     "texto": "da indicação de casos pessoais como exemplificação."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 3"
+  },
+  {
+   "numero": "4",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Concordância verbal e nominal (sintaxe de concordância)",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "No período “Há os que se mantêm confiantes e interessados.” (5º§), a grafia do verbo em destaque justifica-se, sintaticamente, por concordar com o sujeito:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "explicitado pelo pronome demonstrativo."
+    },
+    {
+     "letra": "B",
+     "texto": "indeterminado subentendido na oração."
+    },
+    {
+     "letra": "C",
+     "texto": "representado pelo pronome oblíquo."
+    },
+    {
+     "letra": "D",
+     "texto": "inexistente da oração anterior."
+    },
+    {
+     "letra": "E",
+     "texto": "composto - “confiantes e interessados”."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 4"
+  },
+  {
+   "numero": "5",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Conjunções > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "O conectivo “mas”, ao ser empregado em “Espero estar enganada, mas meu senso de observação” (1º§), cumpre o papel de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "introduzir a avaliação que será privilegiada ao longo do texto."
+    },
+    {
+     "letra": "B",
+     "texto": "explicar o engano a que se refere anteriormente a enunciadora."
+    },
+    {
+     "letra": "C",
+     "texto": "sinalizar um posicionamento contrário ao sugerido pelo título."
+    },
+    {
+     "letra": "D",
+     "texto": "revelar uma percepção pessoal de um episódio restrito."
+    },
+    {
+     "letra": "E",
+     "texto": "apresentar uma informação que ratifica o engano indicado."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 5"
+  },
+  {
+   "numero": "6",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pressupostos e subentendidos",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "No último parágrafo do texto, o emprego do vocábulo “ainda”, em suas duas ocorrências, sugere que autora acredita tratar-se de comportamentos:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "populares."
+    },
+    {
+     "letra": "B",
+     "texto": "originais."
+    },
+    {
+     "letra": "C",
+     "texto": "perenes."
+    },
+    {
+     "letra": "D",
+     "texto": "criativos."
+    },
+    {
+     "letra": "E",
+     "texto": "efêmeros."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 6"
+  },
+  {
+   "numero": "7",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Linguagem Informal, popular, coloquial e vulgar",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "Considere as expressões destacadas em “e transando bem, obrigada,” (1º§) e “dá o tom da conversa, que leva ao fastio, claro” (4º§). No contexto em que estão inseridas, assinale a alternativa que apresenta como devem ser entendidas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Termos que concordam com a segunda pessoa do discurso, com o interlocutor."
+    },
+    {
+     "letra": "B",
+     "texto": "Essenciais para o entendimento efetivo das frases em que se encontram."
+    },
+    {
+     "letra": "C",
+     "texto": "Exemplos de registro formal da língua em razão da concordância adequada."
+    },
+    {
+     "letra": "D",
+     "texto": "Vocábulos que sintetizam a informação mais desenvolvida que os antecede."
+    },
+    {
+     "letra": "E",
+     "texto": "Traços de informalidade acessórios que aludem ao registro oral da língua."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 7"
+  },
+  {
+   "numero": "8",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Artigo de opinião",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "O texto é um artigo de opinião e faz uso de uma linguagem acessível. Assinale a alternativa que melhor revela uma apropriação da autora de uma variante típica do público que ela critica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“Alguém aí confirma?” (1º§)."
+    },
+    {
+     "letra": "B",
+     "texto": "“Um beijo roubado nos deixava insones” (2º§)."
+    },
+    {
+     "letra": "C",
+     "texto": "“Agora o rolê tonteia” (4º§)."
+    },
+    {
+     "letra": "D",
+     "texto": "“um dia, pela postura blasé do ‘tanto faz’” (3º§)."
+    },
+    {
+     "letra": "E",
+     "texto": "“é no caos que a gente reage” (5º§)."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 8"
+  },
+  {
+   "numero": "9",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pressupostos e subentendidos",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "O emprego da construção verbal “deveriam estar”, no subtítulo, demarca que a visão de mundo referida é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "coletivizada, ilustrando certa percepção do senso comum."
+    },
+    {
+     "letra": "B",
+     "texto": "anacrônica, limitada ao olhar da enunciadora quando jovem."
+    },
+    {
+     "letra": "C",
+     "texto": "impositiva, indicando um comportamento novo a ser seguido."
+    },
+    {
+     "letra": "D",
+     "texto": "idealizada, partindo de qualquer aproximação com o real."
+    },
+    {
+     "letra": "E",
+     "texto": "particularizada, sinalizando apenas a voz da autora."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 9"
+  },
+  {
+   "numero": "10",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Estratégias argumentativas",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "Em relação à estratégia argumentativa empregada pela autora para introduzir o terceiro parágrafo do texto, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "consiste na apresentação de um questionamento pessoal que não é retomado posteriormente."
+    },
+    {
+     "letra": "B",
+     "texto": "fragiliza a exposição das ideias apresentadas uma vez que a pergunta direcionada ao leitor não possui desdobramentos."
+    },
+    {
+     "letra": "C",
+     "texto": "camufla o tópico frasal, por meio de uma interrogação inicial, respondida paulatinamente no texto."
+    },
+    {
+     "letra": "D",
+     "texto": "questiona as incertezas e dúvidas do ambiente virtual a que se refere a frase antecedente."
+    },
+    {
+     "letra": "E",
+     "texto": "aproxima-se do leitor por meio da interlocução e da resposta objetiva e direta que segue, imediatamente, a pergunta."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 10"
+  },
+  {
+   "numero": "11",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Formas nominais do verbo > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Analise o texto abaixo para responder às questões de 01 a 11.\n\nJuventude apática “Que desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge”\n\n(Martha Medeiros)\n\nEspero estar enganada, mas meu senso de observação, aliado a algumas matérias que andei lendo, tem me induzido a pensar que pessoas maduras, também conhecidas como velhas, continuam empolgadas com a vida, fazendo planos para o futuro e transando bem, obrigada, enquanto os jovens, que eram os que detinham o monopólio da vitalidade, estão entediados, apáticos, achando graça em nada. Alguém aí confirma?\n\nOutro dia, estava conversando com amigos da minha faixa etária, todos entrados nos 60 e com filhos na casa dos 30, e a impressão deles era a mesma. A nova geração tem passado os dias com cara de paisagem. Eles trabalham desesperançados, não se apaixonam perdidamente e seus entusiasmos mal duram um fim de semana, logo esfriam. Não que tivéssemos muitas certezas na idade deles, mas a gente ia em frente com dúvida e tudo, o pulso latejava. Um dia de sol na praia era um acontecimento. Um beijo roubado nos deixava insones. Abraçávamos nossas causas com inocência e ardor, nunca com ódio. Vibrávamos numa frequência positiva. Sorriso não era uma raridade em nosso rosto e não falávamos por monossílabos: palestrávamos em mesa de bar. Melancolia? De vez em quando, sucumbíamos a ela, claro. Éramos poetas, alguns trágicos, cortesia da arte e de suas consequências na alma, mas tudo era visto como privilégio da existência. Não havia zumbis atrás de telas, buscávamos excitação de verdade.\n\nQue desalento é esse que está intoxicando garotos e garotas que deveriam estar em seu auge? São pouco afirmativos e não lutam por seus sonhos — nem mesmo sonham. Falta propósito. E o fracasso apavora. Contentam-se em ser uma eterna promessa e não estão entendendo que o tempo irá cobrar caro, um dia, pela postura blasé do “tanto faz”.\n\nO excesso é cúmplice do vazio, uma dupla bandida. Excesso de informações, poucos empregos. Excesso de bocas, pouca intimidade. Os cardápios são fartos de “felicidade”: quanto mais é oferecido, mais confusos eles ficam, que caminho seguir? Nós também tivemos que fazer escolhas e as renúncias faziam parte do jogo, não paralisavam ninguém. Agora o rolê tonteia. Escolher só uma alternativa entre um milhão? Não conseguem. Nada se destaca, nada é especial. A banalidade dá o tom da conversa, que leva ao fastio, claro. Um minuto de atenção (se tanto) e já se trocou de desejo.\n\nNão todos eles, amém. Há aqueles que ainda leem livros, o que ajuda a concentrar. Há os que se mantêm confiantes e interessados. E os que ainda param para escutar a nós, os velhos cheios de gás que parecem não se abalar com o planeta derretendo e com políticos dando show de insanidade. Galera, é no caos que a gente reage. Reajam.\n\n(Disponível em: https://oglobo.globo.com/ela/martha-medeiros/coluna/2025/03/juventude-apatica.ghtml. Acesso em 12/04/2025)",
+   "enunciado": "O vocábulo destacado em “todos entrados nos 60” (2º§) cumpre papel expressivo pois se trata de uma forma nominal do verbo que indica uma ação:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em curso."
+    },
+    {
+     "letra": "B",
+     "texto": "concluída."
+    },
+    {
+     "letra": "C",
+     "texto": "simultânea."
+    },
+    {
+     "letra": "D",
+     "texto": "improvável."
+    },
+    {
+     "letra": "E",
+     "texto": "futura."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 11"
+  },
+  {
+   "numero": "12",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Uso das reticências",
+   "tipo": "multipla",
+   "enunciado": "Analise a imagem abaixo.\n\n[[img:0]]\n\nNa imagem acima, as reticências foram empregadas a fim de produzir o seguinte efeito de sentido:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "marcar uma hesitação provocada pela dúvida."
+    },
+    {
+     "letra": "B",
+     "texto": "indicar ideia que foi forçosamente interrompida."
+    },
+    {
+     "letra": "C",
+     "texto": "revelar o início de uma sequência enumerativa."
+    },
+    {
+     "letra": "D",
+     "texto": "assinalar certa inflexão de natureza emocional."
+    },
+    {
+     "letra": "E",
+     "texto": "sinalizar a supressão de uma passagem textual."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 12",
+   "imagens": [
+    {
+     "src": "quest/2502502146/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "13",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Durante uma investigação, um coronel da Polícia Militar afirmou:\n\n\"Se houve um roubo, então há testemunhas.\"\n\nA negação dessa afirmação equivale logicamente a ______. Assinale a alternativa que preencha corretamente a lacuna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "\"Não houve um roubo e não há testemunhas\""
+    },
+    {
+     "letra": "B",
+     "texto": "\"Não houve um roubo e há testemunhas\""
+    },
+    {
+     "letra": "C",
+     "texto": "\"Não houve um roubo ou há testemunhas\""
+    },
+    {
+     "letra": "D",
+     "texto": "\"Houve um roubo ou não há testemunhas\""
+    },
+    {
+     "letra": "E",
+     "texto": "\"Houve um roubo e não há testemunhas\""
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 13"
+  },
+  {
+   "numero": "14",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Durante uma operação, um batalhão da Polícia Militar distribuiu armamentos entre duas unidades. A primeira unidade recebeu pistolas e espingardas, totalizando 40 armamentos. A segunda unidade recebeu o dobro do número de pistolas e o triplo do número de espingardas da primeira unidade, totalizando 90 armamentos. Assinale a alternativa que apresenta o número de pistolas entregues à primeira unidade.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10"
+    },
+    {
+     "letra": "B",
+     "texto": "15"
+    },
+    {
+     "letra": "C",
+     "texto": "30"
+    },
+    {
+     "letra": "D",
+     "texto": "25"
+    },
+    {
+     "letra": "E",
+     "texto": "20"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 14"
+  },
+  {
+   "numero": "15",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Durante uma operação, um sargento precisava dividir igualmente 260 munições entre os membros de sua equipe. Após a divisão, percebeu que faltavam 10 munições, no total, para que cada membro recebesse exatamente 15 unidades. Assinale a alternativa que apresenta o número de membros desta equipe.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12"
+    },
+    {
+     "letra": "B",
+     "texto": "14"
+    },
+    {
+     "letra": "C",
+     "texto": "18"
+    },
+    {
+     "letra": "D",
+     "texto": "16"
+    },
+    {
+     "letra": "E",
+     "texto": "20"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 15"
+  },
+  {
+   "numero": "16",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Uma patrulha composta por 15 policiais cobre 750 km² em 10 horas. Considerando um aumento de 20% na área patrulhada, será necessário aumentar o número de policiais para manter o tempo de patrulha. Assinale a alternativa que apresenta o número de policiais necessários para cobrir toda a nova área em 10 horas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15"
+    },
+    {
+     "letra": "B",
+     "texto": "25"
+    },
+    {
+     "letra": "C",
+     "texto": "20"
+    },
+    {
+     "letra": "D",
+     "texto": "18"
+    },
+    {
+     "letra": "E",
+     "texto": "22"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 16"
+  },
+  {
+   "numero": "17",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Analise o gráfico de linhas abaixo que mostra o número de prisões efetuadas pela Polícia Militar ao longo de uma semana.\n\n[[img:0]]\n\nAssinale a alternativa que apresenta o número médio diário de prisões efetuadas durante a semana.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20"
+    },
+    {
+     "letra": "B",
+     "texto": "18"
+    },
+    {
+     "letra": "C",
+     "texto": "12"
+    },
+    {
+     "letra": "D",
+     "texto": "15"
+    },
+    {
+     "letra": "E",
+     "texto": "14"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 17",
+   "imagens": [
+    {
+     "src": "quest/2532740392/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "18",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Durante uma operação antidrogas, a Polícia Militar apreendeu um recipiente contendo 1,5 litros de uma solução que apresentava uma concentração de 3 mg/mL de uma substância química utilizada como marcador forense. Assinale a alternativa que apresenta a quantidade total de substância existente no recipiente apreendido, em gramas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4,5 g"
+    },
+    {
+     "letra": "B",
+     "texto": "3,0 g"
+    },
+    {
+     "letra": "C",
+     "texto": "45 g"
+    },
+    {
+     "letra": "D",
+     "texto": "30 g"
+    },
+    {
+     "letra": "E",
+     "texto": "1,5 g"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 18"
+  },
+  {
+   "numero": "19",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Durante uma operação policial, a Polícia Militar identificou um grupo de 60 suspeitos. Desses, 30 tinham antecedentes criminais por roubo, 25 por furto e 10 tinham antecedentes tanto por roubo quanto por furto. Assinale a alternativa que apresenta o número de suspeitos que não possuem antecedentes nem por roubo nem por furto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15"
+    },
+    {
+     "letra": "B",
+     "texto": "10"
+    },
+    {
+     "letra": "C",
+     "texto": "20"
+    },
+    {
+     "letra": "D",
+     "texto": "35"
+    },
+    {
+     "letra": "E",
+     "texto": "45"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 19"
+  },
+  {
+   "numero": "20",
+   "disciplina": "Informática",
+   "assunto": "Segurança da Informação",
+   "tipo": "multipla",
+   "enunciado": "Em um contexto de segurança pública, a engenharia social é uma técnica utilizada por cibercriminosos para manipular indivíduos e obter acesso não autorizado a sistemas, informações ou recursos. Uma das formas mais comuns de engenharia social envolve o phishing, em que o criminoso tenta obter informações sensíveis através de engano.\n\nAssinale a alternativa que apresenta um exemplo clássico de ataque de engenharia social.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Um malware infecta um site e, ao ser acessado, instala automaticamente um software no dispositivo da vítima sem o seu consentimento"
+    },
+    {
+     "letra": "B",
+     "texto": "Um vírus se instala no computador de um usuário sem sua permissão, danificando arquivos e exigindo um resgate para a recuperação dos dados"
+    },
+    {
+     "letra": "C",
+     "texto": "Um ransomware criptografa todos os arquivos de um computador e exige pagamento em criptomoeda para que os arquivos sejam restaurados"
+    },
+    {
+     "letra": "D",
+     "texto": "Um trojan é disfarçado de um software legítimo, mas, quando instalado, permite ao invasor acessar e controlar o sistema da vítima"
+    },
+    {
+     "letra": "E",
+     "texto": "Um criminoso envia um e-mail falso, com o logotipo de uma instituição bancária, pedindo para que a vítima clique em um link e forneça seus dados bancários, alegando que houve uma atualização no sistema do banco"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 20"
+  },
+  {
+   "numero": "21",
+   "disciplina": "Informática",
+   "assunto": "Software > Conceitos básicos em Informática",
+   "tipo": "multipla",
+   "enunciado": "Maria está tentando conectar seu smartphone Android a uma rede Wi-Fi em casa e também emparelhar seu dispositivo com um fone de ouvido Bluetooth recém comprado. Ela não consegue encontrar a opção para ativar o Bluetooth e conectar-se à rede Wi-Fi ao mesmo tempo. Assinale a alternativa que descreve corretamente como Maria pode ativar e conectar-se tanto ao Wi-Fi quanto ao Bluetooth no seu smartphone Android.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Maria não pode conectar-se ao Wi-Fi e ao Bluetooth ao mesmo tempo, pois o Android só permite uma conexão por vez"
+    },
+    {
+     "letra": "B",
+     "texto": "Maria deve abrir o menu de notificação de mensagens, tocar nas opções de Wi-Fi e Bluetooth para ativá-los diretamente"
+    },
+    {
+     "letra": "C",
+     "texto": "Maria deve ir até a Google Play Store, baixar um aplicativo de gerenciamento de conexões e, por meio dele, ativar o Wi-Fi e o Bluetooth"
+    },
+    {
+     "letra": "D",
+     "texto": "Maria deve acessar as Configurações, ir até WiFi, ativá-lo e depois acessar Bluetooth para emparelhar o fone de ouvido"
+    },
+    {
+     "letra": "E",
+     "texto": "Maria deve apenas ativar o Wi-Fi, pois o Bluetooth é ativado automaticamente quando ela conecta o fone de ouvido"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 21"
+  },
+  {
+   "numero": "22",
+   "disciplina": "Informática",
+   "assunto": "Arquivos",
+   "tipo": "multipla",
+   "enunciado": "Com base no funcionamento dos arquivos utilizados por aplicativos em sistemas operacionais, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arquivos DLL são utilizados por diversos aplicativos para oferecer funcionalidades compartilhadas sem a necessidade de duplicação de código"
+    },
+    {
+     "letra": "B",
+     "texto": "A ocultação de certos arquivos visa dificultar a identificação de malwares, já que arquivos ocultos não podem ser acessados por usuários com permissões administrativas"
+    },
+    {
+     "letra": "C",
+     "texto": "Arquivos executáveis, como os utilizados pelo Microsoft Office, são responsáveis por iniciar e manter a execução de um programa"
+    },
+    {
+     "letra": "D",
+     "texto": "A modificação ou exclusão inadvertida de arquivos essenciais pode comprometer a funcionalidade de um aplicativo ou até do sistema operacional"
+    },
+    {
+     "letra": "E",
+     "texto": "Arquivos usados por aplicativos podem ser ocultados pelo sistema para protegê-los contra alterações acidentais feitas pelo usuário"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 22"
+  },
+  {
+   "numero": "23",
+   "disciplina": "Informática",
+   "assunto": "Impressora > Informática",
+   "tipo": "multipla",
+   "enunciado": "Considere a seguinte situação em que um usuário está tentando imprimir um documento em sua impressora conectada ao computador. No entanto, ao tentar imprimir, ele percebe que o trabalho de impressão não foi enviado para a impressora, apesar de o computador estar funcionando corretamente.\n\nSobre o funcionamento dos periféricos e como solucionar o problema descrito, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O problema é causado por uma falha na rede elétrica, já que todos os periféricos dependem de uma conexão direta à energia 40 volts para funcionar"
+    },
+    {
+     "letra": "B",
+     "texto": "O problema ocorre apenas se a impressora estiver desconectada da rede, já que a comunicação entre o computador e o periférico é feita exclusivamente via rede Wi-Fi, não existindo conexão cabeada entre computador e impressoras"
+    },
+    {
+     "letra": "C",
+     "texto": "O problema está na falta de espaço no disco rígido do computador, o que impede a impressão de novos documentos"
+    },
+    {
+     "letra": "D",
+     "texto": "O problema pode ser resolvido ao reiniciar o computador, pois a impressora só pode ser usada após o sistema operacional ser reiniciado"
+    },
+    {
+     "letra": "E",
+     "texto": "O problema provavelmente está na configuração do driver da impressora, que precisa ser reinstalado para garantir a comunicação correta entre o computador e a impressora"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 23"
+  },
+  {
+   "numero": "24",
+   "disciplina": "Informática",
+   "assunto": "Conceitos Básicos",
+   "tipo": "multipla",
+   "enunciado": "Em um escritório onde os computadores estão conectados a uma rede interna, diversas atividades administrativas são realizadas diariamente. Com base nesse cenário, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Impressoras compartilhadas em rede exigem que os arquivos sejam transferidos manualmente via pen drive até o computador conectado à impressora"
+    },
+    {
+     "letra": "B",
+     "texto": "Uma planilha criada em um computador da rede não pode ser acessada por outro computador, mesmo que esteja salva em um servidor interno"
+    },
+    {
+     "letra": "C",
+     "texto": "A conexão em rede permite que múltiplos usuários acessem e editem arquivos armazenados em uma pasta compartilhada, desde que tenham as permissões apropriadas"
+    },
+    {
+     "letra": "D",
+     "texto": "Softwares de edição de texto em rede, como os oferecidos por serviços de nuvem, não permitem que duas pessoas editem o mesmo documento simultaneamente"
+    },
+    {
+     "letra": "E",
+     "texto": "Em uma rede interna, cada computador opera de forma totalmente independente, sendo incapaz de compartilhar recursos como arquivos e impressoras"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 24"
+  },
+  {
+   "numero": "25",
+   "disciplina": "Informática",
+   "assunto": "Internet > Informática",
+   "tipo": "multipla",
+   "enunciado": "Com relação a busca na web, é possível fazer o uso de operadores de busca, a fim de refinar o conteúdo buscado, facilitando, assim, encontrar o resultado desejado. Considere a situação em que se deseja buscar ocorrências de um termo específico como “educação” em um site especifico (https://www.gov.br/mec). Assinale a alternativa que apresenta qual operador deve ser utilizado para buscar ocorrências deste termo apenas no site relacionado na busca, utilizando o buscador Google Chrome.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "in https://www.gov.br/mec get educação"
+    },
+    {
+     "letra": "B",
+     "texto": "educação in https://www.gov.br/mec"
+    },
+    {
+     "letra": "C",
+     "texto": "https://www.gov.br/mec on educação"
+    },
+    {
+     "letra": "D",
+     "texto": "get educação in https://www.gov.br/mec"
+    },
+    {
+     "letra": "E",
+     "texto": "site:https://www.gov.br/mec educação"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 25"
+  },
+  {
+   "numero": "26",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório",
+   "tipo": "multipla",
+   "enunciado": "No LibreOffice Writer, diversas funcionalidades facilitam a escrita e a editoração de textos de forma estruturada e profissional. Considerando os recursos da ferramenta, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A aplicação de estilos de parágrafo é feita exclusivamente por meio do menu \"Formulas\", não podendo ser personalizada pelo usuário"
+    },
+    {
+     "letra": "B",
+     "texto": "A numeração de capítulos e subcapítulos deve ser feita manualmente, pois o LibreOffice Writer não oferece suporte para numeração automática hierárquica"
+    },
+    {
+     "letra": "C",
+     "texto": "O Writer permite exportar documentos diretamente para o formato PDF, inclusive com marcadores de navegação se os estilos forem utilizados corretamente"
+    },
+    {
+     "letra": "D",
+     "texto": "O recurso de sumário automático depende exclusivamente da criação de marcadores manuais, não se vinculando aos estilos de título"
+    },
+    {
+     "letra": "E",
+     "texto": "A ferramenta não oferece suporte a inserção de campos automáticos, como data ou número de página, sendo necessário inserir essas informações manualmente"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 26"
+  },
+  {
+   "numero": "27",
+   "disciplina": "História",
+   "assunto": "Período Joanino - 1808 a 1821",
+   "tipo": "multipla",
+   "enunciado": "A vinda da família real ao Brasil, em 1808, trouxe grandes transformações à então colônia. Da mesma forma, no fim desse mesmo século, em 1889, a queda da Monarquia e a proclamação da República, transformaram o Brasil de então. Sobre essas mudanças, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n\n( ) A vinda da família e a corte real em 1808 necessitou melhorias na colônia Brasil para melhor recebê-los. Com isso, foram construídos diversos edifícios públicos, ruas e estradas foram abertas; fundou-se o Banco do Brasil e também se criou o Jardim Botânico, a Academia Real da Marinha, a Imprensa Régia e a Biblioteca Real.\n\n( ) A presença da corte real no Brasil incentivou o desenvolvimento de várias cidades costeiras, estimulou o comércio e promoveu a abertura dos portos às nações amigas.\n\n( ) Uma vez que a corte real se instalou no Brasil, sua influência direta na colônia acabou atrasando em vários anos o seu processo de independência.\n\n( ) A proclamação da República trouxe uma nova forma de governo, com a separação entre Estado e Igreja e a adoção do Federalismo, ou seja, as antigas províncias se tornaram Estados, com mais autonomia.\n\n( ) A queda da monarquia se deu por ação das classes agrárias dominantes insatisfeitas no País, sem qualquer intervenção das forças armadas e comerciantes urbanos.\n\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F - F - V - V - V"
+    },
+    {
+     "letra": "B",
+     "texto": "F - V - F - V - F"
+    },
+    {
+     "letra": "C",
+     "texto": "V - V - F - V - V"
+    },
+    {
+     "letra": "D",
+     "texto": "V - V - F - V - F"
+    },
+    {
+     "letra": "E",
+     "texto": "F - F - V - V - F"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 27"
+  },
+  {
+   "numero": "28",
+   "disciplina": "História",
+   "assunto": "Era Vargas - 1930-1945",
+   "tipo": "multipla",
+   "enunciado": "A Era Vargas é conhecida por ser um período marcado por diversas polêmicas. Getúlio Vargas ganhou a alcunha de “Pai dos pobres”, mas ao mesmo tempo também foi chamado de “Mãe dos ricos”, e isso porque ao implantar diversos benefícios à classe trabalhadora, ajudaria a conter possíveis levantes e atenderia aos interesses da classe dominante. Sobre algumas inovações criadas por Getúlio Vargas, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Getúlio foi grande incentivador do Samba, pregando que fosse um símbolo nacional. Também criou o Ministério do Trabalho e Emprego"
+    },
+    {
+     "letra": "B",
+     "texto": "Foi responsável pela criação da CLT – Compêndio das Leis Trabalhistas – e do Ministério da Cultura"
+    },
+    {
+     "letra": "C",
+     "texto": "Responsável pela CLT (Consolidação das Leis Trabalhistas) e criação do Fundo de Garantia (FGTS)"
+    },
+    {
+     "letra": "D",
+     "texto": "Foi o responsável por instituir o dia Primeiro de Maio como Dia do Trabalho e incentivou que a Bossa Nova se tornasse símbolo nacional"
+    },
+    {
+     "letra": "E",
+     "texto": "Criou o Museu do Índio, no Rio de Janeiro e também e acabou com o direito às férias anuais"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 28"
+  },
+  {
+   "numero": "29",
+   "disciplina": "História",
+   "assunto": "República Oligárquica - 1889 a 1930 > História",
+   "tipo": "multipla",
+   "enunciado": "Sobre o período da República Velha no Brasil (1889-1930), assinale a alternativa incorreta no que se refere às Oligarquias e ao Coronelismo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Coronelismo foi um dispositivo fundamental para a manutenção das Oligarquias no poder"
+    },
+    {
+     "letra": "B",
+     "texto": "O Coronelismo foi a prática utilizada pelos latifundiários para controlar os votos e assim, manipular a política local em seu favor"
+    },
+    {
+     "letra": "C",
+     "texto": "As Oligarquias detinham um poder de persuasão tão expressivo, que mesmo com o voto sendo secreto, conseguiam manipular as pessoas para que escolhessem o candidato de sua preferência"
+    },
+    {
+     "letra": "D",
+     "texto": "A prática do Coronelismo teve seu fim marcado pela Revolução de 1930, que colocou Getúlio Vargas no poder"
+    },
+    {
+     "letra": "E",
+     "texto": "O Coronelismo tem seu alicerce no voto de cabresto e na manipulação eleitoral"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 29"
+  },
+  {
+   "numero": "30",
+   "disciplina": "História",
+   "assunto": "Processo de Independência: dos movimentos nativistas à libertação de Portugal > Mineração",
+   "tipo": "multipla",
+   "enunciado": "A Guerra dos “Emboabas”, ocorreu entre os anos de 1707 e 1709, nos territórios que compreendem os atuais municípios de São João del Rei, Caeté, Ouro Preto e Mariana, em Minas Gerais. Foi uma disputa que colocou em lados opostos os paulistas e os chamados “forasteiros”, os emboabas. Sobre esse tema, assinale a alternativa que apresenta as motivações que desencadearam esse conflito durante o período colonial brasileiro.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os paulistas se proclamavam conquistadores e descobridores das minas de ouro naquela região, enquanto os comerciantes portugueses, vindos de outros lugares e representando a Coroa e os interesses da Metrópole, alegavam que a exploração do minério descoberto era deles por direito"
+    },
+    {
+     "letra": "B",
+     "texto": "O paulista Manuel de Borba Gato, representando o lado paulista e Manuel Nunes Viana, representando o lado português, lideraram o conflito motivado pelo controle da mão-de-obra escravizada na região das Minas Gerais"
+    },
+    {
+     "letra": "C",
+     "texto": "O início dos conflitos entre paulistas e emboabas se deu por conta da quebra de acordo comercial estabelecida entre as partes. Portugueses não concordaram com a porcentagem estabelecida no acordo, onde ficariam com apenas 40% do ouro extraído"
+    },
+    {
+     "letra": "D",
+     "texto": "O estopim do conflito foi a acusação de Borba Gato ter assassinado um funcionário régio, seguida pela imediata retaliação dos portugueses"
+    },
+    {
+     "letra": "E",
+     "texto": "Portugueses alegavam que a função dos paulistas, ou bandeirantes, seria apenas de realizar o comércio na colônia, enquanto cabia aos primeiros, o apresamento de indígenas e busca por metais preciosos"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 30"
+  },
+  {
+   "numero": "31",
+   "disciplina": "História",
+   "assunto": "República Oligárquica - 1889 a 1930 > História",
+   "tipo": "multipla",
+   "enunciado": "O início da Primeira República no Brasil, foi um período marcado por diversos conflitos sociais, motivados na maior parte das vezes por desigualdade social, pobreza, violência do Estado e até mesmo fanatismo religioso. Sobre esse tema, assinale a alternativa que não corresponde à um conflito social desse período.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Revolta da Vacina – movimento popular, ocorrido no Rio de Janeiro, motivado pela vacinação compulsória contra a varíola, liderada pelo médico sanitarista Oswaldo Cruz"
+    },
+    {
+     "letra": "B",
+     "texto": "Revolta da Chibata – liderada por João Cândido, o movimento protestava contra as condições de trabalho forçado e os castigos físicos sofridos na Marinha de Guerra do Brasil"
+    },
+    {
+     "letra": "C",
+     "texto": "Guerra de Canudos – liderados por Antônio Conselheiros em seu movimento messiânico, sertanejos em condições de miséria lutaram contra o governo Republicano, defendendo o retorno da Monarquia"
+    },
+    {
+     "letra": "D",
+     "texto": "Guerra do Contestado – ocorrido na divisa entre Paraná e Santa Catarina, foi um conflito armado envolvendo posseiros, pequenos proprietários e os Governos de ambos os Estados e durou quatro anos"
+    },
+    {
+     "letra": "E",
+     "texto": "Revolta dos Malês – foi um conflito liderado por ex-escravizados islâmicos que protestavam pelo direito de praticar sua fé"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 31"
+  },
+  {
+   "numero": "32",
+   "disciplina": "História",
+   "assunto": "História e Cultura Afro",
+   "tipo": "multipla",
+   "enunciado": "“É impossível datar exatamente o início da produção no centro-sul do país: as primeiras informações que possuímos se referem a uma precária produção no Rio de Janeiro, ainda na época colonial, nos fins do século XVIII. A lavoura cafeeira, entretanto, só se torna significativa pouco antes da independência, quando o plantio de café foi estimulado pela procura crescente do produto nos países europeus” (FALEIROS, 2001, p. 88).\n\nSobre a mão-de-obra utilizada no início da produção cafeeira no Brasil, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em fins do século XVIII e XIX, a Revolução Industrial esteve em curso na Inglaterra e, a partir de então, não haveria mais lugar para a escravidão moderna. Assim, a produção cafeeira no Brasil, foi marcada desde seu início pela mão-de-obra imigrante"
+    },
+    {
+     "letra": "B",
+     "texto": "A mão-de-obra utilizada na produção de café no Brasil foi diferente em cada período de sua História: indígena no período colonial, africana escravizada no período imperial e imigrante durante a República"
+    },
+    {
+     "letra": "C",
+     "texto": "Por ter origem na África, na região de Kaffa, na Etiópia, a mão-de-obra escravizada sempre foi usada desde o início da produção no Brasil, por conta da familiaridade que os africanos já possuíam com a planta"
+    },
+    {
+     "letra": "D",
+     "texto": "A monocultura do café, marcada por grandes latifúndios, acabou por consolidar a utilização da mão-de-obra do africano escravizado. Contudo, após a proibição do tráfico negreiro em 1850 e a posterior abolição da escravatura em 1888, a mão-de-obra foi substituída gradativamente pela mão-de-obra imigrante, que marcou a região Oeste de São Paulo. Posteriormente, eles passaram a ser qualificados e assalariados, recebendo até mesmo auxílio do Estado"
+    },
+    {
+     "letra": "E",
+     "texto": "O café tem sua origem em terras brasileiras, sendo utilizadas pelos indígenas antes mesmo da chegada dos portugueses e por isso, foi a mão-de-obra mais utilizada em sua produção desde o início"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 32"
+  },
+  {
+   "numero": "33",
+   "disciplina": "História",
+   "assunto": "Paraná - PR",
+   "tipo": "multipla",
+   "enunciado": "A erva-mate e o Tropeirismo são elementos fundamentais na formação do Paraná. Ambos moldaram o estado não só economicamente, mas também culturalmente, contribuindo na construção da identidade do Paranaense. Quanto à essa afirmação, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A figura do tropeiro está diretamente associada à erva-mate, uma vez que o primeiro era o responsável pelo comércio da segunda, levando-a até a região das Minas Gerais, no século XVII, onde era vendida para os mineradores afim de buscar alívio em suas penosas jornadas na extração do ouro"
+    },
+    {
+     "letra": "B",
+     "texto": "Os tropeiros contribuíram para a efetiva ocupação do território paranaense, uma vez que eram responsáveis não só pelo transporte de gado, sobretudo muares, mas também o intercâmbio de produtos e suprimento de mão-de-obra locais. No caso da erva-mate, a partir do século XIX se constituiu na principal fonte de renda para milhares de produtores rurais, assim como se tornou o principal produto dos municípios do Sul, tais como Cruz Machado que é o maior produtor de mate de todo o Estado"
+    },
+    {
+     "letra": "C",
+     "texto": "A erva-mate foi introduzida no Estado do Paraná no século XIX, trazida do oriente. Por conta de seu clima favorável, em pouco tempo a cultura do mate se multiplicou, tornando o sul do Estado o seu maior produtor em todo o Brasil"
+    },
+    {
+     "letra": "D",
+     "texto": "A erva-mate é natural da Argentina, Paraguai e também do Brasil, sendo consumida nas terras do sul do nosso país há muito tempo, pelas populações indígenas originárias desses territórios. Da mesma forma, o tropeirismo já era praticado por essas populações indígenas, que criaram a Rota dos Tropeiros para estabelecer comércio entre as outras regiões do Brasil"
+    },
+    {
+     "letra": "E",
+     "texto": "O tropeirismo influenciou fortemente na cultura paranaense, sendo percebida em elementos da gastronomia, festas típicas e arquitetura. A economia ervateira, por sua vez, teve hesito somente no norte do Estado, onde o clima se fez mais favorável para sua produção em larga escala"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 33"
+  },
+  {
+   "numero": "34",
+   "disciplina": "Geografia",
+   "assunto": "Crescimento",
+   "tipo": "multipla",
+   "enunciado": "Fazem parte do grupo os dois países mais populosos do mundo, Índia e China. Em termos de dimensões territoriais, no grupo estão o maior país do mundo (Rússia, com 17,1 milhões de km²), o terceiro maior (China, 9,6 milhões de km²), o quinto (Brasil, com 8,5 milhões de km²) e o sétimo (Índia, 3,2 milhões de km²). O diálogo entre os países se dá em três pilares principais: cooperação em política e segurança, cooperação financeira e econômica, e cooperação cultural e pessoal (adaptado de PLANALTO, 2025). Assinale a alternativa que apresenta o bloco econômico caracterizado no texto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "NAFTA"
+    },
+    {
+     "letra": "B",
+     "texto": "BRICS"
+    },
+    {
+     "letra": "C",
+     "texto": "MERCOSUL"
+    },
+    {
+     "letra": "D",
+     "texto": "ASEAN"
+    },
+    {
+     "letra": "E",
+     "texto": "USMCA"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 34"
+  },
+  {
+   "numero": "35",
+   "disciplina": "Geografia",
+   "assunto": "Urbanização > Geografia",
+   "tipo": "multipla",
+   "enunciado": "No Brasil, é comum identificar pessoas morando em áreas consideradas de risco. O acelerado processo de urbanização levou ao crescimento das cidades para áreas impróprias à ocupação, aumentando o risco aos desastres naturais (adaptado de TOMINAGA, 2012). No que se refere aos riscos e desastres ambientais em áreas urbanas no Brasil, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Encostas muito íngremes são potenciais áreas de risco para ocorrência de deslizamentos"
+    },
+    {
+     "letra": "B",
+     "texto": "O desmatamento tende a reduzir o escoamento superficial da chuva, aumento o risco de erosão dos solos"
+    },
+    {
+     "letra": "C",
+     "texto": "O descarte incorreto do lixo urbano pode contribuir para a ocorrência de inundações"
+    },
+    {
+     "letra": "D",
+     "texto": "A impermeabilização do solo urbano e a canalização de rios aumentam o risco de inundações"
+    },
+    {
+     "letra": "E",
+     "texto": "A remoção da vegetação natural tende a aumentar a evolução de processos erosivos, como voçorocas"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 35"
+  },
+  {
+   "numero": "36",
+   "disciplina": "Geografia",
+   "assunto": "Geografia do Brasil > Geografia",
+   "tipo": "multipla",
+   "enunciado": "No Brasil há diversas populações conhecidas como tradicionais, as quais desenvolvem um modo singular de viver, pois estão em constante interdependência com a natureza, desenvolvendo sistemas de manejo sustentáveis (adaptado de GRZEBIELUKAm 2012). As alternativas a seguir são exemplos de povos e comunidades tradicionais brasileiros, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "piaçaveiros"
+    },
+    {
+     "letra": "B",
+     "texto": "quilombolas"
+    },
+    {
+     "letra": "C",
+     "texto": "geraizeiros"
+    },
+    {
+     "letra": "D",
+     "texto": "quéchuas"
+    },
+    {
+     "letra": "E",
+     "texto": "catadores de mangaba"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 36"
+  },
+  {
+   "numero": "37",
+   "disciplina": "Geografia",
+   "assunto": "Urbanização",
+   "tipo": "multipla",
+   "enunciado": "A religiosidade brasileira é composta por uma acentuada diversidade cultural, isto é, no modo de crer e compreender a fé no Brasil. A partir do ______ os orixás passaram a ser identificados como santos católicos, sendo louvados, tanto nos terreiros pelo povo de santo, como também nas igrejas, de modo especial pelo estilo barroco e pelos adeptos do candomblé que buscavam características de seus orixás nas imagens dos santos católicos (adaptado de MARTINS; IWASHITA, 2017). Assinale a alternativa que preencha corretamente a lacuna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Iluminismo"
+    },
+    {
+     "letra": "B",
+     "texto": "paganismo"
+    },
+    {
+     "letra": "C",
+     "texto": "protestantismo"
+    },
+    {
+     "letra": "D",
+     "texto": "ateísmo"
+    },
+    {
+     "letra": "E",
+     "texto": "sincretismo"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 37"
+  },
+  {
+   "numero": "38",
+   "disciplina": "Geografia",
+   "assunto": "População > Geografia",
+   "tipo": "multipla",
+   "enunciado": "Os fenômenos quantitativos são representados pela variável visual tamanho e podem ser implantados em localizações pontuais do mapa ou na implantação zonal, por meio de pontos agregados, como também na implantação linear com variação da espessura da linha (adaptado de ARCHELA, THÉRY, 2008). As alternativas abaixo correspondem a mapas temáticos cujos fenômenos são quantitativos e que empregam o tamanho do ponto como modo de implantação para representá-los, exceto:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mapa do número de pessoas que tiveram dengue por bairros de uma cidade"
+    },
+    {
+     "letra": "B",
+     "texto": "Mapa da distribuição populacional absoluta por estados brasileiros"
+    },
+    {
+     "letra": "C",
+     "texto": "Mapa do número de pessoas desempregadas por municípios de um estado"
+    },
+    {
+     "letra": "D",
+     "texto": "Mapa da quantidade de pessoas com acesso à internet em uma região"
+    },
+    {
+     "letra": "E",
+     "texto": "Mapa da malha rodoviária e ferroviária do território brasileiro"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 38"
+  },
+  {
+   "numero": "39",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Paraná - PR > Geografia",
+   "tipo": "multipla",
+   "enunciado": "O Instituto Brasileiro de Geografia e Estatística realizou o último levantamento populacional no Brasil no ano de 2022 (IBGE, 2022). No que se refere às características populacionais do Paraná, segundo o Censo Demográfico de 2022, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O estado tem mais de 11 milhões de habitantes"
+    },
+    {
+     "letra": "B",
+     "texto": "A população do estado é predominantemente urbana"
+    },
+    {
+     "letra": "C",
+     "texto": "A população entre 0 e 4 anos é maior que entre 25 e 29 anos"
+    },
+    {
+     "letra": "D",
+     "texto": "A população do estado é predominantemente feminina"
+    },
+    {
+     "letra": "E",
+     "texto": "Predomina a população que se autodeclarada como branca"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 39"
+  },
+  {
+   "numero": "40",
+   "disciplina": "Geografia",
+   "assunto": "População",
+   "tipo": "multipla",
+   "enunciado": "Esta teoria afirmava que as populações humanas, se não ocorressem guerras, epidemias, desastres naturais etc., tenderia a crescer em progressão geométrica (2, 4, 8, 16, 32...). Já o crescimento da produção de alimentos ocorreria apenas em progressão aritmética (2, 4, 6, 8, 10...). Ou seja, o ritmo de crescimento populacional seria mais acelerado que o ritmo de produção de alimentos (adaptado de FONTANA et a., 2015). Assinale a alternativa que apresenta o nome da teoria demográfica citada no texto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Teoria dos Lugares Centrais"
+    },
+    {
+     "letra": "B",
+     "texto": "Teoria do Espaço Relativo"
+    },
+    {
+     "letra": "C",
+     "texto": "Teoria Malthusiana"
+    },
+    {
+     "letra": "D",
+     "texto": "Teoria do Materialismo Histórico"
+    },
+    {
+     "letra": "E",
+     "texto": "Teoria Reformista ou Marxista"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 40"
+  },
+  {
+   "numero": "41",
+   "disciplina": "Legislação Federal",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "De acordo com o Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei adotado pela Assembleia Geral das Nações Unidas, no dia 17 de dezembro de 1979, por meio da Resolução nº 34/169, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os funcionários responsáveis pela aplicação da lei podem empregar livremente a força, ainda que momentaneamente desproporcional, quando a conduta delitiva do acusado for reiterada"
+    },
+    {
+     "letra": "B",
+     "texto": "Os funcionários responsáveis pela aplicação da lei não devem opor-se a atos de corrupção"
+    },
+    {
+     "letra": "C",
+     "texto": "Os funcionários responsáveis pela aplicação da lei devem garantir a proteção da saúde apenas das pessoas inocentes sob sua guarda"
+    },
+    {
+     "letra": "D",
+     "texto": "Os assuntos de natureza confidencial em poder dos funcionários responsáveis pela aplicação da lei devem ser mantidos confidenciais, sendo somente permitida a divulgação para a imprensa e veículos de comunicação afins"
+    },
+    {
+     "letra": "E",
+     "texto": "Os funcionários responsáveis pela aplicação da lei não devem cometer quaisquer atos de corrupção"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 41"
+  },
+  {
+   "numero": "42",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 14.751/2023 - Institui a Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios, nos termos do inciso XXI do caput do art. 22 da Constituição Federal, altera a Lei nº 13.6 > Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "Assinale a alternativa correta de acordo com a Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares dos Estados, do Distrito Federal (DF) e Territórios (Lei 14.751/2023).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As Polícias Militares dos Estados não são integrantes do Sistema Único de Segurança Pública (SUSP)"
+    },
+    {
+     "letra": "B",
+     "texto": "Aos Corpos de Bombeiros Militares compete a realização de atos de polícia judiciária"
+    },
+    {
+     "letra": "C",
+     "texto": "Os Corpos de Bombeiros Militares não são vinculados ao sistema de governança da política de segurança pública dos Estados, DF e Territórios"
+    },
+    {
+     "letra": "D",
+     "texto": "As Polícias Militares e Corpos de Bombeiros Militares dos Estados, do DF e Territórios são integrantes do Sistema Nacional do Meio Ambiente (SISNAMA)"
+    },
+    {
+     "letra": "E",
+     "texto": "As Polícias Militares e Corpos de Bombeiros Militares dos Estados, do DF e Territórios não são instituições permanentes"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 42"
+  },
+  {
+   "numero": "43",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 14.751/2023 - Institui a Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios, nos termos do inciso XXI do caput do art. 22 da Constituição Federal, altera a Lei nº 13.6 > Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "De acordo com a legislação pertinente, assinale a alternativa incorreta sobre os deveres e responsabilidades do militar.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao cumprir ordem emanada de autoridade superior, o executante não fica exonerado de responsabilidade pela prática de qualquer crime"
+    },
+    {
+     "letra": "B",
+     "texto": "O militar da reserva, quando convocado, terá os mesmos deveres do militar da ativa"
+    },
+    {
+     "letra": "C",
+     "texto": "O militar no exercício da profissão é proibido de integrar ativamente firma ou empresa"
+    },
+    {
+     "letra": "D",
+     "texto": "O oficial em atividade que contrair matrimônio, comunicará a realização do ato ao Comando Geral, no prazo de 10 dias, exibindo a respectiva certidão"
+    },
+    {
+     "letra": "E",
+     "texto": "O militar portador de diploma para o exercício de profissão liberal é proibido de exercer essa atividade no meio civil"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 43"
+  },
+  {
+   "numero": "44",
+   "disciplina": "Direito Penal",
+   "assunto": "Lei dos Crimes de Tortura - Lei nº 9.455/1997",
+   "tipo": "multipla",
+   "enunciado": "Assinale a alternativa que apresenta hipótese não prevista como causa de aumento em relação ao crime de tortura, nos moldes previstos na Lei 9.455/1997.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crime de tortura praticado contra pessoa portadora de deficiência ou maior de 65 anos"
+    },
+    {
+     "letra": "B",
+     "texto": "Crime de tortura praticado contra criança e gestante"
+    },
+    {
+     "letra": "C",
+     "texto": "Crime de tortura cometido por agente público"
+    },
+    {
+     "letra": "D",
+     "texto": "Crime de tortura cometido mediante sequestro"
+    },
+    {
+     "letra": "E",
+     "texto": "Crime de tortura praticado contra adolescente portador de deficiência"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 44"
+  },
+  {
+   "numero": "45",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Perda da nacionalidade > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "Célia, musicista cubana, visitou o Brasil para uma série de shows há duas décadas e por aqui ficou, dando à luz em território nacional a seu único filho, Arturito. Sobre tal condição a Constituição prevê que ______. Assinale a alternativa que preencha corretamente a lacuna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Arturito pode ter sua nacionalidade cancelada, por sentença judicial, em virtude de atentado contra a ordem constitucional e o Estado Democrático"
+    },
+    {
+     "letra": "B",
+     "texto": "Arturito não será extraditado para Cuba, a não ser que se comprove envolvimento em tráfico ilícito de entorpecentes e drogas afins, nos termos da lei"
+    },
+    {
+     "letra": "C",
+     "texto": "a renúncia de Arturito à nacionalidade impedi-loia de readquirir a nacionalidade brasileira originária, ressalvadas situações que acarretem a condição de apátrida, nos termos da lei"
+    },
+    {
+     "letra": "D",
+     "texto": "Arturito, filho de mãe cubana, poderá perder sua nacionalidade, se fizer pedido expresso perante autoridade brasileira competente e desde que a situação não o torne apátrida"
+    },
+    {
+     "letra": "E",
+     "texto": "ocupará, privativamente, os cargos de Presidente da República, Vice-Presidente da República e Deputado Federal, dentre outros dispostos taxativamente"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 45"
+  },
+  {
+   "numero": "46",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 8.069/1990 - Estatuto da Criança e do Adolescente / ECA",
+   "tipo": "multipla",
+   "enunciado": "Com base na Lei 8.069/90, analise as afirmativas abaixo e dê valores de Verdadeiro (V) ou Falso (F).\n\n( ) Na interpretação do Estatuto da Criança e do Adolescente devem ser levados em conta os fins sociais da lei e o seu texto estritamente, de forma a prestigiar a condição peculiar da criança e do adolescente como pessoas em desenvolvimento.\n\n( ) As medidas de proteção à criança e ao adolescente são aplicáveis sempre que seus direitos forem ameaçados ou violados por ação ou omissão da sociedade ou do Estado, tão somente.\n\n( ) Crianças e adolescentes somente poderão ser encaminhados às instituições que executam programas de acolhimento institucional, governamentais ou não, por meio de uma Guia de Acolhimento, expedida pela autoridade policial.\n\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F - F - F"
+    },
+    {
+     "letra": "B",
+     "texto": "F - V - V"
+    },
+    {
+     "letra": "C",
+     "texto": "V - F - V"
+    },
+    {
+     "letra": "D",
+     "texto": "V - F - F"
+    },
+    {
+     "letra": "E",
+     "texto": "F - V - F"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 46"
+  },
+  {
+   "numero": "47",
+   "disciplina": "Legislação Federal",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "Acerca da destinação das armas de fogo apreendidas em virtude da atividade de polícia ostensiva ou judiciária, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O Comando do Exército encaminhará a relação das armas a serem doadas ao Ministério da Justiça, a quem compete determinar o seu perdimento em favor da instituição beneficiada que possua menor efetivo material inventariado, consoante parecer apresentado pelo Tribunal de Contas respectivo"
+    },
+    {
+     "letra": "B",
+     "texto": "As armas de fogo apreendidas serão desde logo doadas à equipe policial que realizou a apreensão, mediante autorização escrita do Comandante do Exército, a ser respondida no prazo de 24 horas, apenas no caso em que o laudo pericial já tiver juntado aos autos e a arma não ser interessante para fins de investigação penal"
+    },
+    {
+     "letra": "C",
+     "texto": "As armas de fogo encaminhadas ao órgão máximo da polícia ostensiva que receberem parecer favorável à doação, atendidos os critérios de prioridade estabelecidos pelo Ministério dos Direitos Humanos e ouvido o Secretário de Segurança Pública, serão arroladas em relatório reservado bimestral"
+    },
+    {
+     "letra": "D",
+     "texto": "As armas de fogo e munições apreendidas em decorrência do tráfico de drogas, perdidas em favor da União e encaminhadas para o Comando do Exército, devem ser destinadas com prioridade para o Ministério da Justiça, a quem competirá destiná-las às instituições que possuem menor efetivo"
+    },
+    {
+     "letra": "E",
+     "texto": "As armas de fogo apreendidas, após a elaboração do laudo pericial e sua juntada aos autos, quando não mais interessarem à persecução penal, serão encaminhadas pelo juiz competente ao Comando do Exército, no prazo de até 48 (quarenta e oito) horas, para destruição ou doação"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 47"
+  },
+  {
+   "numero": "48",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Organização. Disposições gerais (artigo 142 da CF)",
+   "tipo": "multipla",
+   "enunciado": "A Constituição Federal de 1988, em seu artigo 142, estabelece direitos e deveres dos militares que compõem as forças armadas, tendo gama bastante detalhada de hipóteses para evitar os excessos praticados sob a égide das duas constituições anteriores. Sobre os direitos elencados em tal dispositivo, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caberá habeas corpus em relação a punições disciplinares militares"
+    },
+    {
+     "letra": "B",
+     "texto": "O artigo 142 serve como fundamento de validade do poder moderador a ser implementado pelo chefe do executivo para suprimir excessos dos outros poderes em caso de descumprimento de regras constitucionais"
+    },
+    {
+     "letra": "C",
+     "texto": "O militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos"
+    },
+    {
+     "letra": "D",
+     "texto": "O oficial condenado na justiça comum ou militar a pena privativa de liberdade superior a um ano, por sentença transitada em julgado, será submetido ao julgamento por tribunal militar de caráter permanente"
+    },
+    {
+     "letra": "E",
+     "texto": "Ao militar são facultadas a sindicalização e a greve"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 48"
+  },
+  {
+   "numero": "49",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei de Drogas - Lei nº 11.343/2006 > Direito Penal",
+   "tipo": "multipla",
+   "enunciado": "A Lei 11.343/06 prevê causas de aumento de pena de um sexto a dois terços em caso de prática dos crimes previstos nos artigos 33 a 37 da referida legislação. Assinale a alternativa que não apresenta hipótese de causa de aumento de pena.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Crime praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva"
+    },
+    {
+     "letra": "B",
+     "texto": "Crime cometido nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de unidades militares ou policiais ou em transportes públicos"
+    },
+    {
+     "letra": "C",
+     "texto": "Se o agente praticar o crime em razão da dependência química ou psíquica de droga, de modo a torná-lo inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento"
+    },
+    {
+     "letra": "D",
+     "texto": "Se o agente praticar o crime prevalecendo-se de função pública ou no desempenho de missão de educação, poder familiar, guarda ou vigilância"
+    },
+    {
+     "letra": "E",
+     "texto": "Na hipótese em que a natureza, a procedência da substância ou do produto apreendido e as circunstâncias do fato evidenciarem a transnacionalidade do delito"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 49"
+  },
+  {
+   "numero": "50",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Legislação Estadual, Distrital e Municipal",
+   "tipo": "multipla",
+   "enunciado": "Sobre as previsões constantes no Decreto Estadual do Paraná nº 5.075/1998, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os princípios de Deontologia Militar, Direitos Humanos e Cidadania, mesmo que não integrem historicamente as atividades militares, deverão, cada vez mais, ser incrementados na formação, adaptação e aperfeiçoamento do militar estadual"
+    },
+    {
+     "letra": "B",
+     "texto": "A violação dos valores e dos deveres éticos do militar será tão mais grave quanto mais elevado for o grau hierárquico de quem a cometer"
+    },
+    {
+     "letra": "C",
+     "texto": "Somente será permitido ao militar estadual o emprego da força, quando tal se afigure estritamente necessária e na medida exigida para o cumprimento do seu dever"
+    },
+    {
+     "letra": "D",
+     "texto": "O militar estadual está sujeito às exigências das situações extraordinárias, decorrentes de ordens de sobreaviso, de prontidão e de marcha"
+    },
+    {
+     "letra": "E",
+     "texto": "É dever ético do militar estadual abster-se, ainda que na inatividade, do uso das designações hierárquicas em atividade político partidária, salvo quando candidato a cargo eletivo"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 50"
+  },
+  {
+   "numero": "51",
+   "disciplina": "Legislação Federal",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "Raquel foi preterida em processo seletivo realizado para contratação de vendedora de famosa loja de joias, pelo simples fato de ser negra e nordestina. De acordo com os conceitos expressos no Estatuto da Igualdade Racial, Raquel foi vítima de ______. Assinale a alternativa que preencha corretamente a lacuna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desigualdade racial"
+    },
+    {
+     "letra": "B",
+     "texto": "ação afirmativa"
+    },
+    {
+     "letra": "C",
+     "texto": "discriminação racial ou étnico-racial"
+    },
+    {
+     "letra": "D",
+     "texto": "exclusão de política pública"
+    },
+    {
+     "letra": "E",
+     "texto": "ato moralmente condenável"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 51"
+  },
+  {
+   "numero": "52",
+   "disciplina": "Direitos Humanos",
+   "assunto": "Declaração Universal dos Direitos Humanos > Direitos Humanos",
+   "tipo": "multipla",
+   "enunciado": "De acordo com a Declaração Universal dos Direitos Humanos de 1948, é correto afirmar que não constitui direito de todo ser humano o ______. Assinale a alternativa que preencha corretamente a lacuna.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "direito à propriedade"
+    },
+    {
+     "letra": "B",
+     "texto": "direito à liberdade de pensamento, consciência e religião"
+    },
+    {
+     "letra": "C",
+     "texto": "direito de proferir discursos de ódio e ataques à honra de outrem, desde que apoiado em ideologia"
+    },
+    {
+     "letra": "D",
+     "texto": "direito à liberdade de opinião e expressão"
+    },
+    {
+     "letra": "E",
+     "texto": "direito de participar livremente da vida cultural da comunidade"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 52"
+  },
+  {
+   "numero": "53",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Órgãos da segurança pública > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "A segurança pública sempre foi um tema premente na sociedade brasileira, o que vem motivando inúmeras alterações no texto constitucional. Tendo em vista o que estabelece a Constituição Federal no tocante à segurança pública, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Cabe à Polícia Federal prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho"
+    },
+    {
+     "letra": "B",
+     "texto": "Exercer as funções segurança dos estabelecimentos penais é competência das polícias penais"
+    },
+    {
+     "letra": "C",
+     "texto": "Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil"
+    },
+    {
+     "letra": "D",
+     "texto": "Os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se aos Governadores dos Estados, do Distrito Federal e dos Territórios"
+    },
+    {
+     "letra": "E",
+     "texto": "Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei"
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 53"
+  },
+  {
+   "numero": "54",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Legislação Estadual, Distrital e Municipal",
+   "tipo": "multipla",
+   "enunciado": "Assinale a alternativa que apresenta o conceito de “decoro da classe militar” nos estritos termos do Regulamento de Ética Profissional dos Militares Estaduais do Paraná e seu Anexo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Qualidade íntima do militar estadual que se conduz com integridade honestidade honradez e justiça observando com rigor os deveres morais que possui"
+    },
+    {
+     "letra": "B",
+     "texto": "Sentimento de dignidade própria, procurando o militar estadual ilustrar e dignificar a Corporação, através da beleza e retidão moral que se conduz, resultando honestidade e decência"
+    },
+    {
+     "letra": "C",
+     "texto": "Qualidade do militar estadual baseada no respeito próprio dos companheiros e da comunidade para a qual serve, visando o melhor e mais digno desempenho da profissão militar"
+    },
+    {
+     "letra": "D",
+     "texto": "Elenco de valores e deveres éticos, traduzidos em normas de conduta, que se impõem para que o exercício da profissão militar atinja plenamente os ideais de realização do bem comum, através da preservação da ordem pública"
+    },
+    {
+     "letra": "E",
+     "texto": "Envolvimento a uma tomada de consciência perante o caso concreto, ou seja, realidade, implicando no reconhecimento da obrigatoriedade de um comportamento militar coerente, justo e equânime"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 54"
+  },
+  {
+   "numero": "55",
+   "disciplina": "Direitos Humanos",
+   "assunto": "Convenção Americana sobre Direitos Humanos (Pacto de San José) > Direitos Humanos",
+   "tipo": "multipla",
+   "enunciado": "Acerca dos direitos garantidos pela Convenção Americana sobre Direitos Humanos de 1969, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não é cabível direito à indenização por erro judiciário"
+    },
+    {
+     "letra": "B",
+     "texto": "Toda pessoa tem o direito de que se respeite sua integridade física, psíquica e moral"
+    },
+    {
+     "letra": "C",
+     "texto": "Ninguém pode ser submetido a escravidão ou a servidão, e tanto estas como o tráfico de escravos e o tráfico de mulheres são proibidos em todas as formas"
+    },
+    {
+     "letra": "D",
+     "texto": "Toda pessoa tem direito à liberdade e à segurança pessoais"
+    },
+    {
+     "letra": "E",
+     "texto": "Toda pessoa tem direito ao respeito de sua honra e ao reconhecimento de sua dignidade"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 55"
+  },
+  {
+   "numero": "56",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Disposições gerais (artigo 37 da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "A Constituição Federal estabelece diretrizes gerais para a administração pública que deve ser replicada por todos os entes da administração direta e indireta. Diante do exposto, assinale a alternativa que está em consonância com o texto constitucional.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O prazo de validade do concurso público será de até três anos, prorrogável uma vez, por igual período"
+    },
+    {
+     "letra": "B",
+     "texto": "É garantido ao servidor público civil e militar o direito à livre associação sindical"
+    },
+    {
+     "letra": "C",
+     "texto": "Os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo"
+    },
+    {
+     "letra": "D",
+     "texto": "A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos"
+    },
+    {
+     "letra": "E",
+     "texto": "Somente por lei complementar específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 56"
+  },
+  {
+   "numero": "57",
+   "disciplina": "Direitos Humanos",
+   "assunto": "Convenção Americana sobre Direitos Humanos (Pacto de San José)",
+   "tipo": "multipla",
+   "enunciado": "De acordo com a Convenção Americana sobre Direitos Humanos de 1969, no que diz respeito ao direito à vida, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ninguém pode ser privado da vida arbitrariamente"
+    },
+    {
+     "letra": "B",
+     "texto": "Não se pode restabelecer a pena de morte nos Estados que a hajam abolido"
+    },
+    {
+     "letra": "C",
+     "texto": "A pessoa condenada à morte não tem direito a solicitar anistia, indulto ou comutação da pena"
+    },
+    {
+     "letra": "D",
+     "texto": "Em nenhum caso pode a pena de morte ser aplicada por delitos políticos, nem por delitos comuns conexos com delitos políticos"
+    },
+    {
+     "letra": "E",
+     "texto": "Não se deve impor a pena de morte a pessoa que, no momento da perpetração do delito, for menor de 18 (dezoito) anos, ou maior de setenta, nem aplicá-la a mulher em estado de gravidez"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 57"
+  },
+  {
+   "numero": "58",
+   "disciplina": "Direitos Humanos",
+   "assunto": "Convenção Americana sobre Direitos Humanos (Pacto de San José)",
+   "tipo": "multipla",
+   "enunciado": "De acordo com a Convenção Americana sobre Direitos Humanos de 1969, assinale a alternativa que não constitui uma garantia mínima a que toda pessoa acusada de delito tem direito durante o processo judicial.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Direito de não ser obrigado a depor contra si mesma, nem a declarar-se culpada"
+    },
+    {
+     "letra": "B",
+     "texto": "Defender-se pessoalmente ou de ser assistido por um defensor de sua escolha e de comunicar-se, livremente e em particular, com seu defensor"
+    },
+    {
+     "letra": "C",
+     "texto": "Ser assistido gratuitamente por tradutor ou intérprete, se não compreender ou não falar o idioma do juízo ou tribunal"
+    },
+    {
+     "letra": "D",
+     "texto": "Direito de permanecer na sala de estado maior aguardando a formalização da acusação"
+    },
+    {
+     "letra": "E",
+     "texto": "Concessão do tempo e dos meios adequados para a preparação de sua defesa"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 58"
+  },
+  {
+   "numero": "59",
+   "disciplina": "Legislação Federal",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "Com base nas Leis 7.716/89, 9.455/1997, 12.850/2013 e 13.869/2019, assinale a alternativa que apresenta o efeito correto da condenação por crimes previstos na legislação supracitada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A perda do cargo, do mandato ou da função pública em caso de condenação por abuso de autoridade está condicionado à reincidência e cuida -se de efeito automático"
+    },
+    {
+     "letra": "B",
+     "texto": "A condenação por crime de tortura acarreta automaticamente a interdição do exercício de cargo, função ou emprego público pelo dobro da pena aplicada"
+    },
+    {
+     "letra": "C",
+     "texto": "A perda do cargo, do mandato ou da função pública em caso de condenação pelo crime de tortura não é efeito automático"
+    },
+    {
+     "letra": "D",
+     "texto": "Independentemente do trânsito em julgado, a condenação pelo crime previsto no art. 2º da Lei 12.850/2013 impõe a perda automática do cargo, emprego, função"
+    },
+    {
+     "letra": "E",
+     "texto": "Constitui efeito automático da condenação por crime resultante de preconceito de raça e cor a perda do cargo ou função para o servidor público"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 59"
+  },
+  {
+   "numero": "60",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Legislação Estadual, Distrital e Municipal",
+   "tipo": "multipla",
+   "enunciado": "Com base na Lei Estadual 1.943/1954 (Código da Polícia Militar do Paraná) e no que diz respeito à hierarquia, assinale a alternativa incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Em igualdade de postos ou graduações, os militares da ativa têm precedência sobre os da reserva ou reformados"
+    },
+    {
+     "letra": "B",
+     "texto": "A hierarquia dos militares da Corporação é idêntica à dos militares do Exército, até o posto de Coronel inclusive"
+    },
+    {
+     "letra": "C",
+     "texto": "Nenhum militar, ainda que em caso de funeral, pode dispensar honras e sinais de respeito devidos ao seu grau hierárquico"
+    },
+    {
+     "letra": "D",
+     "texto": "A precedência hierárquica entre os militares é regulada pelo posto ou graduação e, em caso de igualdade, pela antiguidade relativa"
+    },
+    {
+     "letra": "E",
+     "texto": "Os militares da Corporação são grupados em círculos idênticos aos dos militares do Exército"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "IBFC 2025 – PM PR – Soldado Policial Militar, questão 60"
+  }
+ ]
+}

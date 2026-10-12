@@ -66,6 +66,7 @@ export type QuestaoQuest = {
   dificuldade?: number | null;
   tipo?: string;
   anulada?: boolean;
+  carreiras?: string[];
 };
 
 export type Quota = { planCode: string | null; used: number; quotaPerCycle: number | null; remaining: number; percentUsed: number | null; periodEnd: string | null; unlimited: boolean };
@@ -246,6 +247,19 @@ function siglaBanca(b: string) {
   return BANCAS[b] ?? b;
 }
 
+// Órgãos com sigla diferente da usada no restante do banco, e nomes por extenso
+const ORGAOS: Record<string, string> = { DPF: "PF" };
+const NOMES_ORGAOS: Record<string, string> = {
+  PF: "Polícia Federal",
+  PRF: "Polícia Rodoviária Federal",
+  INSS: "Instituto Nacional do Seguro Social",
+  "TJ SP": "Tribunal de Justiça de São Paulo",
+  "TJ RS": "Tribunal de Justiça do Rio Grande do Sul",
+  "TRF 4": "Tribunal Regional Federal da 4ª Região",
+  "PM PR": "Polícia Militar do Paraná",
+  BANESE: "Banco do Estado de Sergipe",
+};
+
 function escolaridade(n?: string) {
   if (!n) return undefined;
   const s = n.toLowerCase();
@@ -268,7 +282,7 @@ export type QuestaoLote = {
   imagens?: { src: string; parte: "inline" }[];
 };
 
-export type CamposProvaLote = { banca?: string; banca_nome?: string; orgao?: string; cargo?: string; ano?: string; uf?: string; esfera?: string; escolaridade?: string };
+export type CamposProvaLote = { banca?: string; banca_nome?: string; orgao?: string; orgao_nome?: string; cargo?: string; ano?: string; uf?: string; esfera?: string; escolaridade?: string; area?: string };
 
 type Convertida = { questao: QuestaoLote; prova: CamposProvaLote; urls: string[] };
 
@@ -308,19 +322,89 @@ export function converterQuestao(q: QuestaoQuest, gabarito?: string | null): Con
       gabarito: q.anulada ? "X" : (g ?? undefined),
       anulada: !!q.anulada,
       dificuldade: dif ? String(dif <= 2 ? 1 : dif === 3 ? 2 : 3) : undefined,
-      fonte: prova ? `${siglaBanca(prova.banca)} ${ano ?? ""} – ${prova.orgao} – ${prova.cargo}, questão ${q.numero}`.replace(/\s+/g, " ") : undefined,
+      fonte: prova ? `${siglaBanca(prova.banca)} ${ano ?? ""} – ${ORGAOS[prova.orgao] ?? prova.orgao} – ${prova.cargo}, questão ${q.numero}`.replace(/\s+/g, " ") : undefined,
     },
     prova: {
       banca: prova ? siglaBanca(prova.banca) : undefined,
       banca_nome: prova?.banca,
-      orgao: prova?.orgao,
+      orgao: prova ? (ORGAOS[prova.orgao] ?? prova.orgao) : undefined,
+      orgao_nome: prova ? NOMES_ORGAOS[ORGAOS[prova.orgao] ?? prova.orgao] : undefined,
       cargo: prova?.cargo,
       ano,
       uf: prova?.uf && prova.uf !== "BR" ? prova.uf : undefined,
       esfera: prova?.esfera?.toLowerCase(),
       escolaridade: escolaridade(prova?.nivel_escolaridade),
+      area: (q.carreiras ?? []).map((c) => c.split(" / ")[0].trim()).find(Boolean),
     },
   };
+}
+
+// --- Normalização da classificação ----------------------------------------------
+// A API às vezes traz o assunto no campo "materia" (ex.: "Da Contratação Direta"). Aqui a
+// matéria vira assunto e a disciplina é deduzida por regras ou pelas questões vizinhas da prova.
+
+const DISCIPLINAS = new Set([
+  "Língua Portuguesa", "Matemática", "Matemática Financeira", "Raciocínio Lógico", "Estatística", "Informática",
+  "Tecnologia da Informação", "Direito Constitucional", "Direito Administrativo", "Direito Penal", "Direito Processual Penal",
+  "Direito Civil", "Direito Processual Civil - CPC 2015", "Direito do Trabalho", "Direito Processual do Trabalho",
+  "Direito Tributário", "Direito Previdenciário", "Direito Ambiental", "Direito Internacional", "Direito Eleitoral",
+  "Direito Empresarial", "Direitos Humanos", "Legislação Federal", "Legislação Estadual, Distrital e Municipal",
+  "Legislação dos Órgãos", "Legislação de Trânsito e CTB", "Contabilidade Geral", "Contabilidade Pública",
+  "Administração Geral", "Administração Pública", "Administração Financeira e Orçamentária - AFO", "Arquivologia",
+  "Economia e Finanças", "Conhecimentos Bancários", "Atualidades e Conhecimentos Gerais", "Geografia", "História",
+  "Redação Oficial", "Atendimento ao Público", "Ética", "Língua Inglesa", "Língua Espanhola", "Física", "Química",
+  "Biologia", "Auditoria", "Comunicação Social", "Pedagogia", "Psicologia", "Enfermagem", "Medicina",
+]);
+
+const REGRAS: [RegExp, string][] = [
+  [/\bda CF\)|constitucion|nacionalidade|Ministério Público|segurança pública|Supremo Tribunal/i, "Direito Constitucional"],
+  [/sintax|oração|orações|períod|verb|pontuação|acentuação|adjetiv|conjun|concordân|regênc|crase|coesão|semântic|sentidos do texto|interpretação de texto|inferência|figuras de linguagem|parônim|norma culta|reescrita|substituição de palavras|referenciação|função textual|deslocamento|estruturas linguísticas|flexões|formas nominais|ortografia|morfolog/i, "Língua Portuguesa"],
+  [/SQL|APIs|aprendizado de máquina|inteligência artificial|redes de computadores|banco de dados|programação|Python|Java\b/i, "Tecnologia da Informação"],
+  [/excel|word|windows|onedrive|linux|hardware|software|impressora|internet|redes sociais|videoconfer|segurança da informação|suítes|navegador|e-mail/i, "Informática"],
+  [/Estatuto dos Funcionários Públicos do Estado|Legislação Estadual|- PR$|- SP$/i, "Legislação Estadual, Distrital e Municipal"],
+  [/regimento interno|legislação aplicada/i, "Legislação dos Órgãos"],
+  [/^Lei n|^Lei de |Estatuto|Decreto/i, "Legislação Federal"],
+  [/crime|penas|inserção de dados falsos|peculato|concussão/i, "Direito Penal"],
+  [/prisão|persecução penal|inquérito|ação penal/i, "Direito Processual Penal"],
+  [/litisconsórcio|atos processuais|fungibilidade|requisitos extrínsecos|hipóteses de cabimento|citação|procedimento comum|arbitragem/i, "Direito Processual Civil - CPC 2015"],
+  [/contratação direta|licitat|alteração dos contratos|sanções cabíveis|improbidade|princípios implícitos|agentes públicos|atos administrativos/i, "Direito Administrativo"],
+  [/convenção americana|declaração universal|direitos humanos/i, "Direitos Humanos"],
+  [/câmbio|open banking|correspondentes bancários|mercado (de crédito|financeiro)|microcrédito|arranjos de pagamento|dinheiro na era digital|sistema financeiro|garantias reais|risco|bancári/i, "Conhecimentos Bancários"],
+  [/marketing|segmentação de mercado|negociação|técnicas de atendimento|vendas|telefonia/i, "Atendimento ao Público"],
+  [/geografia|população|urbaniza/i, "Geografia"],
+  [/república|independência|império|colonia|ditadura|era vargas/i, "História"],
+  [/seguridade social|previdenci/i, "Direito Previdenciário"],
+  [/ambiental/i, "Direito Ambiental"],
+  [/regra de três|porcentagem|frações|equaç|progressão|sequência|funções/i, "Matemática"],
+  [/condicional|proposiç|lógica|tabela-verdade|argument/i, "Raciocínio Lógico"],
+];
+
+export function normalizarDisciplinas(questoes: QuestaoLote[]) {
+  const deduzir = (m: string) => REGRAS.find(([re]) => re.test(m))?.[1];
+  const conhecida = (q: QuestaoLote) => DISCIPLINAS.has(q.disciplina);
+  const ordenadas = [...questoes].sort((a, b) => Number(a.numero) - Number(b.numero));
+  for (const q of ordenadas) {
+    if (conhecida(q)) continue;
+    const pelaRegra = deduzir(q.disciplina);
+    let nova = pelaRegra;
+    if (!nova) {
+      // questões vizinhas na prova costumam ser da mesma disciplina
+      const i = ordenadas.indexOf(q);
+      for (let d = 1; d <= 5 && !nova; d++) {
+        for (const v of [ordenadas[i - d], ordenadas[i + d]]) {
+          if (v && DISCIPLINAS.has(v.disciplina)) {
+            nova = v.disciplina;
+            break;
+          }
+        }
+      }
+    }
+    if (nova) {
+      q.assunto = q.assunto && q.assunto !== q.disciplina ? `${q.disciplina} > ${q.assunto}` : q.disciplina;
+      q.disciplina = nova;
+    }
+  }
+  return questoes;
 }
 
 // --- Gravação dos lotes ---------------------------------------------------------------
@@ -385,7 +469,7 @@ export async function gravarQuestoes(itens: { q: QuestaoQuest; gabarito?: string
   }
   fs.mkdirSync(PASTA_PROVAS, { recursive: true });
   for (const [arquivo, lote] of porArquivo) {
-    const questoes = [...lote.questoes.values()].sort((a, b) => Number(a.numero) - Number(b.numero));
+    const questoes = normalizarDisciplinas([...lote.questoes.values()]).sort((a, b) => Number(a.numero) - Number(b.numero));
     fs.writeFileSync(arquivo, JSON.stringify({ prova: lote.prova, questoes }, null, 1) + "\n");
   }
   return [...porArquivo.keys()];
@@ -402,8 +486,16 @@ function guardarBruto(nome: string, dados: unknown) {
 
 /** Refaz os lotes a partir das respostas guardadas em .cache/quest (não gasta créditos). */
 export async function reconverter() {
-  if (!fs.existsSync(PASTA_CACHE)) return [];
   const arquivos = new Set<string>();
+  // lotes sem cache (baixados antes do cache existir): só refaz a classificação
+  for (const nome of fs.existsSync(PASTA_PROVAS) ? fs.readdirSync(PASTA_PROVAS) : []) {
+    if (!/-q\d+\.json$/.test(nome)) continue;
+    const arq = path.join(PASTA_PROVAS, nome);
+    const lote = JSON.parse(fs.readFileSync(arq, "utf8")) as { prova: CamposProvaLote; questoes: QuestaoLote[] };
+    normalizarDisciplinas(lote.questoes);
+    fs.writeFileSync(arq, JSON.stringify(lote, null, 1) + "\n");
+  }
+  if (!fs.existsSync(PASTA_CACHE)) return [];
   for (const nome of fs.readdirSync(PASTA_CACHE).sort()) {
     const d = JSON.parse(fs.readFileSync(path.join(PASTA_CACHE, nome), "utf8"));
     if (nome.startsWith("prova-")) {

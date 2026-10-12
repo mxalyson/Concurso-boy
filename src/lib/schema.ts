@@ -1,6 +1,9 @@
+import type Database from "better-sqlite3";
+import { areaPorRegras } from "./areas";
+
 // Esquema do banco SQLite. Cada item de MIGRACOES é aplicado uma única vez,
-// controlado por PRAGMA user_version.
-export const MIGRACOES: string[] = [
+// controlado por PRAGMA user_version. Um item pode ser SQL ou uma função (dados derivados).
+export const MIGRACOES: (string | ((c: Database.Database) => void))[] = [
   /* sql */ `
   CREATE TABLE usuarios (
     id INTEGER PRIMARY KEY,
@@ -281,4 +284,15 @@ export const MIGRACOES: string[] = [
   ALTER TABLE questoes ADD COLUMN texto_confiavel INTEGER NOT NULL DEFAULT 1;
   ALTER TABLE provas ADD COLUMN origem TEXT NOT NULL DEFAULT 'manual';
   `,
+  // Área/carreira da prova (filtro "Área"): coluna e preenchimento das provas existentes
+  (c) => {
+    c.exec("ALTER TABLE provas ADD COLUMN area TEXT; CREATE INDEX provas_area ON provas(area);");
+    const provas = c
+      .prepare(
+        `SELECT p.id, p.cargo, o.sigla, o.nome FROM provas p LEFT JOIN orgaos o ON o.id = p.orgao_id`,
+      )
+      .all() as { id: number; cargo: string | null; sigla: string | null; nome: string | null }[];
+    const atualizar = c.prepare("UPDATE provas SET area = ? WHERE id = ?");
+    for (const p of provas) atualizar.run(areaPorRegras(p.sigla, p.nome, p.cargo), p.id);
+  },
 ];

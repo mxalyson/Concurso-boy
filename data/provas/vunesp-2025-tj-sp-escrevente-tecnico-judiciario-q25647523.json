@@ -3,11 +3,13 @@
   "banca": "VUNESP",
   "banca_nome": "VUNESP",
   "orgao": "TJ SP",
+  "orgao_nome": "Tribunal de Justiça de São Paulo",
   "cargo": "Escrevente Técnico Judiciário",
   "ano": "2025",
   "uf": "SP",
   "esfera": "estadual",
-  "escolaridade": "medio"
+  "escolaridade": "medio",
+  "area": "Tribunais"
  },
  "questoes": [
   {
@@ -148,8 +150,8 @@
   },
   {
    "numero": "5",
-   "disciplina": "Pontuação",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pontuação > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
    "enunciado": "Assinale a alternativa que atende à norma-padrão de pontuação e de emprego de pronome.",
@@ -182,8 +184,8 @@
   },
   {
    "numero": "6",
-   "disciplina": "Inferência Textual",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Inferência Textual > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
    "enunciado": "As informações do editorial permitem inferir corretamente que",
@@ -216,8 +218,8 @@
   },
   {
    "numero": "7",
-   "disciplina": "Semântica (significação das palavras)",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras) > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
    "enunciado": "No texto, o assombro com a violência que vitima as mulheres aparece expresso em palavras por meio de um substantivo, um adjetivo e um advérbio, correta e respectivamente destacados nas passagens:",
@@ -284,8 +286,8 @@
   },
   {
    "numero": "9",
-   "disciplina": "Função textual dos vocábulos",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
    "enunciado": "Com a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito. (1⁠º parágrafo)\n\nOs termos “Com”, “para”, “Mas” e “e” estabelecem, correta e respectivamente, relações de sentido de:",
@@ -420,8 +422,8 @@
   },
   {
    "numero": "13",
-   "disciplina": "Semântica (significação das palavras)",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras) > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
    "enunciado": "Considere as passagens:\n• O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. (1⁠º parágrafo)\n• Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. (2⁠º parágrafo)\n• E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos. (3⁠º parágrafo)\n\nNo contexto em que estão empregados, os termos destacados significam, correta e respectivamente:",
@@ -488,8 +490,8 @@
   },
   {
    "numero": "15",
-   "disciplina": "Emprego dos sinais de pontuação",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos sinais de pontuação > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
    "enunciado": "Considere as passagens:\n• ... mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. (1⁠º parágrafo)\n• ... morreu no dia em que iniciaria, em Paris, as gravações do disco... (3⁠º parágrafo)\n\nAs vírgulas empregadas nas passagens transcritas apresentam o mesmo motivo de emprego, respectivamente, nas expressões destacadas em:",
@@ -522,8 +524,8 @@
   },
   {
    "numero": "16",
-   "disciplina": "Norma culta ou norma padrão",
-   "assunto": "Língua Portuguesa",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Norma culta ou norma padrão > Língua Portuguesa",
    "tipo": "multipla",
    "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
    "enunciado": "Considere as informações:\n• Estigma _______ por mulheres asiáticas que pedem divórcio\n\n(https://www.terra.com.br/noticias, 31.08.2025. Adaptado.)\n• Quando, a energia elétrica caiu em praticamente toda a Península Ibérica, em Madri, era meio-dia e ________ .\n\nO que se seguiu a partir daí foi o que se espera em situações como essa: caos.\n\n(https://www.nexojornal.com.br, 30.04.2025. Adaptado.)\n• NASA trouxe para Terra _______ gramas de um tipo de asteroide que “pode ter acelerado o surgimento da vida”\n\n(https://expresso.pt/sociedade/ciencia, 27.09.2023. Adaptado)\n\nDe acordo com a norma-padrão, as lacunas das frases devem ser preenchidas, respectivamente, com:",
@@ -622,8 +624,8 @@
   },
   {
    "numero": "19",
-   "disciplina": "Inserção de dados falsos em sistema de informações",
-   "assunto": "Crimes Praticados por Funcionário Público Contra a Administração em Geral",
+   "disciplina": "Direito Penal",
+   "assunto": "Inserção de dados falsos em sistema de informações > Crimes Praticados por Funcionário Público Contra a Administração em Geral",
    "tipo": "multipla",
    "enunciado": "Com relação ao crime previsto no art. 313-A do CP (inserção de dados falsos em sistema de informações), é correto afirmar que, para que o crime se configure,",
    "alternativas": [
@@ -655,8 +657,8 @@
   },
   {
    "numero": "20",
-   "disciplina": "Crimes Praticados por Funcionário Público Contra a Administração em Geral",
-   "assunto": "Direito Penal",
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes Praticados por Funcionário Público Contra a Administração em Geral > Direito Penal",
    "tipo": "multipla",
    "enunciado": "O crime de condescendência criminosa caracteriza-se quando o funcionário público deixa de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não leva o fato ao conhecimento da autoridade competente. Complementa a descrição da ação típica o elemento",
    "alternativas": [
@@ -688,8 +690,8 @@
   },
   {
    "numero": "21",
-   "disciplina": "Incompatibilidades e Impedimentos",
-   "assunto": "Direito Processual Penal",
+   "disciplina": "Direito Penal",
+   "assunto": "Incompatibilidades e Impedimentos > Direito Processual Penal",
    "tipo": "multipla",
    "enunciado": "De acordo com o Código de Processo Penal, é correto afirmar que o juiz será considerado",
    "alternativas": [
@@ -754,8 +756,8 @@
   },
   {
    "numero": "23",
-   "disciplina": "Citação",
-   "assunto": "Direito Processual Penal",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Citação > Direito Processual Penal",
    "tipo": "multipla",
    "enunciado": "Sobre a temática da citação judicial no processo penal, é correto afirmar:",
    "alternativas": [
@@ -787,8 +789,8 @@
   },
   {
    "numero": "24",
-   "disciplina": "Procedimento comum",
-   "assunto": "Direito Processual Penal",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Procedimento comum > Direito Processual Penal",
    "tipo": "multipla",
    "enunciado": "No tocante ao tema “instrução criminal – procedimento comum”, assinale a alternativa correta.",
    "alternativas": [
@@ -853,8 +855,8 @@
   },
   {
    "numero": "26",
-   "disciplina": "Conceito e Princípios dos Atos Processuais",
-   "assunto": "Penhora",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Conceito e Princípios dos Atos Processuais > Penhora",
    "tipo": "multipla",
    "enunciado": "Tom emprestou R$ 50.000,00 a Gael mediante a assinatura de uma nota promissória com vencimento no prazo 30 dias. Passado o prazo, Gael não realizou o pagamento, razão pela qual Tom ajuizou ação de execução de título extrajudicial requerendo a citação de Gael para pagar a dívida em 3 dias, sob pena de penhora de bens. Citado, Gael manteve-se inerte. O juiz então determinou a penhora do automóvel de Gael. O oficial de justiça compareceu à casa de Gael em um sábado, às 21h, para efetivar a diligência.\n\nDiante da situação hipotética, é correto afirmar que o ato processual é",
    "alternativas": [
@@ -886,8 +888,8 @@
   },
   {
    "numero": "27",
-   "disciplina": "Procedimento",
-   "assunto": "Execução de Prestação Alimentícia",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Procedimento > Execução de Prestação Alimentícia",
    "tipo": "multipla",
    "enunciado": "João, de 10 anos, representado por sua mãe, ajuíza ação de alimentos contra seu pai, Carlos, alegando que este não contribui regularmente para seu sustento. Nos autos, resta comprovado que a mãe arca sozinha com todas as despesas de João, enquanto Carlos possui emprego estável e renda mensal líquida de R$ 6.000,00. João requer o pagamento de R$ 30.000,00 pelos alimentos em atraso, bem como a fixação de alimentos mensais no valor de R$ 1.800,00.\n\nEm sentença, o juiz julga totalmente procedentes os pedidos de João.\n\nDiante da situação hipotética, sendo certo que a sentença ainda não transitou em julgado, assinale a alternativa correta.",
    "alternativas": [
@@ -919,8 +921,8 @@
   },
   {
    "numero": "28",
-   "disciplina": "Requisitos Extrínsecos",
-   "assunto": "Procedimento",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Requisitos Extrínsecos > Procedimento",
    "tipo": "multipla",
    "enunciado": "Helena contratou Arthur, advogado autônomo, para propor ação de indenização contra Karina. Realizada a instrução processual, a sentença foi julgada improcedente. Durante o prazo para interposição de apelação, Arthur veio a falecer.\n\nDiante da situação hipotética, é correto afirmar que o prazo para interposição da apelação",
    "alternativas": [
@@ -1018,8 +1020,8 @@
   },
   {
    "numero": "31",
-   "disciplina": "Direitos e deveres individuais e coletivos ou direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade,àsegurançaeàpropriedade (artigo 5º da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e deveres individuais e coletivos ou direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade,àsegurançaeàpropriedade (artigo 5º da CF) > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "O policial Severo foi chamado a atender um flagrante delito que o sujeito apelidado de Pernalonga estava cometendo dentro da casa deste. Chegando ao local do crime no final da tarde e evidenciada a prática de infração penal, Severo constatou que era hipótese de flagrante delito. Coincidentemente, o policial avistou em uma casa vizinha Carcará, criminoso foragido e que tinha mandado de prisão expedido por autoridade judicial. Diante da situação, face ao adiantado da hora, e, obviamente, não havendo consentimento dos moradores, pairou dúvidas acerca da possibilidade de adentrar nos domicílios de Pernalonga e Carcará para efetuar as prisões.\n\nFace a situação hipotética, é correto afirmar, de acordo com o disposto na Constituição de 1988, que",
    "alternativas": [
@@ -1051,8 +1053,8 @@
   },
   {
    "numero": "32",
-   "disciplina": "Remédios constitucionais ou writs constitucionais ou ações constitucionais ou garantias constitucionais",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Remédios constitucionais ou writs constitucionais ou ações constitucionais ou garantias constitucionais > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "A respeito das ações constitucionais, assinale a alternativa correta.",
    "alternativas": [
@@ -1084,8 +1086,8 @@
   },
   {
    "numero": "33",
-   "disciplina": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF)",
-   "assunto": "Direito Constitucional",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF) > Direito Constitucional",
    "tipo": "multipla",
    "enunciado": "Joaquim, integrante da carreira diplomática portuguesa, prestando serviço em Angola, foi casado em primeiras núpcias com a atriz portuguesa Catarina, tendo nascido a filha Josefina. Posteriormente, Joaquim se separou e casou-se com Rúbia, tenista e brasileira naturalizada, tendo nascido da união a filha Sandra. Josefina e Sandra nasceram em Angola quando apenas o genitor estava a serviço de Portugal.\n\nTendo interesse que as filhas sigam a carreira diplomática, mas pela República Federativa do Brasil, assinale a alternativa correta à luz das disposições da Constituição de 1988",
    "alternativas": [
@@ -1183,8 +1185,8 @@
   },
   {
    "numero": "36",
-   "disciplina": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968",
-   "assunto": "Legislação Estadual, Distrital e Municipal",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968 > Legislação Estadual, Distrital e Municipal",
    "tipo": "multipla",
    "enunciado": "João, servidor público do Estado de São Paulo, é um atleta de destaque em sua modalidade esportiva. Ele recebeu um convite para participar de duas competições importantes: (1) os Jogos Sul-Americanos, que acontecerão na Colômbia, onde representará o Brasil, conforme requisição formal da Confederação Brasileira de sua modalidade; e (2) o torneio interestadual, em Minas Gerais, no qual a equipe do clube esportivo que irá representar, baseada em São Paulo, irá competir com chances reais de pódio. O clube esportivo fez a solicitação de seu afastamento para o segundo caso. Supondo que João buscou a devida autorização junto à autoridade competente, é correto afirmar, com base no Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei nº 10.261/1968), que o afastamento de João para participar",
    "alternativas": [
@@ -1216,8 +1218,8 @@
   },
   {
    "numero": "37",
-   "disciplina": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968",
-   "assunto": "Legislação Estadual, Distrital e Municipal",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968 > Legislação Estadual, Distrital e Municipal",
    "tipo": "multipla",
    "enunciado": "Maria, recém-aprovada em concurso público para o cargo civil no Governo do Estado de São Paulo, tomou posse em 15 de agosto de 2025. No entanto, em 10 de setembro de 2025, Maria sofreu um acidente doméstico e necessitou de repouso absoluto, impossibilitando sua entrada em exercício no prazo. No dia 12 de setembro de 2025, sua advogada protocolou um requerimento solicitando a prorrogação do prazo para início do exercício por mais 90 dias. Não houve qualquer pedido de licença por motivo de saúde por parte de Maria. A autoridade competente, avaliando o caso, concedeu a prorrogação solicitada para o início do exercício, porém, apenas até 14 de outubro de 2025. De acordo com o Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei nº 10.261/1968) e com a situação hipotética descrita, é correto afirmar que",
    "alternativas": [
@@ -1282,8 +1284,8 @@
   },
   {
    "numero": "39",
-   "disciplina": "Sanções Cabíveis",
-   "assunto": "Direito Administrativo",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Sanções Cabíveis > Direito Administrativo",
    "tipo": "multipla",
    "enunciado": "A empresa Construções Rápidas Ltda., uma construtora de médio porte com atuação predominante em projetos de infraestrutura básica em pequenos municípios do interior, foi processada por ato de improbidade administrativa, na modalidade de lesão ao erário, em razão de superfaturamento comprovado em contrato de pavimentação de vias urbanas com a Prefeitura Municipal de Y. Auditoria do Tribunal de Contas competente confirmou o dano ao patrimônio público. Durante a fase de fixação das sanções, a defesa da Construções Rápidas Ltda. demonstrou que a empresa é a principal empregadora da cidade, gerando centenas de postos de trabalho diretos e indiretos, e que sua falência, decorrente de uma sanção excessivamente severa, causaria um grave impacto social e econômico no município, com o fechamento de postos de trabalho, a interrupção de projetos em andamento e a perda de arrecadação de impostos. Com base na situação hipotética e nas disposições da Lei nº 8.429/1992 (Lei de Improbidade Administrativa), assinale a alternativa correta.",
    "alternativas": [
@@ -1315,8 +1317,8 @@
   },
   {
    "numero": "40",
-   "disciplina": "Sanções Cabíveis",
-   "assunto": "Direito Administrativo",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Sanções Cabíveis > Direito Administrativo",
    "tipo": "multipla",
    "enunciado": "A Organização da Sociedade Civil Esperança Viva, pessoa jurídica de direito privado sem fins lucrativos, celebrou com a Prefeitura Municipal de X o instrumento jurídico apropriado para a gestão de um projeto social de atendimento a crianças e adolescentes em situação de vulnerabilidade, utilizando integralmente recursos provenientes do erário público municipal. Durante a execução do projeto, verificou-se que o Sr. João da Silva, presidente da Esperança Viva, em conluio com a Sra. Maria Souza, servidora pública municipal responsável pela fiscalização do termo de parceria, desviou parte dos recursos repassados pela prefeitura para fins pessoais, por meio da apresentação de notas fiscais falsas relativas a serviços nunca prestados. Tal conduta gerou um prejuízo significativo aos cofres públicos e comprometeu o atendimento às crianças e aos adolescentes beneficiados pelo projeto. Com base na situação hipotética e nas disposições da Lei nº 8.429/1992 (Lei de Improbidade Administrativa), assinale a alternativa correta.",
    "alternativas": [
@@ -1381,8 +1383,8 @@
   },
   {
    "numero": "42",
-   "disciplina": "Legislação Aplicada - TJ SP",
-   "assunto": "Legislação dos Órgãos",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação Aplicada - TJ SP > Legislação dos Órgãos",
    "tipo": "multipla",
    "enunciado": "Considere que o juiz diretor realizou reunião para informar os servidores da Comarca sobre a implantação do sistema eproc. A ideia era reforçar a importância de que todos os servidores conheçam as condições de funcionamento do sistema e consigam orientar partes e advogados sobre os passos a serem seguidos para o protocolo correto de petições. Logo após a divulgação do cronograma de implantação, Fabiana, escrevente judiciária, foi designada para atender o público externo e esclarecer dúvidas sobre o assunto.\n\nCom base na Resolução nº 963/2025, Fabiana poderá afirmar corretamente que",
    "alternativas": [
@@ -1414,8 +1416,8 @@
   },
   {
    "numero": "43",
-   "disciplina": "Legislação Aplicada - TJ SP",
-   "assunto": "Legislação dos Órgãos",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação Aplicada - TJ SP > Legislação dos Órgãos",
    "tipo": "multipla",
    "enunciado": "Felipe é escrevente técnico judiciário e tem o interesse de desempenhar as suas atividades no regime de teletrabalho. Por estar no exercício do cargo há dois anos (estágio probatório) e lotado no gabinete da magistrada titular da Vara, ele tem dúvidas sobre a real possibilidade de ser enquadrado no regime, motivo pelo qual procura sua colega de trabalho, Fernanda, para sanar dúvidas sobre o assunto.\n\nCom base na situação hipotética e no disposto na Resolução nº 850/2021, Fernanda poderá afirmar corretamente que",
    "alternativas": [
@@ -1645,8 +1647,8 @@
   },
   {
    "numero": "50",
-   "disciplina": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
-   "assunto": "Da Igualdade e não Discriminação - Artigo 4º ao 8º",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência > Da Igualdade e não Discriminação - Artigo 4º ao 8º",
    "tipo": "multipla",
    "enunciado": "Soraia tem 45 anos, tem impedimento, de longo prazo, de natureza intelectual e sensorial, os quais, em interação com duas barreiras – urbanísticas e atitudinais –, obstruem sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. Ela está atualmente em curatela – exercida por Mário –, e como quer se tornar mãe, deseja adotar uma criança. No dia em que procuraria atendimento jurídico para saber se poderia se inscrever no cadastro de nacional de adoção, Soraia desmaiou. Em face do estado de inconsciência, foi atendida sem consentimento prévio. Quando acordou, estava no hospital, oportunidade na qual o médico, responsável pelo atendimento, lhe informou que estava desenvolvendo uma pesquisa científica com indícios de benefícios diretos para sua saúde, e disse que não havia outra pesquisa de eficácia comparável sendo realizada com participantes não curatelados, perguntou, então, se ela gostaria de participar da pesquisa.\n\nCom base na situação hipotética apresentada e no disposto na Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência), assinale a alternativa correta.",
    "alternativas": [
@@ -1816,8 +1818,8 @@
   },
   {
    "numero": "55",
-   "disciplina": "OneDrive",
-   "assunto": "Internet",
+   "disciplina": "Informática",
+   "assunto": "OneDrive > Internet",
    "tipo": "multipla",
    "enunciado": "Ao usar o OneDrive com o MS-Windows 11, em sua configuração padrão, um arquivo da nuvem marcado como disponível localmente pode deixar de estar disponível localmente",
    "alternativas": [
@@ -1882,8 +1884,8 @@
   },
   {
    "numero": "57",
-   "disciplina": "Microsoft Word",
-   "assunto": "Microsoft Word 365",
+   "disciplina": "Informática",
+   "assunto": "Microsoft Word > Microsoft Word 365",
    "tipo": "multipla",
    "enunciado": "Um escrevente criou um novo documento vazio por meio do MS-Word 365, em sua configuração padrão, e executou as ações a seguir, nesta ordem:\n\n1. Pressionou o botão sublinhado.\n\n2. Digitou a palavra TRIBUNAL.\n\n3. Pressionou a barra de espaços.\n\n4. Digitou a palavra DE.\n\n5. Pressionou o botão negrito.\n\n6. Pressionou a barra de espaços.\n\n7. Pressionou o botão itálico.\n\n8. Digitou a palavra JUSTIÇA.\n\n9. Pressionou o botão negrito.\n\n10. Pressionou a barra de espaços.\n\n11. Digitou a palavra DO.\n\n12. Pressionou a barra de espaços.\n\n13. Pressionou o botão sublinhado.\n\n14. Pressionou o botão itálico.\n\n15. Digitou a palavra ESTADO.\n\n16. Selecionou todo o parágrafo.\n\n17. Pressionou o botão sublinhado.\n\nApós todas as ações descritas, os números de palavras com formatação negrito, formatação itálico e formatação sublinhado são, correta e respectivamente,",
    "alternativas": [
@@ -1915,8 +1917,8 @@
   },
   {
    "numero": "58",
-   "disciplina": "Microsoft Excel",
-   "assunto": "EXCEL 365",
+   "disciplina": "Informática",
+   "assunto": "Microsoft Excel > EXCEL 365",
    "tipo": "multipla",
    "enunciado": "Um escrevente preparou a seguinte planilha por meio do MS-Excel 365, em sua configuração padrão, para auxiliar na gestão de processos e suas respectivas situações:\n\n[[img:0]]\n\nApós preencher as colunas A, B e C, digitou a palavra Descrição na célula D6, inseriu uma fórmula na célula D7 e, arrastando a alça de preenchimento de D7 até D9, terminou a planilha.\n\nAssinale a alternativa que apresenta corretamente a fórmula inserida em D7 que atende ao enunciado e aos valores da planilha.",
    "alternativas": [
@@ -1954,8 +1956,8 @@
   },
   {
    "numero": "59",
-   "disciplina": "EXCEL 365",
-   "assunto": "Informática",
+   "disciplina": "Informática",
+   "assunto": "EXCEL 365 > Informática",
    "tipo": "multipla",
    "enunciado": "A planilha a seguir foi elaborada por meio do MS-Excel 365, em sua configuração padrão:\n\n[[img:0]]\n\nAssinale a alternativa que apresenta corretamente o valor retornado pela fórmula\n\n=SE(MAIOR(A2:C3;2)<5;MENOR(A1:B3;3)+B2;MENOR(A1:B3;3)+B1) após esta ser inserida na célula A4.",
    "alternativas": [
@@ -2026,8 +2028,8 @@
   },
   {
    "numero": "61",
-   "disciplina": "Internet",
-   "assunto": "Google",
+   "disciplina": "Informática",
+   "assunto": "Internet > Google",
    "tipo": "multipla",
    "enunciado": "Um usuário do buscador www.google.com, em sua configuração padrão, deseja buscar páginas que contenham, simultaneamente, as três palavras seguintes no corpo da página: “segurança”, “dados” e “privacidade”.\n\nAssinale a alternativa que apresenta corretamente a expressão de busca que deve ser usada no buscador.",
    "alternativas": [
@@ -2092,8 +2094,8 @@
   },
   {
    "numero": "63",
-   "disciplina": "Windows 11",
-   "assunto": "Windows",
+   "disciplina": "Informática",
+   "assunto": "Windows 11 > Windows",
    "tipo": "multipla",
    "enunciado": "Um usuário abriu uma pasta local em seu computador, por meio do Explorador de Arquivos do MS-Windows 11, ambos na configuração padrão, e nela estavam somente os seguintes arquivos vazios:\n\nnormas_sindicato.txt\n\nbusca_indicios.txt\n\nindicativo_correto.txt\n\nIntroducao.txt\n\nprocesso_inicial.txt\n\nEm seguida, usou a barra de pesquisa do Explorador de Arquivos na mesma pasta, para pesquisar nessa pasta pelo nome dos arquivos com o seguinte padrão de pesquisa:\n\nind*\n\nQuanto aos arquivos retornados como resultado dessa pesquisa, é correto afirmar que",
    "alternativas": [
