@@ -84,7 +84,7 @@ export function listarBancas(): Banca[] {
   return db()
     .prepare(
       `SELECT b.id, b.sigla, b.nome,
-         (SELECT count(*) FROM questoes q JOIN provas p ON p.id = q.prova_id WHERE p.banca_id = b.id) AS total
+         (SELECT count(DISTINCT qp.questao_id) FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id WHERE p.banca_id = b.id) AS total
        FROM bancas b ORDER BY b.sigla`,
     )
     .all() as Banca[];
@@ -94,7 +94,7 @@ export function listarOrgaos(): Orgao[] {
   return db()
     .prepare(
       `SELECT o.id, o.sigla, o.nome, o.esfera, o.uf,
-         (SELECT count(*) FROM questoes q JOIN provas p ON p.id = q.prova_id WHERE p.orgao_id = o.id) AS total
+         (SELECT count(DISTINCT qp.questao_id) FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id WHERE p.orgao_id = o.id) AS total
        FROM orgaos o ORDER BY o.sigla`,
     )
     .all() as Orgao[];

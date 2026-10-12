@@ -62,6 +62,8 @@ export async function salvarQuestao(_: EstadoQuestao, form: FormData): Promise<E
            fonte = @fonte, hash = @hash WHERE id = @id`,
       )
       .run({ ...r.linha, id });
+    if (r.linha.prova_id)
+      db().prepare("INSERT OR IGNORE INTO questao_provas (questao_id, prova_id, numero) VALUES (?, ?, ?)").run(id, r.linha.prova_id, r.linha.numero);
   } catch {
     return { erro: "Já existe outra questão com o mesmo enunciado e alternativas." };
   }

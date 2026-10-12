@@ -37,14 +37,14 @@ export default async function PaginaProvas({ searchParams }: { searchParams: Pro
   const provas = db()
     .prepare(
       `SELECT p.id, b.sigla AS banca, o.sigla AS orgao, o.nome AS orgao_nome, p.cargo, p.ano, p.escolaridade, p.area,
-         count(q.id) AS total,
+         count(DISTINCT qp.questao_id) AS total,
          count(DISTINCT r.questao_id) AS resolvidas,
          count(DISTINCT CASE WHEN r.correta = 1 THEN r.questao_id END) AS acertos
        FROM provas p
-       JOIN questoes q ON q.prova_id = p.id
+       JOIN questao_provas qp ON qp.prova_id = p.id
        LEFT JOIN bancas b ON b.id = p.banca_id
        LEFT JOIN orgaos o ON o.id = p.orgao_id
-       LEFT JOIN respostas r ON r.questao_id = q.id AND r.usuario_id = @usuario
+       LEFT JOIN respostas r ON r.questao_id = qp.questao_id AND r.usuario_id = @usuario
        WHERE ${where.join(" AND ")}
        GROUP BY p.id
        ORDER BY p.ano DESC, b.sigla, o.sigla, p.cargo`,
@@ -52,7 +52,7 @@ export default async function PaginaProvas({ searchParams }: { searchParams: Pro
     .all(params) as Linha[];
   const opcoes = db()
     .prepare(
-      `SELECT DISTINCT b.sigla AS banca, p.ano, p.area FROM provas p JOIN questoes q ON q.prova_id = p.id
+      `SELECT DISTINCT b.sigla AS banca, p.ano, p.area FROM provas p JOIN questao_provas qp ON qp.prova_id = p.id
        LEFT JOIN bancas b ON b.id = p.banca_id WHERE b.sigla IS NULL OR b.sigla <> 'AUTORAL'`,
     )
     .all() as { banca: string | null; ano: number | null; area: string | null }[];

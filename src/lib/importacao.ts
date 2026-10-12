@@ -237,6 +237,9 @@ export function importarLote(entrada: unknown, padrao: { disciplina?: string } =
      ON CONFLICT(hash) DO NOTHING`,
   );
 
+  const porHash = db().prepare("SELECT id FROM questoes WHERE hash = ?");
+  const vincular = db().prepare("INSERT OR IGNORE INTO questao_provas (questao_id, prova_id, numero) VALUES (?, ?, ?)");
+
   db().transaction(() => {
     itens.forEach((bruto, indice) => {
       const r = prepararQuestao(bruto, { ...provaComum, disciplina: padrao.disciplina });
@@ -245,11 +248,16 @@ export function importarLote(entrada: unknown, padrao: { disciplina?: string } =
         return;
       }
       const info = inserir.run(r.linha);
-      if (info.changes === 0) resultado.duplicadas++;
-      else {
+      let id = Number(info.lastInsertRowid);
+      if (info.changes === 0) {
+        // questão idêntica já existe (ex.: aplicada em outra prova): só registra esta prova
+        resultado.duplicadas++;
+        id = (porHash.get(r.linha.hash) as { id: number }).id;
+      } else {
         resultado.inseridas++;
-        resultado.ids.push(Number(info.lastInsertRowid));
+        resultado.ids.push(id);
       }
+      if (r.linha.prova_id) vincular.run(id, r.linha.prova_id, r.linha.numero);
     });
   })();
 

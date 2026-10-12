@@ -185,6 +185,11 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
           </Selo>
         )}
         {questao.fonte && <Selo className="max-w-full truncate">{questao.fonte}</Selo>}
+        {questao.outras_provas && (
+          <Selo title={`Também aplicada em: ${questao.outras_provas.split(" | ").join("; ")}`}>
+            + {questao.outras_provas.split(" | ").length} {questao.outras_provas.includes(" | ") ? "provas" : "prova"}
+          </Selo>
+        )}
       </div>
 
       {/* Corpo */}

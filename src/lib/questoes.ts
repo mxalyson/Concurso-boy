@@ -49,6 +49,8 @@ export type QuestaoResumo = {
   ultima_resposta: string | null;
   ultima_correta: boolean | null;
   favorita: boolean;
+  /** Outras provas em que a mesma questão foi aplicada ("A | B | C"), ou null. */
+  outras_provas: string | null;
 };
 
 export type QuestaoCompleta = QuestaoResumo & {
@@ -81,7 +83,11 @@ const SELECT_BASE = `
     (SELECT count(*) FROM respostas r WHERE r.questao_id = q.id AND r.usuario_id = @usuario AND r.correta = 1) AS acertos,
     (SELECT r.resposta FROM respostas r WHERE r.questao_id = q.id AND r.usuario_id = @usuario ORDER BY r.id DESC LIMIT 1) AS ultima_resposta,
     (SELECT r.correta FROM respostas r WHERE r.questao_id = q.id AND r.usuario_id = @usuario ORDER BY r.id DESC LIMIT 1) AS ultima_correta,
-    EXISTS (SELECT 1 FROM favoritos f WHERE f.questao_id = q.id AND f.usuario_id = @usuario) AS favorita
+    EXISTS (SELECT 1 FROM favoritos f WHERE f.questao_id = q.id AND f.usuario_id = @usuario) AS favorita,
+    (SELECT group_concat(trim(ifnull(bb.sigla, '') || ' ' || ifnull(pp.ano, '') || ' ' || ifnull(oo.sigla, '') || ' – ' || ifnull(pp.cargo, '')), ' | ')
+       FROM questao_provas qp JOIN provas pp ON pp.id = qp.prova_id
+       LEFT JOIN bancas bb ON bb.id = pp.banca_id LEFT JOIN orgaos oo ON oo.id = pp.orgao_id
+       WHERE qp.questao_id = q.id AND qp.prova_id <> ifnull(q.prova_id, 0)) AS outras_provas
   FROM questoes q
   JOIN disciplinas d ON d.id = q.disciplina_id
   LEFT JOIN assuntos a ON a.id = q.assunto_id
@@ -167,23 +173,29 @@ export function montarFiltro(f: Filtros, usuarioId: number): Clausula {
         UNION SELECT a.id FROM assuntos a JOIN sub ON a.parent_id = sub.id
       ) SELECT id FROM sub)`);
   }
-  if (f.bancas.length) where.push(`p.banca_id IN (${em(f.bancas)})`);
-  if (f.orgaos.length) where.push(`p.orgao_id IN (${em(f.orgaos)})`);
-  if (f.anos.length) where.push(`p.ano IN (${em(f.anos)})`);
-  if (f.escolaridades.length) where.push(`p.escolaridade IN (${em(f.escolaridades)})`);
+  // Condições sobre a prova valem para qualquer prova em que a questão foi aplicada
+  // (a mesma questão pode estar em várias provas: tabela questao_provas).
+  const naProva: string[] = [];
+  if (f.bancas.length) naProva.push(`pp.banca_id IN (${em(f.bancas)})`);
+  if (f.orgaos.length) naProva.push(`pp.orgao_id IN (${em(f.orgaos)})`);
+  if (f.anos.length) naProva.push(`pp.ano IN (${em(f.anos)})`);
+  if (f.escolaridades.length) naProva.push(`pp.escolaridade IN (${em(f.escolaridades)})`);
   if (f.dificuldades.length) where.push(`${DIFICULDADE_SQL} IN (${em(f.dificuldades)})`);
-  if (f.provas?.length) where.push(`q.prova_id IN (${em(f.provas)})`);
-  if (f.areas?.length) where.push(`p.area IN (${em(f.areas)})`);
-  if (f.cargos?.length) where.push(`p.cargo IN (${em(f.cargos)})`);
-  if (f.esferas?.length) where.push(`p.orgao_id IN (SELECT id FROM orgaos WHERE esfera IN (${em(f.esferas)}))`);
-  if (f.ufs?.length) where.push(`p.orgao_id IN (SELECT id FROM orgaos WHERE uf IN (${em(f.ufs)}))`);
+  if (f.provas?.length) naProva.push(`pp.id IN (${em(f.provas)})`);
+  if (f.areas?.length) naProva.push(`pp.area IN (${em(f.areas)})`);
+  if (f.cargos?.length) naProva.push(`pp.cargo IN (${em(f.cargos)})`);
+  if (f.esferas?.length) naProva.push(`pp.orgao_id IN (SELECT id FROM orgaos WHERE esfera IN (${em(f.esferas)}))`);
+  if (f.ufs?.length) naProva.push(`pp.orgao_id IN (SELECT id FROM orgaos WHERE uf IN (${em(f.ufs)}))`);
   if (f.com?.includes("comentario")) where.push("q.comentario IS NOT NULL AND trim(q.comentario) <> ''");
   if (f.com?.includes("imagem")) where.push("q.imagens <> '[]'");
   if (f.com?.includes("texto")) where.push("q.texto_base IS NOT NULL AND trim(q.texto_base) <> ''");
   if (f.origem === "autoral") where.push("p.banca_id IN (SELECT id FROM bancas WHERE sigla = 'AUTORAL')");
   if (f.origem === "oficial") where.push("(p.banca_id IS NULL OR p.banca_id NOT IN (SELECT id FROM bancas WHERE sigla = 'AUTORAL'))");
+  if (f.cargo) naProva.push(`pp.cargo LIKE ${em([`%${f.cargo}%`])}`);
+  if (naProva.length)
+    where.push(`EXISTS (SELECT 1 FROM questao_provas qp JOIN provas pp ON pp.id = qp.prova_id
+      WHERE qp.questao_id = q.id AND ${naProva.join(" AND ")})`);
   if (f.tipo) where.push(`q.tipo = ${em([f.tipo])}`);
-  if (f.cargo) where.push(`p.cargo LIKE ${em([`%${f.cargo}%`])}`);
   if (!f.incluirAnuladas) where.push("q.anulada = 0");
   if (!f.incluirDesatualizadas) where.push("q.desatualizada = 0");
   if (f.favoritas) where.push("EXISTS (SELECT 1 FROM favoritos f WHERE f.questao_id = q.id AND f.usuario_id = @usuario)");
@@ -225,7 +237,8 @@ function ordenacao(f: Filtros): string {
         q.dificuldade DESC NULLS LAST, q.id DESC`;
     default:
       // uma prova só: na ordem do caderno de prova
-      if (f.provas?.length === 1) return "ORDER BY q.numero ASC NULLS LAST, q.id ASC";
+      if (f.provas?.length === 1)
+        return `ORDER BY (SELECT qp.numero FROM questao_provas qp WHERE qp.questao_id = q.id AND qp.prova_id = ${Number(f.provas[0])}) ASC NULLS LAST, q.id ASC`;
       return "ORDER BY p.ano DESC NULLS LAST, q.id DESC";
   }
 }

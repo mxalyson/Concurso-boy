@@ -8,7 +8,7 @@ type Contagem = { valor: string; total: number };
 function contar(expr: string, extraJoin = ""): Contagem[] {
   return db()
     .prepare(
-      `SELECT ${expr} AS valor, count(*) AS total FROM questoes q JOIN provas p ON p.id = q.prova_id ${extraJoin}
+      `SELECT ${expr} AS valor, count(DISTINCT qp.questao_id) AS total FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id ${extraJoin}
        WHERE ${expr} IS NOT NULL AND ${expr} <> '' GROUP BY 1 ORDER BY 1`,
     )
     .all() as Contagem[];
@@ -34,8 +34,8 @@ export function carregarOpcoesFiltro(usuarioId: number): OpcoesFiltro {
     anos: listarAnos(),
     provas: db()
       .prepare(
-        `SELECT p.id, b.sigla AS banca, o.sigla AS orgao, p.cargo, p.ano, count(q.id) AS total
-         FROM provas p JOIN questoes q ON q.prova_id = p.id
+        `SELECT p.id, b.sigla AS banca, o.sigla AS orgao, p.cargo, p.ano, count(qp.questao_id) AS total
+         FROM provas p JOIN questao_provas qp ON qp.prova_id = p.id
          LEFT JOIN bancas b ON b.id = p.banca_id LEFT JOIN orgaos o ON o.id = p.orgao_id
          GROUP BY p.id ORDER BY p.ano DESC, o.sigla, p.cargo`,
       )

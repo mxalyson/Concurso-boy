@@ -295,4 +295,17 @@ export const MIGRACOES: (string | ((c: Database.Database) => void))[] = [
     const atualizar = c.prepare("UPDATE provas SET area = ? WHERE id = ?");
     for (const p of provas) atualizar.run(areaPorRegras(p.sigla, p.nome, p.cargo), p.id);
   },
+  /* sql */ `
+  -- Uma mesma questão pode ter sido aplicada em várias provas (ex.: conhecimentos básicos
+  -- comuns a vários cargos). A questão é gravada uma vez; aqui ficam todas as provas.
+  -- questoes.prova_id continua sendo a prova "principal" (exibida no cartão).
+  CREATE TABLE questao_provas (
+    questao_id INTEGER NOT NULL REFERENCES questoes(id) ON DELETE CASCADE,
+    prova_id INTEGER NOT NULL REFERENCES provas(id) ON DELETE CASCADE,
+    numero INTEGER,
+    PRIMARY KEY (questao_id, prova_id)
+  );
+  CREATE INDEX questao_provas_prova ON questao_provas(prova_id, numero);
+  INSERT INTO questao_provas (questao_id, prova_id, numero) SELECT id, prova_id, numero FROM questoes WHERE prova_id IS NOT NULL;
+  `,
 ];
