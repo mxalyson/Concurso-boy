@@ -82,6 +82,7 @@ Como importar (menu **Painel admin → Importar provas**):
 - **PDF da prova**: lê PDFs com texto selecionável, reconhece a numeração, as alternativas (A–E), os itens de certo/errado e os textos associados. O gabarito pode vir em PDF ou colado (`1-C 2-E 3-A` ou a tabela do gabarito). Tudo passa por uma tela de revisão em que você ajusta disciplina, assunto e gabarito.
 - **PDF com IA**: para provas escaneadas ou com layout complexo. A IA transcreve todas as questões, classifica disciplina e assunto e, se você quiser, escreve comentários. Precisa de `ANTHROPIC_API_KEY`.
 - **JSON ou CSV**: para dados que você já tem estruturados. Também pela linha de comando: `npm run import -- arquivo.json`.
+- **Várias provas de uma vez**: coloque cada prova numa subpasta de `provas/` (veja `provas/LEIA-ME.md`) e rode `npm run importar-pdfs -- provas`.
 
 > **Sobre direitos autorais e termos de uso:** não copie o conteúdo de plataformas comerciais de questões (QConcursos, TEC Concursos, Gran etc.). Isso viola os termos de uso delas, e os comentários e a classificação delas são protegidos. Provas e gabaritos publicados pelas bancas são de acesso público e livres para estudo pessoal. Se for abrir a plataforma ao público ou cobrar por ela, consulte um advogado sobre a reprodução de provas de cada banca.
 

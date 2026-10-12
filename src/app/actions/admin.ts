@@ -7,6 +7,7 @@ import { db } from "@/lib/db";
 import { iaDisponivel, extrairQuestoesComIA } from "@/lib/ia";
 import { csvParaQuestoes, importarLote, lerCsv, LoteImportacao, prepararQuestao, type QuestaoImportacao, type ResultadoImportacao } from "@/lib/importacao";
 import { aplicarGabarito, extrairGabarito, extrairQuestoesDoTexto } from "@/lib/pdf-parser";
+import { textoDoPdf } from "@/lib/pdf-texto";
 import { listarDisciplinas } from "@/lib/taxonomia";
 import { slugify } from "@/lib/utils";
 
@@ -92,13 +93,6 @@ async function lerArquivo(form: FormData, campo: string): Promise<{ nome: string
   if (!(arquivo instanceof File) || arquivo.size === 0) return null;
   if (arquivo.size > TAMANHO_MAX) throw new Error("Arquivo muito grande (máximo de 30 MB).");
   return { nome: arquivo.name, buffer: Buffer.from(await arquivo.arrayBuffer()) };
-}
-
-async function textoDoPdf(buffer: Buffer): Promise<string> {
-  const { extractText, getDocumentProxy } = await import("unpdf");
-  const pdf = await getDocumentProxy(new Uint8Array(buffer));
-  const { text } = await extractText(pdf, { mergePages: true });
-  return text;
 }
 
 export async function analisarImportacao(_: RespostaPrevia, form: FormData): Promise<RespostaPrevia> {
