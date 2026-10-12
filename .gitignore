@@ -7,3 +7,7 @@ data/*.db-*
 .env.local
 *.tsbuildinfo
 next-env.d.ts
+
+# respostas brutas da Quest API (scripts/quest)
+.cache/
+__pycache__/

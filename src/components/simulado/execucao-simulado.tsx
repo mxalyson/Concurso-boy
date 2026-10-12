@@ -6,6 +6,8 @@ import { finalizarSimulado, salvarRespostaSimulado } from "@/app/actions/simulad
 import type { QuestaoResumo } from "@/lib/questoes";
 import { cn } from "@/lib/utils";
 import { Botao } from "../ui";
+import { ImagensQuestao } from "../questao/imagens-questao";
+import { TextoQuestao } from "../questao/texto-questao";
 
 type Item = { ordem: number; questao: QuestaoResumo; resposta: string | null };
 
@@ -47,7 +49,13 @@ export function ExecucaoSimulado({ id, titulo, prazo, itens: iniciais }: { id: n
   const item = itens[atual];
   const q = item.questao;
   const respondidas = itens.filter((i) => i.resposta).length;
-  const opcoes = q.tipo === "certo_errado" ? [{ letra: "C", texto: "Certo" }, { letra: "E", texto: "Errado" }] : q.alternativas;
+  const enunciadoEmImagem = !q.texto_confiavel && q.imagens.some((i) => i.parte === "enunciado");
+  const opcoes =
+    q.tipo === "certo_errado"
+      ? [{ letra: "C", texto: "Certo" }, { letra: "E", texto: "Errado" }]
+      : enunciadoEmImagem
+        ? q.alternativas.map((a) => ({ letra: a.letra, texto: `Alternativa ${a.letra}` }))
+        : q.alternativas;
 
   const responder = (letra: string) => {
     const nova = item.resposta === letra ? null : letra;
@@ -79,12 +87,20 @@ export function ExecucaoSimulado({ id, titulo, prazo, itens: iniciais }: { id: n
             {q.banca && <span>· {q.banca}</span>}
             {q.ano && <span>· {q.ano}</span>}
           </div>
-          {q.texto_base && (
-            <div className="texto-questao mb-4 max-h-80 overflow-y-auto rounded-lg border border-slate-200 bg-slate-50 p-3 text-sm dark:border-slate-800 dark:bg-slate-950/50">
-              {q.texto_base}
+          {(q.texto_base || q.imagens.some((i) => i.parte === "contexto")) && (
+            <div className="mb-4 max-h-[28rem] space-y-3 overflow-y-auto rounded-lg border border-slate-200 bg-slate-50 p-3 text-sm dark:border-slate-800 dark:bg-slate-950/50">
+              {q.texto_base && !q.imagens.some((i) => i.parte === "contexto" && i.substitui) && <TextoQuestao texto={q.texto_base} imagens={q.imagens} />}
+              <ImagensQuestao imagens={q.imagens} parte="contexto" />
             </div>
           )}
-          <div className="texto-questao mb-4 text-[15px]">{q.enunciado}</div>
+          <div className="mb-4">
+            {enunciadoEmImagem ? (
+              <ImagensQuestao imagens={q.imagens} parte="enunciado" />
+            ) : (
+              <TextoQuestao texto={q.enunciado} imagens={q.imagens} className="text-[15px]" />
+            )}
+            <ImagensQuestao imagens={q.imagens} parte="figura" />
+          </div>
           <div className={q.tipo === "certo_errado" ? "flex gap-2" : "space-y-2"}>
             {opcoes.map((a) => (
               <button
@@ -108,7 +124,7 @@ export function ExecucaoSimulado({ id, titulo, prazo, itens: iniciais }: { id: n
                     {a.letra}
                   </span>
                 )}
-                <span className="texto-questao pt-0.5">{a.texto}</span>
+                <TextoQuestao inline texto={a.texto} imagens={q.imagens} className="pt-0.5" />
               </button>
             ))}
           </div>

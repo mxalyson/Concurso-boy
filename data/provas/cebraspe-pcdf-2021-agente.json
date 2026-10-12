@@ -397,6 +397,86 @@
    "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 82"
   },
   {
+   "numero": 83,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** Ainda que exista algum overhead envolvido nesse processo, instruções extras precisam ser executadas (no tratador de interrupção) para determinar a natureza da interrupção e decidir sobre a ação apropriada. Apesar disso, devido à quantidade de tempo relativamente grande que seria desperdiçada pela simples espera por uma operação de E/S, o processador pode ser empregado de modo muito mais eficiente com o uso de interrupções. Praticamente todos os computadores oferecem um mecanismo por meio do qual outros módulos (E/S, memória) podem interromper o processamento normal do processador. As interrupções são fornecidas, primeiramente, como um modo de melhorar a eficiência do processamento. Por exemplo, a maioria dos dispositivos externos é muito mais lenta do que o processador. Então, suponha que o processador esteja transferindo dados a uma impressora usando o esquema de ciclo de instrução e que, após cada operação de escrita, o processador deva parar e permanecer ocioso até que a impressora o alcance. A extensão dessa pausa pode estar na ordem de muitas centenas ou mesmo em milhares de ciclos de instrução que não envolvam memória. Claramente, esse é um grande desperdício de uso do processador.",
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Arquitetura de computadores",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nTendo a figura precedente como referência inicial, julgue os itens a seguir.",
+   "enunciado": "Diferentemente do que ocorria nas primeiras arquiteturas computacionais, em que as interrupções eram utilizadas para melhorar a eficiência do processamento, os computadores e os sistemas operacionais contemporâneos não utilizam mais o tratador de interrupção, pois, além de os dispositivos de E/S serem mais velozes e acompanharem os ciclos de instruções do processador sem desperdício de tempo, há também a execução em multithread.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 83",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b446-apoio-1.png",
+     "parte": "inline",
+     "largura": 545,
+     "altura": 355
+    }
+   ]
+  },
+  {
+   "numero": 84,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** O Hyper-V dá suporte a dispositivos emulados e Hyper- V específicos para máquinas virtuais Linux e FreeBSD. Ao executar com dispositivos emulados, nenhum software adicional é necessário.",
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Arquitetura de computadores",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nTendo a figura precedente como referência inicial, julgue os itens a seguir.",
+   "enunciado": "Caso o programa do usuário fosse compatível somente com o Linux, seria impossível executá-lo em um Sistema Operacional Windows 10 utilizando-se o Hyper-V da Microsoft, visto que este não suporta máquinas virtuais Linux.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 84",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b446-apoio-1.png",
+     "parte": "inline",
+     "largura": 545,
+     "altura": 355
+    }
+   ]
+  },
+  {
+   "numero": 85,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** Poderia ser utilizada, pois, em vez de implementar e manter uma rede privada, hoje muitas instituições criam VPNs em cima da internet pública. Com uma VPN, o tráfego interdepartamental é enviado por meio da internet pública, e não de uma rede fisicamente independente. Mas, para prover sigilo, esse tráfego é criptografado antes de entrar na internet pública. Isso serve para PaaS, SaaS ou IaaS. VPN é uma ferramenta extremamente poderosa para a segurança das informações pessoais, mas muitos usuários ainda desconhecem o recurso. O acrônimo, que representa uma “Rede Privada Virtual” (Virtual Private Network), permite o tráfego de dados de forma segura e também permite o acesso a uma rede interna de uma empresa, mesmo que o usuário esteja trabalhando em casa, por exemplo.",
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Redes e internet",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nUma agente, a partir do computador de sua casa, necessitava acessar, com segurança, os serviços de PaaS na nuvem, com criptografia, utilizando a Internet pública como meio de comunicação entre essas localidades. Para tanto, criou-se uma VPN (virtual private network) da Internet pública, a fim de estabelecer a conexão entre as localidades e, para prover o sigilo, criptografou-se o referido tráfego antes de ele entrar na Internet pública.\nConsiderando o diagrama e a situação hipotética apresentados, julgue os itens subsecutivos.",
+   "enunciado": "A solução descreve corretamente o uso da VPN como meio de prover segurança no tráfego, mas torna-se inviável nessa situação, pois uma VPN não pode ser utilizada para acesso a serviço do tipo PaaS como o descrito.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 85",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b487-apoio-1.png",
+     "parte": "inline",
+     "largura": 521,
+     "altura": 451
+    }
+   ]
+  },
+  {
+   "numero": 86,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** Não ficam imunes ao vírus, pois, ainda que o tunelamento seja uma técnica utilizada pela maioria das VPNs (Redes Virtuais Privadas), esse é um processo que basicamente coloca cada pacote de informação enviado dentro de outro pacote, criando uma espécie de envoltório. Esse encapsulamento apenas é compreendido pelo emissor e pelo receptor, sendo completamente transparente, uma vez que o empacotamento e o desempacotamento são realizados na porta de saída, e não no computador. Dependendo do problema tratado, essa técnica é utilizada com objetivos distintos. Nesse tipo de VPN, não há necessariamente o uso de antivírus. Logo não seriam imunes. Julgue o próximo item, relativo a aplicativos e procedimentos associados à Internet.",
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Redes e internet",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nUma agente, a partir do computador de sua casa, necessitava acessar, com segurança, os serviços de PaaS na nuvem, com criptografia, utilizando a Internet pública como meio de comunicação entre essas localidades. Para tanto, criou-se uma VPN (virtual private network) da Internet pública, a fim de estabelecer a conexão entre as localidades e, para prover o sigilo, criptografou-se o referido tráfego antes de ele entrar na Internet pública.\nConsiderando o diagrama e a situação hipotética apresentados, julgue os itens subsecutivos.",
+   "enunciado": "Caso o acesso fosse realizado por meio da VPN para o SaaS, por exemplo, para um webmail, os emails estariam imunes a vírus, pois, em um tunelamento criptográfico, o tráfego é, necessariamente e continuadamente, analisado por antivírus.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 86",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b487-apoio-1.png",
+     "parte": "inline",
+     "largura": 521,
+     "altura": 451
+    }
+   ]
+  },
+  {
    "numero": 87,
    "comentario": "**Justificativa oficial da banca (Cebraspe):** \"operação apate\" -drogas site:pcdf.df.gov.br Excluir palavras da sua pesquisa: coloque - antes de uma palavra que você deseja omitir. Por exemplo, jaguar speed -car Pesquise uma correspondência exata: coloque uma palavra ou frase entre aspas. Por exemplo, \"tallest building\",. Pesquise um sítio específico: coloque \" site:\" antes de um sítio ou domínio. Por exemplo, site:youtube.com ou site:.gov.",
    "desatualizada": false,
@@ -419,6 +499,26 @@
    "enunciado": "No sistema operacional Android, os aplicativos não podem interagir entre si e têm acesso limitado ao sistema operacional, ou seja, o aplicativo X que tentar fazer algo malicioso, como ler os dados do aplicativo Y, será impedido de fazê-lo. Com exceção de uma pequena quantidade de código do sistema operacional Android, todo o código acima do kernel do Linux é restrito a application sandbox.",
    "gabarito": "X",
    "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 88"
+  },
+  {
+   "numero": 89,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Planilhas eletrônicas (Excel)",
+   "tipo": "certo_errado",
+   "texto_base": "Com relação a sistemas operacionais e planilhas, julgue os itens a seguir.",
+   "enunciado": "A planilha a seguir apresenta o total de crimes cometidos nas regiões X e Y.\n[[img:0]]\nCaso deseje, com base nesses dados, obter a média de todos os crimes, independentemente da região onde eles foram cometidos, e inseri-la na célula D4, o usuário deverá utilizar a seguinte fórmula. =MÉDIA(B2:C3)",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 89",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/89-1.png",
+     "parte": "inline",
+     "largura": 486,
+     "altura": 152
+    }
+   ]
   },
   {
    "numero": 90,
@@ -482,7 +582,7 @@
   },
   {
    "numero": 95,
-   "comentario": "**Justificativa oficial da banca (Cebraspe):** Há muitos conceitos diferentes para dados, informação e conhecimento. Entretanto, é comumente aceita a ideia de que os dados são matéria prima para conhecimento e informação. “Fatos desorganizados e não processados, números brutos, figuras, imagens, palavras, sons, derivados de observações ou medições. Normalmente, os dados são de natureza estática, um conjunto de fatos discretos e objetivos sobre eventos. Observa que dados não são conhecimento. Os dados são a matéria-prima para a criação do conhecimento. Não há significado inerente aos dados. Dados são matéria-prima para informação. Ao agregar valor, os dados são transformados em informação, que tem significado, relevância e propósito.",
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** Há muitos conceitos diferentes para dados, informação e conhecimento. Entretanto, é comumente aceita a ideia de que os dados são matéria prima para conhecimento e informação. “Fatos desorganizados e não processados, números brutos, figuras, imagens, palavras, sons, derivados de observações ou medições. Normalmente, os dados são de natureza estática, um conjunto de fatos discretos e objetivos sobre eventos. Observa que dados não são conhecimento. Os dados são a matériaprima para a criação do conhecimento. Não há significado inerente aos dados. Dados são matéria-prima para informação. Ao agregar valor, os dados são transformados em informação, que tem significado, relevância e propósito.",
    "desatualizada": false,
    "disciplina": "Informática",
    "assunto": "Teoria da informação",
@@ -503,6 +603,372 @@
    "enunciado": "De acordo com a primeira forma normal do modelo relacional, atributos compostos por vários valores são representados diretamente em uma tupla e em suas relações nas tabelas do banco de dados.",
    "gabarito": "E",
    "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 96"
+  },
+  {
+   "numero": 97,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** O valor esperado de 𝑋̅ corresponde à média populacional, ou seja, (𝑎 + 𝑏)/2.",
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que uma amostra aleatória simples de tamanho [[img:0]] representada como [[img:1]] [[img:2]] seja retirada de uma população uniformemente distribuída no intervalo [[img:3]] em que [[img:4]] e [[img:5]] são parâmetros desconhecidos, tais que [[img:6]] Com respeito a essa população, a média amostral [[img:7]] e a variância amostral [[img:8]] (𝑋 [[img:9]], julgue os itens que se seguem.",
+   "enunciado": "O valor esperado da média amostral [[img:10]] é igual a [[img:11]]",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 97",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-1.png",
+     "parte": "inline",
+     "largura": 74,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-2.png",
+     "parte": "inline",
+     "largura": 58,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-3.png",
+     "parte": "inline",
+     "largura": 23,
+     "altura": 22
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-4.png",
+     "parte": "inline",
+     "largura": 57,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-5.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-6.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-7.png",
+     "parte": "inline",
+     "largura": 101,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-8.png",
+     "parte": "inline",
+     "largura": 215,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-9.png",
+     "parte": "inline",
+     "largura": 96,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-10.png",
+     "parte": "inline",
+     "largura": 93,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/97-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/97-2.png",
+     "parte": "inline",
+     "largura": 44,
+     "altura": 30
+    }
+   ]
+  },
+  {
+   "numero": 98,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que uma amostra aleatória simples de tamanho [[img:0]] representada como [[img:1]] [[img:2]] seja retirada de uma população uniformemente distribuída no intervalo [[img:3]] em que [[img:4]] e [[img:5]] são parâmetros desconhecidos, tais que [[img:6]] Com respeito a essa população, a média amostral [[img:7]] e a variância amostral [[img:8]] (𝑋 [[img:9]], julgue os itens que se seguem.",
+   "enunciado": "[[img:10]] e [[img:11]] são estatísticas não correlacionadas.",
+   "gabarito": "X",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 98",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-1.png",
+     "parte": "inline",
+     "largura": 74,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-2.png",
+     "parte": "inline",
+     "largura": 58,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-3.png",
+     "parte": "inline",
+     "largura": 23,
+     "altura": 22
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-4.png",
+     "parte": "inline",
+     "largura": 57,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-5.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-6.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-7.png",
+     "parte": "inline",
+     "largura": 101,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-8.png",
+     "parte": "inline",
+     "largura": 215,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-9.png",
+     "parte": "inline",
+     "largura": 96,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-10.png",
+     "parte": "inline",
+     "largura": 93,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/98-1.png",
+     "parte": "inline",
+     "largura": 20,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/98-2.png",
+     "parte": "inline",
+     "largura": 26,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 99,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** O segundo momento central de uma distribuição uniforme no intervalo [𝑎, 𝑏] é 3(𝑏−𝑎) − = .",
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que uma amostra aleatória simples de tamanho [[img:0]] representada como [[img:1]] [[img:2]] seja retirada de uma população uniformemente distribuída no intervalo [[img:3]] em que [[img:4]] e [[img:5]] são parâmetros desconhecidos, tais que [[img:6]] Com respeito a essa população, a média amostral [[img:7]] e a variância amostral [[img:8]] (𝑋 [[img:9]], julgue os itens que se seguem.",
+   "enunciado": "A variância populacional é [[img:10]]",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 99",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-1.png",
+     "parte": "inline",
+     "largura": 74,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-2.png",
+     "parte": "inline",
+     "largura": 58,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-3.png",
+     "parte": "inline",
+     "largura": 23,
+     "altura": 22
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-4.png",
+     "parte": "inline",
+     "largura": 57,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-5.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-6.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-7.png",
+     "parte": "inline",
+     "largura": 101,
+     "altura": 30
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-8.png",
+     "parte": "inline",
+     "largura": 215,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-9.png",
+     "parte": "inline",
+     "largura": 96,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b726-apoio-10.png",
+     "parte": "inline",
+     "largura": 93,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/99-1.png",
+     "parte": "inline",
+     "largura": 120,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 100,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "distribuição uniforme no intervalo [[img:0]] é [[img:1]] Consequentemente, a variância populacional",
+   "enunciado": "Se [[img:2]] denota a média populacional, então segue uma [[img:3]]\ndistribuição t de Student.",
+   "gabarito": "X",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 100",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-1.png",
+     "parte": "inline",
+     "largura": 47,
+     "altura": 26
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-2.png",
+     "parte": "inline",
+     "largura": 205,
+     "altura": 73
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/100-1.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/100-2.png",
+     "parte": "inline",
+     "largura": 48,
+     "altura": 45
+    }
+   ]
+  },
+  {
+   "numero": 101,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "distribuição uniforme no intervalo [[img:0]] é [[img:1]] Consequentemente, a variância populacional",
+   "enunciado": "A variância de [[img:2]] é igual a [[img:3]]",
+   "gabarito": "X",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 101",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-1.png",
+     "parte": "inline",
+     "largura": 47,
+     "altura": 26
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-2.png",
+     "parte": "inline",
+     "largura": 205,
+     "altura": 73
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/101-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/101-2.png",
+     "parte": "inline",
+     "largura": 26,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 102,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** Como a distribuição uniforme é contínua, 𝑋̅ também é variável aleatória contínua. Consequentemente, P(𝑋̅ = 𝑥) = 0, para qualquer valor real 𝑥.",
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Distribuições amostrais",
+   "tipo": "certo_errado",
+   "texto_base": "distribuição uniforme no intervalo [[img:0]] é [[img:1]] Consequentemente, a variância populacional",
+   "enunciado": "Se [[img:2]] denota a média populacional, então P(𝑋̅ [[img:3]]",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 102",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-1.png",
+     "parte": "inline",
+     "largura": 47,
+     "altura": 26
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/b745-apoio-2.png",
+     "parte": "inline",
+     "largura": 205,
+     "altura": 73
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/102-1.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 28
+    },
+    {
+     "src": "cebraspe-pcdf-2021-agente/102-2.png",
+     "parte": "inline",
+     "largura": 111,
+     "altura": 31
+    }
+   ]
   },
   {
    "numero": 103,
@@ -611,6 +1077,66 @@
    "enunciado": "O pagamento de um título com juros é um fato modificativo, pois reduz o montante do patrimônio, o que gera uma despesa; no entanto, alguns fatos aumentam ou diminuem o patrimônio sem que, simultaneamente, seja gerada qualquer receita ou despesa.",
    "gabarito": "C",
    "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 111"
+  },
+  {
+   "numero": 112,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** A lista é composta por seis contas devedoras e seis credoras. São devedoras caixa, bancos conta movimento, juros passivos a transcorrer, instalações, veículos e ações em tesouraria. As demais são credoras.",
+   "desatualizada": false,
+   "disciplina": "Contabilidade Geral",
+   "assunto": "Plano de contas",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsidere que tenham sido selecionadas algumas contas integrantes do plano de contas de determinada companhia, conforme especificado na tabela precedente. Com relação a esse rol de contas, julgue os itens subsequentes.",
+   "enunciado": "O número de contas credoras é igual ao número de contas devedoras.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 112",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b857-apoio-1.png",
+     "parte": "inline",
+     "largura": 385,
+     "altura": 331
+    }
+   ]
+  },
+  {
+   "numero": 113,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Contabilidade Geral",
+   "assunto": "Plano de contas",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsidere que tenham sido selecionadas algumas contas integrantes do plano de contas de determinada companhia, conforme especificado na tabela precedente. Com relação a esse rol de contas, julgue os itens subsequentes.",
+   "enunciado": "Para que um plano de contas seja considerado completo, além do rol de contas, ele deve conter a função, o funcionamento, o método de encerramento e o método de demonstração dessas contas, acompanhas dos seus respectivos saldos.",
+   "gabarito": "X",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 113",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b857-apoio-1.png",
+     "parte": "inline",
+     "largura": 385,
+     "altura": 331
+    }
+   ]
+  },
+  {
+   "numero": 114,
+   "comentario": "**Justificativa oficial da banca (Cebraspe):** A baixa de uma duplicata descontada não quitada é feita a crédito da conta Bancos Conta Movimento, com débito nas contas Duplicatas Descontadas e Despesa com Encargos Financeiros. Dois débitos e um crédito caracteriza uma partida de terceira fórmula.",
+   "desatualizada": false,
+   "disciplina": "Contabilidade Geral",
+   "assunto": "Plano de contas",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsidere que tenham sido selecionadas algumas contas integrantes do plano de contas de determinada companhia, conforme especificado na tabela precedente. Com relação a esse rol de contas, julgue os itens subsequentes.",
+   "enunciado": "O registro contábil da baixa de uma duplicata descontada não quitada, com os juros correspondentes, pode ser realizado por meio de uma partida de segunda fórmula.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PC-DF 2021 — Agente de Polícia (conhecimentos específicos), item 114",
+   "imagens": [
+    {
+     "src": "cebraspe-pcdf-2021-agente/b857-apoio-1.png",
+     "parte": "inline",
+     "largura": 385,
+     "altura": 331
+    }
+   ]
   },
   {
    "numero": 115,

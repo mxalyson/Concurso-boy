@@ -3,6 +3,19 @@ import { db } from "./db";
 import type { Filtros } from "./filtros";
 
 export type Alternativa = { letra: string; texto: string };
+/** Imagem da questão. "inline" aparece no ponto do texto marcado com [[img:N]] (N = índice nesta lista);
+ * "contexto"/"enunciado" são recortes da prova original (`substitui`: o recorte de contexto já contém
+ * todo o texto associado); "figura" aparece após o enunciado. */
+export type ImagemQuestao = {
+  src: string;
+  parte: "contexto" | "enunciado" | "figura" | "inline";
+  legenda?: string;
+  substitui?: boolean;
+  /** Tamanho em pixels de recortes feitos a 150 dpi (usado para exibir na escala do texto). */
+  largura?: number;
+  altura?: number;
+};
+
 export type TipoQuestao = "multipla" | "certo_errado";
 
 /** Questão como é enviada ao navegador (sem gabarito e sem comentário). */
@@ -17,6 +30,8 @@ export type QuestaoResumo = {
   anulada: boolean;
   desatualizada: boolean;
   fonte: string | null;
+  imagens: ImagemQuestao[];
+  texto_confiavel: boolean;
   disciplina_id: number;
   disciplina_nome: string;
   disciplina_cor: string;
@@ -43,8 +58,13 @@ export type QuestaoCompleta = QuestaoResumo & {
   hash: string | null;
 };
 
-type Linha = Omit<QuestaoCompleta, "alternativas" | "anulada" | "desatualizada" | "favorita" | "ultima_correta"> & {
+type Linha = Omit<
+  QuestaoCompleta,
+  "alternativas" | "anulada" | "desatualizada" | "favorita" | "ultima_correta" | "imagens" | "texto_confiavel"
+> & {
   alternativas: string;
+  imagens: string;
+  texto_confiavel: number;
   anulada: number;
   desatualizada: number;
   favorita: number;
@@ -53,7 +73,7 @@ type Linha = Omit<QuestaoCompleta, "alternativas" | "anulada" | "desatualizada" 
 
 const SELECT_BASE = `
   SELECT q.id, q.numero, q.tipo, q.texto_base, q.enunciado, q.alternativas, q.dificuldade,
-    q.anulada, q.desatualizada, q.fonte, q.gabarito, q.comentario, q.prova_id, q.hash,
+    q.anulada, q.desatualizada, q.fonte, q.imagens, q.texto_confiavel, q.gabarito, q.comentario, q.prova_id, q.hash,
     d.id AS disciplina_id, d.nome AS disciplina_nome, d.cor AS disciplina_cor,
     a.id AS assunto_id, a.nome AS assunto_nome,
     b.sigla AS banca, o.sigla AS orgao, o.nome AS orgao_nome, p.cargo, p.ano, p.escolaridade,
@@ -74,6 +94,8 @@ function converter(l: Linha): QuestaoCompleta {
   return {
     ...l,
     alternativas: JSON.parse(l.alternativas || "[]") as Alternativa[],
+    imagens: JSON.parse(l.imagens || "[]") as ImagemQuestao[],
+    texto_confiavel: l.texto_confiavel !== 0,
     anulada: !!l.anulada,
     desatualizada: !!l.desatualizada,
     favorita: !!l.favorita,

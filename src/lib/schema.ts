@@ -272,4 +272,13 @@ export const MIGRACOES: string[] = [
     PRIMARY KEY (usuario_id, assunto_id)
   );
   `,
+  /* sql */ `
+  -- Imagens recortadas da prova original (figuras, tabelas, fórmulas).
+  -- imagens: JSON [{ "src": "pf21/37-1.png", "parte": "inline" | "contexto" | "enunciado" | "figura", "largura", "altura" }]
+  -- "inline": aparece no ponto do texto marcado com [[img:N]]
+  ALTER TABLE questoes ADD COLUMN imagens TEXT NOT NULL DEFAULT '[]';
+  -- 0 quando o texto extraído do PDF não é confiável (ex.: fórmulas) e a imagem deve ser exibida no lugar dele
+  ALTER TABLE questoes ADD COLUMN texto_confiavel INTEGER NOT NULL DEFAULT 1;
+  ALTER TABLE provas ADD COLUMN origem TEXT NOT NULL DEFAULT 'manual';
+  `,
 ];

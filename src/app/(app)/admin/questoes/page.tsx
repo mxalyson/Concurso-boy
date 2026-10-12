@@ -6,6 +6,7 @@ import { buscarQuestoes } from "@/lib/questoes";
 import { listarDisciplinas } from "@/lib/taxonomia";
 import { Paginacao } from "@/components/paginacao";
 import { LinkBotao, Selo } from "@/components/ui";
+import { semMarcadores } from "@/lib/marcadores";
 
 export const metadata = { title: "Questões — admin" };
 
@@ -60,7 +61,7 @@ export default async function AdminQuestoes({ searchParams }: { searchParams: Pr
                   </Link>
                 </td>
                 <td className="max-w-md px-3 py-2">
-                  <p className="line-clamp-2">{q.enunciado}</p>
+                  <p className="line-clamp-2">{semMarcadores(q.enunciado)}</p>
                   <div className="mt-1 flex gap-1">
                     {q.anulada && <Selo cor="amarelo">anulada</Selo>}
                     {q.desatualizada && <Selo cor="amarelo">desatualizada</Selo>}

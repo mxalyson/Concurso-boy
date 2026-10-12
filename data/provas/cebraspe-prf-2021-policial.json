@@ -420,6 +420,46 @@
    "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal, item 42"
   },
   {
+   "numero": 43,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Física",
+   "assunto": "Energia e quantidade de movimento",
+   "tipo": "certo_errado",
+   "texto_base": "Um projétil, de massa m e velocidade v, colidiu frontalmente com um bloco de madeira de massa M que estava em repouso em uma superfície horizontal sem atrito, preso a uma mola ideal de constante elástica k. Após a colisão, o projétil e o bloco desenvolveram um movimento solidário, o que provocou, na mola, uma compressão máxima igual a x, conforme mostra a figura a seguir.\n[[img:0]]\nCom referência a essa situação hipotética, à mecânica clássica e a áreas a ela correlatas, julgue os itens que se seguem.",
+   "enunciado": "Na posição de compressão máxima, a energia potencial elástica armazenada na mola tem valor menor que o da energia cinética do projétil antes da colisão.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal, item 43",
+   "imagens": [
+    {
+     "src": "cebraspe-prf-2021-policial/b219-apoio-1.png",
+     "parte": "inline",
+     "largura": 522,
+     "altura": 129
+    }
+   ]
+  },
+  {
+   "numero": 44,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Física",
+   "assunto": "Energia e quantidade de movimento",
+   "tipo": "certo_errado",
+   "texto_base": "Um projétil, de massa m e velocidade v, colidiu frontalmente com um bloco de madeira de massa M que estava em repouso em uma superfície horizontal sem atrito, preso a uma mola ideal de constante elástica k. Após a colisão, o projétil e o bloco desenvolveram um movimento solidário, o que provocou, na mola, uma compressão máxima igual a x, conforme mostra a figura a seguir.\n[[img:0]]\nCom referência a essa situação hipotética, à mecânica clássica e a áreas a ela correlatas, julgue os itens que se seguem.",
+   "enunciado": "Como não há atrito entre o bloco de madeira e a mesa horizontal, a conservação da energia mecânica garante que o valor da energia cinética do sistema imediatamente antes da colisão seja igual ao valor da energia cinética do sistema imediatamente após a colisão.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal, item 44",
+   "imagens": [
+    {
+     "src": "cebraspe-prf-2021-policial/b219-apoio-1.png",
+     "parte": "inline",
+     "largura": 522,
+     "altura": 129
+    }
+   ]
+  },
+  {
    "numero": 45,
    "comentario": null,
    "desatualizada": false,
@@ -742,6 +782,18 @@
    "enunciado": "O equipamento em questão deve apresentar o tempo de movimentação do veículo, bem como suas interrupções.",
    "gabarito": "C",
    "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal, item 71"
+  },
+  {
+   "numero": 72,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Legislação de Trânsito",
+   "assunto": "Resoluções do CONTRAN > Registrador de velocidade e tempo",
+   "tipo": "certo_errado",
+   "texto_base": "Acerca do registrador instantâneo e inalterável de velocidade e tempo, julgue os itens a seguir.",
+   "enunciado": "Em caso de operação de fiscalização do registrador instantâneo e inalterável de velocidade e tempo, o policial rodoviário federal deve identificar-se e assinar o verso do disco ou da fita diagrama, além de mencionar o local, a data e horário em que ocorreu a fiscalização.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PRF 2021 — Policial Rodoviário Federal, item 72"
   },
   {
    "numero": 73,

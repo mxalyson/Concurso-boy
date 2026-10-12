@@ -179,7 +179,7 @@ for b in blocos:
         problema = None
         if re.search("[\U0001D400-\U0001D7FF]", tb + enunciado):
             problema = "fórmula matemática"
-        elif re.search(r"\b(figura|imagem|gráfico|ilustração|diagrama|planilha a seguir|tabela precedente|tabela a seguir|quadro a seguir)\b", tb + " " + enunciado, re.I):
+        elif re.search(r"\b(figura|imagem|foto|fotografia|gráfico|ilustração|diagrama|planilha a seguir|tabela precedente|tabela a seguir|quadro a seguir)\b", tb + " " + enunciado, re.I):
             problema = "depende de figura"
         itens.append({
             "problema": problema,

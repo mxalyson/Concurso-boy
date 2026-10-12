@@ -376,6 +376,47 @@
    "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 11"
   },
   {
+   "numero": 12,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Certo supermercado anunciou a promoção que se vê na foto a seguir:\n[[img:0]]\nEsse desconto foi de, aproximadamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15%."
+    },
+    {
+     "letra": "B",
+     "texto": "1,5%."
+    },
+    {
+     "letra": "C",
+     "texto": "0,15%."
+    },
+    {
+     "letra": "D",
+     "texto": "0,015%."
+    },
+    {
+     "letra": "E",
+     "texto": "0,0015%."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 12",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-analista/12-1.png",
+     "parte": "inline",
+     "largura": 257,
+     "altura": 173
+    }
+   ]
+  },
+  {
    "numero": 13,
    "disciplina": "Raciocínio Lógico",
    "assunto": "Argumentação lógica",
@@ -506,6 +547,71 @@
    "gabarito": "A",
    "desatualizada": false,
    "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 16"
+  },
+  {
+   "numero": 17,
+   "disciplina": "Matemática",
+   "assunto": "Razão e proporção",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Michael coleciona moedas brasileiras, americanas e francesas. Para cada 3 moedas americanas Michael tem 7 moedas brasileiras e para cada 5 moedas brasileiras, ele tem 2 francesas. Com relação às moedas de Michael, a razão entre a quantidade de moedas brasileiras e a quantidade de moedas não brasileiras é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "[[img:0]]"
+    },
+    {
+     "letra": "B",
+     "texto": "[[img:1]]"
+    },
+    {
+     "letra": "C",
+     "texto": "[[img:2]]"
+    },
+    {
+     "letra": "D",
+     "texto": "[[img:3]]"
+    },
+    {
+     "letra": "E",
+     "texto": "[[img:4]]"
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 17",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-analista/17-1.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 53
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-2.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-3.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 53
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-4.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-5.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    }
+   ]
   },
   {
    "numero": 18,

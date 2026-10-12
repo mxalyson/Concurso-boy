@@ -70,18 +70,38 @@ O banco é um arquivo SQLite: hospede em um servidor com disco persistente (VPS,
 
 ## De onde vêm as questões
 
-O sistema vem com **534 questões de provas oficiais** já revisadas, além de 94 questões autorais de exemplo (banca “AUTORAL”) e 10 resumos:
+O sistema vem com **972 questões de provas oficiais** já revisadas, além de 94 questões autorais de exemplo (banca “AUTORAL”) e 10 resumos:
 
-| Banca | Prova | Questões |
-|---|---|---|
-| Cebraspe | Polícia Federal 2021 — Agente | 105 |
-| Cebraspe | PRF 2021 — Policial Rodoviário Federal | 109 |
-| Cebraspe | INSS 2022 — Técnico do Seguro Social | 119 |
-| Cebraspe | PC-DF 2021 — Agente (com a justificativa oficial da banca em cada item) | 56 |
-| FGV | TRT-16 2022 — Técnico Judiciário (Área Administrativa) | 67 |
-| FGV | TRT-16 2022 — Analista Judiciário (Área Judiciária) | 78 |
+| Banca | Prova | Questões | Com figura/fórmula |
+|---|---|---|---|
+| Cebraspe | DPF 2025 — Agente de Polícia Federal | 120 | 4 |
+| Cebraspe | INSS 2022 — Técnico do Seguro Social | 120 | 1 |
+| Cebraspe | PC-DF 2021 — Agente (com a justificativa oficial da banca em cada item) | 70 | 14 |
+| Cebraspe | Polícia Federal 2021 — Agente | 120 | 14 |
+| Cebraspe | PRF 2021 — Policial Rodoviário Federal | 112 | 2 |
+| Cesgranrio | BANESE 2025 — Técnico Bancário | 80 | 1 |
+| FCC | TRF 4 2025 — Técnico Judiciário - Área: Administrativa | 50 | 0 |
+| FGV | TJ RS 2025 — Técnico do Poder Judiciário – Área: Administrativo-Judiciária | 80 | 3 |
+| FGV | TRT-16 2022 — Analista Judiciário (Área Judiciária) | 80 | 2 |
+| FGV | TRT-16 2022 — Técnico Judiciário (Área Administrativa) | 70 | 3 |
+| Vunesp | TJ SP 2025 — Escrevente Técnico Judiciário | 70 | 3 |
 
-Foram usados os PDFs e os gabaritos **definitivos** publicados pelas bancas; itens que dependem de imagem, tabela ou fórmula foram deixados de fora. Os lotes ficam em `data/provas/` e o processo de coleta está em `scripts/coleta/LEIA-ME.md`.
+Nas provas extraídas dos PDFs oficiais (com o gabarito **definitivo**), figuras, gráficos, tabelas e fórmulas entram como **imagem recortada só do elemento** — o texto da questão continua como texto, com a imagem no ponto exato (marcador `[[img:N]]` no texto). As provas de 2025 foram obtidas pela [Quest API](https://quest.api.br) com o script `npm run quest` (veja abaixo). Os lotes ficam em `data/provas/`, as imagens em `data/imagens/` e o processo de coleta dos PDFs está em `scripts/coleta/LEIA-ME.md`.
+
+### Baixar mais provas da Quest API (script offline)
+
+O site **não** acessa a Quest API: o script baixa as questões para `data/provas/*.json` (um arquivo por prova, com imagens em `data/imagens/quest/`) e o `npm run db:seed` importa. Coloque a chave em `.env.local` (fora do git): `QUEST_API_KEY=qk_...`.
+
+```bash
+npm run quest -- quota                                   # créditos restantes (grátis)
+npm run quest -- provas --banca FCC --ano 2025 --orgao TRT   # lista provas (1 crédito por prova listada)
+npm run quest -- baixar 25322348 25647523                # baixa provas inteiras (6 créditos por questão)
+npm run quest -- novas --ano 2026 --max-creditos 1200    # continua de onde parou: traz provas novas
+npm run quest -- reconverter                             # refaz os lotes do cache local (grátis)
+npm run db:seed                                          # importa os arquivos novos
+```
+
+As bancas usam nomes exatos (`CESPE CEBRASPE`, `FGV`, `FCC`, `VUNESP`, `CESGRANRIO`...). Para agendar a busca de provas novas, rode `npm run quest -- novas && npm run db:seed` no cron do servidor.
 
 Para ampliar o banco, importe mais provas:
 

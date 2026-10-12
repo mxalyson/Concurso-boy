@@ -137,7 +137,7 @@ for it in itens:
     tudo = enun + " " + " ".join(a["texto"] for a in alts)
     if len(alts) != 5:
         problema = f"{len(alts)} alternativas"
-    elif re.search(r"\b(figura|imagem|gráfico|ilustração|charge|tirinha|quadrinho|tabela|quadro|diagrama|esquema|mapa|planilha)\b", tudo, re.I) or re.search(r"(forma|peça|desenho)s? abaixo", tudo, re.I):
+    elif re.search(r"\b(figura|imagem|foto|fotografia|gráfico|ilustração|charge|tirinha|quadrinho|tabela|quadro|diagrama|esquema|mapa|planilha|cartaz|anúncio)\b", tudo, re.I) or re.search(r"(forma|peça|desenho)s? abaixo", tudo, re.I):
         problema = "depende de figura/tabela"
     elif any(re.fullmatch(r"\s*\d+\s*", x) for x in it["linhas"]) or re.search(r"[\U0001D400-\U0001D7FF√∑∫]", tudo):
         problema = "fórmula"

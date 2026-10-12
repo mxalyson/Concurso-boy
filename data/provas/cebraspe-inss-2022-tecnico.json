@@ -516,6 +516,26 @@
    "fonte": "Cebraspe — INSS 2022 — Técnico do Seguro Social, item 42"
   },
   {
+   "numero": 43,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Planilhas eletrônicas (Excel)",
+   "tipo": "certo_errado",
+   "texto_base": "Na planilha mostrada na figura ao lado, que representa um conjunto de células no MS Excel 365, foi realizada a seguinte sequência de ações:\n[[img:0]]\n• todas as células mostradas foram selecionadas;\n• foi selecionada a opção Remover Duplicadas;\n• foram selecionadas todas as colunas na caixa de diálogo Remover Duplicadas e, em seguida, clicou-se no botão OK. Nessa situação hipotética,",
+   "enunciado": "nenhuma linha da planilha foi apagada.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — INSS 2022 — Técnico do Seguro Social, item 43",
+   "imagens": [
+    {
+     "src": "cebraspe-inss-2022-tecnico/b314-apoio-1.png",
+     "parte": "inline",
+     "largura": 255,
+     "altura": 171
+    }
+   ]
+  },
+  {
    "numero": 44,
    "comentario": null,
    "desatualizada": false,
@@ -1099,7 +1119,7 @@
    "assunto": "Plano de benefícios",
    "tipo": "certo_errado",
    "texto_base": "A respeito de Plano de Benefícios da Previdência Social, beneficiários, espécies de prestações, períodos de carência, salário de benefício e renda mensal do benefício, julgue os itens que se seguem.",
-   "enunciado": "José, ainda que empregado, tem direito ao seguro-desemprego.",
+   "enunciado": "José, ainda que empregado, tem direito ao segurodesemprego.",
    "gabarito": "E",
    "fonte": "Cebraspe — INSS 2022 — Técnico do Seguro Social, item 92"
   },

@@ -19,6 +19,7 @@ const opcional = z
   .transform((v) => (v === null || v === undefined || String(v).trim() === "" ? undefined : String(v).trim()));
 
 const CamposProva = z.object({
+  origem: opcional,
   banca: opcional,
   banca_nome: opcional,
   orgao: opcional,
@@ -49,6 +50,20 @@ export const QuestaoImportacao = CamposProva.extend({
   anulada: z.union([z.boolean(), z.number(), z.string()]).optional(),
   desatualizada: z.union([z.boolean(), z.number(), z.string()]).optional(),
   fonte: opcional,
+  imagens: z
+    .array(
+      z.object({
+        src: z.string().min(1),
+        parte: z.enum(["contexto", "enunciado", "figura", "inline"]),
+        legenda: z.string().optional(),
+        substitui: z.boolean().optional(),
+        largura: z.number().int().positive().optional(),
+        altura: z.number().int().positive().optional(),
+      }),
+    )
+    .optional()
+    .default([]),
+  texto_confiavel: z.union([z.boolean(), z.number(), z.string()]).optional(),
 });
 
 export type QuestaoImportacao = z.input<typeof QuestaoImportacao>;
@@ -128,6 +143,8 @@ export type LinhaQuestao = {
   anulada: number;
   desatualizada: number;
   fonte: string | null;
+  imagens: string;
+  texto_confiavel: number;
   hash: string;
 };
 
@@ -171,6 +188,7 @@ export function prepararQuestao(bruto: unknown, padrao: CamposProva & { discipli
       escolaridade: normalizarEscolaridade(q.escolaridade),
       urlProva: q.url_prova ?? null,
       urlGabarito: q.url_gabarito ?? null,
+      origem: q.origem === "automatica" ? "automatica" : "manual",
     });
   }
   const dificuldade = q.dificuldade ? Number.parseInt(q.dificuldade, 10) : NaN;
@@ -192,6 +210,8 @@ export function prepararQuestao(bruto: unknown, padrao: CamposProva & { discipli
       anulada: gab.anulada || verdadeiro(q.anulada) ? 1 : 0,
       desatualizada: verdadeiro(q.desatualizada) ? 1 : 0,
       fonte: q.fonte ?? null,
+      imagens: JSON.stringify((q.imagens ?? []).filter((i) => !i.src.includes("..") && !i.src.startsWith("/"))),
+      texto_confiavel: q.texto_confiavel === undefined || verdadeiro(q.texto_confiavel) ? 1 : 0,
       hash: hashQuestao(q.enunciado, alternativasFinais, q.texto_base),
     },
   };
@@ -209,9 +229,9 @@ export function importarLote(entrada: unknown, padrao: { disciplina?: string } =
 
   const inserir = db().prepare(
     `INSERT INTO questoes (prova_id, disciplina_id, assunto_id, numero, tipo, texto_base, enunciado,
-       alternativas, gabarito, comentario, dificuldade, anulada, desatualizada, fonte, hash)
+       alternativas, gabarito, comentario, dificuldade, anulada, desatualizada, fonte, imagens, texto_confiavel, hash)
      VALUES (@prova_id, @disciplina_id, @assunto_id, @numero, @tipo, @texto_base, @enunciado,
-       @alternativas, @gabarito, @comentario, @dificuldade, @anulada, @desatualizada, @fonte, @hash)
+       @alternativas, @gabarito, @comentario, @dificuldade, @anulada, @desatualizada, @fonte, @imagens, @texto_confiavel, @hash)
      ON CONFLICT(hash) DO NOTHING`,
   );
 

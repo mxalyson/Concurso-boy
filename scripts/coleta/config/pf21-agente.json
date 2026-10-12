@@ -1,52 +1,330 @@
 {
+  "slug": "cebraspe-pf-2021-agente",
   "prova": {
-    "banca": "CEBRASPE", "banca_nome": "Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos",
-    "orgao": "PF", "orgao_nome": "Polícia Federal", "esfera": "federal",
-    "cargo": "Agente de Polícia Federal", "ano": 2021, "escolaridade": "superior",
+    "banca": "CEBRASPE",
+    "banca_nome": "Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos",
+    "orgao": "PF",
+    "orgao_nome": "Polícia Federal",
+    "esfera": "federal",
+    "cargo": "Agente de Polícia Federal",
+    "ano": 2021,
+    "escolaridade": "superior",
     "url_prova": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/CARGO_2_AGENTE_DE_POLCIA_FEDERAL.PDF",
     "url_gabarito": "https://cdn.cebraspe.org.br/concursos/PF_21/arquivos/GAB_DEFINITIVO_MATRIZ_577_PF_002_00.PDF"
   },
   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal",
-  "excluir": [[37, 48], 65, 77, 78],
+  "excluir": [],
   "classificacao": [
-    {"itens": [1, 18], "disciplina": "Língua Portuguesa", "assunto": "Interpretação de texto"},
-    {"itens": [19, 24], "disciplina": "Língua Portuguesa", "assunto": "Redação oficial"},
-    {"itens": [25, 25], "disciplina": "Direito Administrativo", "assunto": "Agentes públicos > Regime disciplinar"},
-    {"itens": [26, 26], "disciplina": "Direito Administrativo", "assunto": "Poderes administrativos"},
-    {"itens": [27, 27], "disciplina": "Direito Administrativo", "assunto": "Controle da administração pública"},
-    {"itens": [28, 28], "disciplina": "Direito Constitucional", "assunto": "Segurança pública"},
-    {"itens": [29, 30], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"},
-    {"itens": [31, 31], "disciplina": "Direito Processual Penal", "assunto": "Prova > Cadeia de custódia"},
-    {"itens": [32, 32], "disciplina": "Direito Penal", "assunto": "Crimes contra a Administração Pública"},
-    {"itens": [33, 33], "disciplina": "Direito Processual Penal", "assunto": "Prisão em flagrante"},
-    {"itens": [34, 36], "disciplina": "Legislação Penal Especial", "assunto": "Legislação penal especial"},
-    {"itens": [49, 51], "disciplina": "Raciocínio Lógico", "assunto": "Análise combinatória"},
-    {"itens": [52, 57], "disciplina": "Raciocínio Lógico", "assunto": "Lógica proposicional > Argumentação"},
-    {"itens": [58, 60], "disciplina": "Raciocínio Lógico", "assunto": "Conjuntos"},
-    {"itens": [61, 63], "disciplina": "Informática", "assunto": "Redes e internet"},
-    {"itens": [64, 64], "disciplina": "Informática", "assunto": "Sistemas operacionais (Linux)"},
-    {"itens": [66, 68], "disciplina": "Informática", "assunto": "Redes e internet"},
-    {"itens": [69, 70], "disciplina": "Informática", "assunto": "Segurança da informação > Códigos maliciosos"},
-    {"itens": [71, 72], "disciplina": "Informática", "assunto": "Computação em nuvem"},
-    {"itens": [73, 76], "disciplina": "Informática", "assunto": "Sistemas de informação"},
-    {"itens": [79, 82], "disciplina": "Informática", "assunto": "Redes e internet"},
-    {"itens": [83, 83], "disciplina": "Informática", "assunto": "Sistemas de informação"},
-    {"itens": [84, 85], "disciplina": "Informática", "assunto": "Programação (Python e R)"},
-    {"itens": [86, 88], "disciplina": "Informática", "assunto": "Ciência de dados"},
-    {"itens": [89, 96], "disciplina": "Informática", "assunto": "Banco de dados"},
-    {"itens": [97, 109], "disciplina": "Contabilidade Geral", "assunto": "Patrimônio e escrituração"},
-    {"itens": [110, 112], "disciplina": "Contabilidade Geral", "assunto": "Estrutura conceitual"},
-    {"itens": [113, 114], "disciplina": "Contabilidade Geral", "assunto": "Ativo > Recebíveis"},
-    {"itens": [115, 117], "disciplina": "Contabilidade Geral", "assunto": "Demonstração do resultado do exercício"},
-    {"itens": [118, 120], "disciplina": "Contabilidade Geral", "assunto": "Pronunciamentos técnicos (CPC)"}
+    {
+      "itens": [
+        1,
+        18
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Interpretação de texto"
+    },
+    {
+      "itens": [
+        19,
+        24
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Redação oficial"
+    },
+    {
+      "itens": [
+        25,
+        25
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Agentes públicos > Regime disciplinar"
+    },
+    {
+      "itens": [
+        26,
+        26
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Poderes administrativos"
+    },
+    {
+      "itens": [
+        27,
+        27
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Controle da administração pública"
+    },
+    {
+      "itens": [
+        28,
+        28
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Segurança pública"
+    },
+    {
+      "itens": [
+        29,
+        30
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"
+    },
+    {
+      "itens": [
+        31,
+        31
+      ],
+      "disciplina": "Direito Processual Penal",
+      "assunto": "Prova > Cadeia de custódia"
+    },
+    {
+      "itens": [
+        32,
+        32
+      ],
+      "disciplina": "Direito Penal",
+      "assunto": "Crimes contra a Administração Pública"
+    },
+    {
+      "itens": [
+        33,
+        33
+      ],
+      "disciplina": "Direito Processual Penal",
+      "assunto": "Prisão em flagrante"
+    },
+    {
+      "itens": [
+        34,
+        36
+      ],
+      "disciplina": "Legislação Penal Especial",
+      "assunto": "Legislação penal especial"
+    },
+    {
+      "itens": [
+        37,
+        42
+      ],
+      "disciplina": "Estatística",
+      "assunto": "Variáveis aleatórias"
+    },
+    {
+      "itens": [
+        43,
+        45
+      ],
+      "disciplina": "Estatística",
+      "assunto": "Estimação"
+    },
+    {
+      "itens": [
+        46,
+        48
+      ],
+      "disciplina": "Estatística",
+      "assunto": "Regressão linear"
+    },
+    {
+      "itens": [
+        49,
+        51
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Análise combinatória"
+    },
+    {
+      "itens": [
+        52,
+        57
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Lógica proposicional > Argumentação"
+    },
+    {
+      "itens": [
+        58,
+        60
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Conjuntos"
+    },
+    {
+      "itens": [
+        61,
+        63
+      ],
+      "disciplina": "Informática",
+      "assunto": "Redes e internet"
+    },
+    {
+      "itens": [
+        64,
+        64
+      ],
+      "disciplina": "Informática",
+      "assunto": "Sistemas operacionais (Linux)"
+    },
+    {
+      "itens": [
+        65,
+        65
+      ],
+      "disciplina": "Informática",
+      "assunto": "Planilhas eletrônicas (Excel)"
+    },
+    {
+      "itens": [
+        66,
+        68
+      ],
+      "disciplina": "Informática",
+      "assunto": "Redes e internet"
+    },
+    {
+      "itens": [
+        69,
+        70
+      ],
+      "disciplina": "Informática",
+      "assunto": "Segurança da informação > Códigos maliciosos"
+    },
+    {
+      "itens": [
+        71,
+        72
+      ],
+      "disciplina": "Informática",
+      "assunto": "Computação em nuvem"
+    },
+    {
+      "itens": [
+        73,
+        76
+      ],
+      "disciplina": "Informática",
+      "assunto": "Sistemas de informação"
+    },
+    {
+      "itens": [
+        77,
+        78
+      ],
+      "disciplina": "Informática",
+      "assunto": "Sistemas de informação"
+    },
+    {
+      "itens": [
+        79,
+        82
+      ],
+      "disciplina": "Informática",
+      "assunto": "Redes e internet"
+    },
+    {
+      "itens": [
+        83,
+        83
+      ],
+      "disciplina": "Informática",
+      "assunto": "Sistemas de informação"
+    },
+    {
+      "itens": [
+        84,
+        85
+      ],
+      "disciplina": "Informática",
+      "assunto": "Programação (Python e R)"
+    },
+    {
+      "itens": [
+        86,
+        88
+      ],
+      "disciplina": "Informática",
+      "assunto": "Ciência de dados"
+    },
+    {
+      "itens": [
+        89,
+        96
+      ],
+      "disciplina": "Informática",
+      "assunto": "Banco de dados"
+    },
+    {
+      "itens": [
+        97,
+        109
+      ],
+      "disciplina": "Contabilidade Geral",
+      "assunto": "Patrimônio e escrituração"
+    },
+    {
+      "itens": [
+        110,
+        112
+      ],
+      "disciplina": "Contabilidade Geral",
+      "assunto": "Estrutura conceitual"
+    },
+    {
+      "itens": [
+        113,
+        114
+      ],
+      "disciplina": "Contabilidade Geral",
+      "assunto": "Ativo > Recebíveis"
+    },
+    {
+      "itens": [
+        115,
+        117
+      ],
+      "disciplina": "Contabilidade Geral",
+      "assunto": "Demonstração do resultado do exercício"
+    },
+    {
+      "itens": [
+        118,
+        120
+      ],
+      "disciplina": "Contabilidade Geral",
+      "assunto": "Pronunciamentos técnicos (CPC)"
+    }
   ],
   "bases": [
-    {"itens": [58, 60], "texto_base": "Considere os seguintes conjuntos:\n\nP = {todos os policiais federais em efetivo exercício no país}\nP1 = {policiais federais em efetivo exercício no país e que têm até 1 ano de experiência no exercício do cargo}\nP2 = {policiais federais em efetivo exercício no país e que têm até 2 anos de experiência no exercício do cargo}\nP3 = {policiais federais em efetivo exercício no país e que têm até 3 anos de experiência no exercício do cargo}\n\ne, assim, sucessivamente.\n\nCom base nessas informações, julgue os itens que se seguem."},
-    {"itens": [66, 68], "texto_base": "No que se refere a redes de computadores, julgue os itens que se seguem."},
-    {"itens": [97, 101], "texto_base": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos, cujo registro e cuja avaliação contábeis estão de acordo com as regras estabelecidas na legislação societária (Lei n.º 6.404/1976 e suas alterações).\n\nElemento patrimonial — valor (R$)\n• caixa — 20.000\n• duplicatas a receber — 50.000\n• empréstimos a pagar — 30.000\n• estoques — 40.000\n• imóveis de uso próprio — 200.000\n• depreciação acumulada — 10.000\n• capital social — 220.000\n• fornecedores — 20.000\n• salários a pagar — 50.000\n• reservas de lucros — 10.000\n• depósitos em bancos — 10.000\n• impostos a recolher — 10.000\n• aplicações financeiras de liquidez imediata — 30.000\n\nConsiderando os elementos patrimoniais apresentados nessa situação hipotética, julgue os itens a seguir."}
+    {
+      "itens": [
+        58,
+        60
+      ],
+      "texto_base": "Considere os seguintes conjuntos:\n\nP = {todos os policiais federais em efetivo exercício no país}\nP1 = {policiais federais em efetivo exercício no país e que têm até 1 ano de experiência no exercício do cargo}\nP2 = {policiais federais em efetivo exercício no país e que têm até 2 anos de experiência no exercício do cargo}\nP3 = {policiais federais em efetivo exercício no país e que têm até 3 anos de experiência no exercício do cargo}\n\ne, assim, sucessivamente.\n\nCom base nessas informações, julgue os itens que se seguem."
+    },
+    {
+      "itens": [
+        66,
+        68
+      ],
+      "texto_base": "No que se refere a redes de computadores, julgue os itens que se seguem."
+    },
+    {
+      "itens": [
+        97,
+        101
+      ],
+      "texto_base": "Determinada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes elementos, cujo registro e cuja avaliação contábeis estão de acordo com as regras estabelecidas na legislação societária (Lei n.º 6.404/1976 e suas alterações).\n\nElemento patrimonial — valor (R$)\n• caixa — 20.000\n• duplicatas a receber — 50.000\n• empréstimos a pagar — 30.000\n• estoques — 40.000\n• imóveis de uso próprio — 200.000\n• depreciação acumulada — 10.000\n• capital social — 220.000\n• fornecedores — 20.000\n• salários a pagar — 50.000\n• reservas de lucros — 10.000\n• depósitos em bancos — 10.000\n• impostos a recolher — 10.000\n• aplicações financeiras de liquidez imediata — 30.000\n\nConsiderando os elementos patrimoniais apresentados nessa situação hipotética, julgue os itens a seguir."
+    }
   ],
   "corrigir": {
-    "84": {"enunciado": "O código Python a seguir apresenta como resultado \"True\".\n\nx = bool(-3)\ny = bool(\"True\"*x)\nz = bool(\"False\")\nprint (x and y and z)"},
-    "85": {"enunciado": "O resultado do código R seguinte será \"12\".\n\nf <- function(x) {\n  g <- function(y) {\n    y + z\n  }\n  z <- 4\n  x + g(x)\n}\nz <- 10\nf (4)"}
+    "84": {
+      "enunciado": "O código Python a seguir apresenta como resultado \"True\".\n\nx = bool(-3)\ny = bool(\"True\"*x)\nz = bool(\"False\")\nprint (x and y and z)"
+    },
+    "85": {
+      "enunciado": "O resultado do código R seguinte será \"12\".\n\nf <- function(x) {\n  g <- function(y) {\n    y + z\n  }\n  z <- 4\n  x + g(x)\n}\nz <- 10\nf (4)"
+    }
   }
 }

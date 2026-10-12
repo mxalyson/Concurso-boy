@@ -39,6 +39,9 @@ import type { EstatisticasQuestao, QuestaoResumo } from "@/lib/questoes";
 import { cn, pct, tempoRelativo, DIFICULDADES } from "@/lib/utils";
 import { Markdown } from "../markdown";
 import { Botao, Selo } from "../ui";
+import { ImagensQuestao } from "./imagens-questao";
+import { TextoQuestao } from "./texto-questao";
+import { semMarcadores } from "@/lib/marcadores";
 
 type Aba = "comentario" | "estatisticas" | "forum" | "anotacao" | "caderno" | "flashcard" | "reportar";
 
@@ -58,6 +61,9 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
   const [extras, setExtras] = useState<ExtrasQuestao | null>(null);
   const [favorita, setFavorita] = useState(questao.favorita);
   const [textoBaseAberto, setTextoBaseAberto] = useState((questao.texto_base?.length ?? 0) < 700);
+  const temContexto = questao.imagens.some((i) => i.parte === "contexto");
+  const contextoSubstitui = questao.imagens.some((i) => i.parte === "contexto" && i.substitui);
+  const enunciadoEmImagem = !questao.texto_confiavel && questao.imagens.some((i) => i.parte === "enunciado");
   const [pendente, iniciar] = useTransition();
   const inicio = useRef(Date.now());
 
@@ -67,7 +73,9 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
           { letra: "C", texto: "Certo" },
           { letra: "E", texto: "Errado" },
         ]
-      : questao.alternativas;
+      : enunciadoEmImagem
+        ? questao.alternativas.map((a) => ({ letra: a.letra, texto: `Alternativa ${a.letra}` }))
+        : questao.alternativas;
 
   const garantirExtras = async () => {
     if (!extras) setExtras(await carregarExtras(questao.id));
@@ -181,7 +189,7 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
 
       {/* Corpo */}
       <div className="space-y-4 px-4 py-4">
-        {questao.texto_base && (
+        {(questao.texto_base || temContexto) && (
           <div className="rounded-lg border border-slate-200 bg-slate-50 dark:border-slate-800 dark:bg-slate-950/50">
             <button
               onClick={() => setTextoBaseAberto(!textoBaseAberto)}
@@ -189,10 +197,22 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
             >
               Texto associado {textoBaseAberto ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
             </button>
-            {textoBaseAberto && <div className="texto-questao px-3 pb-3 text-sm text-slate-700 dark:text-slate-300">{questao.texto_base}</div>}
+            {textoBaseAberto && (
+              <div className="space-y-3 px-3 pb-3">
+                {questao.texto_base && !contextoSubstitui && (
+                  <TextoQuestao texto={questao.texto_base} imagens={questao.imagens} className="text-sm text-slate-700 dark:text-slate-300" />
+                )}
+                <ImagensQuestao imagens={questao.imagens} parte="contexto" titulo="Recorte da prova original (figuras e tabelas)" />
+              </div>
+            )}
           </div>
         )}
-        <div className="texto-questao text-[15px] text-slate-900 dark:text-slate-100">{questao.enunciado}</div>
+        {enunciadoEmImagem ? (
+          <ImagensQuestao imagens={questao.imagens} parte="enunciado" titulo="Enunciado conforme a prova original" />
+        ) : (
+          <TextoQuestao texto={questao.enunciado} imagens={questao.imagens} className="text-[15px] text-slate-900 dark:text-slate-100" />
+        )}
+        <ImagensQuestao imagens={questao.imagens} parte="figura" />
 
         <div className={cn(questao.tipo === "certo_errado" ? "flex flex-wrap gap-2" : "space-y-2")}>
           {opcoes.map((alt) => {
@@ -251,7 +271,7 @@ export function CartaoQuestao({ questao, indice }: { questao: QuestaoResumo; ind
                   >
                     {alt.letra}
                   </span>
-                  <span className={cn("texto-questao pt-0.5", eliminada && "text-slate-400 line-through")}>{alt.texto}</span>
+                  <TextoQuestao inline texto={alt.texto} imagens={questao.imagens} className={cn("pt-0.5", eliminada && "text-slate-400 line-through")} />
                 </button>
                 {!bloqueado && (
                   <button
@@ -579,7 +599,7 @@ function AbaCaderno({ questaoId, extras, setExtras }: { questaoId: number; extra
 }
 
 function AbaFlashcard({ questao, extras, gabarito }: { questao: QuestaoResumo; extras: ExtrasQuestao | null; gabarito: string | null }) {
-  const [frente, setFrente] = useState(questao.enunciado.slice(0, 400));
+  const [frente, setFrente] = useState(semMarcadores(questao.enunciado).slice(0, 400));
   const [verso, setVerso] = useState(gabarito ? `Gabarito: ${rotuloGabarito(gabarito, questao.tipo)}` : "");
   const [deck, setDeck] = useState<string>("");
   const [novoDeck, setNovoDeck] = useState(questao.disciplina_nome);

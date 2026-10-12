@@ -189,6 +189,9 @@ export function obterOuCriarOrgao(
   );
 }
 
+/** De onde veio a prova: cadastro manual ou coleta automática dos PDFs das bancas. */
+export type OrigemProva = "manual" | "automatica";
+
 export function obterOuCriarProva(dados: {
   bancaId: number | null;
   orgaoId: number | null;
@@ -197,6 +200,7 @@ export function obterOuCriarProva(dados: {
   escolaridade?: string | null;
   urlProva?: string | null;
   urlGabarito?: string | null;
+  origem?: OrigemProva;
 }): number {
   const existente = db()
     .prepare(
@@ -208,8 +212,8 @@ export function obterOuCriarProva(dados: {
   return Number(
     db()
       .prepare(
-        `INSERT INTO provas (banca_id, orgao_id, cargo, ano, escolaridade, url_prova, url_gabarito)
-         VALUES (?, ?, ?, ?, ?, ?, ?)`,
+        `INSERT INTO provas (banca_id, orgao_id, cargo, ano, escolaridade, url_prova, url_gabarito, origem)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
       )
       .run(
         dados.bancaId,
@@ -219,6 +223,7 @@ export function obterOuCriarProva(dados: {
         dados.escolaridade ?? null,
         dados.urlProva ?? null,
         dados.urlGabarito ?? null,
+        dados.origem ?? "manual",
       ).lastInsertRowid,
   );
 }

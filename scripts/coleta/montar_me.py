@@ -1,7 +1,16 @@
 # Monta o lote de importação de uma prova de múltipla escolha (FGV, FCC...).
 # Uso: python3 montar_me.py config.json questoes.json gabarito.txt saida.json
-import json, re, sys
+import argparse, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from imagens_lote import anexar_imagens
 
+ap = argparse.ArgumentParser()
+ap.add_argument("config"); ap.add_argument("itens"); ap.add_argument("gabarito"); ap.add_argument("saida")
+ap.add_argument("--pdf", help="pdf[:primeiro_numero],... para recortar figuras/fórmulas")
+ap.add_argument("--imagens", default="data/imagens", help="pasta raiz das imagens")
+ap.add_argument("--lixo", default=None, help="regex de cabeçalhos/rodapés a ignorar nos recortes")
+args = ap.parse_args()
+sys.argv = [sys.argv[0], args.config, args.itens, args.gabarito, args.saida]
 cfg = json.load(open(sys.argv[1], encoding="utf8"))
 questoes = {q["numero"]: q for q in json.load(open(sys.argv[2], encoding="utf8"))}
 gab_txt = open(sys.argv[3], encoding="utf8").read()
@@ -41,8 +50,6 @@ for n in sorted(questoes):
         continue
     q = questoes[n]
     corr = cfg.get("corrigir", {}).get(str(n), {})
-    if q.get("problema") and not corr:
-        avisos.append(f"{n}: {q['problema']} (não excluída!)")
     c = faixa(cfg["classificacao"], n)
     if not c:
         avisos.append(f"{n}: sem classificação")
@@ -55,6 +62,7 @@ for n in sorted(questoes):
     base = corr.get("texto_base", b["texto_base"] if b else q.get("texto_base"))
     saida.append({
         "numero": n,
+        "problema": None if corr or n in set(cfg.get("sem_imagem", [])) else q.get("problema"),
         "disciplina": c["disciplina"],
         "assunto": c.get("assunto"),
         "tipo": "multipla",
@@ -66,6 +74,16 @@ for n in sorted(questoes):
         "fonte": f"{cfg['fonte']}, questão {n}",
     })
 
+if args.pdf:
+    fontes = [(p.split(":")[0], int(p.split(":")[1]) if ":" in p else 1) for p in args.pdf.split(",")]
+    n_img = anexar_imagens(saida, fontes, args.imagens, cfg["slug"], "me", args.lixo)
+    print(f"{n_img} questões com recorte da prova original")
+sem_imagem = [q["numero"] for q in saida if q.get("problema") and not q.get("imagens")]
+if sem_imagem:
+    avisos.append(f"com figura/fórmula mas sem recorte (excluídas): {sem_imagem}")
+    saida = [q for q in saida if q["numero"] not in sem_imagem]
+for q in saida:
+    q.pop("problema", None)
 json.dump({"prova": cfg["prova"], "questoes": saida}, open(sys.argv[4], "w", encoding="utf8"), ensure_ascii=False, indent=1)
 print(f"{len(saida)} questões ({sum(1 for q in saida if q['gabarito'] == 'X')} anuladas); gabarito da seção: {len(gab)} respostas")
 for a in avisos:

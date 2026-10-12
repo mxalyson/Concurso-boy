@@ -445,6 +445,678 @@
    "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 36"
   },
   {
+   "numero": 37,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considerando que o horário de ocorrência de certo tipo de crime em determinado local seja representado por uma variável aleatória contínua [[img:0]] cuja função de densidade é escrita como [[img:1]] em que [[img:2]] e [[img:3]] é uma constante de normalização [[img:4]] julgue os itens subsequentes.",
+   "enunciado": "O valor da constante [[img:5]] é inferior a 0,01.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 37",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-1.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-2.png",
+     "parte": "inline",
+     "largura": 177,
+     "altura": 34
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-3.png",
+     "parte": "inline",
+     "largura": 106,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-4.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-5.png",
+     "parte": "inline",
+     "largura": 76,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/37-1.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 38,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considerando que o horário de ocorrência de certo tipo de crime em determinado local seja representado por uma variável aleatória contínua [[img:0]] cuja função de densidade é escrita como [[img:1]] em que [[img:2]] e [[img:3]] é uma constante de normalização [[img:4]] julgue os itens subsequentes.",
+   "enunciado": "O valor esperado de [[img:5]] é igual a 12.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 38",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-1.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-2.png",
+     "parte": "inline",
+     "largura": 177,
+     "altura": 34
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-3.png",
+     "parte": "inline",
+     "largura": 106,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-4.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-5.png",
+     "parte": "inline",
+     "largura": 76,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/38-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 39,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considerando que o horário de ocorrência de certo tipo de crime em determinado local seja representado por uma variável aleatória contínua [[img:0]] cuja função de densidade é escrita como [[img:1]] em que [[img:2]] e [[img:3]] é uma constante de normalização [[img:4]] julgue os itens subsequentes.",
+   "enunciado": "[[img:5]]",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 39",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-1.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-2.png",
+     "parte": "inline",
+     "largura": 177,
+     "altura": 34
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-3.png",
+     "parte": "inline",
+     "largura": 106,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-4.png",
+     "parte": "inline",
+     "largura": 17,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b305-apoio-5.png",
+     "parte": "inline",
+     "largura": 76,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/39-1.png",
+     "parte": "inline",
+     "largura": 152,
+     "altura": 32
+    }
+   ]
+  },
+  {
+   "numero": 40,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que [[img:0]] e [[img:1]] sejam variáveis aleatórias contínuas que se distribuem conjuntamente conforme a função de densidade [[img:2]] [[img:3]]\nCom base nessas informações, julgue os itens seguintes.",
+   "enunciado": "[[img:4]] é uma variável aleatória uniforme no intervalo (0,1).",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 40",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-1.png",
+     "parte": "inline",
+     "largura": 20,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-2.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-3.png",
+     "parte": "inline",
+     "largura": 147,
+     "altura": 33
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-4.png",
+     "parte": "inline",
+     "largura": 276,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/40-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 32
+    }
+   ]
+  },
+  {
+   "numero": 41,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que [[img:0]] e [[img:1]] sejam variáveis aleatórias contínuas que se distribuem conjuntamente conforme a função de densidade [[img:2]] [[img:3]]\nCom base nessas informações, julgue os itens seguintes.",
+   "enunciado": "[[img:4]] e [[img:5]] são variáveis aleatórias independentes.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 41",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-1.png",
+     "parte": "inline",
+     "largura": 20,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-2.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-3.png",
+     "parte": "inline",
+     "largura": 147,
+     "altura": 33
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-4.png",
+     "parte": "inline",
+     "largura": 276,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/41-1.png",
+     "parte": "inline",
+     "largura": 20,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/41-2.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 42,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Variáveis aleatórias",
+   "tipo": "certo_errado",
+   "texto_base": "Considere que [[img:0]] e [[img:1]] sejam variáveis aleatórias contínuas que se distribuem conjuntamente conforme a função de densidade [[img:2]] [[img:3]]\nCom base nessas informações, julgue os itens seguintes.",
+   "enunciado": "[[img:4]]",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 42",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-1.png",
+     "parte": "inline",
+     "largura": 20,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-2.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-3.png",
+     "parte": "inline",
+     "largura": 147,
+     "altura": 33
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b321-apoio-4.png",
+     "parte": "inline",
+     "largura": 276,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/42-1.png",
+     "parte": "inline",
+     "largura": 209,
+     "altura": 47
+    }
+   ]
+  },
+  {
+   "numero": 43,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Estimação",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsiderando que o conjunto de dados apresentado represente uma realização de uma amostra aleatória simples de tamanho [[img:1]] [[img:2]] retirada de uma população [[img:3]] cuja função de probabilidade acumulada é escrita como\n[[img:4]]\nem que [[img:5]] é o parâmetro desconhecido, julgue os itens que se seguem.",
+   "enunciado": "A estimativa de máxima verossimilhança para o parâmetro [[img:6]] é igual ou superior a 3,5.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 43",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-1.png",
+     "parte": "inline",
+     "largura": 420,
+     "altura": 38
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-2.png",
+     "parte": "inline",
+     "largura": 39,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-3.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-4.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-5.png",
+     "parte": "inline",
+     "largura": 515,
+     "altura": 53
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/43-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 44,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Estimação",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsiderando que o conjunto de dados apresentado represente uma realização de uma amostra aleatória simples de tamanho [[img:1]] [[img:2]] retirada de uma população [[img:3]] cuja função de probabilidade acumulada é escrita como\n[[img:4]]\nem que [[img:5]] é o parâmetro desconhecido, julgue os itens que se seguem.",
+   "enunciado": "Pelo método dos mínimos quadrados ordinários, a estimativa da média populacional é igual ou superior a 3,5.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 44",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-1.png",
+     "parte": "inline",
+     "largura": 420,
+     "altura": 38
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-2.png",
+     "parte": "inline",
+     "largura": 39,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-3.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-4.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-5.png",
+     "parte": "inline",
+     "largura": 515,
+     "altura": 53
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 45,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Estimação",
+   "tipo": "certo_errado",
+   "texto_base": "[[img:0]]\nConsiderando que o conjunto de dados apresentado represente uma realização de uma amostra aleatória simples de tamanho [[img:1]] [[img:2]] retirada de uma população [[img:3]] cuja função de probabilidade acumulada é escrita como\n[[img:4]]\nem que [[img:5]] é o parâmetro desconhecido, julgue os itens que se seguem.",
+   "enunciado": "A média amostral é uma estatística suficiente para a estimação do parâmetro [[img:6]]",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 45",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-1.png",
+     "parte": "inline",
+     "largura": 420,
+     "altura": 38
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-2.png",
+     "parte": "inline",
+     "largura": 39,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-3.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-4.png",
+     "parte": "inline",
+     "largura": 25,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-5.png",
+     "parte": "inline",
+     "largura": 515,
+     "altura": 53
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b340-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/45-1.png",
+     "parte": "inline",
+     "largura": 24,
+     "altura": 32
+    }
+   ]
+  },
+  {
+   "numero": 46,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Regressão linear",
+   "tipo": "certo_errado",
+   "texto_base": "Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados ordinários, esse estudo apresentou um modelo de regressão linear simples da forma [[img:0]]\nem que [[img:1]] representa a reta ajustada em função da variável regressora [[img:2]] tal que [[img:3]]\nOs erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos p-valores encontram-se na tabela a seguir.\n[[img:4]]\nOs desvios padrão amostrais das variáveis [[img:5]] e [[img:6]] foram, respectivamente, 1 e 3,6.\nCom base nessas informações, julgue os itens a seguir.",
+   "enunciado": "A correlação linear entre as variáveis [[img:7]] e [[img:8]] foi igual a [[img:9]]",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 46",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-1.png",
+     "parte": "inline",
+     "largura": 151,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-2.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 36
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-3.png",
+     "parte": "inline",
+     "largura": 24,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-4.png",
+     "parte": "inline",
+     "largura": 114,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-5.png",
+     "parte": "inline",
+     "largura": 524,
+     "altura": 109
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-7.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/46-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/46-2.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 31
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/46-3.png",
+     "parte": "inline",
+     "largura": 54,
+     "altura": 31
+    }
+   ]
+  },
+  {
+   "numero": 47,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Regressão linear",
+   "tipo": "certo_errado",
+   "texto_base": "Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados ordinários, esse estudo apresentou um modelo de regressão linear simples da forma [[img:0]]\nem que [[img:1]] representa a reta ajustada em função da variável regressora [[img:2]] tal que [[img:3]]\nOs erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos p-valores encontram-se na tabela a seguir.\n[[img:4]]\nOs desvios padrão amostrais das variáveis [[img:5]] e [[img:6]] foram, respectivamente, 1 e 3,6.\nCom base nessas informações, julgue os itens a seguir.",
+   "enunciado": "Considere que [[img:7]] denote o coeficiente angular do modelo de regressão linear simples e considere, ainda, que o teste de hipóteses [[img:8]] versus [[img:9]] Nessa situação, com referência a esse teste, caso o nível de significância escolhido seja igual a 5%, os resultados do estudo em questão indicarão que não há evidências estatísticas contra a hipótese nula [[img:10]]",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 47",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-1.png",
+     "parte": "inline",
+     "largura": 151,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-2.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 36
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-3.png",
+     "parte": "inline",
+     "largura": 24,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-4.png",
+     "parte": "inline",
+     "largura": 114,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-5.png",
+     "parte": "inline",
+     "largura": 524,
+     "altura": 109
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-7.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/47-1.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/47-2.png",
+     "parte": "inline",
+     "largura": 89,
+     "altura": 34
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/47-3.png",
+     "parte": "inline",
+     "largura": 88,
+     "altura": 34
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/47-4.png",
+     "parte": "inline",
+     "largura": 94,
+     "altura": 35
+    }
+   ]
+  },
+  {
+   "numero": 48,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Estatística",
+   "assunto": "Regressão linear",
+   "tipo": "certo_errado",
+   "texto_base": "Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados ordinários, esse estudo apresentou um modelo de regressão linear simples da forma [[img:0]]\nem que [[img:1]] representa a reta ajustada em função da variável regressora [[img:2]] tal que [[img:3]]\nOs erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos p-valores encontram-se na tabela a seguir.\n[[img:4]]\nOs desvios padrão amostrais das variáveis [[img:5]] e [[img:6]] foram, respectivamente, 1 e 3,6.\nCom base nessas informações, julgue os itens a seguir.",
+   "enunciado": "Se a média amostral da variável [[img:7]] for igual a 6,5, então a média amostral da variável [[img:8]] será igual a 4,35 mil ocorrências.",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 48",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-1.png",
+     "parte": "inline",
+     "largura": 151,
+     "altura": 35
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-2.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 36
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-3.png",
+     "parte": "inline",
+     "largura": 24,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-4.png",
+     "parte": "inline",
+     "largura": 114,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-5.png",
+     "parte": "inline",
+     "largura": 524,
+     "altura": 109
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-6.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/b368-apoio-7.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/48-1.png",
+     "parte": "inline",
+     "largura": 19,
+     "altura": 32
+    },
+    {
+     "src": "cebraspe-pf-2021-agente/48-2.png",
+     "parte": "inline",
+     "largura": 18,
+     "altura": 32
+    }
+   ]
+  },
+  {
    "numero": 49,
    "comentario": null,
    "desatualizada": false,
@@ -637,6 +1309,18 @@
    "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 64"
   },
   {
+   "numero": 65,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Planilhas eletrônicas (Excel)",
+   "tipo": "certo_errado",
+   "texto_base": "A respeito de Internet e de intranet, julgue os itens a seguir.",
+   "enunciado": "Se um usuário recebesse a planilha Excel a seguir somente com os dados contidos nas colunas A e B e necessitasse preencher a coluna C, em vez de digitar manualmente os dados, ele poderia, para fazer o referido preenchimento, digitar o conteúdo “Acre - AC” na célula C1; selecionar a",
+   "gabarito": "C",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 65"
+  },
+  {
    "numero": 66,
    "comentario": null,
    "desatualizada": false,
@@ -767,6 +1451,46 @@
    "enunciado": "Uma das etapas descritas em um método de desenvolvimento de sistema clássico é a de análise e definição de requisitos, etapa em que as restrições e as metas do sistema são obtidas por meio de consulta a usuários, com o objetivo de realizar a especificação do sistema.",
    "gabarito": "C",
    "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 76"
+  },
+  {
+   "numero": 77,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Sistemas de informação",
+   "tipo": "certo_errado",
+   "texto_base": "Idade dos traficantes\n[[img:0]]\nConsidere que a Polícia Federal tenha registrado, em determinado período, a prisão de 1.789 traficantes de drogas pertencentes a facções criminosas, conforme faixas etárias mostradas no gráfico. Com referência às informações e ao gráfico precedentes, julgue os itens subsecutivos.",
+   "enunciado": "Considerando-se a classificação dados, informação, conhecimento e inteligência, é correto afirmar que o gráfico representa, por si só, a inteligência.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 77",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b574-apoio-1.png",
+     "parte": "inline",
+     "largura": 540,
+     "altura": 233
+    }
+   ]
+  },
+  {
+   "numero": 78,
+   "comentario": null,
+   "desatualizada": false,
+   "disciplina": "Informática",
+   "assunto": "Sistemas de informação",
+   "tipo": "certo_errado",
+   "texto_base": "Idade dos traficantes\n[[img:0]]\nConsidere que a Polícia Federal tenha registrado, em determinado período, a prisão de 1.789 traficantes de drogas pertencentes a facções criminosas, conforme faixas etárias mostradas no gráfico. Com referência às informações e ao gráfico precedentes, julgue os itens subsecutivos.",
+   "enunciado": "O número 1.789 sozinho caracteriza uma informação, independentemente do contexto.",
+   "gabarito": "E",
+   "fonte": "Cebraspe — PF 2021 — Agente de Polícia Federal, item 78",
+   "imagens": [
+    {
+     "src": "cebraspe-pf-2021-agente/b574-apoio-1.png",
+     "parte": "inline",
+     "largura": 540,
+     "altura": 233
+    }
+   ]
   },
   {
    "numero": 79,

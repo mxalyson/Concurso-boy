@@ -1,0 +1,1678 @@
+{
+ "prova": {
+  "banca": "FCC",
+  "banca_nome": "FCC",
+  "orgao": "TRF 4",
+  "cargo": "Técnico Judiciário - Área: Administrativa",
+  "ano": "2025",
+  "esfera": "federal",
+  "escolaridade": "superior"
+ },
+ "questoes": [
+  {
+   "numero": "1",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
+   "enunciado": "O termo demais, do título, antecipa uma reflexão crítica que se desenvolve ao longo do texto, sobretudo em relação à",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "maneira ativa de fruição artística no passado, considerado pela autora como avançada diante das novas exigências do público digital"
+    },
+    {
+     "letra": "B",
+     "texto": "resistência de autores e artistas em se adaptarem ao novo modelo comunicacional, o que os afasta do público contemporâneo e compromete sua relevância cultural."
+    },
+    {
+     "letra": "C",
+     "texto": "substituição do contato direto com a arte por experiências filtradas por algoritmos, o que empobrece a relação entre criador e consumidor."
+    },
+    {
+     "letra": "D",
+     "texto": "perda de limites entre público e privado, decorrente do uso exacerbado de tecnologias de interatividade, que compromete a integridade da imagem e da produção artística."
+    },
+    {
+     "letra": "E",
+     "texto": "banalização dos produtos culturais tradicionais, incapazes de competir com o dinamismo e a velocidade das novas plataformas digitais."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 1"
+  },
+  {
+   "numero": "2",
+   "disciplina": "Mecanismos de coesão textual",
+   "assunto": "Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
+   "enunciado": "Do ponto de vista da coesão textual, a construção Por um lado [...] por outro (3º parágrafo) tem como função:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Contrapor o passado idealizado à presente degradação social."
+    },
+    {
+     "letra": "B",
+     "texto": "Estabelecer oposição entre os benefícios e os prejuízos da interatividade."
+    },
+    {
+     "letra": "C",
+     "texto": "Retomar uma enumeração iniciada no parágrafo anterior."
+    },
+    {
+     "letra": "D",
+     "texto": "Enfatizar a importância de ouvir todas as vozes da sociedade."
+    },
+    {
+     "letra": "E",
+     "texto": "Introduzir uma sequência de ações contrárias à modernização."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 2"
+  },
+  {
+   "numero": "3",
+   "disciplina": "A sintaxe do período composto",
+   "assunto": "Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
+   "enunciado": "A articulação entre os trechos O conteúdo mantinha-se preservado e Ninguém divulgava um texto de [...] (1º parágrafo), em relação ao último período do parágrafo, pode ser descrita como de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "causalidade: o respeito à autoria era o motivo da preservação textual."
+    },
+    {
+     "letra": "B",
+     "texto": "proporcionalidade: as ações descritas ocorriam gradativamente."
+    },
+    {
+     "letra": "C",
+     "texto": "condição: o conteúdo era preservado se o autor fosse respeitado."
+    },
+    {
+     "letra": "D",
+     "texto": "adversidade: a preservação do conteúdo contrariava o costume da época."
+    },
+    {
+     "letra": "E",
+     "texto": "finalidade: o anonimato servia para manter o conteúdo intacto."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 3"
+  },
+  {
+   "numero": "4",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
+   "enunciado": "No trecho as relações ficaram mais funcionais (3º parágrafo), o adjetivo \"funcionais\" indica que as relações",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "humanizaram-se e tornaram-se mais emotivas."
+    },
+    {
+     "letra": "B",
+     "texto": "tornaram-se mais práticas e objetivas."
+    },
+    {
+     "letra": "C",
+     "texto": "passaram a se pautar por critérios estéticos e simbólicos."
+    },
+    {
+     "letra": "D",
+     "texto": "enfraqueceram-se, perdendo o vínculo afetivo."
+    },
+    {
+     "letra": "E",
+     "texto": "assumiram caráter instável e conflituoso."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 4"
+  },
+  {
+   "numero": "5",
+   "disciplina": "Emprego dos modos verbais",
+   "assunto": "Emprego dos tempos verbais",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nInterativo demais\n\nAntigamente, os escritores eram admirados apenas pelo que publicavam em livros e revistas. Quando algum leitor gostava muito do que havia lido e queria compartilhar com alguém, dava o livro de presente ou emprestava o seu. O conteúdo mantinha-se preservado, assim como seu autor. Ninguém divulgava um texto de Somerset Maugham como sendo de Virginia Woolf, ninguém infiltrava parágrafos do Rubem Braga num texto do Sartre, ninguém criava novos finais para os poemas de Cecília Meireles. O escritor e sua obra eram respeitados, e os leitores podiam confiar no que estavam consumindo.\n\nAlém disso, artistas de cinema, músicos e esportistas eram mitos a cuja intimidade não se tinha acesso. Marilyn Monroe, Frank Sinatra e Ayrton Senna entregavam ao público o que prometiam - sua arte - e o resto era especulação. Mais tarde pipocavam biografias, saciando a curiosidade do público, mas o legado desses ícones se manteve para sempre incorruptível: eram os donos legítimos de sua imagem, de sua voz e de suas palavras.\n\nEra uma época em que aceitávamos pacificamente nossa condição de plateia, até que se inventou o conceito de interatividade e as ferramentas para exercê-la. Por um lado, a sociedade se democratizou, todos passaram a ser ouvidos, diminuiu a distância entre patrões e empregados, produtores e consumidores: as relações ficaram mais funcionais; por outro, o uso dessas ferramentas acabou involuindo para a maledicência e a promiscuidade virtual. Hoje ninguém consegue mais ter controle sobre sua imagem ou trabalho. Um ator de televisão diz \"oi\" para uma amiga na rua e na manhã seguinte correm notícias de que estão de casamento marcado. Uma cantora cancela um show porque está afônica e logo surge o boato de que tentou suicídio. Um escritor publica um texto no jornal e três segundos depois o mesmo texto está na internet, atribuído a Toulouse-Lautrec, que nem escritor foi.\n\n(Adaptado de Martha Medeiros. A graça da coisa. L&PM Editores. 2013)",
+   "enunciado": "Na frase Mais tarde pipocavam biografias, saciando a curiosidade do público, a forma verbal pipocavam expressa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um comportamento que começou no passado e se estende até o presente."
+    },
+    {
+     "letra": "B",
+     "texto": "um processo pontual e concluído no passado, reforçando o aspecto factual."
+    },
+    {
+     "letra": "C",
+     "texto": "uma ação habitual, coerente com a ideia de algo recorrente no tempo."
+    },
+    {
+     "letra": "D",
+     "texto": "uma hipótese não realizada, expressando irrealidade do fato."
+    },
+    {
+     "letra": "E",
+     "texto": "uma atividade subordinada à ideia de simultaneidade com o presente."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 5"
+  },
+  {
+   "numero": "6",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
+   "enunciado": "O termo Zero, no poema,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "indica a perda total de identidade e o apagamento da existência individual."
+    },
+    {
+     "letra": "B",
+     "texto": "representa a anulação do ser diante da grandiosidade da natureza."
+    },
+    {
+     "letra": "C",
+     "texto": "traduz a ideia de estagnação e paralisia do crescimento vital."
+    },
+    {
+     "letra": "D",
+     "texto": "simboliza a busca por uma pureza original, anterior ao desgaste natural da vida."
+    },
+    {
+     "letra": "E",
+     "texto": "representa uma dúvida sobre a inevitabilidade do envelhecimento do corpо."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 6"
+  },
+  {
+   "numero": "7",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
+   "enunciado": "A construção dos sentidos no poema evidencia relações entre o corpo e a dimensão simbólica da existência, sugerindo que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o texto recusa qualquer tipo de transcendência, fixando-se no plano físico."
+    },
+    {
+     "letra": "B",
+     "texto": "a limitação física está associada a uma possibilidade de elevação simbólica."
+    },
+    {
+     "letra": "C",
+     "texto": "o desgaste corporal é visto como castigo divino natural."
+    },
+    {
+     "letra": "D",
+     "texto": "a matéria é negada como portadora de qualquer tipo de valor espiritual."
+    },
+    {
+     "letra": "E",
+     "texto": "a superação do desgaste é tratada como uma inviabilidade absoluta."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 7"
+  },
+  {
+   "numero": "8",
+   "disciplina": "Emprego dos tempos verbais",
+   "assunto": "Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
+   "enunciado": "Em relação ao emprego dos tempos verbais no poema, observa-se que o",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "imperativo é empregado para sugerir ordens de transcendência espiritual."
+    },
+    {
+     "letra": "B",
+     "texto": "futuro do presente é usado de forma recorrente para marcar projeções utópicas."
+    },
+    {
+     "letra": "C",
+     "texto": "pretérito perfeito predomina para descrever fatos acabados e encerrados."
+    },
+    {
+     "letra": "D",
+     "texto": "futuro do pretérito é explorado para indicar possibilidades hipotéticas."
+    },
+    {
+     "letra": "E",
+     "texto": "presente indica simultaneidade entre o acontecer e a reflexão poética da vida."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 8"
+  },
+  {
+   "numero": "9",
+   "disciplina": "Figuras de linguagem",
+   "assunto": "Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
+   "enunciado": "A figura de linguagem que melhor caracteriza a construção da imagem da natureza no poema é a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "catacrese, ao utilizar termos impróprios para definir processos naturais."
+    },
+    {
+     "letra": "B",
+     "texto": "onomatopeia, ao reproduzir sons da natureza de forma direta e explícita."
+    },
+    {
+     "letra": "C",
+     "texto": "hipérbole, ao exagerar as consequências do desgaste físico."
+    },
+    {
+     "letra": "D",
+     "texto": "ironia, ao contrapor ideal e realidade de forma satírica."
+    },
+    {
+     "letra": "E",
+     "texto": "metáfora, ao transfigurar o ciclo vital em deslocamento para o zero."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 9"
+  },
+  {
+   "numero": "10",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 6 a 10, baseie-se no texto abaixo.\n\nZero bala\n\nA vida tem um vigor\n\nque o corpo não comporta\n\npor mais que se prepare\n\nNo mesmo passo, a natureza\n\ncaminha para o zero\n\ncomo o seu fruto principal\n\nque se gasta quanto mais\n\nse apura na terra estreita\n\ne por instinto busca no espaço\n\ncampo para se alçar, crescer\n\nno sentimento e gesto\n\nem uma nova combinação\n\nde interferências e insumos\n\ndespoluídos até o impossível\n\ncom órgãos sem discrepância\n\nque não contrariam as fontes\n\nnem se desgastam em nenhum\n\ndesvio de doença ou perda\n\nde força, suportando o sopro\n\no porte da pureza possível -\n\noriginal - sem marca de pecado.\n\n(FREITAS FILHO, Armando. Respiro - poemas.\n\nCompanhia das Letras, 2024)",
+   "enunciado": "No trecho em uma nova combinação de interferências e insumos/despoluídos até o impossível, a expressão adverbial até o impossível circunstancia a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "noção de limite absoluto, enfatizando a dificuldade de alcançar a pureza desejada."
+    },
+    {
+     "letra": "B",
+     "texto": "impossibilidade, realista, de renovação absoluta da matéria orgânica."
+    },
+    {
+     "letra": "C",
+     "texto": "redundância diante da crença na perfectibilidade humana."
+    },
+    {
+     "letra": "D",
+     "texto": "oposição entre o desejo de pureza e a realidade da degeneração."
+    },
+    {
+     "letra": "E",
+     "texto": "negação da ação natural no processo de regeneração vital."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 10"
+  },
+  {
+   "numero": "11",
+   "disciplina": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
+   "assunto": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
+   "tipo": "multipla",
+   "enunciado": "Conforme preceitua a Lei nº 13.146/2015, a recusa de oferta de obra intelectual em formato acessível à pessoa com deficiência é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "possível em qualquer circunstância, desde que assim entendam as autoridades públicas responsáveis pela divulgação e circulação da obra."
+    },
+    {
+     "letra": "B",
+     "texto": "possível em qualquer circunstância, desde que assim entenda o autor da obra, haja vista que a lei protege a vontade do artista, de forma soberana."
+    },
+    {
+     "letra": "C",
+     "texto": "vedada, exceto para o fim de proteção dos direitos de propriedade intelectual."
+    },
+    {
+     "letra": "D",
+     "texto": "vedada, sob qualquer argumento, inclusive sob a alegação de proteção dos direitos de propriedade intelectual."
+    },
+    {
+     "letra": "E",
+     "texto": "vedada, exceto para o fim de proteção dos direitos de propriedade intelectual e para preservação de direitos materiais relativos à obra."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 11"
+  },
+  {
+   "numero": "12",
+   "disciplina": "Lei nº 10.098/2000 -Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "Considere a seguinte situação hipotética: determinado município do Estado do Paraná promoverá importante evento cultural, a ser realizado em espaço público, a céu aberto, propiciando diversas apresentações de música e dança. No evento, serão instalados 20 banheiros químicos, dentre os quais deverão ser destinadas unidades acessíveis a pessoas com deficiência ou com mobilidade reduzida. Nos termos da Lei nº 10.098/2000, o número mínimo de banheiros químicos corresponderá a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10."
+    },
+    {
+     "letra": "B",
+     "texto": "5."
+    },
+    {
+     "letra": "C",
+     "texto": "2."
+    },
+    {
+     "letra": "D",
+     "texto": "3."
+    },
+    {
+     "letra": "E",
+     "texto": "7."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 12"
+  },
+  {
+   "numero": "13",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Resolução nº 401/2021 - Dispõe sobre o desenvolvimento de diretrizes de acessibilidade e inclusão de pessoas com deficiência nos órgãos do Poder Judiciário e de seus serviços auxiliares, e regulamenta o funcionamento de unidades de acessibilidade e inclus",
+   "tipo": "multipla",
+   "enunciado": "Considere:\n\nI. Deve ser presidida por magistrado(a).\n\nII. Não deve ter, dentre seus componentes, servidor da área de sustentabilidade.\n\nIII. Tem caráter permanente e multidisciplinar.\n\nIV. Deve ser composta por integrantes com e sem deficiência.\n\nNos termos da Resolução nº 401, do CNJ, especificamente no que concerne à Comissão de Acessibilidade e Inclusão, está correto o que consta APENAS em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, III e IV."
+    },
+    {
+     "letra": "B",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III."
+    },
+    {
+     "letra": "D",
+     "texto": "II, III e IV."
+    },
+    {
+     "letra": "E",
+     "texto": "I e II."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 13"
+  },
+  {
+   "numero": "14",
+   "disciplina": "Risco",
+   "assunto": "Tecnologia da Informação",
+   "tipo": "multipla",
+   "enunciado": "No exercício das atividades de desenvolvimento e supervisão de soluções de Inteligência Artificial (IA) no Poder Judiciário, a equipe de inovação precisa avaliar cuidadosamente os riscos associados ao uso de sistemas de IA generativa. Considerando os principais desafios identificados na literatura e nas normativas sobre o tema, o uso de IA generativa pode implicar riscos relacionados",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ao aumento da transparência nos dados e redução de vieses algorítmicos."
+    },
+    {
+     "letra": "B",
+     "texto": "ao fortalecimento automático da autoria individual em conteúdos gerados."
+    },
+    {
+     "letra": "C",
+     "texto": "à disseminação de desinformação e violação de direitos autorais."
+    },
+    {
+     "letra": "D",
+     "texto": "à eliminação de impactos sociais decorrentes da automação de tarefas."
+    },
+    {
+     "letra": "E",
+     "texto": "à proteção intrínseca dos dados sensíveis suprimindo a regulamentação adicional."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 14"
+  },
+  {
+   "numero": "15",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Conselho Nacional de Justiça - CNJ",
+   "tipo": "multipla",
+   "enunciado": "Durante a implantação de práticas de inovação no Poder Judiciário, a equipe responsável foi orientada a alinhar suas ações ao Plano Nacional de Inovação instituído pela Portaria CNJ nº 379/2024. Uma das estratégias adotadas foi a criação de projetos colaborativos de inovação envolvendo diferentes segmentos do Judiciário e o cadastro dessas iniciativas na plataforma Renovajud. De acordo com as diretrizes estabelecidas pela Portaria, essa estratégia está relacionada ao princípio de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fortalecimento da cultura de inovação por meio de iniciativas internas dos laboratórios, com foco em melhorias locais baseadas na autonomia institucional."
+    },
+    {
+     "letra": "B",
+     "texto": "estímulo à modernização organizacional por meio de ações autônomas conduzidas por cada tribunal, respeitando suas realidades operacionais."
+    },
+    {
+     "letra": "C",
+     "texto": "implementação de ações inovadoras com base em estruturas laboratoriais experimentais, com foco na testagem técnica de soluções sob controle institucional."
+    },
+    {
+     "letra": "D",
+     "texto": "valorização de boas práticas reconhecidas internacionalmente, priorizando o alinhamento a modelos de referência consolidados no setor público global."
+    },
+    {
+     "letra": "E",
+     "texto": "articulação em redes de inovação local, regional e nacional, fomentando projetos colaborativos."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 15"
+  },
+  {
+   "numero": "16",
+   "disciplina": "Inteligência Artificial",
+   "assunto": "Tecnologia da Informação",
+   "tipo": "multipla",
+   "enunciado": "Em um projeto de modernização do atendimento no Poder Judiciário, a equipe de inovação foi desafiada a criar uma solução capaz de compreender a linguagem natural dos usuários, gerar respostas contextualizadas a partir de dados disponíveis e, em alguns casos, propor redações automáticas de documentos iniciais para facilitar o acesso à Justiça. Considerando os conceitos de Inteligência Artificial (IA) aplicados ao setor público, a solução mais adequada para atender a esses requisitos corresponde ao uso de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "modelo de linguagem de larga escala capaz de interpretar, gerar e adaptar textos com base em aprendizado profundo."
+    },
+    {
+     "letra": "B",
+     "texto": "modelos simbólicos de IA, estruturados a partir de regras semânticas e léxicas estáticas, aplicados à representação do conhecimento jurídico."
+    },
+    {
+     "letra": "C",
+     "texto": "agentes conversacionais programados com fluxos condicionais para respondera perguntas frequentes, baseados em esquemas pré-configurados de decisão."
+    },
+    {
+     "letra": "D",
+     "texto": "sistemas híbridos com foco na automação de rotinas administrativas, combinando scripts estruturados e extração de dados não interpretativos."
+    },
+    {
+     "letra": "E",
+     "texto": "algoritmos supervisionados voltados à categorização de documentos, sem mecanismos de geração textual ou análise interativa."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 16"
+  },
+  {
+   "numero": "17",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Do meio ambiente (artigo 225 da CF)",
+   "tipo": "multipla",
+   "enunciado": "O artigo 225 da Constituição da República consagra, em seu texto, o princípio do desenvolvimento sustentável. Visando a assegurar tal princípio, o texto constitucional prevê",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a competência exclusiva dos Municípios para o licenciamento de atividades potencialmente poluidoras em áreas urbanas."
+    },
+    {
+     "letra": "B",
+     "texto": "tratamento fiscal favorecido para os biocombustíveis e para o hidrogênio de baixa emissão de carbono."
+    },
+    {
+     "letra": "C",
+     "texto": "a competência exclusiva dos Estados para fiscalizar e controlar a produção e comercialização de substâncias que comportem risco para a vida e o meio ambiente."
+    },
+    {
+     "letra": "D",
+     "texto": "a responsabilidade civil subjetiva para danos causados ao meio ambiente."
+    },
+    {
+     "letra": "E",
+     "texto": "a vedação absoluta de atividade econômicas em espaços territoriais protegidos."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 17"
+  },
+  {
+   "numero": "18",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Resoluções - CNJ",
+   "tipo": "multipla",
+   "enunciado": "Sobre a Política Nacional do Poder Judiciário para o Meio Ambiente, a Resolução nº 433/2021, do Conselho Nacional de Justiça,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estabelece o princípio do poluidor-pagador como diretriz exclusiva para o tratamento de conflitos ambientais."
+    },
+    {
+     "letra": "B",
+     "texto": "veda a utilização de provas obtidas por sensoriamento remoto em ações judiciais ambientais."
+    },
+    {
+     "letra": "C",
+     "texto": "determina que o magistrado, nas condenações por dano ambiental, considere apenas o impacto direto e mensurável do dano, sendo vedada a análise de externalidades ambientais ou efeitos na mudança climática global."
+    },
+    {
+     "letra": "D",
+     "texto": "autoriza a criação de unidades judiciárias especializadas na temática ambiental, que funcionarão, preferencialmente, como \"Núcleos de Justiça 4.0\" especializados."
+    },
+    {
+     "letra": "E",
+     "texto": "condiciona a realização de consulta prévia a povos indígenas e comunidades tradicionais em questões ambientais à concordância do Ministério Público Federal."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 18"
+  },
+  {
+   "numero": "19",
+   "disciplina": "Direito Ambiental",
+   "assunto": "Política Nacional de Mudança do Clima - Lei nº 12.187 de 2009",
+   "tipo": "multipla",
+   "enunciado": "O ano de 2024 marcou um ponto crítico para o Rio Grande do Sul, que vivenciou uma emergência climática sem precedentes, refletindo os alarmantes efeitos da mudança climática em escala global. Esse cenário ressalta a necessidade urgente de uma resposta robusta e coordenada para enfrentar os desafios que a alteração do clima impõe. A Política Nacional sobre Mudança do Clima (PNMC), instituída pela Lei nº 12.187/2009, surge como um instrumento essencial para orientar ações governamentais mobilizar a sociedade para o enfrentamento dos desafios ambientais futuros. Sintetizando as definições constantes do art. 2º e da Lei nº 12.187/2009,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "adaptação se resume à mudança dos hábitos de consumo da população para reduzir a produção de resíduos sólidos."
+    },
+    {
+     "letra": "B",
+     "texto": "mitigação refere-se à implementação de tecnologias que aumentam a liberação de gases de efeito estufa na atmosfera."
+    },
+    {
+     "letra": "C",
+     "texto": "vulnerabilidade é a medida de suscetibilidade e incapacidade de um sistema de lidar com os efeitos adversos da mudança do clima."
+    },
+    {
+     "letra": "D",
+     "texto": "sumidouro é o processo ou atividade que libera na atmosfera gases de efeito estufa."
+    },
+    {
+     "letra": "E",
+     "texto": "gases de efeito estufa são constituintes gasosos, naturais ou antrópicos, que, na atmosfera, reduzem a radiação infravermelha."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 19"
+  },
+  {
+   "numero": "20",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Dois irmãos, André e Luís, depositaram em uma conta conjunta os valores de R$ 41.000,00 e R$ 33.000,00, respectivamente. A cada ano, André depositará R$ 4.000,00, Luís depositará R$ 6.000,00 e nenhuma quantia será retirada. No ano em que a soma dos depósitos de André for igual à soma dos depósitos de Luís, o total depositado pelos irmãos, em R$, será",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "104.000,00."
+    },
+    {
+     "letra": "B",
+     "texto": "94.000,00."
+    },
+    {
+     "letra": "C",
+     "texto": "84.000,00."
+    },
+    {
+     "letra": "D",
+     "texto": "114.000,00."
+    },
+    {
+     "letra": "E",
+     "texto": "124.000,00."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 20"
+  },
+  {
+   "numero": "21",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Uma costureira faz, em um único dia, exatamente 7 panos de prato ou exatamente 6 aventais. Ela não faz panos de prato aventais em um mesmo dia. Em 7 dias ela fez 45 peças, sendo elas aventais e/ou panos de prato. O número total de aventais feitos pela costureira nesse período de 7 dias foi",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6."
+    },
+    {
+     "letra": "B",
+     "texto": "12."
+    },
+    {
+     "letra": "C",
+     "texto": "24."
+    },
+    {
+     "letra": "D",
+     "texto": "18."
+    },
+    {
+     "letra": "E",
+     "texto": "14."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 21"
+  },
+  {
+   "numero": "22",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Os amigos Daniel, Eduardo e Fernando têm idades diferentes e praticam modalidades esportivas diferentes entre judô, remo e tênis. Daniel tem 17 anos e não pratica remo. Eduardo não pratica tênis e tem 19 anos. Quem pratica judô tem 18 anos. É correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Daniel pratica judô."
+    },
+    {
+     "letra": "B",
+     "texto": "Eduardo pratica judô."
+    },
+    {
+     "letra": "C",
+     "texto": "Fernando pratica tênis."
+    },
+    {
+     "letra": "D",
+     "texto": "Fernando pratica remo."
+    },
+    {
+     "letra": "E",
+     "texto": "Daniel pratica tênis."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 22"
+  },
+  {
+   "numero": "23",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Em um jogo de dardos, cada lançamento pode valer, 0, 5, 8 ou 10 pontos. Em uma partida, um jogador fez 99 pontos e o número de lançamentos em que marcou 8 pontos foi o igual ao número de lançamentos em que marcou 10 pontos. Sabendo que em 25% de seus lançamentos ele não pontuou, o número total de lançamentos que esse jogador fez na partida foi",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20."
+    },
+    {
+     "letra": "B",
+     "texto": "15."
+    },
+    {
+     "letra": "C",
+     "texto": "22."
+    },
+    {
+     "letra": "D",
+     "texto": "18."
+    },
+    {
+     "letra": "E",
+     "texto": "25."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 23"
+  },
+  {
+   "numero": "24",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Uma passagem de avião custa R$ 1.200,00. O preço dessa passagem é composto por R$ 950,00 da tarifa, R$ 130,00 da bagagem de até 23 kg e R$ 120,00 da taxa do aeroporto. Se a taxa do aeroporto subir 10%, a tarifa subir 5% e o custo da bagagem se mantiver, o aumento percentual total do preço dessa passagem ficará entre",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6,5% e 7,0%."
+    },
+    {
+     "letra": "B",
+     "texto": "6,0% e 6,5%."
+    },
+    {
+     "letra": "C",
+     "texto": "5,5% e 6,0%."
+    },
+    {
+     "letra": "D",
+     "texto": "5,0% e 5,5%."
+    },
+    {
+     "letra": "E",
+     "texto": "4,5% e 5,0%."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 24"
+  },
+  {
+   "numero": "25",
+   "disciplina": "Administração Geral",
+   "assunto": "Análises Quantitativas e Qualitativas",
+   "tipo": "multipla",
+   "enunciado": "Durante o procedimento de gestão de um projeto há necessidade de analisar-se as preocupações que o rodeiam, desenvolvendo-se uma análise de risco. É certo que o risco",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é analisado por meio da ajuda de consultores ou grupos de especialistas que criam cenários para poderem inferir melhor as ocorrências e impactos sobre o projeto."
+    },
+    {
+     "letra": "B",
+     "texto": "pode ser mensurado pela identificação do grau de exposição do projeto a risco, consubstanciado nos fatores de probabilidade da ocorrência e seu impacto sobre o projeto."
+    },
+    {
+     "letra": "C",
+     "texto": "é analisado dentro da formulação de um consenso de opiniões de especialistas que listam situações que lhes parecem relevantes no cenário de preocupações possíveis."
+    },
+    {
+     "letra": "D",
+     "texto": "se relaciona com resultados que podem ocorrer, mas são desconhecidos e, por isso, demandam análise apurada para sua identificação."
+    },
+    {
+     "letra": "E",
+     "texto": "merece análise detalhada e alternativas para sua superação, caso se consolide em risco negativo, por não permitir cálculo ou previsões mais precisas."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 25"
+  },
+  {
+   "numero": "26",
+   "disciplina": "Administração Geral",
+   "assunto": "Indicadores de execução",
+   "tipo": "multipla",
+   "enunciado": "Em se tratando de gestão estratégica do Poder Judiciário, estabeleceu-se que as metas nacionais serão elaboradas, prioritariamente, a partir de indicadores relacionados a cada um dos macrodesafios identificados. Os macrodesafios, no que se relaciona a processos internos, são, dentre outros,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a promoção da sustentabilidade, o aperfeiçoamento da gestão da política criminal e a consolidação do sistema de precedentes obrigatórios."
+    },
+    {
+     "letra": "B",
+     "texto": "a agilidade e produtividade na prestação jurisdicional, a implementação de alternativas digitais de otimização de tarefas e a promoção da sustentabilidade."
+    },
+    {
+     "letra": "C",
+     "texto": "o aperfeiçoamento da gestão administrativa e da governança judiciária, a redução de gastos públicos e a qualificação dos departamentos de recursos humanos na execução de escuta ativa."
+    },
+    {
+     "letra": "D",
+     "texto": "o enfrentamento à corrupção e à improbidade administrativa, o aperfeiçoamento da política de enfrentamento ao assédio e a implementação de alternativas digitais de otimização de tarefas."
+    },
+    {
+     "letra": "E",
+     "texto": "a prevenção de litígios e adoção de soluções consensuais, a redução de gastos públicos e o aperfeiçoamento da política de enfrentamento ao assédio."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 26"
+  },
+  {
+   "numero": "27",
+   "disciplina": "Administração Pública",
+   "assunto": "Excelência em Serviços Públicos",
+   "tipo": "multipla",
+   "enunciado": "A busca por maior transparência, prestação de contas e valorização do usuário têm sido constantes dentro do contexto de qualificação da prestação de serviços públicos, exigindo um controle cada vez mais rígido pela busca da excelência dos serviços prestados à população. Dentro da cultura de excelência na prestação dos serviços públicos, estão presentes os elementos de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "definição do processo de divisão do trabalho e otimização das atividades."
+    },
+    {
+     "letra": "B",
+     "texto": "custo módico e estabilidade do modelo de gestão."
+    },
+    {
+     "letra": "C",
+     "texto": "identificação e mapeamento de processos."
+    },
+    {
+     "letra": "D",
+     "texto": "identificação de pontos fortes e fracos e formatação de indicadores de desempenho."
+    },
+    {
+     "letra": "E",
+     "texto": "capacitação contínua e motivação dos servidores."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 27"
+  },
+  {
+   "numero": "28",
+   "disciplina": "Administração Pública",
+   "assunto": "Estado-rede",
+   "tipo": "multipla",
+   "enunciado": "No contexto da comunicação pública e governamental, as redes são organizações",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "centralizadas, porque, apesar de permitir em troca de informações e debates sobre possíveis soluções para um problema, não impactam na descentralização da tomada de decisões e do poder, que permanece intacta."
+    },
+    {
+     "letra": "B",
+     "texto": "rígidas e centralizadas, onde a coordenação de funções, atividades e processos ocorre por meio de uma rede de relacionamentos, mas reunida em uma coordenação central."
+    },
+    {
+     "letra": "C",
+     "texto": "temporárias, conectadas pela Tecnologia da Informação, com compartilhamento de competências, conhecimentos, ideais, soluções, infraestrutura, processos e colaboração, com o intuito de resolver problemas ou obter ganhos de toda espécie."
+    },
+    {
+     "letra": "D",
+     "texto": "permanentes, que permitem contato direto do prestador do serviço público e a sociedade, em ambiente de rede aberta, com viabilidade de registro de demanda ininterrupta."
+    },
+    {
+     "letra": "E",
+     "texto": "flexíveis, porque permitem a entrada e saída de seus colaboradores de forma permanente, sem limitação quanto ao grau de responsabilidade do agente colaborador em seu local de ofício."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 28"
+  },
+  {
+   "numero": "29",
+   "disciplina": "Administração Geral",
+   "assunto": "Processo organizacional (PODC)",
+   "tipo": "multipla",
+   "enunciado": "Partindo da definição de que processo organizacional é aquele que tem como base uma reunião em cadeia de tarefas organizadas cronologicamente e com objetivo de fazer uma entrega recorrente de serviço em contexto de fluxo de produção, dentro de uma classificação de modelos, o processo organizacional de apoio é aquele em que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não se admitem ajustes de procedimentos no curso do processo."
+    },
+    {
+     "letra": "B",
+     "texto": "há entrega final do serviço ao usuário/cliente."
+    },
+    {
+     "letra": "C",
+     "texto": "há percepção de valor pelo usuário/cliente."
+    },
+    {
+     "letra": "D",
+     "texto": "há coordenação entre os processos primários e de gerenciamento."
+    },
+    {
+     "letra": "E",
+     "texto": "não se entrega valor diretamente ao usuário/cliente."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 29"
+  },
+  {
+   "numero": "30",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Composição (artigo 107 da CF)",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
+   "enunciado": "Alício é brasileiro nato, tem 62 anos de idade e é membro do Ministério Público Estadual, com mais de dez anos de carreira. Thábata é brasileira naturalizada, advogada, tem 71 anos de idade e mais de vinte anos de atividade profissional. Joyce é brasileira nata, tem 40 anos de idade e é juíza federal com três anos de exercício. Com base apenas nas informações fornecidas, nestas situações, quanto à possibilidade de compor um Tribunal Regional Federal,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apenas Joyce poderá compô-lo."
+    },
+    {
+     "letra": "B",
+     "texto": "apenas Alício poderá compô-lo."
+    },
+    {
+     "letra": "C",
+     "texto": "apenas Alício e Joyce poderão compô-lo."
+    },
+    {
+     "letra": "D",
+     "texto": "nenhum deles poderá compô-lo."
+    },
+    {
+     "letra": "E",
+     "texto": "Alício, Thábata e Joyce poderão compô-lo."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 30"
+  },
+  {
+   "numero": "31",
+   "disciplina": "Limitações do poder de tributar ou limitações do poder de tributar (artigos 150 a 152 da CF)",
+   "assunto": "Direito Constitucional",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
+   "enunciado": "Com relação à limitação do poder de tributar, é vedado à União",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, não sendo admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento socioeconômico entre as diferentes regiões do País."
+    },
+    {
+     "letra": "B",
+     "texto": "instituir impostos sobre entidades religiosas e templos de qualquer culto, exceto suas organizações assistenciais e beneficentes, e também sobre operações relativas a títulos ou valores mobiliários."
+    },
+    {
+     "letra": "C",
+     "texto": "tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes."
+    },
+    {
+     "letra": "D",
+     "texto": "instituir empréstimos compulsórios, ainda que para atender a despesas extraordinárias, decorrentes de calamidade pública, sendo-lhe também vedada a instituição de isenções de tributos da competência dos Estados."
+    },
+    {
+     "letra": "E",
+     "texto": "instituir taxas, em razão do exercício do poder de polícia ou pela utilização potencial de serviços públicos específicos e divisíveis, postos à disposição do contribuinte, e também instituir isenções de tributos da competência dos Municípios."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 31"
+  },
+  {
+   "numero": "32",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF)",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
+   "enunciado": "Marcel nasceu no Brasil enquanto seus pais, estrangeiros, estavam aqui para tratar de assuntos familiares, já que possuíam alguns parentes neste País. Atingida a maioridade, Marcel deseja viver no Brasil, estudar Direito e se tornar Ministro do Supremo Tribunal Federal. Considerando apenas as informações fornecidas, Marcel",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poderá vir a exercer o cargo que deseja, por ser brasileiro nato."
+    },
+    {
+     "letra": "B",
+     "texto": "não poderá vir a exercer o cargo que deseja, por não ser brasileiro nato."
+    },
+    {
+     "letra": "C",
+     "texto": "poderá vir a exercer o cargo que deseja apenas se se naturalizar brasileiro, uma vez que é estrangeiro."
+    },
+    {
+     "letra": "D",
+     "texto": "poderá vir a exercer o cargo que deseja, ainda que não se naturalize brasileiro, pois para se tornar Ministro do Supremo Tribunal Federal não é necessário ter a nacionalidade brasileira, bastando residir no Brasil por, pelo menos, 5 anos ininterruptos."
+    },
+    {
+     "letra": "E",
+     "texto": "poderá vir a exercer o cargo que deseja, ainda que não se naturalize brasileiro, pois para se tornar Ministro do Supremo Tribunal Federal não é necessário ter a nacionalidade brasileira, bastando residir no Brasil por, pelo menos, 15 anos ininterruptos."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 32"
+  },
+  {
+   "numero": "33",
+   "disciplina": "Direitos Políticos (artigos 14 a 16 da CF)",
+   "assunto": "Direito Constitucional",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
+   "enunciado": "Nivaldo, 31 anos de idade, é Prefeito do Município \"Y\", situado no Estado \"Z\", eleito em 2024, e pretende se candidatar a Governador do Estado \"Z\" nas eleições de 2026. Nina, brasileira, analfabeta, 23 anos de idade, vendedora de pipoca, vizinha de Nivaldo, é bastante conhecida no bairro e já declarou, expressa e informalmente, que irá votar em Nivaldo para Governador do Estado e irá se candidatar a Deputada Estadual nas mesmas eleições. Considerando apenas as informações fornecidas, nessa situação, Nivaldo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poderá se candidatar ao cargo que pretende, desde que renuncie ao seu mandato de Prefeito até seis meses antes do pleito e Nina, apesar de ser a ela facultativo o alistamento eleitoral e o voto e ser ela elegível para outros cargos, não poderá se candidatar ao cargo pretendido, pois não possui a idade mínima para tanto."
+    },
+    {
+     "letra": "B",
+     "texto": "poderá se candidatar ao cargo que pretende, desde que renuncie ao seu mandato de Prefeito até seis meses antes do pleito e Nina, apesar de ser a ela facultativo o alistamento eleitoral e o voto, não poderá se candidatar ao cargo pretendido, pois é inelegível."
+    },
+    {
+     "letra": "C",
+     "texto": "poderá se candidatar ao cargo que pretende, desde que renuncie ao seu mandato de Prefeito até quatro meses antes do pleito e Nina, para quem o alistamento eleitoral e o voto são facultativos, é elegível, podendo se candidatar ao cargo pretendido."
+    },
+    {
+     "letra": "D",
+     "texto": "não poderá se candidatar ao cargo que pretende, pois já titular de mandato eletivo, devendo cumprir seu mandato até o final e Nina, para quem o alistamento eleitoral e o voto são facultativos, é elegível, podendo se candidatar ao cargo pretendido."
+    },
+    {
+     "letra": "E",
+     "texto": "não poderá se candidatar ao cargo que pretende, pois já titular de mandato eletivo, devendo cumprir seu mandato até o final, e Nina, apesar de ser a ela facultativo o alistamento eleitoral e o voto, não poderá se candidatar ao cargo pretendido, pois é inelegível."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 33"
+  },
+  {
+   "numero": "34",
+   "disciplina": "Responsabilidade Ambiental",
+   "assunto": "Direito ambiental",
+   "tipo": "multipla",
+   "texto_base": "Atenção: Para responder às questões de números 30 a 34, considere a Constituição Federal de 1988.",
+   "enunciado": "Com relação ao meio ambiente, considere:\n\nI.Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com a solução técnica exigida pelo órgão público competente, na forma da lei.\n\nII.As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas apenas se não houver ou se não for cumprida a obrigação de reparar os danos causados.\n\nIII.A Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são patrimônio nacional e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "III, apenas."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 34"
+  },
+  {
+   "numero": "35",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Título III - Dos Direitos e Vantagens",
+   "tipo": "multipla",
+   "enunciado": "A propósito das férias, a Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União) estatui que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em caso de exoneração, o servidor fará jus à indenização das férias, desde que completado o período aquisitivo 12 meses."
+    },
+    {
+     "letra": "B",
+     "texto": "as férias não estão sujeitas a interrupção, uma vez iniciado o gozo."
+    },
+    {
+     "letra": "C",
+     "texto": "as férias poderão ser parceladas em até três etapas, desde que assim requeridas pelo servidor, e no interesse da Administração pública."
+    },
+    {
+     "letra": "D",
+     "texto": "as férias podem ser acumuladas, até o máximo de 3 períodos, no caso de necessidade do serviço, ressalvadas as hipóteses em que haja legislação específica."
+    },
+    {
+     "letra": "E",
+     "texto": "para o primeiro período aquisitivo de férias serão exigidos 24 meses de exercício."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 35"
+  },
+  {
+   "numero": "36",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Atos Administrativos",
+   "tipo": "multipla",
+   "enunciado": "Conforme clássica lição doutrinária, o atributo da imperatividade não está presente em todos os atos administrativos, estando ausente nos atos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sancionatórios."
+    },
+    {
+     "letra": "B",
+     "texto": "ordinatórios."
+    },
+    {
+     "letra": "C",
+     "texto": "enunciativos."
+    },
+    {
+     "letra": "D",
+     "texto": "normativos."
+    },
+    {
+     "letra": "E",
+     "texto": "ablatórios."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 36"
+  },
+  {
+   "numero": "37",
+   "disciplina": "Da Alteração dos Contratos e Dos Preços",
+   "assunto": "Direito Administrativo",
+   "tipo": "multipla",
+   "enunciado": "Um TRF celebrou um contrato de prestação de serviços com a empresa VigiLegal Ltda., para prestação de serviços contínuos de vigilância e controle de portaria, com a previsão de cinco postos de trabalho a serem ocupados por equipe de profissionais dedicados continuamente à tarefa. Após 8 meses da assinatura do ajuste, o preposto da empresa encaminha ao gestor do contrato um pleito de reequilíbrio econômico-financeiro do ajuste, em razão do início da vigência de nova convenção coletiva relativa à categoria envolvida na contratação. Em vista de tal situação e tendo verificado que as disposições da convenção vinculam legalmente a Administração, o gestor deverá",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "assinar aditamento contratual com a empresa contratada, visto tratar-se de hipótese de revisão contratual, baseada na teoria da imprevisão."
+    },
+    {
+     "letra": "B",
+     "texto": "providenciar a repactuação do contrato, dispensada a celebração de termo aditivo."
+    },
+    {
+     "letra": "C",
+     "texto": "rejeitar a proposta de reequilíbrio, visto que ainda não completado o interstício de 12 meses, contados da celebração do ajuste."
+    },
+    {
+     "letra": "D",
+     "texto": "propor à autoridade que assinou o contrato que celebre termo aditivo de revisão contratual, em razão da ocorrência de fato do príncipе."
+    },
+    {
+     "letra": "E",
+     "texto": "providenciar a antecipação do reajustamento em sentido estrito do contrato, desde que verificado que o impacto есоnômico da convenção será considerado no índice fixado no contrato."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 37"
+  },
+  {
+   "numero": "38",
+   "disciplina": "Lei nº 8.429/92 - Lei de Improbidade Administrativa",
+   "assunto": "Sanções Cabíveis",
+   "tipo": "multipla",
+   "enunciado": "No que toca à aplicação das sanções, a Lei de Improbidade Administrativa (Lei nº 8.429/1992), em sua redação vigente, estabelece que a sanção",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "de multa pode ser aumentada até o dobro, se o juiz considerar que, em virtude da situação econômica do réu, os parâmetros constantes da lei se mostraram ineficazes para reprovação e prevenção do ato de improbidade."
+    },
+    {
+     "letra": "B",
+     "texto": "aplicada será executada imediatamente após a publicação da sentença, ressalvada a atribuição de efeito suspensivo, em caso de apelação."
+    },
+    {
+     "letra": "C",
+     "texto": "de proibição de contratação com o poder público aplica-se automaticamente em relação a todos os entes públicos, uma vez incluída a empresa no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS)."
+    },
+    {
+     "letra": "D",
+     "texto": "limitar-se-á à aplicação de multa, deduzido o ressarcimento do dano, no caso de atos de menor ofensa aos bens jurídicos tutelados pela lei."
+    },
+    {
+     "letra": "E",
+     "texto": "aplicada a pessoas jurídicas com base nessa lei e a sanção aplicada com base na Lei nº 12.846/2013 (Lei Anticorrupção) são independentes e podem ser aplicadas cumulativamente."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 38"
+  },
+  {
+   "numero": "39",
+   "disciplina": "Lei nº 11.416/2006 -Dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União; revoga as Leis nos 9.421, de 24 de dezembro de 1996, 10.475, de 27 de junho de 2002, 10.417, de 5 de abril de 2002, e 10.944, de 16 de setembro de 2004; e dá outr",
+   "assunto": "Legislação Federal",
+   "tipo": "multipla",
+   "enunciado": "A Lei nº 11.416/2006 (Lei das Carreiras dos Servidores do Poder Judiciário da União)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prevê que Decreto do Poder Executivo fixará a lotação dos cargos efetivos, das funções comissionadas e dos cargos em comissão nas unidades componentes do Poder Judiciário da União."
+    },
+    {
+     "letra": "B",
+     "texto": "define promoção como a movimentação do servidor de um padrão para o seguinte dentro de uma mesma classe, observado o interstício de um ano, sob os critérios fixados em regulamento e de acordo com o resultado de avaliação formal de desempenho."
+    },
+    {
+     "letra": "C",
+     "texto": "autoriza a percepção da Gratificação de Atividade de Segurança - GAS pelo servidor designado para o exercício de função comissionada ou nomeado para cargo em comissão, desde que tal posição esteja relacionada às atividades de segurança do Poder Judiciário."
+    },
+    {
+     "letra": "D",
+     "texto": "estabelece reserva de, no mínimo, 50% do total das funções comissionadas para serem exercidas por servidores integrantes das Carreiras dos Quadros de Pessoal do Poder Judiciário da União."
+    },
+    {
+     "letra": "E",
+     "texto": "autoriza a transformação, sem aumento de despesa, das funções comissionadas e dos cargos em comissão, vedando a transformação de função em cargo ou vice-versa."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 39"
+  },
+  {
+   "numero": "40",
+   "disciplina": "Requisitos para a celebração do acordo de não persecução penal",
+   "assunto": "Acordo de não persecução penal",
+   "tipo": "multipla",
+   "enunciado": "Considere os seguintes casos hipotéticos, envolvendo pessoas primárias e sem qualquer antecedente criminal, que estão sendo investigadas em inquéritos policiais instaurados:\n\nI. Benício praticou o crime de lavagem de capitais, tipificado no art. 1º, caput, da Lei nº 9.613/1998 (Art. 1º Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal), ao qual são cominadas penas de reclusão, de 3 a 10 anos, e multa.\n\nII. Marcela praticou o delito de lesão corporal dolosa grave contra sua colega de trabalho Maria, resultando aceleração do parto, tipificado no art. 129, § 1º, IV, do Código Penal (Art. 129. Ofender a integridade corporal ou a saúde de outrem. § 1º: Se resulta: [...] IV. aceleração do parto), ao qual é cominada pena de reclusão, de 1 a 5 anos.\n\nIII. Rosália praticou o delito de contratação direta ilegal, tipificado no art. 337-E, do Código Penal (Art. 337-E. Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei), ao qual são cominadas penas de reclusão de 4 a 8 anos, e multa.\n\nIV. Paulo praticou o delito de ameaça contra sua esposa, tipificado no art. 147, caput, do Código Penal (Art. 147. Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave), com pena cominada de detenção, de 1 a 6 meses, ou multa.\n\nNos termos preconizados pelo Código de Processo Penal, após as alterações promovidas pelo Pacote Anticrime, ao término das investigações, não sendo o caso de arquivamento do inquérito policial, presentes os demais requisitos legais, o Ministério Público poderá propor o acordo de não persecução penal APENAS para",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Benício."
+    },
+    {
+     "letra": "B",
+     "texto": "Benício e Rosália."
+    },
+    {
+     "letra": "C",
+     "texto": "Benício, Rosália e Paulo."
+    },
+    {
+     "letra": "D",
+     "texto": "Marcela e Paulo."
+    },
+    {
+     "letra": "E",
+     "texto": "Paulo."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 40"
+  },
+  {
+   "numero": "41",
+   "disciplina": "Hipóteses de Cabimento",
+   "assunto": "Apelação",
+   "tipo": "multipla",
+   "enunciado": "O Ministério Púbico Federal ajuizou ação penal em face de Lucas, imputando-lhe a prática de determinado crime de ação pública incondicionada, perpetrado no contexto das enchentes que acometeram o Rio Grande do Sul, em relação ao qual descabe qualquer instituto de justiça penal negociada. O magistrado ao qual dirigida a ação penal, analisando a denúncia, declinou de sua competência, por entender que competiria o processamento e julgamento do feito à Justiça Comum Estadual. Neste caso, inconformado, o Ministério Público Federal poderá interpor:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apelação, no prazo de 8 dias."
+    },
+    {
+     "letra": "B",
+     "texto": "recurso em sentido estrito, no prazo de 2 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "apelação, no prazo de 5 dias."
+    },
+    {
+     "letra": "D",
+     "texto": "recurso em sentido estrito, no prazo de 5 dias."
+    },
+    {
+     "letra": "E",
+     "texto": "correição parcial, no prazo de 5 dias."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 41"
+  },
+  {
+   "numero": "42",
+   "disciplina": "Da Prisão e da Liberdade Provisória",
+   "assunto": "Da Prisão Preventiva",
+   "tipo": "multipla",
+   "enunciado": "Considere as seguintes situações hipotéticas de pessoas que estão presas preventivamente:\n\nI. João praticou o delito de facilitação de contrabando, tipificado no art. 318 do Código Penal (Art. 318 - Facilitar, com infração de dever funcional, a prática de contrabando [...]), com penas cominadas de reclusão, de 3 a 8 anos, e multa, e é o único responsável pelos cuidados de seu filho de 13 anos.\n\nII. Maria, gestante, praticou o delito de roubo, previsto no art. 157, caput, do Código Penal (Art. 157- Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência), com penas cominadas de reclusão, de 4 a 10 anos, e multa.\n\nIII. Andrea, mãe de criança com 10 anos de idade, perpetrou o delito de interrupção do processo eleitoral, tipificado no art. 359-N, do Código Penal (Art. 359-N. Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral), ao qual são cominadas penas de reclusão, de 3 a 6 anos, e multa.\n\nIV. Carlos, com 80 anos de idade, valendo-se de inteligência artificial, perpetrou o delito de falsificação de documento público, tipificado no art. 297, caput, do Código Penal (Art. 297 - Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro), ao qual são cominadas penas de reclusão, de 2 a 6 anos, e multa.\n\nNos termos preconizados pelo Código de Processo Penal, presentes os demais requisitos legais, o Juiz poderá, em tese, substituir a prisão preventiva pela prisão domiciliar APENAS para:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "João e Carlos."
+    },
+    {
+     "letra": "B",
+     "texto": "João, Maria e Andrea."
+    },
+    {
+     "letra": "C",
+     "texto": "João e Andrea."
+    },
+    {
+     "letra": "D",
+     "texto": "Maria e Andrea."
+    },
+    {
+     "letra": "E",
+     "texto": "Andrea e Carlos."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 42"
+  },
+  {
+   "numero": "43",
+   "disciplina": "Direito Processual Penal",
+   "assunto": "Prova testemunhal",
+   "tipo": "multipla",
+   "enunciado": "Julia foi acusada pela prática de crime de corrupção ativa de funcionário público federal, tipificado no art. 333, caput, do Código Penal, para o qual são cominadas penas de reclusão, de 2 a 12 anos, e multa. Devidamente citada para responder à acusação por escrito, poderá, no prazo de 10 dias, arrolar até",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "8 testemunhas, não se compreendendo neste número as referidas, mas incluindo-se as que não prestem compromisso."
+    },
+    {
+     "letra": "B",
+     "texto": "8 testemunhas, não se compreendendo neste número as que não prestem compromisso, mas incluindo-se as referidas."
+    },
+    {
+     "letra": "C",
+     "texto": "8 testemunhas, não se compreendendo neste número as que não prestem compromisso e as referidas."
+    },
+    {
+     "letra": "D",
+     "texto": "5 testemunhas compromissadas, além de três que não prestem compromisso, podendo ouvir no curso da instrução outras testemunhas referidas sem limite de número."
+    },
+    {
+     "letra": "E",
+     "texto": "5 testemunhas compromissadas, bem como sem limite de número de testemunhas referidas e que não prestem compromisso."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 43"
+  },
+  {
+   "numero": "44",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Do Juiz (CPC)",
+   "tipo": "multipla",
+   "enunciado": "Sob a alegação de lacuna do ordenamento jurídico, o juiz",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poderá se eximir de decidir, exceto quando autorizado a decidir por equidade nos casos previstos em lei."
+    },
+    {
+     "letra": "B",
+     "texto": "não se exime de decidir, só podendo decidir por equidade nos casos previstos em lei."
+    },
+    {
+     "letra": "C",
+     "texto": "não se exime de decidir, podendo decidir por equidade sempre que a lei não fornecer solução justa para o caso concreto."
+    },
+    {
+     "letra": "D",
+     "texto": "poderá se eximir de decidir, mesmo quando autorizado a decidir por equidade."
+    },
+    {
+     "letra": "E",
+     "texto": "não se exime de decidir, sendo-lhe vedado decidir por equidade em qualquer hipótese."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 44"
+  },
+  {
+   "numero": "45",
+   "disciplina": "Conceito de Litisconsórcio",
+   "assunto": "Direito Processual Civil - CPC 2015",
+   "tipo": "multipla",
+   "enunciado": "O litisconsórcio ocorre quando",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "há pluralidade de pessoas em algum dos polos do processo."
+    },
+    {
+     "letra": "B",
+     "texto": "a mesma pessoa promove duas ou mais ações envolvendo o mesmo direito."
+    },
+    {
+     "letra": "C",
+     "texto": "a mesma pessoa promove duas ou mais ações envolvendo o mesmo objeto."
+    },
+    {
+     "letra": "D",
+     "texto": "duas pessoas diferentes promovem, reciprocamente, uma contra a outra, ações diversas envolvendo o mesmo direito."
+    },
+    {
+     "letra": "E",
+     "texto": "duas pessoas diferentes promovem, reciprocamente, uma contra a outra, ações diversas envolvendo o mesmo objeto."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 45"
+  },
+  {
+   "numero": "46",
+   "disciplina": "Princípio da Fungibilidade",
+   "assunto": "Direito Processual Civil - CPC 2015",
+   "tipo": "multipla",
+   "enunciado": "A fungibilidade recursal",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "autoriza que um recurso intempestivo seja conhecido quando houver relevante razão de interesse social que justifique a reforma da decisão recorrida."
+    },
+    {
+     "letra": "B",
+     "texto": "autoriza que o julgador conheça de toda a matéria objeto da decisão recorrida, ainda que não tenha sido especificamente abordada no recurso."
+    },
+    {
+     "letra": "C",
+     "texto": "impede que a decisão do recurso seja mais gravosa, para o recorrente, do que a decisão recorrida."
+    },
+    {
+     "letra": "D",
+     "texto": "é expressamente vedada, em qualquer hipótese, pelo Código de Processo Civil."
+    },
+    {
+     "letra": "E",
+     "texto": "permite que um recurso erroneamente interposto seja conhecido como se fosse o recurso correto."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 46"
+  },
+  {
+   "numero": "47",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Ação Monitória",
+   "tipo": "multipla",
+   "enunciado": "A ação monitória",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não pode ser proposta contra a Fazenda Pública."
+    },
+    {
+     "letra": "B",
+     "texto": "pode ser ajuizada para exigir o adimplemento de obrigação de fazer."
+    },
+    {
+     "letra": "C",
+     "texto": "presta-se exclusivamente para constituir o devedor em mora e interromper a prescrição, mas nela não se pode exigir o adimplemento da obrigação."
+    },
+    {
+     "letra": "D",
+     "texto": "não é cabível para exigir a entrega de bens móveis ou imóveis."
+    },
+    {
+     "letra": "E",
+     "texto": "é disciplinada por lei especial, não se achando prevista no Código de Processo Civil."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 47"
+  },
+  {
+   "numero": "48",
+   "disciplina": "Organização da Seguridade Social",
+   "assunto": "Direito Previdenciário",
+   "tipo": "multipla",
+   "enunciado": "A seguridade social compreende um conjunto integrado de ações de iniciativa do Poder Público e da sociedade, destinadas a assegurar os direitos à:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "educação, previdência e assistência social."
+    },
+    {
+     "letra": "B",
+     "texto": "educação, trabalho e solidariedade social."
+    },
+    {
+     "letra": "C",
+     "texto": "saúde, educação e assistência social."
+    },
+    {
+     "letra": "D",
+     "texto": "saúde, previdência e assistência social."
+    },
+    {
+     "letra": "E",
+     "texto": "saúde, previdência e solidariedade social."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 48"
+  },
+  {
+   "numero": "49",
+   "disciplina": "Conceito",
+   "assunto": "Direito Previdenciário",
+   "tipo": "multipla",
+   "enunciado": "São características do Regime Geral de Previdência Social:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "caráter contributivo, filiação obrigatória e cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade avançada."
+    },
+    {
+     "letra": "B",
+     "texto": "caráter contributivo, filiação facultativa e cobertura dos eventos de incapacidade temporária ou permanente para o trabalho, idade avançada e morte."
+    },
+    {
+     "letra": "C",
+     "texto": "caráter solidário, filiação facultativa e proteção à maternidade."
+    },
+    {
+     "letra": "D",
+     "texto": "caráter solidário, filiação obrigatória e proteção ao trabalhador em situação de desemprego voluntário e involuntário."
+    },
+    {
+     "letra": "E",
+     "texto": "caráter contributivo, filiação obrigatória e auxílio-reclusão para os dependentes dos cidadãos encarcerados."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 49"
+  },
+  {
+   "numero": "50",
+   "disciplina": "Direito Previdenciário",
+   "assunto": "Pensão por morte",
+   "tipo": "multipla",
+   "enunciado": "João, segurado do Regime Geral de Previdência Social, faleceu em 10 de junho de 2024, deixando a companheira, a ex-cônjuge a quem pagava pensão alimentícia, um irmão inválido, um filho universitário de 28 anos e dois filhos menores, todos sob sua dependência econômica. Nessas condições, fazem jus à pensão por morte por ele instituída:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a companheira, a ex-cônjuge, o irmão e os três filhos."
+    },
+    {
+     "letra": "B",
+     "texto": "apenas a companheira, a ex-cônjuge, o irmão e os dois filhos menores."
+    },
+    {
+     "letra": "C",
+     "texto": "apenas a companheira, o irmão e os três filhos."
+    },
+    {
+     "letra": "D",
+     "texto": "apenas a companheira, a ex-cônjuge e os dois filhos menores."
+    },
+    {
+     "letra": "E",
+     "texto": "apenas a companheira e os dois filhos menores."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FCC 2025 – TRF 4 – Técnico Judiciário - Área: Administrativa, questão 50"
+  }
+ ]
+}

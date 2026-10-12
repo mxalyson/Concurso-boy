@@ -1,0 +1,2670 @@
+{
+ "prova": {
+  "banca": "CESGRANRIO",
+  "banca_nome": "CESGRANRIO",
+  "orgao": "BANESE",
+  "cargo": "Técnico Bancário",
+  "ano": "2025",
+  "uf": "SE",
+  "esfera": "estadual",
+  "escolaridade": "medio"
+ },
+ "questoes": [
+  {
+   "numero": "1",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "Segundo as informações apresentadas no texto, os estudos sobre as relações do homem com o ambiente e o clima",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aumentaram durante a pandemia de covid-19."
+    },
+    {
+     "letra": "B",
+     "texto": "contribuíram para a plena recuperação do clima no planeta."
+    },
+    {
+     "letra": "C",
+     "texto": "definiram uma nova época geológica em função do impacto da presença do homem na Terra."
+    },
+    {
+     "letra": "D",
+     "texto": "participaram da construção do racismo científico no passado."
+    },
+    {
+     "letra": "E",
+     "texto": "resolveram todos os problemas de saúde e doenças ao longo dos séculos 18 e 19."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 1"
+  },
+  {
+   "numero": "2",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "De acordo com a ordem das ideias apresentadas no texto, observa-se que, antes de explicar que o Antropoceno designa uma nova época geológica definida pelo impacto do homem na Terra (parágrafo 2), o texto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "afirma que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água."
+    },
+    {
+     "letra": "B",
+     "texto": "explica que as ideias sobre clima contribuíram para a legitimação científica do colonialismo."
+    },
+    {
+     "letra": "C",
+     "texto": "faz uma enumeração de intensos fenômenos climáticos brasileiros e mundiais."
+    },
+    {
+     "letra": "D",
+     "texto": "informa que a história ambiental da Amazônia problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens amazônicos atravessam territórios."
+    },
+    {
+     "letra": "E",
+     "texto": "relembra que a pandemia de covid-19 foi considerada uma expressão da crise ecológica mundial."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 2"
+  },
+  {
+   "numero": "3",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "O quinto parágrafo apresenta uma citação em que o pesquisador fala sobre a malária.\n\nEssa citação cumpre, em relação às demais partes do texto, a função de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "narrar as mudanças ocorridas ao longo do tempo em relação às campanhas de saúde pública."
+    },
+    {
+     "letra": "B",
+     "texto": "construir um diálogo com os leitores sobre a importância dos cuidados com a saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "descrever um problema de saúde comum ao longo dos séculos 18 e 19."
+    },
+    {
+     "letra": "D",
+     "texto": "justificar a relevância das pesquisas realizadas sobre saúde na Amazônia."
+    },
+    {
+     "letra": "E",
+     "texto": "apresentar um caso em que questões climáticas estão relacionadas à saúde humana."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 3"
+  },
+  {
+   "numero": "4",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Tipologias Textuais",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "Do ponto de vista da tipologia textual, constata-se que o texto tem caráter",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "argumentativo, porque desenvolve a tese de que o Antropoceno significa o renascimento da vida humana na Terra."
+    },
+    {
+     "letra": "B",
+     "texto": "descritivo, porque procura descrever como funciona o setor de pesquisa da Fiocruz, respeitada e conhecida instituição brasileira de ciência."
+    },
+    {
+     "letra": "C",
+     "texto": "expositivo, porque procura explicar as relações entre as mudanças climáticas e a vida do homem, suas organizações sociais e processos políticos."
+    },
+    {
+     "letra": "D",
+     "texto": "injuntivo, porque procura ensinar aos leitores como evitar que as mudanças climáticas signifiquem o fim do homem na Terra."
+    },
+    {
+     "letra": "E",
+     "texto": "narrativo, porque faz um relato dos acontecimentos que caracterizaram a pandemia de covid-19 no Brasil e no mundo."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 4"
+  },
+  {
+   "numero": "5",
+   "disciplina": "Conjunções subordinativas condicionais",
+   "assunto": "Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "No trecho “Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.” (parágrafo 1), a relação lógica que se estabelece entre as ideias por meio da expressão destacada é de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "causalidade"
+    },
+    {
+     "letra": "B",
+     "texto": "condição"
+    },
+    {
+     "letra": "C",
+     "texto": "comparação"
+    },
+    {
+     "letra": "D",
+     "texto": "oposição"
+    },
+    {
+     "letra": "E",
+     "texto": "temporalidade"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 5"
+  },
+  {
+   "numero": "6",
+   "disciplina": "Concordância verbal",
+   "assunto": "Norma culta ou norma padrão",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "A frase em que a concordância do verbo em destaque está empregada de acordo com a norma-padrão da Língua Portuguesa é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao considerar os fenômenos climáticos ocorridos no Brasil, como seca intensa, incêndios devastadores e chuvas torrenciais, justificam-se os estudos sobre o impacto do homem na Terra."
+    },
+    {
+     "letra": "B",
+     "texto": "Faltam aos institutos de pesquisas especializados em fenômenos tropicais a preocupação de examinar fatores ecológicos que estejam na origem de doenças como a malária."
+    },
+    {
+     "letra": "C",
+     "texto": "Nos últimos anos, começaram-se a estudar as relações entre mudanças climáticas e processos que têm grande repercussão na saúde humana, como as grandes pandemias."
+    },
+    {
+     "letra": "D",
+     "texto": "Para aprofundar os estudos históricos sobre o clima, evidenciaram-se para os pesquisadores a necessidade de desfazer a vinculação entre clima e racismo."
+    },
+    {
+     "letra": "E",
+     "texto": "Quando se analisa os índices de mortalidade por malária no Brasil, fica evidente que é necessário investigar a interação entre mudanças climáticas e adoecimento da população."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 6"
+  },
+  {
+   "numero": "7",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos elementos de referenciação (coesão referencial)",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "No texto, o referente do pronome em destaque está corretamente explicitado entre colchetes na seguinte passagem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "parágrafo 1: “apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo” [campo da história]"
+    },
+    {
+     "letra": "B",
+     "texto": "parágrafo 1: “uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima” [a saúde e a doença]"
+    },
+    {
+     "letra": "C",
+     "texto": "parágrafo 3: “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’.” [imprensa]"
+    },
+    {
+     "letra": "D",
+     "texto": "parágrafo 4: “Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19” [meio ambiente]"
+    },
+    {
+     "letra": "E",
+     "texto": "parágrafo 5: “essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas” [saúde pública]"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 7"
+  },
+  {
+   "numero": "8",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego do sinal indicativo de crase",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "O acento grave indicativo de crase nos termos em destaque está empregado de acordo com as regras da norma-padrão da Língua Portuguesa em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A conscientização sobre às mudanças climáticas é essencial para um futuro sustentável."
+    },
+    {
+     "letra": "B",
+     "texto": "As mudanças climáticas estão afetando à vida marinha a uma velocidade alarmante."
+    },
+    {
+     "letra": "C",
+     "texto": "As ações humanas têm levado à uma diminuição da biodiversidade e a alterações climáticas."
+    },
+    {
+     "letra": "D",
+     "texto": "As alterações no clima ajudam à intensificar desastres naturais ao redor do mundo."
+    },
+    {
+     "letra": "E",
+     "texto": "A necessidade de adaptar a agricultura às mudanças climáticas é urgente."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 8"
+  },
+  {
+   "numero": "9",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sinônimos",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "Dentro do texto, são usados como sinônimos os termos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“saúde” e “doença” (parágrafo 1)"
+    },
+    {
+     "letra": "B",
+     "texto": "“grande mídia” e “imprensa” (parágrafo 3)"
+    },
+    {
+     "letra": "C",
+     "texto": "“impactos” e “desafios” (parágrafo 6)"
+    },
+    {
+     "letra": "D",
+     "texto": "“transnacional” e “global” (parágrafo 7)"
+    },
+    {
+     "letra": "E",
+     "texto": "“racismo” e “colonialismo” (parágrafo 8)"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 9"
+  },
+  {
+   "numero": "10",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Uso da Vírgula",
+   "tipo": "multipla",
+   "texto_base": "Com crise atual, clima passa a ser visto como ator relevante na História\n\n1 Atravessamos um período de urgente preocupação climática. No Brasil, seca intensa, incêndios devastadores em diversos biomas e desastres como as chuvas que atingiram o Sul do país em 2024. No mundo, inundações no Saara e, em muitos outros países, elevação das temperaturas e do nível do mar. Para o campo da história, apesar de hoje os estudos que tratam de mudanças climáticas se mostrarem mais atuais que nunca, esse não é um tema novo, uma vez que muitos autores nos séculos 18 e 19 já pensavam a saúde e a doença a partir de suas relações com o ambiente e o clima.\n\n2 Um pesquisador da Casa de Oswaldo Cruz (COC/Fiocruz) tem se dedicado a temas ambientais e às transformações ecológicas que caracterizam o chamado Antropoceno, termo que designa uma nova época geológica definida pelo impacto do homem na Terra. Ele analisa como a relação entre clima e saúde foi percebida ao longo da história, afirmando que as mudanças climáticas interferem na saúde, podendo influenciar na propagação de vetores — como mosquitos que transmitem doenças —, na qualidade das águas e do ar, na fisiologia dos organismos e na produção de alimentos.\n\n3 Para o pesquisador, a covid-19 trouxe à tona a discussão sobre a pandemia como parte de uma crise sistêmica, o que ocorreu não apenas entre cientistas e historiadores da doença e da medicina, mas também na esfera pública, na grande mídia e nas redes sociais. “Durante a pandemia, na imprensa, nas redes, ouvimos frases como ‘isso é uma expressão da crise ecológica’, ‘a humanidade é o vírus’. E essa questão não é supernova”.\n\n4 Ele afirma que há correntes nos séculos 18 e 19 que pensavam a saúde de forma abrangente e integrada ao meio ambiente. Isso é bastante claro no século 19, porque a própria maneira de conceber as inter-relações entre doença, corpo e ambiente tinha base nas ideias do neo-hipocratismo, de que os corpos precisam estar em equilíbrio com o ambiente e que o desequilíbrio causa a doença.\n\n5 Entre os estudos citados pelo pesquisador, consta uma pesquisa sobre a malária no interior de São Paulo, cuja proposta é pensar essas epidemias, conectando-as com a dinâmica do Tietê: “A malária é uma doença muito dependente de fatores ecológicos, muito ligada a questões climáticas, aos regimes hídricos. Ela convida a pensar a história das doenças não apenas como a narrativa da campanha de saúde pública focada em vacinas e antibióticos; essa é uma história que também envolve atores que pensaram doença e saúde de maneira a integrar as relações biológicas, as relações com o ambiente e com o clima”.\n\n6 A COC/Fiocruz tem uma forte tradição de pesquisas sobre a Amazônia. A razão disso, segundo o pesquisador, deve-se “à importância incontornável que a Amazônia tem nos estudos científicos e na saúde pública e pela própria densidade das pesquisas que vão se realizar a partir da segunda metade do século 20”. O bioma pode ser visto como uma representação dos processos e dos impactos globais que caracterizam o Antropoceno, refletindo as interações e as tensões entre os humanos e a natureza em uma área específica. “É quase um truísmo afirmar que é importante conservar a Amazônia por causa de seu papel na regulação climática, da chuva e do ciclo da água. A Amazônia é uma região vital para o equilíbrio do clima, da biodiversidade e dos recursos naturais, representando muitos dos desafios globais enfrentados em termos de conservação ambiental e impacto humano”.\n\n7 O pesquisador também destacou o caráter transnacional da própria Amazônia, que se estende por nove países (Brasil, Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Venezuela e Suriname), acrescentando que o bioma ultrapassa as fronteiras políticas e que a história ambiental, por si só, já problematiza a ideia de uma história nacional, uma vez que rios, biomas e paisagens atravessam territórios. Além disso, sempre houve na região grandes projetos com financiamento de instituições internacionais e multilaterais. O pesquisador ressaltou ainda que há uma perspectiva na escrita da história de pensar a Amazônia de forma global desde a época colonial.\n\n8 Analisando a forma como a história lidou com o clima, o pesquisador afirma que por muito tempo as ciências sociais estiveram intimamente ligadas ao tema, no entanto, muitas vezes de maneira determinista, inclusive, justificando o colonialismo: “as ideias sobre clima, em muitos casos, envolveram uma visão racista a partir do pensamento de que povos, clima e ambiente tinham seus respectivos lugares. Isso foi uma estrutura para a legitimação científica do conceito de raça. Ou seja, assim como plantas e animais são ligados a ambientes específicos, o mesmo aconteceria com as raças humanas. Então, por muito tempo, a questão do clima, do ambiente, foi muito ligada a essa visão determinista, que teve consequências danosas ao servir de suporte para o racismo e o colonialismo”.\n\n9 Para ele, no entanto, agora, com a emergência da questão das mudanças climáticas contemporâneas, o clima vem sendo recuperado como “partícipe da história” e não mais a partir da ideia de que o clima determina a história e o caráter da sociedade. “Não é mais possível pensar processos climáticos sem considerar seus enredamentos com agência humana, com as organizações sociais e os processos políticos”.\n\nMANNHEIMER, Vivian. Com crise atual, clima passa a ser visto como ator relevante na História. Agência Fiocruz de Notícia, 12 nov. 2024. Disponível em: https://agencia.fiocruz.br/com-crise-atual-clima-passa-ser-visto-como-ator-relevante-na-historia. Acesso em: 18 jan. 2025. Adaptado.",
+   "enunciado": "Considerando-se as regras de pontuação da norma-padrão da Língua Portuguesa, o uso de vírgulas está correto em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A mudança climática, é um fenômeno global, que resulta da intensificação do efeito estufa causado principalmente pela queima de combustíveis fósseis, desmatamento e práticas agrícolas insustentáveis."
+    },
+    {
+     "letra": "B",
+     "texto": "As consequências da mudança climática vão além do aumento da temperatura, abrangendo eventos climáticos extremos mais frequentes e intensos, como furacões, secas, inundações e ondas de calor."
+    },
+    {
+     "letra": "C",
+     "texto": "As mudanças climáticas têm causado danos irreversíveis, aos ecossistemas marinhos, como os recifes de corais e as populações de peixes, comprometendo a segurança alimentar de milhões de pessoas que dependem dos mares para sua subsistência."
+    },
+    {
+     "letra": "D",
+     "texto": "A transição energética depende da implementação, urgente de políticas de mitigação e adaptação à mudança climática, o que representa um grande desafio para governos, empresas e a sociedade civil em todo o mundo."
+    },
+    {
+     "letra": "E",
+     "texto": "Embora a mudança climática seja um fenômeno que afeta a todos os países, suas consequências são sentidas de maneira desigual, o que, exige uma ação global coordenada, para garantir a justiça climática."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 10"
+  },
+  {
+   "numero": "11",
+   "disciplina": "Funções",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Sejam f : mathbbRarrowmathbbR_+^* e g : mathbbR_+^*arrowmathbbR as funções algebricamente definidas por f(x)=3^(2x) e g(x)=log₉(x).\n\nPara todo x > 0, tem-se que f(g(x)) é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "x"
+    },
+    {
+     "letra": "B",
+     "texto": "x²"
+    },
+    {
+     "letra": "C",
+     "texto": "(x²)/2"
+    },
+    {
+     "letra": "D",
+     "texto": "2x²"
+    },
+    {
+     "letra": "E",
+     "texto": "√(x )"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 11"
+  },
+  {
+   "numero": "12",
+   "disciplina": "Matemática",
+   "assunto": "Sistemas Lineares",
+   "tipo": "multipla",
+   "enunciado": "Sejam x, y e z números reais que satisfazem ao sistema linear dado a seguir:\n\n[[img:0]]\n\nO valor de x + y é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "-3"
+    },
+    {
+     "letra": "B",
+     "texto": "-1"
+    },
+    {
+     "letra": "C",
+     "texto": "0"
+    },
+    {
+     "letra": "D",
+     "texto": "1"
+    },
+    {
+     "letra": "E",
+     "texto": "3"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 12",
+   "imagens": [
+    {
+     "src": "quest/2519296046/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "13",
+   "disciplina": "Sequência, progressão aritmética e geométrica",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Uma sequência numérica é tal que seus termos a₁= a₂ = 1 e a_(n+2) = a_(n+1) -a_(n), para todo n ≥ 1.\n\nO termo a₃₅ dessa sequência é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "-35"
+    },
+    {
+     "letra": "B",
+     "texto": "-1"
+    },
+    {
+     "letra": "C",
+     "texto": "0"
+    },
+    {
+     "letra": "D",
+     "texto": "1"
+    },
+    {
+     "letra": "E",
+     "texto": "35"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 13"
+  },
+  {
+   "numero": "14",
+   "disciplina": "Matemática",
+   "assunto": "Progressão Geométrica - PG",
+   "tipo": "multipla",
+   "enunciado": "Uma progressão geométrica é tal que o seu segundo termo a₂ é igual a 4.\n\nConsiderando-se que a₁ e a₃ são, respectivamente, o primeiro e o terceiro termos de tal progressão, então o produto a₁ · a₃ é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2"
+    },
+    {
+     "letra": "B",
+     "texto": "4"
+    },
+    {
+     "letra": "C",
+     "texto": "8"
+    },
+    {
+     "letra": "D",
+     "texto": "16"
+    },
+    {
+     "letra": "E",
+     "texto": "64"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 14"
+  },
+  {
+   "numero": "15",
+   "disciplina": "Matemática",
+   "assunto": "Arranjo",
+   "tipo": "multipla",
+   "enunciado": "Em 2025, um certo campeonato de futebol contará com um total de T times, sendo um deles o campeão do ano anterior. Suponha que exista um esquema de apostas em que são escolhidos apenas dois desses T times, ordenadamente: o campeão e o vice-campeão. Por exemplo, a aposta “time W para campeão e time Y para vice-campeão” é diferente da aposta “time Y para campeão e time W para vice-campeão”.\n\nNessas condições, o número de apostas diferentes, tais que o time campeão do ano anterior não figure, é dado por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "T² - T"
+    },
+    {
+     "letra": "B",
+     "texto": "T² - 1"
+    },
+    {
+     "letra": "C",
+     "texto": "(T² - T)/2"
+    },
+    {
+     "letra": "D",
+     "texto": "T² - 3T + 2"
+    },
+    {
+     "letra": "E",
+     "texto": "(T² - 3T + 2)/2"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 15"
+  },
+  {
+   "numero": "16",
+   "disciplina": "Regra de Três",
+   "assunto": "Conversão de Medidas",
+   "tipo": "multipla",
+   "enunciado": "Um laboratório farmacêutico precisa transferir 240 litros de vacina para ampolas de 15 cm³ de capacidade cada, enchendo-as completamente.\n\nConsiderando-se essas informações, quantas ampolas serão utilizadas para essa transferência?\n\nDado\n\n1 dm³ corresponde a 1 litro",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "160"
+    },
+    {
+     "letra": "B",
+     "texto": "1.600"
+    },
+    {
+     "letra": "C",
+     "texto": "3.600"
+    },
+    {
+     "letra": "D",
+     "texto": "16.000"
+    },
+    {
+     "letra": "E",
+     "texto": "36.000"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 16"
+  },
+  {
+   "numero": "17",
+   "disciplina": "Matemática",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "enunciado": "Considere que em uma empresa há um total de 200 funcionários, dos quais apenas 20% são mulheres. Sabe-se que, se x mulheres forem contratadas, o percentual de funcionários mulheres subirá para 50%.\n\nQual a soma dos algarismos desse número x?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3"
+    },
+    {
+     "letra": "B",
+     "texto": "5"
+    },
+    {
+     "letra": "C",
+     "texto": "6"
+    },
+    {
+     "letra": "D",
+     "texto": "8"
+    },
+    {
+     "letra": "E",
+     "texto": "9"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 17"
+  },
+  {
+   "numero": "18",
+   "disciplina": "Matemática",
+   "assunto": "Conjuntos",
+   "tipo": "multipla",
+   "enunciado": "Em um levantamento feito, ao consultar os 158 funcionários de uma empresa, constatou-se que um total de 38 deles possui conta no banco Alfa, um total de 57 possui conta no banco Beta e um total de 14 possui conta nesses dois bancos.\n\nQuantos funcionários dessa empresa não possuem conta no banco Alfa nem no Beta?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "49"
+    },
+    {
+     "letra": "B",
+     "texto": "56"
+    },
+    {
+     "letra": "C",
+     "texto": "63"
+    },
+    {
+     "letra": "D",
+     "texto": "77"
+    },
+    {
+     "letra": "E",
+     "texto": "81"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 18"
+  },
+  {
+   "numero": "19",
+   "disciplina": "Condicional \"se....então\"",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Se você não canta, então eu choro. Se você canta, então eu não danço. Ora, eu danço.\n\nLogo,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "você canta e eu choro."
+    },
+    {
+     "letra": "B",
+     "texto": "você não canta e eu choro."
+    },
+    {
+     "letra": "C",
+     "texto": "você canta e eu não choro."
+    },
+    {
+     "letra": "D",
+     "texto": "você não canta e eu não choro."
+    },
+    {
+     "letra": "E",
+     "texto": "se eu choro, então você não canta."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 19"
+  },
+  {
+   "numero": "20",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Sergipe",
+   "tipo": "multipla",
+   "enunciado": "Considere o texto sobre a hierarquia urbana.\n\nDe acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), as cidades brasileiras foram classificadas, hierarquicamente, a partir das funções de gestão que exercem sobre outras cidades, considerando tanto seu papel de comando em atividades empresariais quanto de gestão pública, e, ainda, em função da sua atratividade para suprir bens e serviços para outras cidades.\n\nAssim, as cidades foram classificadas em cinco grandes níveis com subdivisões internas. São eles: metrópoles, capitais regionais, centros sub-regionais, centros de zona e centros locais.\n\nDisponível em: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&kid=2101728. Acesso em: 28 jan. 2025. Adaptado.\n\nCom base nessa hierarquização das cidades, o arranjo populacional de Aracaju é classificado como",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "centro sub-regional"
+    },
+    {
+     "letra": "B",
+     "texto": "centro local"
+    },
+    {
+     "letra": "C",
+     "texto": "centro de zona"
+    },
+    {
+     "letra": "D",
+     "texto": "capital regional"
+    },
+    {
+     "letra": "E",
+     "texto": "metrópole"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 20"
+  },
+  {
+   "numero": "21",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Sergipe",
+   "tipo": "multipla",
+   "enunciado": "Considerada a cidade “mãe de Sergipe”, a antiga capital é um dos centros da cultura sergipana, sendo destaque na música, no teatro, no artesanato e em diversas outras manifestações artísticas. Pode-se dizer que a cidade é um celeiro de artistas e mestres da cultura popular. Há mais de 50 anos o município é palco de um dos maiores festivais de arte do país, evento que celebra, anualmente, a riqueza cultural local.\n\nTendo em vista os elementos histórico-culturais mencionados, a cidade sergipana a que o texto se refere é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aracaju"
+    },
+    {
+     "letra": "B",
+     "texto": "Lagarto"
+    },
+    {
+     "letra": "C",
+     "texto": "Itabaiana"
+    },
+    {
+     "letra": "D",
+     "texto": "São Cristóvão"
+    },
+    {
+     "letra": "E",
+     "texto": "Nossa Senhora da Glória"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 21"
+  },
+  {
+   "numero": "22",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Sergipe",
+   "tipo": "multipla",
+   "enunciado": "O estado de Sergipe possui, aproximadamente, 22 mil km² de extensão territorial, o que é equivalente a 0,26% do território nacional e a 1,4% da Região Nordeste.\n\nQuanto à posição geográfica, Sergipe limita-se ao norte com",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Bahia, cuja divisa é o Rio São Francisco."
+    },
+    {
+     "letra": "B",
+     "texto": "Bahia, cuja divisa é a Chapada Diamantina."
+    },
+    {
+     "letra": "C",
+     "texto": "Alagoas, cuja divisa é o Rio Sergipe."
+    },
+    {
+     "letra": "D",
+     "texto": "Alagoas, cuja divisa é o Rio São Francisco."
+    },
+    {
+     "letra": "E",
+     "texto": "Alagoas, cuja divisa é o Rio Vaza-Barris."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 22"
+  },
+  {
+   "numero": "23",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Sergipe",
+   "tipo": "multipla",
+   "enunciado": "A criação da província de Sergipe ocorreu em meio às controvérsias entre a monarquia portuguesa e a Assembleia Constituinte estabelecida pela Revolta do Porto de 1820. Sobre essas questões, a historiadora Edna Maria Antônio escreveu\n\nO novo governador de Sergipe, Carlos César Burlamaqui, assumiu o posto em fevereiro de 1821 e, contrário às ordens das Cortes, iniciou a estratégia de combate às ideias liberais na capitania. Estava ciente da deposição dos agentes metropolitanos na capitania da Bahia por uma Junta de Governo Provisório, de perfil político constitucional federalista e a favor das Cortes portuguesas, que assumiu o poder e possuía ligações familiares e econômicas em Sergipe.\n\nANTÔNIO, E. M. M. O constitucionalismo luso-brasileiro na cultura política da independência: a Capitania de Sergipe. Revista do Instituto Histórico e Geográfico de Sergipe. v. 1, n. 44, p.119, 2015.\n\nDe acordo com a perspectiva demonstrada pela autora, o governador Burlamaqui pretendia consolidar a emancipação do estado reforçando o(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ligação com a junta provisória da Bahia"
+    },
+    {
+     "letra": "B",
+     "texto": "caráter democrático do governo sergipano"
+    },
+    {
+     "letra": "C",
+     "texto": "proximidade com a família real portuguesa"
+    },
+    {
+     "letra": "D",
+     "texto": "endosso ao constitucionalismo da assembleia"
+    },
+    {
+     "letra": "E",
+     "texto": "liberalismo em continuação à insurreição de 1817"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 23"
+  },
+  {
+   "numero": "24",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Sergipe",
+   "tipo": "multipla",
+   "enunciado": "A crise econômica de 1929 afetou fortemente a economia brasileira, especialmente se considerada a posição do Brasil como nação agroexportadora.\n\nDiante da crise do café no mercado internacional, a economia agrícola do chamado Centro-Sul expande-se em direção à produção do açúcar, com efeitos devastadores para a economia do Nordeste, como um todo, e para a de Sergipe, em particular. O declínio do preço do açúcar que se seguiu ao aumento da oferta interna vai afetar fortemente a economia sergipana e nordestina.\n\nSUBRINHO, J. M.; MELO, R. O. Breve histórico da indústria sergipana. Associação Brasileira dos Pesquisadores em História Econômica, p. 7. Disponível em: https://www.abphe.org.br/https://arquivos.infra-questoes.grancursosonline.com.br/arquivos/josue-m-passos-subrinho_ricardo-o-lacerda-de-melo. pdf. Acesso em: 14 jan. 2024.\n\nNo contexto descrito, um programa do governo federal, principalmente durante a Era Vargas, foi capaz de manter o nível da produção rural sergipana e das usinas de açúcar, evitando o colapso das plantações e um processo de migração massiva.\n\nTrata-se do Instituto do Açúcar e do Álcool, cujo funcionamento baseava-se principalmente na",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "difusão do álcool como combustível alternativo"
+    },
+    {
+     "letra": "B",
+     "texto": "regulação da economia açucareira pelo Estado"
+    },
+    {
+     "letra": "C",
+     "texto": "oferta de subsídios a usineiros e agricultores de cana"
+    },
+    {
+     "letra": "D",
+     "texto": "abertura de novos mercados internacionais ao açúcar"
+    },
+    {
+     "letra": "E",
+     "texto": "substituição da cultura de açúcar por tabaco e algodão"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 24"
+  },
+  {
+   "numero": "25",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Nordeste",
+   "tipo": "multipla",
+   "enunciado": "Em fevereiro de 2024, o Executivo federal enviou ao Congresso um projeto de lei que cria o Plano Regional de Desenvolvimento do Nordeste. A reportagem a seguir, da Agência Câmara, detalha seus objetivos declarados.\n\nSão objetivos do plano:\n• diminuir as desigualdades sociais;\n• gerar emprego e renda;\n• reduzir as taxas de mortalidade materno-infantil;\n• reduzir a taxa de analfabetismo;\n• melhorar as condições de habitação na região;\n• universalizar o acesso ao saneamento básico;\n• universalizar o acesso à educação infantil e ao ensino fundamental e médio;\n• fortalecer o processo de interiorização do ensino superior;\n• garantir a implementação de projetos para o desenvolvimento tecnológico;\n• garantir a sustentabilidade ambiental;\n• reforçar a infraestrutura hídrica da região;\n• fortalecer a infraestrutura logística da área de atuação da Sudene; e\n• fomentar ações de inclusão socioprodutivas.\n\nBRASIL, Emanuelle. Projeto cria Plano Regional de Desenvolvimento do Nordeste. Câmara Notícias, 5 fev. 2024. Disponível em: https://www.camara.leg.br/noticias/1034442-PROJETO-CRIA-PLANO-REGIONAL-DE-DESENVOLVIMENTO-DO-NORDESTE. Acesso em: 18 jan. 2025.\n\nA análise dos objetivos descritos revela uma visão de desenvolvimento que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prioriza a agenda industrial e os produtos voltados à exportação."
+    },
+    {
+     "letra": "B",
+     "texto": "privilegia e concede autonomia aos investimentos conduzidos pela iniciativa privada."
+    },
+    {
+     "letra": "C",
+     "texto": "se revela contraditória com as necessidades históricas da maioria dos estados nordestinos."
+    },
+    {
+     "letra": "D",
+     "texto": "agrega expansão econômica, aprimoramentos sociais e cuidado ambiental."
+    },
+    {
+     "letra": "E",
+     "texto": "se limita à proteção dos ecossistemas naturais da região nordeste."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 25"
+  },
+  {
+   "numero": "26",
+   "disciplina": "Tecnologia da Informação",
+   "assunto": "Governança de dados",
+   "tipo": "multipla",
+   "enunciado": "A equipe técnica de um determinado banco está analisando dados financeiros com o objetivo de identificar padrões e tendências que possam auxiliar na tomada de decisões estratégicas e, para realizar uma análise eficiente e confiável, precisa seguir boas práticas na manipulação e na interpretação desses dados.\n\nA utilização de boas práticas nessa análise permitirá que essa equipe",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "selecione dados que confirmam as hipóteses iniciais, agilizando o processo de análise."
+    },
+    {
+     "letra": "B",
+     "texto": "realize a análise em planilhas, dispensando o uso de ferramentas como Power BI ou Python para evitar complexidade."
+    },
+    {
+     "letra": "C",
+     "texto": "ignore outliers nos dados, evitando a distorção que podem causar nos resultados."
+    },
+    {
+     "letra": "D",
+     "texto": "utilize gráficos de dispersão, explorando a relação entre variáveis quantitativas."
+    },
+    {
+     "letra": "E",
+     "texto": "analise os dados sem precisar documentar o processo, priorizando a interpretação dos resultados em detrimento da metodologia."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 26"
+  },
+  {
+   "numero": "27",
+   "disciplina": "Redes Sociais e Grupos de discussão",
+   "assunto": "Informática",
+   "tipo": "multipla",
+   "enunciado": "No gerenciamento da comunicação de uma agência bancária, a equipe técnica foi designada para melhorar o atendimento ao cliente e agilizar a troca de informações importantes. É uma situação comum um cliente precisar de informações urgentes sobre uma transação suspeita em sua conta, fora do horário comercial, e, para garantir um suporte eficiente, a equipe deve escolher a ferramenta mais adequada.\n\nUma prática eficiente e alinhada ao uso profissional de redes sociais no contexto bancário é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "criar um canal de comunicação em grupo no WhatsApp para facilitar o envio de informações importantes a vários clientes simultaneamente."
+    },
+    {
+     "letra": "B",
+     "texto": "utilizar recursos automatizados no Telegram para agilizar respostas a dúvidas frequentes dos clientes."
+    },
+    {
+     "letra": "C",
+     "texto": "priorizar o envio de mensagens de voz personalizadas via WhatsApp para manter a comunicação mais humanizada."
+    },
+    {
+     "letra": "D",
+     "texto": "centralizar toda a comunicação com os clientes apenas em uma plataforma para garantir maior controle das informações."
+    },
+    {
+     "letra": "E",
+     "texto": "enviar campanhas promocionais de forma massiva no WhatsApp, aproveitando listas de contatos da base de clientes."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 27"
+  },
+  {
+   "numero": "28",
+   "disciplina": "Windows",
+   "assunto": "Sistemas Operacionais",
+   "tipo": "multipla",
+   "enunciado": "Um técnico bancário precisa garantir a segurança e a eficiência no uso de computadores com o sistema operacional Windows 11 em uma agência bancária. Durante a instalação e a configuração do sistema operacional, ele é solicitado a habilitar funcionalidades que aumentem a segurança, sem comprometer o desempenho da máquina, considerando-se que ela realiza grande número de operações bancárias diárias.\n\nPara atingir esse objetivo, na instalação do Windows 11 nesses computadores, o técnico deve configurá-lo de forma a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ativar o Hyper-V e desabilitar o Bit-Locker."
+    },
+    {
+     "letra": "B",
+     "texto": "ativar o Modo Desenvolvedor e desabilitar o Controle de Conta de Usuário (UAC)."
+    },
+    {
+     "letra": "C",
+     "texto": "habilitar a inicialização segura (Secure Boot) e o Windows Defender Firewall."
+    },
+    {
+     "letra": "D",
+     "texto": "desativar as atualizações automáticas e utilizar uma solução antivírus de terceiros."
+    },
+    {
+     "letra": "E",
+     "texto": "iniciar diretamente no modo de segurança para todos os usuários."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 28"
+  },
+  {
+   "numero": "29",
+   "disciplina": "Redes de Computadores",
+   "assunto": "LAN (Local Area Network)",
+   "tipo": "multipla",
+   "enunciado": "A equipe de suporte técnico de um banco precisa garantir que a comunicação entre as suas agências seja segura e eficiente. Para isso, a equipe está configurando a rede local (LAN) e a conexão com a rede corporativa (intranet) para acesso a serviços internos.\n\nDurante essa configuração, a(s) seguinte(s) prática(s) é(são) adequada(s) para garantir a segurança e o desempenho na comunicação da rede:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "habilitar o compartilhamento de arquivos sem restrições para facilitar a troca de dados entre departamentos."
+    },
+    {
+     "letra": "B",
+     "texto": "utilizar redes Wi-Fi públicas para reduzir custos, garantindo que os dados confidenciais sejam salvos localmente."
+    },
+    {
+     "letra": "C",
+     "texto": "utilizar endereços IP estáticos para todos os dispositivos e desabilitar o uso do DHCP."
+    },
+    {
+     "letra": "D",
+     "texto": "configurar a intranet com autenticação por certificados digitais e utilizar uma VPN para conexões externas."
+    },
+    {
+     "letra": "E",
+     "texto": "desativar o firewall da rede para melhorar a velocidade de conexão e usar antivírus local em cada máquina."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 29"
+  },
+  {
+   "numero": "30",
+   "disciplina": "Videoconferência",
+   "assunto": "Internet",
+   "tipo": "multipla",
+   "enunciado": "Durante uma reunião on-line importante com a diretoria de um banco, realizada no Microsoft Teams, a equipe de suporte percebe que um dos participantes está com dificuldades para compartilhar um arquivo na tela, o que está atrasando a apresentação dos resultados trimestrais.\n\nPara resolver o problema, de forma rápida e segura, e manter o fluxo da reunião, a equipe de suporte deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pedir para o participante sair da reunião e tentar voltar mais tarde, quando a conexão estiver melhor."
+    },
+    {
+     "letra": "B",
+     "texto": "sugerir que o participante envie o arquivo por e-mail para outro colega compartilhar a tela."
+    },
+    {
+     "letra": "C",
+     "texto": "aguardar que o participante consiga resolver o problema sozinho, evitando interferências."
+    },
+    {
+     "letra": "D",
+     "texto": "solicitar que o participante ative o modo “Não Perturbe” para melhorar a qualidade da conexão e resolver o problema de compartilhamento."
+    },
+    {
+     "letra": "E",
+     "texto": "assumir o compartilhamento da tela do participante, mesmo sem o arquivo, utilizando a função “Dar controle”."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 30"
+  },
+  {
+   "numero": "31",
+   "disciplina": "Matemática Financeira",
+   "assunto": "Matemática Financeira",
+   "tipo": "multipla",
+   "enunciado": "Um cliente avalia tomar um empréstimo levando em consideração a taxa anual de juro cobrada por dois bancos parceiros: P e Q. O Banco P cobra uma taxa de juro de 5% ao mês, no regime de juros compostos; já o Banco Q cobra uma taxa de juro de 6% ao mês, no mesmo regime.\n\nA diferença entre as taxas de juros anuais equivalentes, cobradas, respectivamente, pelos Bancos P e Q é de, aproximadamente,\n\nDado\n\n1,06⁶ = 1,42\n\n1,05⁶ = 1,34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12%"
+    },
+    {
+     "letra": "B",
+     "texto": "14%"
+    },
+    {
+     "letra": "C",
+     "texto": "18%"
+    },
+    {
+     "letra": "D",
+     "texto": "22%"
+    },
+    {
+     "letra": "E",
+     "texto": "24%"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 31"
+  },
+  {
+   "numero": "32",
+   "disciplina": "Matemática Financeira",
+   "assunto": "Matemática Financeira",
+   "tipo": "multipla",
+   "enunciado": "Uma empresa contraiu um empréstimo no valor de R$ 50.000,00, a uma taxa de 5% ao mês, no regime de juros compostos, com a promessa de quitação total desse empréstimo em, no máximo, 6 meses. Após exatos 6 meses, a empresa não efetuou qualquer pagamento de juros sob a alegação de não ter condições de cumprir, naquele momento, o que havia prometido. Para resolver o problema, ela propõe que a dívida acumulada até então seja atualizada por mais seis meses, a uma taxa de 5% ao mês no regime de juros simples. O credor faz uma contraproposta, oferecendo uma taxa de 7% ao mês no regime de juros simples, a partir de um novo contrato com bens em garantia, considerando como principal o montante da dívida acumulada no momento. A empresa aceita a contraproposta.\n\nConsiderando-se as condições apresentadas, o valor de quitação, em reais, imediatamente após esses 12 meses iniciais, é de, aproximadamente,\n\nDado\n\n1,05⁶ = 1,34",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "76.000,00"
+    },
+    {
+     "letra": "B",
+     "texto": "86.000,00"
+    },
+    {
+     "letra": "C",
+     "texto": "90.000,00"
+    },
+    {
+     "letra": "D",
+     "texto": "92.000,00"
+    },
+    {
+     "letra": "E",
+     "texto": "95.000,00"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 32"
+  },
+  {
+   "numero": "33",
+   "disciplina": "Matemática Financeira",
+   "assunto": "Matemática Financeira",
+   "tipo": "multipla",
+   "enunciado": "Uma empresa de logística firmou um contrato para o transporte de mercadorias. O contrato estipula que, em caso de atraso no pagamento dos serviços prestados, o valor a ser pago seja equivalente ao valor do contrato atualizado a uma taxa de 2% ao mês no regime de juros compostos, além de uma multa fixa de 3% sobre o valor do contrato. Considere que o cliente atrasou o pagamento por 4 meses em um contrato no valor de R$ 50 milhões, sem ter feito qualquer pagamento intermediário.\n\nDessa forma, o valor mais próximo do total a ser pago, incluindo multa e juros, em milhões de reais, é igual a\n\nDado\n\n1,02⁴ = 1,082",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "54,1"
+    },
+    {
+     "letra": "B",
+     "texto": "54,3"
+    },
+    {
+     "letra": "C",
+     "texto": "55,1"
+    },
+    {
+     "letra": "D",
+     "texto": "55,6"
+    },
+    {
+     "letra": "E",
+     "texto": "56,1"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 33"
+  },
+  {
+   "numero": "34",
+   "disciplina": "Matemática Financeira",
+   "assunto": "Matemática Financeira",
+   "tipo": "multipla",
+   "enunciado": "Um apartamento avaliado em 1 milhão de reais foi comprado por uma pessoa a partir de uma entrada de 40% desse valor de avaliação e de um financiamento do valor restante, no sistema SAC, cujas prestações mensais são decrescentes e formam uma progressão aritmética. O financiamento foi realizado para durar exatamente 25 anos, de modo que a primeira prestação mensal do financiamento será de R$ 8.000,00 e a segunda prestação mensal será de R$ 7.980,00.\n\nConsiderando-se apenas as informações apresentadas, o valor mais próximo do valor total a ser pago pelo apartamento, incluindo a entrada e o financiamento, em milhões de reais, é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1,50"
+    },
+    {
+     "letra": "B",
+     "texto": "1,55"
+    },
+    {
+     "letra": "C",
+     "texto": "1,60"
+    },
+    {
+     "letra": "D",
+     "texto": "1,75"
+    },
+    {
+     "letra": "E",
+     "texto": "1,90"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 34"
+  },
+  {
+   "numero": "35",
+   "disciplina": "Matemática Financeira",
+   "assunto": "Matemática Financeira",
+   "tipo": "multipla",
+   "enunciado": "O cliente de um banco fez uma série de 20 aplicações anuais de 5 mil reais, durante 20 anos, uma a cada ano, sendo a primeira aplicação em janeiro de 2001 e a última em janeiro de 2020. Sabe-se que nenhuma retirada foi realizada durante esse período de 20 anos e que a taxa de juro obtida nas aplicações foi de 10% ao ano, no regime de juros compostos. Sabe-se que o valor total, em janeiro de 2020, logo após a última aplicação, pode ser calculado pela soma dos termos de uma progressão geométrica.\n\nConsiderando-se apenas essas informações, o valor total que o cliente terá com essas aplicações, em milhares de reais, em janeiro de 2020, imediatamente após realizar a aplicação de janeiro de 2020, é igual a\n\nDado\n\n1,1²⁰ = 6,71",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "270,8"
+    },
+    {
+     "letra": "B",
+     "texto": "280,3"
+    },
+    {
+     "letra": "C",
+     "texto": "285,5"
+    },
+    {
+     "letra": "D",
+     "texto": "292,8"
+    },
+    {
+     "letra": "E",
+     "texto": "296,5"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 35"
+  },
+  {
+   "numero": "36",
+   "disciplina": "Mercado de Crédito",
+   "assunto": "Riscos da Atividade Bancária",
+   "tipo": "multipla",
+   "enunciado": "Dentre as diversas modalidades de crédito existentes no Brasil, figura o empréstimo pessoal consignado.\n\nNessa modalidade de empréstimo, as taxas de juros cobradas pelos bancos comerciais são mais baixas do que o crédito pessoal comum, porque o empréstimo pessoal consignado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "requer prazo de pagamento em até doze meses."
+    },
+    {
+     "letra": "B",
+     "texto": "atende exclusivamente aos clientes de maior renda."
+    },
+    {
+     "letra": "C",
+     "texto": "exige garantias reais."
+    },
+    {
+     "letra": "D",
+     "texto": "envolve maior risco."
+    },
+    {
+     "letra": "E",
+     "texto": "envolve menor risco."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 36"
+  },
+  {
+   "numero": "37",
+   "disciplina": "Câmbio Fixo",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "A escolha do regime cambial mais apropriado para um país depende dos objetivos econômicos almejados pelas autoridades governamentais.\n\nO regime em que o Banco Central define a taxa de câmbio e procura mantê-la constante ao longo do tempo é denominado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "fixo"
+    },
+    {
+     "letra": "B",
+     "texto": "flutuante"
+    },
+    {
+     "letra": "C",
+     "texto": "flutuante sujo"
+    },
+    {
+     "letra": "D",
+     "texto": "flutuante administrado"
+    },
+    {
+     "letra": "E",
+     "texto": "dolarização"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 37"
+  },
+  {
+   "numero": "38",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Oferta Inicial e Oferta Subsequente",
+   "tipo": "multipla",
+   "enunciado": "O trecho seguinte ressalta a importância do mercado de capitais como fonte de financiamento das empresas ao longo de seu processo de expansão:\n\nCaso a empresa continue se expandindo e aumentando o porte, alcançará um estágio em que irá querer mudar seu modelo de negócios, voltando-se mais para usufruir dos instrumentos, mecanismos e serviços do mercado de capitais. Surge, então, a possibilidade concreta de usar outros mecanismos, tais como hedge funds, fundos mezzanine e de venture capital. Surge, também, nesse contexto, a possibilidade de abrir o capital da empresa e iniciar o processo de lançamento de ações.\n\nMELLO, P.C.; SILVA, C. A. D. O processo de oferta pública de ações nas empresas e nos bancos. In: FARO, C. (org). Administração Bancária: Uma Visão Aplicada. Rio de Janeiro: FGV, 2014, p. 381-382. Adaptado.\n\nQuando uma empresa decide abrir seu capital e passa a ter suas ações negociadas na Bolsa de Valores, o processo inicial de oferta pública de ações é denominado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "follow on"
+    },
+    {
+     "letra": "B",
+     "texto": "take-over"
+    },
+    {
+     "letra": "C",
+     "texto": "QE (Quantitative Easing)"
+    },
+    {
+     "letra": "D",
+     "texto": "IPO (Initial Public Offering)"
+    },
+    {
+     "letra": "E",
+     "texto": "securitização"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 38"
+  },
+  {
+   "numero": "39",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Instrumentos de Política Monetária",
+   "tipo": "multipla",
+   "enunciado": "Embora o manejo da taxa de juros básica de curto prazo (Selic) seja o principal instrumento de política monetária utilizado para manter a inflação estável e compatível com a meta de inflação, o Banco Central do Brasil adota, também, diversos instrumentos complementares com o objetivo de regular a liquidez da economia.\n\nReduz a liquidez da economia a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "redução do percentual do depósito compulsório incidente sobre depósitos à vista"
+    },
+    {
+     "letra": "B",
+     "texto": "redução da taxa de redesconto"
+    },
+    {
+     "letra": "C",
+     "texto": "compra não esterilizada de reservas internacionais"
+    },
+    {
+     "letra": "D",
+     "texto": "compra de títulos públicos no mercado aberto"
+    },
+    {
+     "letra": "E",
+     "texto": "venda de títulos públicos no mercado aberto"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 39"
+  },
+  {
+   "numero": "40",
+   "disciplina": "Mercado de Crédito",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "As instituições financeiras desempenham papéis distintos em diferentes segmentos do mercado financeiro, como o mercado de crédito, o mercado de capitais e o mercado de câmbio.\n\nNo mercado de crédito, as instituições financeiras",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "emitem valores mobiliários para captar recursos diretamente dos investidores."
+    },
+    {
+     "letra": "B",
+     "texto": "transferem o risco de crédito de seus empréstimos para o depositante."
+    },
+    {
+     "letra": "C",
+     "texto": "promovem o encontro entre emprestadores e tomadores de empréstimo."
+    },
+    {
+     "letra": "D",
+     "texto": "emprestam recursos dos seus depositantes aos seus demais clientes."
+    },
+    {
+     "letra": "E",
+     "texto": "estão sujeitas ao risco de que o mercado não absorva os títulos que elas estão subscrevendo."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 40"
+  },
+  {
+   "numero": "41",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Operações de Tesouraria",
+   "tipo": "multipla",
+   "enunciado": "Dentre as diversas transações financeiras que ocorrem no mercado interbancário, as transações chamadas Overnight são operações de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "baixa liquidez"
+    },
+    {
+     "letra": "B",
+     "texto": "financiamento ao consumidor"
+    },
+    {
+     "letra": "C",
+     "texto": "captação de moeda estrangeira"
+    },
+    {
+     "letra": "D",
+     "texto": "empréstimo de curtíssimo prazo"
+    },
+    {
+     "letra": "E",
+     "texto": "compra e venda de moedas"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 41"
+  },
+  {
+   "numero": "42",
+   "disciplina": "Administração Financeira e Orçamentária - AFO",
+   "assunto": "Ciclo ou Processo Orçamentário",
+   "tipo": "multipla",
+   "enunciado": "No atual modelo do ciclo orçamentário no Brasil, a orientação para a elaboração do orçamento do exercício fiscal subsequente, compreendendo as prioridades e as metas do governo, bem como dispondo sobre as alterações na legislação tributária e sobre a dívida pública, dentre outros aspectos, é definida pela(o)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Lei Orçamentária Anual"
+    },
+    {
+     "letra": "B",
+     "texto": "Lei de Diretrizes Orçamentárias"
+    },
+    {
+     "letra": "C",
+     "texto": "Lei de Responsabilidade Fiscal"
+    },
+    {
+     "letra": "D",
+     "texto": "Regime Fiscal Sustentável"
+    },
+    {
+     "letra": "E",
+     "texto": "Plano Plurianual"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 42"
+  },
+  {
+   "numero": "43",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Flutuação Suja (Câmbio Sujo)",
+   "tipo": "multipla",
+   "enunciado": "Em 14 de janeiro de 2025, o Jornal O Globo noticiou:\n\nO banco central da Argentina anunciou hoje que reduzirá o ritmo da desvalorização controlada do peso argentino de 2% para 1% ao mês a partir de fevereiro. A decisão foi tomada após a divulgação de novos dados de inflação apontando estabilização do índice de preços abaixo dos 3% mensais. A inflação em desaceleração abriu caminho para a primeira alteração na política cambial do presidente Javier Milei, conhecida como “crawling peg” (desvalorização gradual), em mais de um ano, desde que assumiu o cargo.\n\nO Globo, Buenos Aires, 14 jan. 2025. Disponível em: https://oglobo.globo.com/economia/noticia/2025/01/14/milei-reduz-ritmo-de-desvalorizacao-do-peso-argentino-para-o-dolar-de-2percent-para-1percent-ao-mes.ghtml. Acesso em: 28 jan. 2025.\n\nO fragmento de reportagem apresentado descreve a política cambial adotada na Argentina, onde o Banco Central controla a taxa de câmbio, mas promove desvalorizações frequentes do peso argentino, de acordo com a inflação. Considere-se a taxa de câmbio entre a moeda doméstica de um país com alta inflação e o Dólar americano em um regime de taxa de câmbio fixa.\n\nNesse cenário, se o Banco Central desse país NÃO promover desvalorizações, como as descritas na reportagem, tudo o mais constante, a taxa de câmbio",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "real irá valorizar-se."
+    },
+    {
+     "letra": "B",
+     "texto": "real irá desvalorizar-se."
+    },
+    {
+     "letra": "C",
+     "texto": "real irá manter-se."
+    },
+    {
+     "letra": "D",
+     "texto": "nominal irá desvalorizar-se."
+    },
+    {
+     "letra": "E",
+     "texto": "nominal irá valorizar-se."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 43"
+  },
+  {
+   "numero": "44",
+   "disciplina": "Relação Câmbio x Balança Comercial (exportações e importações)",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Em sua Carta de Conjuntura n. 65, do 4⁠º trimestre de 2024, o Ipea descreveu\n\nEntre dezembro de 2023 e novembro de 2024, o preço do dólar em reais, tomando as médias dos meses, subiu de R$ 4,90 para R$ 5,81, em alta de 18,6%, correspondente à desvalorização de 15,7% do real. Isso, depois de cair 6,5% ao longo de 2023 (valorização de 6,9%), a partir de R$ 5,24 em dezembro de 2022.\n\nBASTOS, Estêvão Kopschitz Xavier et al. Balança comercial, acordo Mercosul-União Europeia e taxa de câmbio. Carta de Conjuntura, n. 65. Nota de Conjuntura 22, Brasília, DF: Ipea, p. 8, 4. Trim. 2024. Disponível em: https://repositorio.ipea.gov. br/bitstream/11058/16442/26/CC_n65_nota_22_setor_externo_balanca_comercial.pdf. Acesso em: 28 jan. 2025.\n\nVariações na taxa de câmbio têm impactos relevantes sobre o comércio exterior, pois uma desvalorização do Real frente ao Dólar americano, como descrito no fragmento apresentado, tudo o mais constante, tende a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "baratear os produtos importados no Brasil."
+    },
+    {
+     "letra": "B",
+     "texto": "enfraquecer o saldo da balança comercial brasileira."
+    },
+    {
+     "letra": "C",
+     "texto": "desacelerar a demanda por exportações brasileiras."
+    },
+    {
+     "letra": "D",
+     "texto": "reduzir a competitividade das exportações brasileiras."
+    },
+    {
+     "letra": "E",
+     "texto": "aumentar a demanda por exportações brasileiras."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 44"
+  },
+  {
+   "numero": "45",
+   "disciplina": "Relação Câmbio x Taxa de Juros",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Em 19 de setembro de 2024, a CNN Brasil noticiou\n\nApós a Superquarta, com corte de juro pelo Federal Reserve (Fed) e elevação da Selic pelo Banco Central (BC), o diferencial entre as taxas americana e brasileira voltou a subir após mais de dois anos. A última elevação havia ocorrido em agosto de 2022, quando o BC brasileiro fixou a Selic em 13,75%. A partir daquele momento, a Selic permaneceu intocada por um ano, até agosto de 2023, e então passou a cair. Já a taxa americana só subiu, saindo de 2% a 2,25% para 5,25% a 5,5%. Desta maneira, o diferencial entre as taxas só caiu.\n\nMOLITERNO, Danilo. CNN Brasil, 19 set. 2024. Disponível em: https://www.cnnbrasil.com.br/economia/macroeconomia/distancia-entre-juro-brasileiro-e-americano-sobe-pela-1a-vez-em-mais-de-2-anos/. Acesso em: 28 jan. 2025.\n\nO aumento do diferencial entre as taxas de juros nos EUA (que foi reduzida) e no Brasil (que foi aumentada), conforme descrito no fragmento de reportagem apresentado, tudo o mais constante, tende a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "desvalorizar o Real frente ao Dólar americano."
+    },
+    {
+     "letra": "B",
+     "texto": "atrair capitais estrangeiros para os ativos financeiros brasileiros."
+    },
+    {
+     "letra": "C",
+     "texto": "elevar a inflação dos produtos importados no Brasil."
+    },
+    {
+     "letra": "D",
+     "texto": "elevar a demanda por exportações brasileiras."
+    },
+    {
+     "letra": "E",
+     "texto": "elevar a demanda por crédito junto aos bancos brasileiros."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 45"
+  },
+  {
+   "numero": "46",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Mercado Monetário - Títulos do Tesouro Nacional",
+   "tipo": "multipla",
+   "enunciado": "As Letras Financeiras do Tesouro (LFT) e as Letras do Tesouro Nacional (LTN) são títulos públicos que têm grande preferência dos investidores.\n\nA diferença entre esses dois títulos é que a LFT",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é um investimento de renda variável, enquanto a LTN é um investimento de renda fixa."
+    },
+    {
+     "letra": "B",
+     "texto": "é pós-fixada, com rentabilidade atrelada à Selic, enquanto a LTN é prefixada."
+    },
+    {
+     "letra": "C",
+     "texto": "permite que o investidor saiba exatamente quanto receberá no vencimento, enquanto a LTN não."
+    },
+    {
+     "letra": "D",
+     "texto": "tem taxa de juros fixa, enquanto a LTN tem taxa de juros variável."
+    },
+    {
+     "letra": "E",
+     "texto": "tem risco de mercado e não de liquidez, enquanto a LTN tem risco de liquidez e não de mercado."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 46"
+  },
+  {
+   "numero": "47",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Competências da CVM",
+   "tipo": "multipla",
+   "enunciado": "No mercado financeiro brasileiro, a autarquia que tem como atribuição supervisionar e garantir o bom funcionamento dos mercados de bolsa e de balcão é a(o)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "B3"
+    },
+    {
+     "letra": "B",
+     "texto": "Comissão de Valores Mobiliários (CVM)"
+    },
+    {
+     "letra": "C",
+     "texto": "Central de Custódia e Liquidação Financeira de Títulos Privados (CETIP)"
+    },
+    {
+     "letra": "D",
+     "texto": "Conselho Monetário Nacional (CMN)"
+    },
+    {
+     "letra": "E",
+     "texto": "Banco Central do Brasil (BCB)"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 47"
+  },
+  {
+   "numero": "48",
+   "disciplina": "Arbitragem",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Nos mercados de câmbio, a estratégia de comprar e vender uma moeda simultaneamente em mercados diferentes, lucrando com a diferença de preços, é denominada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arbitragem"
+    },
+    {
+     "letra": "B",
+     "texto": "hedge"
+    },
+    {
+     "letra": "C",
+     "texto": "swap cambial"
+    },
+    {
+     "letra": "D",
+     "texto": "Non-Deliverable Forward"
+    },
+    {
+     "letra": "E",
+     "texto": "venda casada"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 48"
+  },
+  {
+   "numero": "49",
+   "disciplina": "Garantias Reais",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Nas operações de empréstimo, os bancos exigem garantias que resguardem o reembolso do crédito em caso de inadimplemento dos tomadores do empréstimo.\n\nNÃO constitui garantia real o (a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aval"
+    },
+    {
+     "letra": "B",
+     "texto": "penhor"
+    },
+    {
+     "letra": "C",
+     "texto": "alienação fiduciária"
+    },
+    {
+     "letra": "D",
+     "texto": "hipoteca"
+    },
+    {
+     "letra": "E",
+     "texto": "caução de direitos creditórios"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 49"
+  },
+  {
+   "numero": "50",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Curva de Juros",
+   "tipo": "multipla",
+   "enunciado": "Operadores do mercado financeiro de um país emergente observam que as taxas de juros dos títulos de curto prazo do governo estão mais altas do que as taxas de juros dos mesmos títulos de prazos mais longos.\n\nEsse fenômeno indica que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o Banco Central está emitindo títulos de longo prazo a taxas mais baixas para estimular o consumo e os investimentos."
+    },
+    {
+     "letra": "B",
+     "texto": "o mercado financeiro prevê um aumento significativo da inflação no longo prazo."
+    },
+    {
+     "letra": "C",
+     "texto": "a economia está entrando em um período recessivo."
+    },
+    {
+     "letra": "D",
+     "texto": "a estrutura a termo das taxas de juros indica uma confiança maior no crescimento econômico de longo prazo."
+    },
+    {
+     "letra": "E",
+     "texto": "os investidores esperam uma aceleração econômica, possivelmente acompanhada de cortes nas taxas de juros."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 50"
+  },
+  {
+   "numero": "51",
+   "disciplina": "Técnicas de atendimento e de vendas",
+   "assunto": "Atendimento ao Público",
+   "tipo": "multipla",
+   "enunciado": "Um banco pretende estabelecer uma estratégia de valor para a precificação de seus serviços baseado na redução da incerteza.\n\nPara atingir esse objetivo, o banco deve definir",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma estratégia de preços baseada na formação e na manutenção de relações de curto prazo com os clientes, oferecendo descontos por volume para grandes compras e pela adesão do serviço."
+    },
+    {
+     "letra": "B",
+     "texto": "um desconto no preço, quando dois ou mais serviços são comprados em conjunto, já que quanto menor o número de serviços diferentes que um cliente comprar, mais conveniente será para o cliente trocar de empresa."
+    },
+    {
+     "letra": "C",
+     "texto": "custos econômicos do serviço altos para permitir que a empresa consiga atrair clientes e obtenha lucro, levando os compradores a adquirirem volumes maiores."
+    },
+    {
+     "letra": "D",
+     "texto": "um preço variável, com tarifas crescentes, transferindo o risco do cliente para o fornecedor, na eventualidade de que o serviço tome mais tempo para ser entregue ou envolva custo maior do que o previsto."
+    },
+    {
+     "letra": "E",
+     "texto": "uma precificação baseada em benefícios que os clientes estão procurando ao utilizarem o serviço e garantias de serviços que dão ao cliente o direito de receber um reembolso se ele não estiver totalmente satisfeito."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 51"
+  },
+  {
+   "numero": "52",
+   "disciplina": "Técnicas de atendimento e de vendas",
+   "assunto": "Atendimento ao Público",
+   "tipo": "multipla",
+   "enunciado": "O Banese identificou uma discrepância entre o desempenho de um fornecedor de serviço e as expectativas do cliente, mediante um diagrama de causa e efeito.\n\nEssa situação descreve uma",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "zona de tolerância, que foi detectada pelo banco mediante uma técnica gráfica que relaciona problemas específicos de serviço a diferentes categorias de causas subjacentes."
+    },
+    {
+     "letra": "B",
+     "texto": "avaliação cognitiva de longo prazo por parte dos clientes sobre a entrega do serviço, que foi detectada pelo banco mediante um diagrama que traça mudanças quantitativas no desempenho do serviço, em uma variável específica relativa a um padrão predefinido."
+    },
+    {
+     "letra": "C",
+     "texto": "reação emocional de curto prazo ao desempenho específico de um serviço, que foi detectada pelo banco a partir de um procedimento analítico para identificar a proporção de eventos problemáticos, por cada um dentre vários fatores diferentes."
+    },
+    {
+     "letra": "D",
+     "texto": "lacuna na qualidade, que foi detectada pelo banco mediante uma técnica gráfica que relaciona problemas específicos de serviço a diferentes categorias de causas subjacentes."
+    },
+    {
+     "letra": "E",
+     "texto": "oferta de serviço, que foi detectada pelo banco mediante uma representação visual dos passos envolvidos na prestação de serviços aos clientes."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 52"
+  },
+  {
+   "numero": "53",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Novos modelos de negócios.",
+   "tipo": "multipla",
+   "enunciado": "Um banco utilizou a metodologia de Net Promoter Score (NPS) para avaliar o grau de satisfação do cliente e a eficácia das estratégias e ações adotadas pela organização. Para tanto, perguntou: “Em uma escala de 0 a 10, quão provável é que você recomende o nosso banco a amigos ou colegas?”\n\nForam encontrados os seguintes resultados: 50% das avaliações variaram entre 9 e 10; 30%, entre 7 e 8; e o restante, entre 0 e 6.\n\nA partir desses dados, conclui-se que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metade dos entrevistados da pesquisa é de promotores do banco, clientes supersatisfeitos que devem recomendar a organização."
+    },
+    {
+     "letra": "B",
+     "texto": "a maioria dos entrevistados da pesquisa é de clientes neutros, isto é, satisfeitos, mas não tão engajados, podendo ser influenciados por concorrentes."
+    },
+    {
+     "letra": "C",
+     "texto": "1/3 dos entrevistados da pesquisa é de clientes detratores, isto é, clientes insatisfeitos que costumam prejudicar a reputação da organização."
+    },
+    {
+     "letra": "D",
+     "texto": "todos os entrevistados da pesquisa são clientes abusivos que tiveram alguma experiência negativa com a organização."
+    },
+    {
+     "letra": "E",
+     "texto": "metade dos entrevistados da pesquisa é de clientes beligerantes que devem ser encorajados a se tornarem embaixadores da organização."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 53"
+  },
+  {
+   "numero": "54",
+   "disciplina": "Transformação digital no Sistema Financeiro.",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "O Banese, para promover atendimentos mais ágeis e dinâmicos aos seus clientes, fez um treinamento focando as desvantagens e as vantagens de oferecer um atendimento remoto.\n\nComo resultado do aprendizado, seus funcionários se conscientizaram de que o atendimento ao cliente por canais remotos pode apresentar as seguintes desvantagens:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dificuldade de compreensão das necessidades do cliente; demora na resposta ao cliente; maior escalabilidade no atendimento; possibilidade de integrar canais e oferecer uma experiência omnichannel."
+    },
+    {
+     "letra": "B",
+     "texto": "falta de contato humano e impessoalidade; redução dos custos operacionais da organização; diminuição do tempo de espera do cliente para resolução de um problema; aumento da produtividade da equipe."
+    },
+    {
+     "letra": "C",
+     "texto": "melhora no horário de atendimento; entrega de mais comodidade ao cliente; insegurança do cliente; necessidade de atualização constante do sistema; barreiras de comunicação."
+    },
+    {
+     "letra": "D",
+     "texto": "falta de empatia e de interatividade pessoal; dependência de conexão de internet estável; dificuldade de alguns clientes lidarem com atendente virtual; preocupações com segurança cibernética."
+    },
+    {
+     "letra": "E",
+     "texto": "oferta de uma experiência completa ao cliente; conveniência do cliente no que diz respeito aos horários de funcionamento; dificuldade no acesso aos serviços; rapidez na realização de tarefas rotineiras."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 54"
+  },
+  {
+   "numero": "55",
+   "disciplina": "Administração de Marketing",
+   "assunto": "Administração Geral",
+   "tipo": "multipla",
+   "enunciado": "Ao abrir o Instagram do Banese, é possível identificar a seguinte mensagem:\n\nPara o Banese, 2024 foi tempo de ir além.\n\nComo banco, crescemos em números e avançamos na qualidade dos produtos e serviços que ofertamos ao povo sergipano.\n\nComo agentes do desenvolvimento regional, apoiamos iniciativas que nos aproximam da nossa gente, no turismo, no esporte, na cultura e em ações sociais que fortalecem o estado e promovem oportunidades para todos.\n\nEm 2025, a parceria tá garantida! Estaremos ao lado dos sergipanos com novos projetos, mais inovação e o compromisso de sempre. Continuaremos tocando o coração dos sergipanos e construindo juntos um futuro ainda mais próspero.\n\nEssa promoção do banco é denominada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "marketing direto"
+    },
+    {
+     "letra": "B",
+     "texto": "merchandising"
+    },
+    {
+     "letra": "C",
+     "texto": "relações públicas"
+    },
+    {
+     "letra": "D",
+     "texto": "venda pessoal"
+    },
+    {
+     "letra": "E",
+     "texto": "boca a boca"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 55"
+  },
+  {
+   "numero": "56",
+   "disciplina": "Microcrédito Produtivo Orientado;",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Uma instituição bancária optou por duas práticas de finanças sustentáveis:\n\n(i) atividades de empréstimo e financiamento de quantias apropriadas em condições razoáveis (taxas de juros e prazos), garantindo que seus clientes não comprometam grande parcela de sua renda com um financiamento que, em determinado momento, possa não ser honrado — nessa prática, a organização orienta o cliente a não se expor a riscos financeiros desnecessários e inapropriados, considerando seus objetivos de curto e longo prazos;\n\n(ii) concessão de financiamentos de pequenos empreendimentos para classes de baixa renda, que não têm acesso às linhas tradicionais de crédito dos bancos, e/ou bens materiais ou vínculos empregatícios, que sirvam de garantia para pedidos de crédito — nessa prática, a verba é concedida a um grupo de indivíduos e tem como principal objetivo a criação de atividades geradoras de renda, e a garantia de pagamento do empréstimo é dada pelo próprio grupo, fazendo com que cada um se autofiscalize e ajude no desenvolvimento de suas atividades, aumentando, por consequência, a probabilidade de pagamento da dívida.\n\nEssas práticas são denominadas, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "avaliação de riscos socioambientais em financiamentos e integração de critérios ESG em investimento"
+    },
+    {
+     "letra": "B",
+     "texto": "finanças verdes e gestão de riscos sustentáveis"
+    },
+    {
+     "letra": "C",
+     "texto": "greenwashing e marketing de causa"
+    },
+    {
+     "letra": "D",
+     "texto": "fundos socialmente responsáveis e financiamentos socioambientais"
+    },
+    {
+     "letra": "E",
+     "texto": "crédito responsável e microcrédito"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 56"
+  },
+  {
+   "numero": "57",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Qualidade no atendimento",
+   "tipo": "multipla",
+   "enunciado": "Mais de quinze reclamações de clientes já haviam chegado à gerência, e o gerente resolveu agir. Ele analisou a rotina da agência sob sua responsabilidade e percebeu que era necessário ampliar o treinamento da equipe. Cada operação era realizada de um jeito, de acordo com o funcionário que a realizava, e os clientes demonstravam contrariedade frente a essas diferenças na entrega dos mesmos serviços.\n\nNesse caso, a característica diferenciadora dos serviços em questão é denominada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "variabilidade"
+    },
+    {
+     "letra": "B",
+     "texto": "perecibilidade"
+    },
+    {
+     "letra": "C",
+     "texto": "intangibilidade"
+    },
+    {
+     "letra": "D",
+     "texto": "inseparabilidade"
+    },
+    {
+     "letra": "E",
+     "texto": "homogeneidade"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 57"
+  },
+  {
+   "numero": "58",
+   "disciplina": "Negociação",
+   "assunto": "Administração Geral",
+   "tipo": "multipla",
+   "enunciado": "Após analisar o ambiente de negócios, a direção do Banco Z decidiu que adotaria a estratégia competitiva genérica de liderança em custo baixo.\n\nPara colocar essa estratégia em prática, o Banco Z deverá",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "contratar os melhores gestores de fundos de renda variável no mercado, instalar sistemas de informática mais avançados e se especializar em produtos financeiros de alto risco."
+    },
+    {
+     "letra": "B",
+     "texto": "aumentar o número de agências em todas as regiões, para tornar o atendimento mais ágil, ampliar o pacote de benefícios e disponibilizar mais canais de atendimento para todos os correntistas."
+    },
+    {
+     "letra": "C",
+     "texto": "estabelecer metas de atendimento de longo prazo para os clientes mais frequentes, oferecendo produtos e serviços especializados de elevada qualidade para os correntistas mais rentáveis."
+    },
+    {
+     "letra": "D",
+     "texto": "diminuir o pessoal e controlar despesas de operação para ter os menores gastos na gestão de fundos de investimento, contas-correntes, empréstimos e seguros para todos os correntistas do banco."
+    },
+    {
+     "letra": "E",
+     "texto": "reduzir a quantidade de clientes para que seja possível atendê-los de forma mais personalizada e direta, com produtos e serviços de alta rentabilidade e segurança comprovada."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 58"
+  },
+  {
+   "numero": "59",
+   "disciplina": "Comunicação Social",
+   "assunto": "Estratégias de Marketing",
+   "tipo": "multipla",
+   "enunciado": "O marketing de relacionamento propõe um conjunto de ações para, dentre outras coisas, fortalecer o relacionamento e a visão do cliente sobre o negócio. Follow-up é o processo que envolve entrar em contato com o cliente após a proposta comercial.\n\nTrata-se de uma interação fundamental no cotidiano do técnico bancário, uma vez que permite o(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "acompanhamento da continuidade das vendas"
+    },
+    {
+     "letra": "B",
+     "texto": "apuração de novos segmentos de mercado"
+    },
+    {
+     "letra": "C",
+     "texto": "detecção de falhas no ambiente digital"
+    },
+    {
+     "letra": "D",
+     "texto": "inovação nos métodos operacionais"
+    },
+    {
+     "letra": "E",
+     "texto": "mineração de dados sobre tendências de consumo"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 59"
+  },
+  {
+   "numero": "60",
+   "disciplina": "Segmentação de Mercado",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "A diretoria de um banco de investimentos pretende adotar uma estratégia baseada em uma segmentação comportamental em seu próximo planejamento.\n\nSendo assim, ela deverá direcionar suas ações para o seguinte público-alvo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cidadãos residentes nas três maiores cidades do país"
+    },
+    {
+     "letra": "B",
+     "texto": "jovens recém-formados da classe média/alta"
+    },
+    {
+     "letra": "C",
+     "texto": "clientes com investimentos acima de cinco milhões de reais"
+    },
+    {
+     "letra": "D",
+     "texto": "moradores em áreas nobres das capitais brasileiras"
+    },
+    {
+     "letra": "E",
+     "texto": "pessoas descontraídas, com estilo de vida sofisticado"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 60"
+  },
+  {
+   "numero": "61",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Técnicas de atendimento e de vendas",
+   "tipo": "multipla",
+   "enunciado": "A prospecção é uma etapa importante da pré-venda dos serviços bancários, na qual se deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apresentar os benefícios e as vantagens disponíveis para os clientes."
+    },
+    {
+     "letra": "B",
+     "texto": "propor novos produtos para clientes antigos."
+    },
+    {
+     "letra": "C",
+     "texto": "identificar as dúvidas dos clientes durante o atendimento."
+    },
+    {
+     "letra": "D",
+     "texto": "apurar informações confiáveis sobre novos clientes."
+    },
+    {
+     "letra": "E",
+     "texto": "realçar os diferenciais na apresentação da marca."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 61"
+  },
+  {
+   "numero": "62",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Atendimento - Escriturário",
+   "tipo": "multipla",
+   "enunciado": "O técnico bancário precisa adotar um comportamento profissional, tomando certos cuidados no atendimento ao público. Um dos primeiros passos para essa atitude é conhecer e se identificar com os pilares fundamentais que definem a identidade corporativa de um banco.\n\nEsses pilares são os seguintes:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "conduta ética e resultados operacionais"
+    },
+    {
+     "letra": "B",
+     "texto": "estratégia, tática e operações cotidianas"
+    },
+    {
+     "letra": "C",
+     "texto": "imagem, cultura e rendimentos corporativos"
+    },
+    {
+     "letra": "D",
+     "texto": "logomarca, slogan e campanhas institucionais"
+    },
+    {
+     "letra": "E",
+     "texto": "visão, missão e valores organizacionais"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 62"
+  },
+  {
+   "numero": "63",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Atendimento - Escriturário",
+   "tipo": "multipla",
+   "enunciado": "A ética profissional do atendente bancário engloba o seu comportamento perante os clientes.\n\nUm funcionário age de forma ética quando",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "garante a máxima lucratividade na comercialização dos produtos."
+    },
+    {
+     "letra": "B",
+     "texto": "prioriza a rentabilidade do banco diante das necessidades do mercado."
+    },
+    {
+     "letra": "C",
+     "texto": "respeita as diretrizes socioeconômicas das políticas governamentais."
+    },
+    {
+     "letra": "D",
+     "texto": "segue os princípios e os valores estabelecidos pela empresa."
+    },
+    {
+     "letra": "E",
+     "texto": "valoriza a cultura organizacional e a obediência aos superiores."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 63"
+  },
+  {
+   "numero": "64",
+   "disciplina": "Mercado Financeiro",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Determinado integrante dos quadros do Banese foi sorteado para realizar curso de finanças em prestigiada universidade americana com o objetivo de apreender os modernos sistemas bancários e colher os novos produtos utilizados no mercado internacional. Ao retornar ao Brasil, retoma sua carreira no banco e passa a ocupar cargo de gerência em unidade especializada em clientes de alto poder aquisitivo. Para demonstrar seu conhecimento profundo do mercado internacional, passa a utilizar jargões estrangeiros no contato diário com a vasta clientela do banco.\n\nNos termos do Normativo SARB nº 27/2023, o gerente, no contato diário com a clientela, deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "manifestar o seu vasto conhecimento técnico para demonstrar a capacidade dos integrantes do banco."
+    },
+    {
+     "letra": "B",
+     "texto": "utilizar termos bancários para explicar as complexas operações que serão realizadas com o patrimônio do cliente."
+    },
+    {
+     "letra": "C",
+     "texto": "intentar contato com palavras simples para facilitar a comunicação ao cliente, sem prejuízo da clareza da explicação dos produtos bancários."
+    },
+    {
+     "letra": "D",
+     "texto": "analisar em quadros estatísticos a rentabilidade dos produtos vendidos para demonstrar amplo apuro técnico."
+    },
+    {
+     "letra": "E",
+     "texto": "demonstrar, com quadros comparativos, a qualidade das aplicações financeiras, remontando a sua experiência no exterior, para aclarar a sua relevância."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 64"
+  },
+  {
+   "numero": "65",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Qualidade no atendimento",
+   "tipo": "multipla",
+   "enunciado": "O gerente do Banese de uma determinada localidade foi designado para compor comissão de estudos com a finalidade de melhorar os processos de gestão na sua unidade, com reflexos em unidades similares do banco. Após vários debates, o grupo de trabalho apresenta relatório baseado em normas aprovadas por inúmeras instituições financeiras.\n\nDe acordo com o Normativo SARB nº 21/2019, o Programa de Integridade para Prevenção à Corrupção e a outros atos lesivos à Administração Pública nacional ou estrangeira é baseado em princípios e procedimentos, destacando-se o objetivo de atuar de acordo com os ideais de comportamento, atitudes e resultados que se esperam de seus funcionários e no relacionamento com clientes e terceiros, com a observância de parâmetros da Instituição Financeira Signatária, considerados como seus valores",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "morais"
+    },
+    {
+     "letra": "B",
+     "texto": "cognitivos"
+    },
+    {
+     "letra": "C",
+     "texto": "preservados"
+    },
+    {
+     "letra": "D",
+     "texto": "empresariais"
+    },
+    {
+     "letra": "E",
+     "texto": "deontológicos"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 65"
+  },
+  {
+   "numero": "66",
+   "disciplina": "Conhecimentos Bancários",
+   "assunto": "Novos modelos de negócios.",
+   "tipo": "multipla",
+   "enunciado": "Poucos setores da economia sofreram tantas inovações quanto o setor bancário. Novos entrantes proporcionaram um aumento de concorrência com instituições financeiras tradicionais, o que só foi possível devido ao grande incremento tecnológico.\n\nO aumento da participação desses novos entrantes ocorreu porque",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o relaxamento das regulações do sistema financeiro fez com que diminuísse a necessidade de capital, focando no aumento da eficiência competitiva do setor."
+    },
+    {
+     "letra": "B",
+     "texto": "os bancos tradicionais focaram sua atenção em produtos de intermediação financeira, desinteressando-se do mercado de pagamentos."
+    },
+    {
+     "letra": "C",
+     "texto": "os novos entrantes eram menos expostos a riscos cibernéticos, o que aumentou sua competitividade frente aos bancos tradicionais."
+    },
+    {
+     "letra": "D",
+     "texto": "os novos entrantes tinham uma propensão a risco menor, tornando suas taxas mais atraentes e seus balanços mais alavancados."
+    },
+    {
+     "letra": "E",
+     "texto": "as novas tecnologias reduziram barreiras de entrada, permitindo que fintechs e outras empresas competissem diretamente com bancos tradicionais ao oferecer serviços digitais com custos menores."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 66"
+  },
+  {
+   "numero": "67",
+   "disciplina": "Correspondentes Bancários",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Por ser um país de proporções continentais e com muitas regiões carentes de serviços financeiros, é fundamental que pequenos comércios, como farmácias e casas lotéricas, possam atuar como intermediários na oferta de serviços bancários no Brasil.\n\nEm relação ao funcionamento dos correspondentes bancários, verifica-se que o(s)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estabelecimento comercial pode atuar como um correspondente bancário, desde que cumpra as regras de contratação definidas pelas instituições financeiras e pelo Banco Central do Brasil."
+    },
+    {
+     "letra": "B",
+     "texto": "correspondente bancário necessita da autorização do Banco Central do Brasil para funcionar."
+    },
+    {
+     "letra": "C",
+     "texto": "correspondentes bancários são os principais responsáveis por falhas nos serviços que oferecem."
+    },
+    {
+     "letra": "D",
+     "texto": "correspondentes bancários seguem normas distintas de compliance aplicadas aos bancos, pois atuam apenas como intermediários de operações financeiras."
+    },
+    {
+     "letra": "E",
+     "texto": "serviços oferecidos pelos correspondentes bancários são definidos exclusivamente pela instituição financeira contratante."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 67"
+  },
+  {
+   "numero": "68",
+   "disciplina": "Arranjos de Pagamentos",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "Uma loja de departamentos oferece aos seus usuários o sistema de cashback em seus cartões de fidelidade, que consiste em dar desconto equivalente a 1% do valor da compra atual nas compras seguintes nessa loja.\n\nEsse tipo de arranjo de pagamento é considerado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "aberto, pois permite transações entre diversos estabelecimentos parceiros da fintech."
+    },
+    {
+     "letra": "B",
+     "texto": "fechado, pois os pontos acumulados só podem ser utilizados em um ecossistema específico do estabelecimento."
+    },
+    {
+     "letra": "C",
+     "texto": "híbrido, pois utiliza moeda interna e oferece integração limitada com o sistema financeiro tradicional."
+    },
+    {
+     "letra": "D",
+     "texto": "semiaberto porque o cliente pode transferir os valores acumulados para outros sistemas de pagamento, como o PIX."
+    },
+    {
+     "letra": "E",
+     "texto": "semifechado, pois o ecossistema envolve somente a infraestrutura da instituição e do Banco Central do Brasil."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 68"
+  },
+  {
+   "numero": "69",
+   "disciplina": "O dinheiro na era digital: blockchain, bitcoin e demais criptomoedas.",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "A partir de 2008, quando foi apresentado o Bitcoin, o rápido desenvolvimento de tecnologias relacionadas aos criptoativos e à tecnologia da blockchain trouxeram uma perspectiva de adoção em massa das moedas digitais.\n\nCom relação às moedas digitais, verifica-se que a(s)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tecnologia blockchain, por ser descentralizada, impede um registro seguro e confiável de pagamentos, contas, pedidos e outras transações."
+    },
+    {
+     "letra": "B",
+     "texto": "criptomoedas como o Bitcoin são ativos que preservam o poder de compra dos seus detentores, exercendo a função de reserva de valor no sistema financeiro internacional, tal como o Dólar e o ouro."
+    },
+    {
+     "letra": "C",
+     "texto": "moedas digitais privadas globais, por não serem emitidas pelos governos nacionais, oferecem maior segurança e estabilidade de valor, pois não estão sujeitas às mudanças de política monetária."
+    },
+    {
+     "letra": "D",
+     "texto": "moedas digitais emitidas por bancos centrais (CBDC, na sigla em inglês) são passivos das autoridades monetárias, como o dinheiro em espécie, e têm conversibilidade garantida com as moedas nacionais convencionais."
+    },
+    {
+     "letra": "E",
+     "texto": "moedas digitais, apesar da sua difusão, não poderão substituir por completo o uso do dinheiro em espécie, pois não possuem as funções básicas das moedas convencionais."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 69"
+  },
+  {
+   "numero": "70",
+   "disciplina": "Open Banking",
+   "assunto": "Conhecimentos Bancários",
+   "tipo": "multipla",
+   "enunciado": "O projeto de Open Banking do Banco Central do Brasil (BCB) foi posteriormente renomeado de Open Finance, sinalizando para a sociedade sua maior abrangência.\n\nO projeto de Open Finance brasileiro diz respeito à(ao)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "implementação de um arranjo de pagamentos digitais, com liquidação centralizada pelo BCB."
+    },
+    {
+     "letra": "B",
+     "texto": "abertura do sistema financeiro, permitindo a entrada de novas instituições financeiras."
+    },
+    {
+     "letra": "C",
+     "texto": "divulgação de dados pelo BCB, aumentando a transparência das transações financeiras."
+    },
+    {
+     "letra": "D",
+     "texto": "fomento à digitalização dos meios de pagamento, reduzindo o uso de dinheiro em espécie."
+    },
+    {
+     "letra": "E",
+     "texto": "compartilhamento de dados entre instituições autorizadas pelo BCB, com o consentimento dos clientes."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 70"
+  },
+  {
+   "numero": "71",
+   "disciplina": "Legislação Federal",
+   "assunto": "Decreto nº 8.727/2016 - Dispõe sobre o uso do nome social e o reconhecimento da identidade de gênero de pessoas travestis e transexuais no âmbito da administração pública federal direta, autárquica e fundacional.",
+   "tipo": "multipla",
+   "enunciado": "No Decreto nº 8.727, de 2016, que dispõe sobre o uso do nome social e o reconhecimento da identidade de gênero de pessoas travestis e transexuais, fica estabelecido que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a identidade de gênero diz respeito à forma como uma pessoa se relaciona com as representações de masculinidade e feminilidade, e leva em conta como isso se traduz em sua prática social, sem guardar relação necessária com o sexo atribuído no nascimento."
+    },
+    {
+     "letra": "B",
+     "texto": "a pessoa travesti ou transexual apenas poderá requerer a inclusão de seu nome social em documentos oficiais e nos registros dos sistemas de informação, de cadastros e congêneres, respeitando o período de carência de um ano a contar da data da contratação do serviço junto ao órgão federal competente."
+    },
+    {
+     "letra": "C",
+     "texto": "as instituições e as entidades da Administração Pública federal direta, autárquica e fundacional, em seus atos e procedimentos, ficam desobrigadas de adotar o nome social da pessoa travesti ou transexual, a despeito de eventual requerimento ou demanda regulamentada por lei."
+    },
+    {
+     "letra": "D",
+     "texto": "o nome social corresponde à designação segundo a qual a pessoa travesti ou transexual é identificada em sua certidão de nascimento, em concordância com o sexo biológico a ela atribuído em seu nascimento."
+    },
+    {
+     "letra": "E",
+     "texto": "os servidores públicos, em função de suas atribuições legais e funcionais, possuem a prerrogativa de, em seu ambiente de trabalho, fazer uso de expressões discriminatórias para referir-se a pessoas travestis ou transexuais."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 71"
+  },
+  {
+   "numero": "72",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 11.126/2005 - Dispõe sobre o direito do portador de deficiência visual de ingressar e permanecer em ambientes de uso coletivo acompanhado de cão-guia.",
+   "tipo": "multipla",
+   "enunciado": "Há quase 5 anos, a cão-guia golden retriever Mellie e o mineiro Thiago Felipe Diniz Figueiredo, 37, são companheiros inseparáveis. Com direito a crachá e uniforme, Mellie acompanha o tutor, assessor de TI na Diretoria de Tecnologia do BB (Ditec/BB), nas tarefas diárias. O funcionário é deficiente visual e a cão-guia passou a ser fundamental em sua vida. [...] Mellie é norte-americana e Thiago foi buscá-la em Ohio, nos Estados Unidos [...] em 2017. [...] Thiago ficou três semanas nas terras do Tio Sam, passando por treinamentos junto com o animal. Apesar de extremamente dócil, Mellie não é considerada um pet e, por isso, há recomendações específicas que devem ser seguidas não só por Thiago, mas por todos que cruzam com a dupla pelos corredores do banco. “Não se deve mexer com o cachorro quando ele estiver em trabalho. Não oferecer comida, não pegar na guia são algumas das orientações”, explica o bancário.\n\nRODRIGUES, M. Conheça Mellie, cão-guia que “trabalha” no Banco do Brasil em Brasília. Metrópoles, Distrito Federal, 10 dez. 2021. Disponível em: https://www.metropoles.com/distrito-federal/conheca-mellie-cao-guia-que-trabalha-no-banco-do-brasil-em-brasilia. Acesso em: 31 jan. 2025. Adaptado.\n\nConforme apresentado na matéria anterior e de acordo com o Decreto nº 5.904, de 2006, a presença de cão-guia para auxílio de deficientes visuais",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é direito da pessoa com deficiência, de maneira que impedir ou dificultar seu ingresso ou permanência em locais públicos ou privados de uso coletivo pode incorrer em pagamento de multa."
+    },
+    {
+     "letra": "B",
+     "texto": "é direito da pessoa com deficiência, porém pode incorrer em pagamento de taxa extra ou ingresso, quando aplicável, a ser acrescido do valor pago pela pessoa deficiente."
+    },
+    {
+     "letra": "C",
+     "texto": "é de amplo direito em locais públicos (como ruas e praças), ainda que proibido em locais privados (como cinemas e centros esportivos)."
+    },
+    {
+     "letra": "D",
+     "texto": "está necessariamente vinculada ao uso de focinheira em locais públicos e privados de uso coletivo, para segurança do tutor e dos demais cidadãos."
+    },
+    {
+     "letra": "E",
+     "texto": "é permitida, desde que o centro de treinamento do animal se localize em território nacional, sendo vedado o uso de cães treinados no exterior em função da barreira linguística."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 72"
+  },
+  {
+   "numero": "73",
+   "disciplina": "Direitos Humanos",
+   "assunto": "Convenção Internacional sobre Eliminação de Todas as Formas de Discriminação Racial",
+   "tipo": "multipla",
+   "enunciado": "Em artigo publicado na Revista da Universidade de São Paulo, uma professora de Direito Constitucional e Direitos Humanos sustenta:\n\nFaz-se necessário combinar a proibição da discriminação com políticas compensatórias que acelerem a igualdade como processo. Isto é, para assegurar a igualdade não basta apenas proibir a discriminação mediante legislação repressiva. São essenciais as estratégias promocionais capazes de estimular a inserção e inclusão de grupos socialmente vulneráveis nos espaços sociais.[...] Enquanto a igualdade pressupõe formas de inclusão social, a discriminação implica a violenta exclusão e a intolerância à diferença e à diversidade. O que se percebe é que a proibição da exclusão, em si mesma, não resulta automaticamente na inclusão. Logo, não é suficiente proibir a exclusão quando o que se pretende é garantir a igualdade de fato, com a efetiva inclusão social de grupos que sofreram e sofrem um consistente padrão de violência e discriminação. Nesse sentido, como poderoso instrumento de inclusão social, situam-se as ações afirmativas.\n\nPIOVESAN, Flávia. Ações afirmativas e direitos humanos. Revista USP, São Paulo, n.69, p. 40, março/maio 2006.\n\nConsiderando-se o texto anterior e de acordo com o Estatuto da Igualdade Racial (Lei nº 12.288, de 2010), as chamadas ações afirmativas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "implementam determinações governamentais que favorecem grupos economicamente vulnerabilizados, cujos efeitos pretendidos são a intensificação de desigualdades econômicas e a exclusão social."
+    },
+    {
+     "letra": "B",
+     "texto": "são programas e medidas especiais adotados pelo Estado e pela iniciativa privada para a correção das desigualdades (raciais, inclusive) e para a promoção da igualdade de oportunidades."
+    },
+    {
+     "letra": "C",
+     "texto": "obstaculizam o desenvolvimento do país, na medida em que favorecem a diferença racial, econômica e de gênero, entre outras, em detrimento do mérito e do esforço individual."
+    },
+    {
+     "letra": "D",
+     "texto": "são políticas públicas que impedem o acesso universal a direitos e oportunidades, ferindo, assim, o princípio da igualdade entre cidadãos e promovendo a discriminação de grupos sociais."
+    },
+    {
+     "letra": "E",
+     "texto": "visam à penalização da discriminação racial, sem, contudo, estarem associadas à garantia da igualdade de fato, não constituindo, dessa forma, instrumentos efetivos de inclusão social."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 73"
+  },
+  {
+   "numero": "74",
+   "disciplina": "Direito Penal",
+   "assunto": "Assédio sexual",
+   "tipo": "multipla",
+   "enunciado": "De 2020 a 2023, a Justiça do Trabalho, em todas as suas instâncias, julgou 419.342 ações envolvendo assédio moral e assédio sexual. O volume de processos julgados sobre assédio sexual cresceu 44,8% no período, e os de assédio moral aumentaram 5%.\n\nDisponível em: https://www.tsj.jus.br/em-tres-anos-justica-do-trabalho-julgou-mais-de-400-mil-casos-de-assedio-moral-e-sexual/. Acesso em: 23 fev. 2025.\n\nConsiderando-se que, no Brasil, o assédio sexual é tipificado como crime há mais de 20 anos e que há uma subnotificação de crimes de natureza sexual, o aumento das denúncias evidencia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a conscientização, notadamente das mulheres, quanto ao caráter criminoso e intolerável do assédio sexual."
+    },
+    {
+     "letra": "B",
+     "texto": "a inexistência ou fragilidade das instâncias corporativas de apoio às vítimas de assédio sexual."
+    },
+    {
+     "letra": "C",
+     "texto": "a ampla proteção da vítima quanto exposição pública de assédio sexual sofrido."
+    },
+    {
+     "letra": "D",
+     "texto": "o desmonte da cultura do assédio, fruto do passado escravocrata e patriarcal da sociedade brasileira."
+    },
+    {
+     "letra": "E",
+     "texto": "as baixas taxas de punição dos processos disciplinares por assédio sexual."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 74"
+  },
+  {
+   "numero": "75",
+   "disciplina": "Direito Ambiental",
+   "assunto": "Sustentabilidade",
+   "tipo": "multipla",
+   "enunciado": "Alinhamento estratégico significa alinhar a estratégia de negócios de um banco para que seja consistente e contribua para os Objetivos de Desenvolvimento Sustentável (ODS), o Acordo Climático de Paris e outras estruturas nacionais, regionais ou internacionais relevantes, como os Princípios Orientadores da ONU sobre Empresas e Direitos Humanos, onde um banco está melhor posicionado para fazê-lo através de seus negócios. Essas estruturas articulam objetivos e desafios globalmente acordados para a construção de um futuro mais sustentável.\n\nUNEP FI. Princípios para Responsabilidade Bancária, 2019. Disponível em: https://www.unepfi.org/wordpress/wp-content/uploads/2022/07/PRB-Guidance-Document-PT-Documento-Guia-do-PRB.pdf. Acesso em: 23 fev. 2025.\n\nA Política de Responsabilidade Social, Ambiental e Climática do Banese alinha-se ao pressuposto do texto e contribui para que a empresa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "evidencie a inexistência de riscos climáticos na atualidade."
+    },
+    {
+     "letra": "B",
+     "texto": "desconsidere os acordos internacionais sobre sustentabilidade e clima."
+    },
+    {
+     "letra": "C",
+     "texto": "incorpore os riscos socioambientais na gestão estratégica dos negócios."
+    },
+    {
+     "letra": "D",
+     "texto": "atenda a todos os possíveis clientes sem limitações de perfil."
+    },
+    {
+     "letra": "E",
+     "texto": "considere a ONU uma instância política sem respaldo para impor diretrizes internacionais."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 75"
+  },
+  {
+   "numero": "76",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "[...] o agente administrativo, como ser humano dotado de capacidade de atuar, deve, necessariamente, distinguir o Bem do Mal e o honesto do desonesto. Ao exercer suas funções, ele não poderá desprezar o elemento ético da sua conduta, devendo avaliar não apenas entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas também entre o honesto e o desonesto.\n\nMEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. 42 ed. Malheiros; São Paulo: 2016. p. 94. Adaptado.\n\nO princípio constitucional da administração pública sobre o qual Meirelles reflete, ao analisar a atuação do agente administrativo, é o princípio da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "legalidade"
+    },
+    {
+     "letra": "B",
+     "texto": "impessoalidade"
+    },
+    {
+     "letra": "C",
+     "texto": "moralidade"
+    },
+    {
+     "letra": "D",
+     "texto": "publicidade"
+    },
+    {
+     "letra": "E",
+     "texto": "eficiência"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 76"
+  },
+  {
+   "numero": "77",
+   "disciplina": "Integridade",
+   "assunto": "Tecnologia da Informação",
+   "tipo": "multipla",
+   "enunciado": "A integridade é um dos pilares da segurança da informação. O controle de integridade permite determinar alteração ou destruição intencional e alteração ou perda acidental de dados, ou seja, assegura que as alterações nos dados sejam detectáveis.\n\nUm mecanismo de segurança amplamente usado para produzir o código de verificação de integridade é o(a)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "resumo de mensagem"
+    },
+    {
+     "letra": "B",
+     "texto": "certificado digital"
+    },
+    {
+     "letra": "C",
+     "texto": "envelope digital"
+    },
+    {
+     "letra": "D",
+     "texto": "cifragem simétrica"
+    },
+    {
+     "letra": "E",
+     "texto": "senha de uso único"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 77"
+  },
+  {
+   "numero": "78",
+   "disciplina": "Legislação Federal",
+   "assunto": "Disposições Preliminares - LGPD",
+   "tipo": "multipla",
+   "enunciado": "Desde a promulgação da Lei Geral de Proteção de Dados Pessoais (LGPD), o Brasil se tornou parte de um conjunto seleto de países que contam com uma legislação específica para proteção de dados e da privacidade dos seus cidadãos. Em particular, os dados pessoais classificados como sensíveis são considerados especialmente importantes e exigem cuidados extras.\n\nUm exemplo de dado pessoal considerado sensível pela LGPD é a(o)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "renda bruta"
+    },
+    {
+     "letra": "B",
+     "texto": "filiação a sindicato"
+    },
+    {
+     "letra": "C",
+     "texto": "local de nascimento"
+    },
+    {
+     "letra": "D",
+     "texto": "hábito de consumo"
+    },
+    {
+     "letra": "E",
+     "texto": "CPF"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 78"
+  },
+  {
+   "numero": "79",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Banco do Estado do Sergipe – BANESE - Legislação Aplicada",
+   "tipo": "multipla",
+   "enunciado": "Um cidadão é um ativo investidor no mercado de capitais, tanto nacional como estrangeiro, utilizando-se, nessa atividade, de várias corretoras legalmente constituídas. Para realizar determinadas operações, realiza consultas com especialistas, buscando dados para minimizar os seus riscos, diante da volatilidade do mercado. Uma de suas fontes apresenta informação relevante, não divulgada, que acarreta um aporte vultoso e grandes lucros.\n\nNos termos do Código de Conduta Ética do Banese, não é possível efetuar a compra e venda de ações desse banco com base em informações",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "emprestadas"
+    },
+    {
+     "letra": "B",
+     "texto": "privilegiadas"
+    },
+    {
+     "letra": "C",
+     "texto": "importantes"
+    },
+    {
+     "letra": "D",
+     "texto": "qualificadas"
+    },
+    {
+     "letra": "E",
+     "texto": "anônimas"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 79"
+  },
+  {
+   "numero": "80",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Banco do Estado do Sergipe – BANESE - Legislação Aplicada",
+   "tipo": "multipla",
+   "enunciado": "O Departamento de Recursos Humanos do Banese é preocupado com o contínuo aprendizado dos colaboradores da instituição, buscando não somente o aperfeiçoamento intelectual, mas a relação de integração entre as pessoas. Um dos temas recorrentes consiste em divulgar os critérios de boa administração, considerados como de boa governança corporativa.\n\nNesse sentido, todos devem desempenhar suas funções com diligência, independência e com vistas à geração de valor",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "sustentável no longo prazo."
+    },
+    {
+     "letra": "B",
+     "texto": "consistente no lucro variável."
+    },
+    {
+     "letra": "C",
+     "texto": "intrínseco para tornar perene a relação com a sociedade."
+    },
+    {
+     "letra": "D",
+     "texto": "destinado a tornar mais atrativa a aquisição da sociedade."
+    },
+    {
+     "letra": "E",
+     "texto": "social prevalecendo sobre o aspecto econômico de atuação."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "CESGRANRIO 2025 – BANESE – Técnico Bancário, questão 80"
+  }
+ ]
+}

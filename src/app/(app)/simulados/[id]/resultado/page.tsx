@@ -7,7 +7,10 @@ import { itensSimulado, obterSimulado } from "@/lib/simulados";
 import { cn, dataSqlite, formatarMinutos, pct } from "@/lib/utils";
 import { salvarErradasEmCaderno } from "@/app/actions/simulados";
 import { Markdown } from "@/components/markdown";
+import { ImagensQuestao } from "@/components/questao/imagens-questao";
 import { BarraProgresso, Botao, Cartao, Estatistica, LinkBotao } from "@/components/ui";
+import { TextoQuestao } from "@/components/questao/texto-questao";
+import { semMarcadores } from "@/lib/marcadores";
 
 export const metadata = { title: "Resultado do simulado" };
 
@@ -108,7 +111,7 @@ export default async function ResultadoSimulado({ params }: { params: Promise<{ 
                 {l.correta ? <Check className="h-4 w-4" /> : l.resposta ? <X className="h-4 w-4" /> : <Minus className="h-4 w-4" />}
               </span>
               <span className="w-8 font-mono text-sm text-slate-500">{l.ordem}.</span>
-              <span className="min-w-0 flex-1 truncate text-sm">{l.q.enunciado}</span>
+              <span className="min-w-0 flex-1 truncate text-sm">{semMarcadores(l.q.enunciado)}</span>
               <span className="hidden shrink-0 text-xs text-slate-500 sm:block">
                 Sua: <strong>{rotulo(l.resposta, l.q.tipo)}</strong> · Gabarito: <strong>{rotulo(l.q.gabarito, l.q.tipo)}</strong>
               </span>
@@ -121,9 +124,15 @@ export default async function ResultadoSimulado({ params }: { params: Promise<{ 
                   Abrir questão Q{l.q.id}
                 </Link>
               </p>
-              {l.q.texto_base && <div className="texto-questao rounded bg-slate-50 p-3 dark:bg-slate-950/50">{l.q.texto_base}</div>}
-              <div className="texto-questao">{l.q.enunciado}</div>
-              {l.q.tipo === "multipla" && (
+              {l.q.texto_base && !l.q.imagens.some((i) => i.parte === "contexto" && i.substitui) && <TextoQuestao texto={l.q.texto_base} imagens={l.q.imagens} className="rounded bg-slate-50 p-3 dark:bg-slate-950/50" />}
+              <ImagensQuestao imagens={l.q.imagens} parte="contexto" />
+              {!l.q.texto_confiavel && l.q.imagens.some((i) => i.parte === "enunciado") ? (
+                <ImagensQuestao imagens={l.q.imagens} parte="enunciado" />
+              ) : (
+                <TextoQuestao texto={l.q.enunciado} imagens={l.q.imagens} />
+              )}
+              <ImagensQuestao imagens={l.q.imagens} parte="figura" />
+              {l.q.tipo === "multipla" && l.q.texto_confiavel && (
                 <ul className="space-y-1">
                   {l.q.alternativas.map((a) => (
                     <li
@@ -134,7 +143,7 @@ export default async function ResultadoSimulado({ params }: { params: Promise<{ 
                         a.letra === l.resposta && a.letra !== l.q.gabarito && "bg-rose-50 text-rose-800 line-through dark:bg-rose-950/40 dark:text-rose-300",
                       )}
                     >
-                      ({a.letra}) {a.texto}
+                      ({a.letra}) <TextoQuestao inline texto={a.texto} imagens={l.q.imagens} />
                     </li>
                   ))}
                 </ul>

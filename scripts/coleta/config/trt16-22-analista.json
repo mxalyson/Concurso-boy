@@ -1,62 +1,406 @@
 {
+  "slug": "fgv-trt16-2022-analista",
   "prova": {
-    "banca": "FGV", "banca_nome": "Fundação Getulio Vargas",
-    "orgao": "TRT-16", "orgao_nome": "Tribunal Regional do Trabalho da 16ª Região (MA)", "esfera": "federal",
-    "cargo": "Analista Judiciário — Área Judiciária", "ano": 2022, "escolaridade": "superior",
+    "banca": "FGV",
+    "banca_nome": "Fundação Getulio Vargas",
+    "orgao": "TRT-16",
+    "orgao_nome": "Tribunal Regional do Trabalho da 16ª Região (MA)",
+    "esfera": "federal",
+    "cargo": "Analista Judiciário — Área Judiciária",
+    "ano": 2022,
+    "escolaridade": "superior",
     "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_1.pdf",
     "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/trt_-_16_2022_-_gabarito_definitivo_8913849131354864.pdf"
   },
   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1",
   "gabarito_secao": "Analista Judiciário - Judiciária – TIPO 1",
-  "excluir": [12, 17],
+  "excluir": [],
   "classificacao": [
-    {"itens": [1, 3], "disciplina": "Língua Portuguesa", "assunto": "Argumentação"},
-    {"itens": [4, 6], "disciplina": "Língua Portuguesa", "assunto": "Interpretação de texto"},
-    {"itens": [7, 7], "disciplina": "Língua Portuguesa", "assunto": "Classes de palavras > Pronomes"},
-    {"itens": [8, 8], "disciplina": "Língua Portuguesa", "assunto": "Argumentação"},
-    {"itens": [9, 9], "disciplina": "Língua Portuguesa", "assunto": "Coesão textual"},
-    {"itens": [10, 10], "disciplina": "Língua Portuguesa", "assunto": "Tipologia e estrutura textual"},
-    {"itens": [11, 11], "disciplina": "Raciocínio Lógico", "assunto": "Raciocínio lógico (ordenação)"},
-    {"itens": [13, 13], "disciplina": "Raciocínio Lógico", "assunto": "Argumentação lógica"},
-    {"itens": [14, 14], "disciplina": "Matemática", "assunto": "Razão e proporção"},
-    {"itens": [15, 15], "disciplina": "Raciocínio Lógico", "assunto": "Raciocínio lógico (calendários)"},
-    {"itens": [16, 16], "disciplina": "Raciocínio Lógico", "assunto": "Porcentagem"},
-    {"itens": [18, 18], "disciplina": "Raciocínio Lógico", "assunto": "Raciocínio lógico (calendários)"},
-    {"itens": [19, 20], "disciplina": "Raciocínio Lógico", "assunto": "Raciocínio lógico (ordenação)"},
-    {"itens": [21, 30], "disciplina": "Atualidades", "assunto": "Atualidades (2022)"},
-    {"itens": [31, 31], "disciplina": "Direito Administrativo", "assunto": "Licitações e contratos (Lei 14.133/2021)"},
-    {"itens": [32, 32], "disciplina": "Direito Administrativo", "assunto": "Improbidade administrativa"},
-    {"itens": [33, 33], "disciplina": "Direito Administrativo", "assunto": "Agentes públicos > Lei 8.112/1990"},
-    {"itens": [34, 34], "disciplina": "Legislação Específica", "assunto": "Regimento interno de tribunal"},
-    {"itens": [35, 35], "disciplina": "Direito Constitucional", "assunto": "Controle de constitucionalidade"},
-    {"itens": [36, 36], "disciplina": "Direito Constitucional", "assunto": "Poder Judiciário"},
-    {"itens": [37, 37], "disciplina": "Direito Constitucional", "assunto": "Controle de constitucionalidade"},
-    {"itens": [38, 38], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"},
-    {"itens": [39, 39], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais > Direitos políticos"},
-    {"itens": [40, 40], "disciplina": "Direito Constitucional", "assunto": "Organização do Estado"},
-    {"itens": [41, 41], "disciplina": "Direito Constitucional", "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"},
-    {"itens": [42, 42], "disciplina": "Direito Constitucional", "assunto": "Poder Executivo"},
-    {"itens": [43, 43], "disciplina": "Direito Constitucional", "assunto": "Administração Pública"},
-    {"itens": [44, 44], "disciplina": "Direito Constitucional", "assunto": "Fiscalização contábil, financeira e orçamentária"},
-    {"itens": [45, 45], "disciplina": "Direito Administrativo", "assunto": "Responsabilidade civil do Estado"},
-    {"itens": [46, 46], "disciplina": "Direito Administrativo", "assunto": "Improbidade administrativa"},
-    {"itens": [47, 47], "disciplina": "Direito Administrativo", "assunto": "Bens públicos"},
-    {"itens": [48, 48], "disciplina": "Direito Administrativo", "assunto": "Licitações e contratos (Lei 14.133/2021)"},
-    {"itens": [49, 49], "disciplina": "Direito Administrativo", "assunto": "Agentes públicos > Lei 8.112/1990"},
-    {"itens": [50, 50], "disciplina": "Direito Administrativo", "assunto": "Intervenção do Estado na propriedade"},
-    {"itens": [51, 51], "disciplina": "Direito Administrativo", "assunto": "Consórcios públicos"},
-    {"itens": [52, 52], "disciplina": "Direito Administrativo", "assunto": "Processo administrativo (Lei 9.784/1999)"},
-    {"itens": [53, 53], "disciplina": "Legislação Específica", "assunto": "Carreiras do Poder Judiciário da União (Lei 11.416/2006)"},
-    {"itens": [54, 54], "disciplina": "Direito Administrativo", "assunto": "Licitações e contratos (Lei 14.133/2021)"},
-    {"itens": [55, 59], "disciplina": "Direito Civil", "assunto": "Direito civil"},
-    {"itens": [60, 64], "disciplina": "Direito Processual Civil", "assunto": "Processo civil"},
-    {"itens": [65, 67], "disciplina": "Direito do Trabalho", "assunto": "Direito do trabalho"},
-    {"itens": [68, 70], "disciplina": "Direito Processual do Trabalho", "assunto": "Processo do trabalho"},
-    {"itens": [71, 74], "disciplina": "Direito Empresarial", "assunto": "Direito empresarial"},
-    {"itens": [75, 76], "disciplina": "Direito Previdenciário", "assunto": "Seguridade social"},
-    {"itens": [77, 80], "disciplina": "Direito Penal", "assunto": "Crimes em espécie"}
+    {
+      "itens": [
+        1,
+        3
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Argumentação"
+    },
+    {
+      "itens": [
+        4,
+        6
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Interpretação de texto"
+    },
+    {
+      "itens": [
+        7,
+        7
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Classes de palavras > Pronomes"
+    },
+    {
+      "itens": [
+        8,
+        8
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Argumentação"
+    },
+    {
+      "itens": [
+        9,
+        9
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Coesão textual"
+    },
+    {
+      "itens": [
+        10,
+        10
+      ],
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Tipologia e estrutura textual"
+    },
+    {
+      "itens": [
+        11,
+        11
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Raciocínio lógico (ordenação)"
+    },
+    {
+      "itens": [
+        12,
+        12
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Porcentagem"
+    },
+    {
+      "itens": [
+        13,
+        13
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Argumentação lógica"
+    },
+    {
+      "itens": [
+        14,
+        14
+      ],
+      "disciplina": "Matemática",
+      "assunto": "Razão e proporção"
+    },
+    {
+      "itens": [
+        15,
+        15
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Raciocínio lógico (calendários)"
+    },
+    {
+      "itens": [
+        16,
+        16
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Porcentagem"
+    },
+    {
+      "itens": [
+        17,
+        17
+      ],
+      "disciplina": "Matemática",
+      "assunto": "Razão e proporção"
+    },
+    {
+      "itens": [
+        18,
+        18
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Raciocínio lógico (calendários)"
+    },
+    {
+      "itens": [
+        19,
+        20
+      ],
+      "disciplina": "Raciocínio Lógico",
+      "assunto": "Raciocínio lógico (ordenação)"
+    },
+    {
+      "itens": [
+        21,
+        30
+      ],
+      "disciplina": "Atualidades",
+      "assunto": "Atualidades (2022)"
+    },
+    {
+      "itens": [
+        31,
+        31
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Licitações e contratos (Lei 14.133/2021)"
+    },
+    {
+      "itens": [
+        32,
+        32
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Improbidade administrativa"
+    },
+    {
+      "itens": [
+        33,
+        33
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Agentes públicos > Lei 8.112/1990"
+    },
+    {
+      "itens": [
+        34,
+        34
+      ],
+      "disciplina": "Legislação Específica",
+      "assunto": "Regimento interno de tribunal"
+    },
+    {
+      "itens": [
+        35,
+        35
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Controle de constitucionalidade"
+    },
+    {
+      "itens": [
+        36,
+        36
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Poder Judiciário"
+    },
+    {
+      "itens": [
+        37,
+        37
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Controle de constitucionalidade"
+    },
+    {
+      "itens": [
+        38,
+        38
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"
+    },
+    {
+      "itens": [
+        39,
+        39
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Direitos e garantias fundamentais > Direitos políticos"
+    },
+    {
+      "itens": [
+        40,
+        40
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Organização do Estado"
+    },
+    {
+      "itens": [
+        41,
+        41
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos"
+    },
+    {
+      "itens": [
+        42,
+        42
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Poder Executivo"
+    },
+    {
+      "itens": [
+        43,
+        43
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Administração Pública"
+    },
+    {
+      "itens": [
+        44,
+        44
+      ],
+      "disciplina": "Direito Constitucional",
+      "assunto": "Fiscalização contábil, financeira e orçamentária"
+    },
+    {
+      "itens": [
+        45,
+        45
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Responsabilidade civil do Estado"
+    },
+    {
+      "itens": [
+        46,
+        46
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Improbidade administrativa"
+    },
+    {
+      "itens": [
+        47,
+        47
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Bens públicos"
+    },
+    {
+      "itens": [
+        48,
+        48
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Licitações e contratos (Lei 14.133/2021)"
+    },
+    {
+      "itens": [
+        49,
+        49
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Agentes públicos > Lei 8.112/1990"
+    },
+    {
+      "itens": [
+        50,
+        50
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Intervenção do Estado na propriedade"
+    },
+    {
+      "itens": [
+        51,
+        51
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Consórcios públicos"
+    },
+    {
+      "itens": [
+        52,
+        52
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Processo administrativo (Lei 9.784/1999)"
+    },
+    {
+      "itens": [
+        53,
+        53
+      ],
+      "disciplina": "Legislação Específica",
+      "assunto": "Carreiras do Poder Judiciário da União (Lei 11.416/2006)"
+    },
+    {
+      "itens": [
+        54,
+        54
+      ],
+      "disciplina": "Direito Administrativo",
+      "assunto": "Licitações e contratos (Lei 14.133/2021)"
+    },
+    {
+      "itens": [
+        55,
+        59
+      ],
+      "disciplina": "Direito Civil",
+      "assunto": "Direito civil"
+    },
+    {
+      "itens": [
+        60,
+        64
+      ],
+      "disciplina": "Direito Processual Civil",
+      "assunto": "Processo civil"
+    },
+    {
+      "itens": [
+        65,
+        67
+      ],
+      "disciplina": "Direito do Trabalho",
+      "assunto": "Direito do trabalho"
+    },
+    {
+      "itens": [
+        68,
+        70
+      ],
+      "disciplina": "Direito Processual do Trabalho",
+      "assunto": "Processo do trabalho"
+    },
+    {
+      "itens": [
+        71,
+        74
+      ],
+      "disciplina": "Direito Empresarial",
+      "assunto": "Direito empresarial"
+    },
+    {
+      "itens": [
+        75,
+        76
+      ],
+      "disciplina": "Direito Previdenciário",
+      "assunto": "Seguridade social"
+    },
+    {
+      "itens": [
+        77,
+        80
+      ],
+      "disciplina": "Direito Penal",
+      "assunto": "Crimes em espécie"
+    }
   ],
   "corrigir": {
-    "14": {"enunciado": "Um terreno de 1280 m² foi dividido em 3 partes, proporcionais aos números: 2, 5/2 e 7/2.\nA área da maior parte, em m², é"}
-  }
+    "14": {
+      "enunciado": "Um terreno de 1280 m² foi dividido em 3 partes, proporcionais aos números: 2, 5/2 e 7/2.\nA área da maior parte, em m², é"
+    }
+  },
+  "sem_imagem": [
+    10,
+    33,
+    79
+  ]
 }

@@ -2,7 +2,7 @@
 
 Ferramentas usadas para transformar os PDFs oficiais das bancas nos lotes de `data/provas/*.json`
 (importados automaticamente por `npm run db:seed`). Requer `pdftotext`/`pdfinfo` (poppler-utils),
-Python 3 e, para a hifenização, `pip install pyspellchecker`.
+Python 3 e `pip install pyspellchecker pymupdf pillow numpy` (hifenização e detecção de figuras).
 
 ## Fluxo
 
@@ -29,6 +29,9 @@ Python 3 e, para a hifenização, `pip install pyspellchecker`.
 ## Critérios de qualidade
 
 - Só o **gabarito definitivo** é usado; itens anulados entram marcados como anulados.
-- Itens que dependem de imagem, gráfico, tabela ou fórmula que não sobrevive à extração são **excluídos**
-  (ou reconstruídos manualmente quando o conteúdo é recuperável com fidelidade).
+- Itens que dependem de imagem, gráfico, tabela ou fórmula recebem **só a figura** recortada do PDF
+  (`--pdf prova.pdf:primeiro_item` em `montar.py`/`montar_me.py`): `figuras.py` localiza imagens e
+  desenhos vetoriais reais do PDF (PyMuPDF), recorta tabelas/gráficos como imagem e fórmulas como
+  imagens pequenas dentro da frase; o restante continua como texto, com `[[img:N]]` no ponto exato.
+  Justificativas/gabaritos impressos na prova nunca entram no texto nem nas imagens.
 - Cada questão guarda a fonte (banca, órgão, cargo, ano e número do item) e os links da prova e do gabarito.

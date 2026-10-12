@@ -475,6 +475,118 @@
    "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 14"
   },
   {
+   "numero": 15,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Análise combinatória",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em um jogo, as peças têm a forma abaixo, formada por 6 quadradinhos.\n[[img:0]]\nNa primeira fase do jogo, as peças devem ter exatamente 2 quadradinhos pretos e os outros brancos, mas os dois quadradinhos pretos não podem ser vizinhos, ou seja, não podem ter um lado em comum.\nO número de peças diferentes na primeira fase desse jogo é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9."
+    },
+    {
+     "letra": "B",
+     "texto": "10."
+    },
+    {
+     "letra": "C",
+     "texto": "12."
+    },
+    {
+     "letra": "D",
+     "texto": "14."
+    },
+    {
+     "letra": "E",
+     "texto": "16."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 15",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/15-1.png",
+     "parte": "inline",
+     "largura": 172,
+     "altura": 93
+    }
+   ]
+  },
+  {
+   "numero": 16,
+   "disciplina": "Matemática",
+   "assunto": "Potenciação e frações",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O valor da expressão numérica [[img:0]]\né:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "[[img:1]]"
+    },
+    {
+     "letra": "B",
+     "texto": "[[img:2]]"
+    },
+    {
+     "letra": "C",
+     "texto": "[[img:3]]"
+    },
+    {
+     "letra": "D",
+     "texto": "[[img:4]]"
+    },
+    {
+     "letra": "E",
+     "texto": "[[img:5]]"
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 16",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/16-1.png",
+     "parte": "inline",
+     "largura": 231,
+     "altura": 55
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-2.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-3.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-4.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-5.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-6.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    }
+   ]
+  },
+  {
    "numero": 17,
    "disciplina": "Raciocínio Lógico",
    "assunto": "Porcentagem",
@@ -704,6 +816,47 @@
    "gabarito": "A",
    "desatualizada": false,
    "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 23"
+  },
+  {
+   "numero": 24,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "[[img:0]]\nO artista plástico Banksy até hoje não tem sua identidade conhecida. Suas obras são famosas por questionarem de forma contundente a sociedade contemporânea; mensagens com alto teor de crítica social estão presentes em suas obras espalhadas pelo mundo, principalmente na Inglaterra.\nBanksy seguiu a melhor tradição do graffiti, muitas vezes encarado como uma forma de vandalismo, e atuou em locais públicos, como ruas e paredes. Muito valorizado hoje em dia, ele não vende seus trabalhos diretamente.\nAnalise as afirmativas a seguir, relativas ao trabalho de Banksy, e assinale V para a verdadeira e F para a falsa.\n( ) Sua arte está diretamente associada à Street Art e ao Muralismo.\n( ) Uma técnica de grafite que Banksy usa muito é o estêncil, ou seja, trabalha com molde vazado ou máscara e spray.\n( ) Em 2019, no salão da mais famosa casa de leilões de arte do mundo, Banksy vendeu cópia de sua obra “Garota com Balão” que reproduz o famoso grafite pintado no muro de Londres, em 2002, por mais de um milhão de libras. Assim que o leiloeiro bateu o martelo, um mecanismo picotou a parte de baixo do quadro. A performance dobrou o valor do quadro. As afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – F."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "F – F – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – V."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 24",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/24-1.png",
+     "parte": "inline",
+     "largura": 333,
+     "altura": 230
+    }
+   ]
   },
   {
    "numero": 25,

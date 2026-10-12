@@ -3,6 +3,7 @@ import { db } from "@/lib/db";
 import { tempoRelativo } from "@/lib/utils";
 import { resolverReporte } from "@/app/actions/admin";
 import { Botao, Selo, Vazio } from "@/components/ui";
+import { semMarcadores } from "@/lib/marcadores";
 
 export const metadata = { title: "Notificações de erro" };
 
@@ -42,7 +43,7 @@ export default async function Reportes({ searchParams }: { searchParams: Promise
                     {r.nome} · {tempoRelativo(r.criado_em)}
                   </span>
                 </div>
-                <p className="mt-1 line-clamp-1 text-sm text-slate-500">{r.enunciado}</p>
+                <p className="mt-1 line-clamp-1 text-sm text-slate-500">{semMarcadores(r.enunciado)}</p>
                 {r.detalhes && <p className="mt-1 whitespace-pre-line text-sm">{r.detalhes}</p>}
               </div>
               <div className="flex gap-2">
