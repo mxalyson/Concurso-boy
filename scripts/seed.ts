@@ -2,6 +2,7 @@
 // Uso: npm run db:seed   (pode ser executado várias vezes; não duplica conteúdo)
 import fs from "node:fs";
 import path from "node:path";
+import { gunzipSync } from "node:zlib";
 import { db } from "../src/lib/db";
 import { importarLote } from "../src/lib/importacao";
 import { obterOuCriarAssunto, obterOuCriarDisciplina } from "../src/lib/taxonomia";
@@ -41,11 +42,12 @@ for (const nivel of ["medio", "superior"] as const) {
   for (const e of r.erros) console.error(`  #${e.indice}: ${e.mensagem}`);
 }
 
-// Provas reais (Cebraspe, FGV...) já revisadas, em data/provas/*.json
+// Provas reais (Cebraspe, FGV...), em data/provas/*.json — os lotes automáticos são .json.gz
 const pastaProvas = path.resolve("data/provas");
 if (fs.existsSync(pastaProvas)) {
-  for (const arquivo of fs.readdirSync(pastaProvas).filter((a) => a.endsWith(".json")).sort()) {
-    const r = importarLote(JSON.parse(fs.readFileSync(path.join(pastaProvas, arquivo), "utf8")));
+  for (const arquivo of fs.readdirSync(pastaProvas).filter((a) => /\.json(\.gz)?$/.test(a)).sort()) {
+    const bruto = fs.readFileSync(path.join(pastaProvas, arquivo));
+    const r = importarLote(JSON.parse((arquivo.endsWith(".gz") ? gunzipSync(bruto) : bruto).toString("utf8")));
     console.log(`${arquivo}: ${r.inseridas} inseridas, ${r.duplicadas} já existiam, ${r.erros.length} erros`);
     for (const e of r.erros.slice(0, 10)) console.error(`  #${e.indice}: ${e.mensagem}`);
   }

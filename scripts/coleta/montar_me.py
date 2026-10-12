@@ -15,15 +15,29 @@ cfg = json.load(open(sys.argv[1], encoding="utf8"))
 questoes = {q["numero"]: q for q in json.load(open(sys.argv[2], encoding="utf8"))}
 gab_txt = open(sys.argv[3], encoding="utf8").read()
 
-# Recorta a seção do gabarito (do título informado até o próximo título).
+# Recorta a seção do gabarito (do título informado até o próximo título). Sem
+# "gabarito_secao", lê a tabela do Cebraspe ("Questão 1 2 3..." / "Gabarito B C A...").
 linhas = gab_txt.splitlines()
-inicio = next(i for i, l in enumerate(linhas) if re.search(cfg["gabarito_secao"], l))
+if not cfg.get("gabarito_secao"):
+    gab = {}
+    ls = [l.split() for l in linhas]
+    for i, l in enumerate(ls):
+        if l and l[0].lower() in ("questão", "questao", "item"):
+            nums = [int(x) for x in l[1:] if x.isdigit()]
+            for j in range(i + 1, min(i + 4, len(ls))):
+                if ls[j] and ls[j][0].lower() == "gabarito":
+                    if len(ls[j]) - 1 == len(nums):
+                        gab.update({n: v for n, v in zip(nums, ls[j][1:]) if n > 0 and v != "0"})
+                    break
+    linhas = []
+inicio = next((i for i, l in enumerate(linhas) if re.search(cfg["gabarito_secao"], l)), None) if linhas else None
 trecho = []
-for l in linhas[inicio + 1 :]:
+for l in (linhas[inicio + 1 :] if inicio is not None else []):
     if re.search(r"TIPO \d|Tipo \d|Cargo", l) and trecho:
         break
     trecho.append(l)
-gab = {}
+if cfg.get("gabarito_secao"):
+    gab = {}
 nums = None
 for l in trecho:
     t = l.split()

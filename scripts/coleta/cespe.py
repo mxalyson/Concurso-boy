@@ -139,6 +139,8 @@ def limpar_comando(ls):
         paragrafos_.append(cur)
     bons = [juntar(p) for p in paragrafos_ if not INSTRUCOES.search(" ".join(p))]
     bons = [re.sub(r"^BLOCO [IVX]+\s+", "", b) for b in bons]
+    # resto do cabeçalho "PROVA OBJETIVA – ..." cortado pela divisão das colunas
+    bons = [re.sub(r"^(?:\w{1,3}\s+)?(?:PROVA\s+)?OBJETIVA\s*[–-]\s*", "", b) for b in bons]
     return "\n\n".join(b for b in bons if b)
 
 def juntar(ls):

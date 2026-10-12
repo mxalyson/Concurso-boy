@@ -115,8 +115,10 @@ def regioes(pdf, modo="ce", primeiro=1, ultimo=None, lixo=None, detalhes=False):
         if l[1] < 0:
             continue
         palavras = l[6].split()
+        if modo == "me" and len(palavras) == 2 and re.fullmatch(r"Quest[ãa]o|QUESTÃO", palavras[0]):
+            palavras = palavras[1:]  # Cebraspe: "Questão 12"
         if palavras and palavras[0] == str(esperado):
-            perto_margem = l[2] <= margem.get((l[0], l[1]), l[2]) + 12
+            perto_margem = l[2] <= margem.get((l[0], l[1]), l[2]) + 12 or modo == "me" and l[6].startswith("Quest")
             if perto_margem and (modo == "me" and len(palavras) == 1 or modo == "ce"):
                 inicios.append((i, esperado))
                 esperado += 1

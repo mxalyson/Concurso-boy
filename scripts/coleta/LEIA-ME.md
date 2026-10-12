@@ -35,3 +35,27 @@ Python 3 e `pip install pyspellchecker pymupdf pillow numpy` (hifenização e de
   imagens pequenas dentro da frase; o restante continua como texto, com `[[img:N]]` no ponto exato.
   Justificativas/gabaritos impressos na prova nunca entram no texto nem nas imagens.
 - Cada questão guarda a fonte (banca, órgão, cargo, ano e número do item) e os links da prova e do gabarito.
+
+## Importação automática (Cebraspe)
+
+`auto.py` faz todo o fluxo acima sem configuração manual, para todos os concursos publicados
+na API pública do Cebraspe (`https://apis.cebraspe.org.br/cebraspe/eventos/...`):
+
+1. lista os concursos encerrados e em andamento e, em cada um, pareia cada **prova objetiva**
+   com o seu **gabarito definitivo** (cadernos de conhecimentos básicos e específicos separados);
+2. baixa os PDFs do CDN da banca, extrai os itens (`cespe.py` para certo/errado,
+   `cespe_me.py` para múltipla escolha) e confere a qualidade: itens extraídos × gabarito,
+   enunciados truncados, alternativas completas, PDF com texto;
+3. classifica disciplina e assunto (`classificar.py`: palavras-chave + o comando "Acerca de X,
+   julgue..."; nos cadernos técnicos, a especialidade do cargo);
+4. recorta só as figuras/fórmulas (`figuras.py`) e grava `data/provas/cebraspe-auto-*.json.gz`.
+
+```bash
+python3 auto.py --processos 4               # tudo o que ainda não foi importado
+python3 auto.py --eventos PF_21,TCU_25_AUFC # concursos específicos
+python3 auto.py --novas                     # só cadernos novos (para o cron) + npm run db:seed
+```
+
+O andamento fica em `data/cebraspe-estado.json` (importada / pulada com o motivo / erro).
+Provas já revisadas manualmente em `data/provas/*.json` não são reimportadas. A classificação
+automática é aproximada (70–97% de acerto nas provas revisadas à mão); ajuste pelo painel admin.
