@@ -1,1 +1,145 @@
-# Concurso-boy
+# Concurso Boy
+
+Plataforma completa de estudos para concursos públicos: banco de questões com busca e filtros, simulados cronometrados, teoria por assunto, edital verticalizado, ciclo de estudos, revisão espaçada, flashcards, cronômetro Pomodoro e estatísticas de desempenho. Inclui área administrativa para importar provas (PDF, JSON, CSV ou PDF com IA).
+
+## Funcionalidades
+
+**Questões**
+- Busca por palavra-chave (texto completo, ignora acentos) ou por `#ID`
+- Filtros: disciplina, assunto (com subtópicos), banca, órgão, ano, cargo, escolaridade, dificuldade, tipo (múltipla escolha / certo-errado), situação (não resolvidas, resolvidas, acertei, errei), favoritas, caderno
+- Ordenação: recentes, antigas, aleatória, mais resolvidas, maior índice de erro
+- Em cada questão: responder, riscar alternativas, gabarito comentado, estatísticas da turma, fórum, anotações pessoais, favoritar, adicionar a caderno, virar flashcard, reportar erro
+- **Cadernos** de questões (manuais ou gerados a partir dos filtros), caderno de erros e favoritas
+- **Simulados** cronometrados, com quantidade por disciplina, navegação, marcação para revisão, correção automática, nota por disciplina e gabarito comentado
+
+**Estudos**
+- **Disciplinas e teoria**: resumos em Markdown por assunto (públicos ou pessoais)
+- **Edital verticalizado**: status de cada assunto (não iniciado / estudando / concluído), aproveitamento e questões por assunto
+- **Revisão espaçada**: ao concluir um assunto, revisões são agendadas em 1, 7, 15, 30, 60 e 120 dias
+- **Plano e ciclo de estudos**: horas por dia da semana, peso de cada disciplina e seu domínio → ciclo com metas de tempo e grade semanal sugerida; contagem regressiva para a prova
+- **Cronômetro** Pomodoro/livre que registra as horas líquidas por disciplina
+- **Flashcards** com repetição espaçada (SM-2), importação em lote e criação a partir de questões
+
+**Análise**
+- Painel diário: meta de questões, sequência de dias, próxima disciplina do ciclo, revisões pendentes, pontos fracos
+- Desempenho por disciplina e assunto, gráfico diário, mapa de constância, tempo por disciplina e evolução nos simulados
+
+**Administração** (o primeiro usuário cadastrado vira administrador)
+- Cadastro/edição de questões, disciplinas, assuntos hierárquicos, bancas e órgãos
+- Importação de provas com **tela de revisão** antes de gravar e descarte automático de duplicadas
+- Notificações de erro enviadas pelos alunos e gestão de usuários
+- Opcional: geração de comentários com IA
+
+## Como rodar
+
+Requisitos: Node.js 20+.
+
+```bash
+npm install
+npm run db:seed      # cria o banco (data/concurso.db) com o conteúdo de exemplo
+npm run dev          # http://localhost:3000
+```
+
+Cadastre-se: a primeira conta criada é administradora. Para promover outra conta: `npm run admin -- email@exemplo.com`.
+
+Produção:
+
+```bash
+npm run build
+npm start
+```
+
+Ou com Docker (o banco fica no volume `/data`):
+
+```bash
+docker build -t concurso-boy .
+docker run -p 3000:3000 -v concurso-dados:/data concurso-boy
+```
+
+### Variáveis de ambiente
+
+| Variável | Para que serve |
+|---|---|
+| `DATABASE_PATH` | Caminho do banco SQLite (padrão `data/concurso.db`) |
+| `ANTHROPIC_API_KEY` | Opcional. Ativa a importação de PDFs com IA e os comentários automáticos |
+| `ANTHROPIC_MODEL` | Opcional. Modelo usado pela IA (padrão `claude-opus-5-5`) |
+| `FUSO_HORAS` | Fuso para metas e sequências diárias (padrão `-3`, Brasília) |
+| `COOKIE_INSEGURO=1` | Só se rodar em produção **sem HTTPS** (o cookie de sessão é `Secure` por padrão) |
+
+O banco é um arquivo SQLite: hospede em um servidor com disco persistente (VPS, Railway, Fly.io, Render com disco, Docker com volume). Plataformas *serverless* sem disco (como Vercel) não servem sem trocar o banco. Para backup, basta copiar o arquivo `.db`.
+
+## De onde vêm as questões
+
+O sistema vem com **94 questões autorais de exemplo** (marcadas com a banca “AUTORAL” e identificadas como não oficiais) e 10 resumos, só para você ver tudo funcionando. Para ter um banco real, importe provas:
+
+1. **Sites oficiais das bancas** — Cebraspe, FGV Conhecimento, FCC, Vunesp, Cesgranrio, IBFC, Quadrix, Instituto AOCP, Idecan e outras publicam a prova e o gabarito (preliminar e definitivo) de cada concurso. É a melhor fonte, inclusive para provas antigas.
+2. **Agregadores de provas em PDF**, como o PCI Concursos, que reúnem links para provas e gabaritos de anos anteriores.
+3. **Dados abertos do governo**, como as provas e gabaritos do ENEM/ENADE publicados pelo INEP, e as provas do Exame de Ordem divulgadas pela OAB/FGV.
+4. **Seu próprio material** — planilhas, apostilas e questões que você ou professores escreveram (CSV/JSON).
+
+Como importar (menu **Painel admin → Importar provas**):
+
+- **PDF da prova**: lê PDFs com texto selecionável, reconhece a numeração, as alternativas (A–E), os itens de certo/errado e os textos associados. O gabarito pode vir em PDF ou colado (`1-C 2-E 3-A` ou a tabela do gabarito). Tudo passa por uma tela de revisão em que você ajusta disciplina, assunto e gabarito.
+- **PDF com IA**: para provas escaneadas ou com layout complexo. A IA transcreve todas as questões, classifica disciplina e assunto e, se você quiser, escreve comentários. Precisa de `ANTHROPIC_API_KEY`.
+- **JSON ou CSV**: para dados que você já tem estruturados. Também pela linha de comando: `npm run import -- arquivo.json`.
+
+> **Sobre direitos autorais e termos de uso:** não copie o conteúdo de plataformas comerciais de questões (QConcursos, TEC Concursos, Gran etc.). Isso viola os termos de uso delas, e os comentários e a classificação delas são protegidos. Provas e gabaritos publicados pelas bancas são de acesso público e livres para estudo pessoal. Se for abrir a plataforma ao público ou cobrar por ela, consulte um advogado sobre a reprodução de provas de cada banca.
+
+### Formato JSON
+
+```json
+{
+  "prova": { "banca": "CEBRASPE", "orgao": "PF", "orgao_nome": "Polícia Federal",
+             "cargo": "Agente", "ano": 2021, "escolaridade": "superior" },
+  "questoes": [
+    {
+      "numero": 1,
+      "disciplina": "Direito Constitucional",
+      "assunto": "Direitos e garantias fundamentais > Remédios constitucionais",
+      "tipo": "certo_errado",
+      "texto_base": "Texto de apoio, se houver",
+      "enunciado": "O habeas data ...",
+      "gabarito": "C",
+      "comentario": "Explicação em **Markdown**",
+      "dificuldade": 2
+    },
+    {
+      "disciplina": "Língua Portuguesa",
+      "assunto": "Crase",
+      "enunciado": "Assinale a alternativa ...",
+      "alternativas": ["(A) ...", "(B) ...", "(C) ...", "(D) ...", "(E) ..."],
+      "gabarito": "B"
+    }
+  ]
+}
+```
+
+- `tipo`: `multipla` ou `certo_errado` (se omitido, é deduzido pelas alternativas)
+- `gabarito`: letra (A–E), `C`/`E` (ou Certo/Errado), `X` para anulada
+- `assunto`: use `>` para criar subtópicos
+- Campos da prova podem ir em `prova` (valem para todas) ou em cada questão
+- Questões repetidas (mesmo enunciado e alternativas) são ignoradas
+
+### Formato CSV
+
+Cabeçalho com os mesmos nomes de campos, alternativas nas colunas `a, b, c, d, e`. Separador vírgula ou ponto e vírgula:
+
+```csv
+disciplina;assunto;banca;ano;enunciado;a;b;c;d;e;gabarito
+Informática;Redes;FCC;2023;Qual protocolo envia e-mails?;POP3;IMAP;SMTP;HTTP;FTP;C
+```
+
+## Tecnologia
+
+Next.js 16 (App Router, Server Actions) · React 19 · TypeScript · Tailwind CSS 4 · SQLite (better-sqlite3, busca FTS5) · unpdf (leitura de PDF) · SDK da Anthropic (opcional).
+
+Estrutura:
+
+```
+src/app/(auth)        login e cadastro
+src/app/(app)         área logada (questões, simulados, estudos, admin...)
+src/app/actions       Server Actions (mutações)
+src/lib               banco, autenticação, consultas, importação, parser de PDF, IA
+src/components        componentes de interface
+scripts/              seed, importação via linha de comando, promoção de admin
+```
