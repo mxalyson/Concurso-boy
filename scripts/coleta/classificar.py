@@ -96,6 +96,7 @@ def classificar_itens(itens, cargo="", especialidade=None):
             blocos.append((chave, [x]))
     resultado = {}
     anterior = None
+    especialidade = disciplina_da_especialidade(especialidade) if especialidade else None
     for chave, xs in blocos:
         texto = " ".join([(xs[0].get("texto_base") or "")[:3000]] + [x["enunciado"] for x in xs])
         minimo = 6 if especialidade else 2  # em caderno técnico, só regra forte troca a especialidade
@@ -110,3 +111,70 @@ def classificar_itens(itens, cargo="", especialidade=None):
             resultado[x["numero"]] = (disc, assunto)
         anterior = disc
     return resultado
+
+
+# --- Especialidade do cargo como disciplina ------------------------------------------
+
+PROFISSOES = [
+    (r"assistente social|servi[çc]o social", "Serviço Social"),
+    (r"advogad|procurador|direito\b", "Direito"),
+    (r"m[eé]dic[oa] do trabalho", "Medicina do Trabalho"),
+    (r"m[eé]dic|medicina", "Medicina"),
+    (r"enfermeir|enfermagem", "Enfermagem"),
+    (r"engenh\w* civil|engenharia civil", "Engenharia Civil"),
+    (r"engenh\w* el[eé]tric", "Engenharia Elétrica"),
+    (r"engenh\w* mec[aâ]nic", "Engenharia Mecânica"),
+    (r"engenh", "Engenharia"),
+    (r"arquitet", "Arquitetura"),
+    (r"psic[oó]log", "Psicologia"),
+    (r"contador|contabilidade|ci[eê]ncias cont[aá]beis", "Contabilidade Geral"),
+    (r"bibliotec", "Biblioteconomia"),
+    (r"economista|economia", "Economia e Finanças"),
+    (r"estat[ií]stic", "Estatística"),
+    (r"telecomunica|redes de comunica|processamento de sinais|radiofrequ|sistemas de comunica", "Telecomunicações"),
+    (r"jornalis|comunica[çc][aã]o social|rela[çc][oõ]es p[uú]blicas|publicidade", "Comunicação Social"),
+    (r"nutri", "Nutrição"),
+    (r"farm[aá]c", "Farmácia"),
+    (r"fisioterap", "Fisioterapia"),
+    (r"odont|dentista|sa[uú]de bucal", "Odontologia"),
+    (r"veterin", "Medicina Veterinária"),
+    (r"ge[oó]graf", "Geografia"),
+    (r"ge[oó]log", "Geologia"),
+    (r"arquiv", "Arquivologia"),
+    (r"pedagog", "Pedagogia"),
+    (r"administrador|administra[çc][aã]o", "Administração Geral"),
+    (r"tecnologia da informa|\bTI\b|sistemas|desenvolv|programa[çc]|ci[eê]ncias? da computa|dados", "Tecnologia da Informação"),
+    (r"fonoaudi", "Fonoaudiologia"),
+    (r"^ingl[eê]s|l[ií]ngua inglesa", "Língua Inglesa"),
+    (r"^espanhol|l[ií]ngua espanhola", "Língua Espanhola"),
+    (r"^artes?$|artes visuais", "Artes"),
+    (r"bi[oó]log", "Biologia"),
+    (r"qu[ií]mic", "Química"),
+    (r"f[ií]sic[oa]\b", "Física"),
+    (r"professor.*portugu|l[ií]ngua portuguesa|letras", "Língua Portuguesa"),
+    (r"professor.*matem|matem[aá]tic", "Matemática"),
+    (r"educa[çc][aã]o f[ií]sica", "Educação Física"),
+    (r"seguran[çc]a do trabalho", "Segurança e Saúde no Trabalho"),
+]
+GENERICOS = re.compile(
+    r"^(analista|t[eé]cnic[oa]|pesquisador|professor|auxiliar|assistente|agente|oficial|especialista|"
+    r"cargos?|emprego|atividade|perfil|n[ií]vel|classe|grupo|op[çc][aã]o|[aá]rea|p\d|en|[ivx]+|\d+|"
+    r"administrativ\w*|geral|gerais|judici[aá]ri\w*|adaptad\w*|atualizad\w*|opera[çc][aã]o|industrial|trabalho|"
+    r"civil|jur[ií]dic\w*|ensino|anos (iniciais|finais)|educa[çc][aã]o infantil|comunica[çc][aã]o$|fundamental|"
+    r"m[eé]dio|superior|suporte|apoio|conhecimentos?|b[aá]sic\w*|espec[ií]fic\w*|comum|todos)\b",
+    re.I,
+)
+
+
+def disciplina_da_especialidade(nome):
+    """Disciplina a partir da especialidade do cargo, ou None quando o nome é genérico
+    ("Analista", "Cargo 4", "Emprego 5"...) e a classificação deve vir do conteúdo."""
+    if not nome:
+        return None
+    n = re.sub(r"^.*?[–—-]\s*", "", nome) if re.match(GENERICOS, nome) else nome
+    for padrao, disc in PROFISSOES:
+        if re.search(padrao, n, re.I):
+            return disc
+    if GENERICOS.match(n.strip()) or len(n.strip()) < 4 or re.search(r"\d", n):
+        return None
+    return n.strip()

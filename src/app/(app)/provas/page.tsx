@@ -4,6 +4,7 @@ import { exigirUsuario } from "@/lib/auth";
 import { db } from "@/lib/db";
 import { CabecalhoPagina, LinkBotao, Selo, Vazio } from "@/components/ui";
 import { ESCOLARIDADES } from "@/lib/utils";
+import { Paginacao } from "@/components/paginacao";
 
 export const metadata = { title: "Provas" };
 
@@ -23,10 +24,10 @@ type Linha = {
 
 export default async function PaginaProvas({ searchParams }: { searchParams: Promise<Record<string, string | undefined>> }) {
   const usuario = await exigirUsuario();
-  const { q = "", banca = "", ano = "", area = "" } = await searchParams;
+  const { q = "", banca = "", ano = "", area = "", pg = "" } = await searchParams;
   const termo = q.trim();
   const where: string[] = ["(b.sigla IS NULL OR b.sigla <> 'AUTORAL')"];
-  const params: Record<string, unknown> = { usuario: usuario.id };
+  const params: Record<string, unknown> = {};
   if (termo) {
     where.push("(o.sigla LIKE @termo OR o.nome LIKE @termo OR p.cargo LIKE @termo OR b.sigla LIKE @termo)");
     params.termo = `%${termo}%`;
@@ -34,25 +35,44 @@ export default async function PaginaProvas({ searchParams }: { searchParams: Pro
   if (banca) (where.push("b.sigla = @banca"), (params.banca = banca));
   if (ano) (where.push("p.ano = @ano"), (params.ano = Number(ano)));
   if (area) (where.push("p.area = @area"), (params.area = area));
+  const total = (
+    db()
+      .prepare(
+        `SELECT count(*) AS n FROM provas p LEFT JOIN bancas b ON b.id = p.banca_id LEFT JOIN orgaos o ON o.id = p.orgao_id
+         WHERE EXISTS (SELECT 1 FROM questao_provas qp WHERE qp.prova_id = p.id) AND ${where.join(" AND ")}`,
+      )
+      .get(params) as { n: number }
+  ).n;
+  const pagina = Math.max(1, Number(pg) || 1);
   const provas = db()
     .prepare(
       `SELECT p.id, b.sigla AS banca, o.sigla AS orgao, o.nome AS orgao_nome, p.cargo, p.ano, p.escolaridade, p.area,
-         count(DISTINCT qp.questao_id) AS total,
-         count(DISTINCT r.questao_id) AS resolvidas,
-         count(DISTINCT CASE WHEN r.correta = 1 THEN r.questao_id END) AS acertos
+         (SELECT count(*) FROM questao_provas qp WHERE qp.prova_id = p.id) AS total,
+         0 AS resolvidas, 0 AS acertos
        FROM provas p
-       JOIN questao_provas qp ON qp.prova_id = p.id
        LEFT JOIN bancas b ON b.id = p.banca_id
        LEFT JOIN orgaos o ON o.id = p.orgao_id
-       LEFT JOIN respostas r ON r.questao_id = qp.questao_id AND r.usuario_id = @usuario
-       WHERE ${where.join(" AND ")}
-       GROUP BY p.id
-       ORDER BY p.ano DESC, b.sigla, o.sigla, p.cargo`,
+       WHERE EXISTS (SELECT 1 FROM questao_provas qp WHERE qp.prova_id = p.id) AND ${where.join(" AND ")}
+       ORDER BY p.ano DESC, b.sigla, o.sigla, p.cargo
+       LIMIT 30 OFFSET @offset`,
     )
-    .all(params) as Linha[];
+    .all({ ...params, offset: (pagina - 1) * 30 }) as Linha[];
+  // progresso do usuário só nas provas desta página
+  if (provas.length) {
+    const ids = provas.map((p) => p.id);
+    const progresso = db()
+      .prepare(
+        `SELECT qp.prova_id AS id, count(DISTINCT r.questao_id) AS resolvidas,
+           count(DISTINCT CASE WHEN r.correta = 1 THEN r.questao_id END) AS acertos
+         FROM respostas r JOIN questao_provas qp ON qp.questao_id = r.questao_id
+         WHERE r.usuario_id = ? AND qp.prova_id IN (${ids.map(() => "?").join(",")}) GROUP BY qp.prova_id`,
+      )
+      .all(usuario.id, ...ids) as { id: number; resolvidas: number; acertos: number }[];
+    for (const p of progresso) Object.assign(provas.find((x) => x.id === p.id) ?? {}, p);
+  }
   const opcoes = db()
     .prepare(
-      `SELECT DISTINCT b.sigla AS banca, p.ano, p.area FROM provas p JOIN questao_provas qp ON qp.prova_id = p.id
+      `SELECT DISTINCT b.sigla AS banca, p.ano, p.area FROM provas p
        LEFT JOIN bancas b ON b.id = p.banca_id WHERE b.sigla IS NULL OR b.sigla <> 'AUTORAL'`,
     )
     .all() as { banca: string | null; ano: number | null; area: string | null }[];
@@ -107,7 +127,7 @@ export default async function PaginaProvas({ searchParams }: { searchParams: Pro
       </form>
 
       <p className="mb-3 text-sm text-slate-600 dark:text-slate-400">
-        <strong className="text-slate-900 dark:text-white">{provas.length}</strong> provas
+        <strong className="text-slate-900 dark:text-white">{total.toLocaleString("pt-BR")}</strong> provas
       </p>
 
       {provas.length === 0 ? (
@@ -152,6 +172,16 @@ export default async function PaginaProvas({ searchParams }: { searchParams: Pro
           })}
         </ul>
       )}
+      <Paginacao
+        total={total}
+        pagina={pagina}
+        porPagina={30}
+        href={(n) => {
+          const u = new URLSearchParams({ ...(termo && { q: termo }), ...(banca && { banca }), ...(ano && { ano }), ...(area && { area }) });
+          if (n > 1) u.set("pg", String(n));
+          return `/provas${u.size ? `?${u}` : ""}`;
+        }}
+      />
     </>
   );
 }

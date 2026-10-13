@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   Bookmark,
   Filter,
@@ -144,12 +144,27 @@ export function PainelFiltros({
       !!filtros.incluirAnuladas,
   );
 
+  // assuntos das disciplinas escolhidas: vêm do servidor junto com a página e, quando a
+  // seleção de disciplinas muda no painel, são buscados em /api/assuntos
+  const [listaAssuntos, setListaAssuntos] = useState(opcoes.assuntos);
+  const chaveDisciplinas = f.disciplinas.join(",");
+  useEffect(() => {
+    if (!chaveDisciplinas) return;
+    const faltam = chaveDisciplinas.split(",").map(Number).some((d) => !listaAssuntos.some((a) => a.disciplina_id === d));
+    if (!faltam) return;
+    let ativo = true;
+    fetch(`/api/assuntos?d=${chaveDisciplinas}`)
+      .then((r) => (r.ok ? r.json() : []))
+      .then((lista: OpcoesFiltro["assuntos"]) => ativo && setListaAssuntos((atual) => [...atual.filter((a) => !lista.some((b) => b.id === a.id)), ...lista]))
+      .catch(() => undefined);
+    return () => {
+      ativo = false;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [chaveDisciplinas]);
   const assuntos = useMemo(
-    () =>
-      f.disciplinas.length
-        ? opcoes.assuntos.filter((a) => f.disciplinas.includes(a.disciplina_id))
-        : opcoes.assuntos,
-    [f.disciplinas, opcoes.assuntos],
+    () => listaAssuntos.filter((a) => f.disciplinas.includes(a.disciplina_id) || f.assuntos.includes(a.id)),
+    [f.disciplinas, f.assuntos, listaAssuntos],
   );
   const nomeDisciplina = useMemo(
     () => new Map(opcoes.disciplinas.map((d) => [d.id, d.nome])),
@@ -201,7 +216,7 @@ export function PainelFiltros({
             onChange={(v) => {
               const disciplinas = num(v);
               const validos = new Set(
-                opcoes.assuntos
+                listaAssuntos
                   .filter((a) => disciplinas.includes(a.disciplina_id))
                   .map((a) => a.id),
               );
@@ -229,6 +244,7 @@ export function PainelFiltros({
             }))}
             selecionados={f.assuntos.map(String)}
             onChange={(v) => setF({ ...f, assuntos: num(v) })}
+            placeholder={f.disciplinas.length ? "Todos" : "Escolha a disciplina"}
           />
           <MultiSelecao
             rotulo="Banca"

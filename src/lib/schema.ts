@@ -319,4 +319,11 @@ export const MIGRACOES: (string | ((c: Database.Database) => void))[] = [
   );
   CREATE INDEX filtros_salvos_usuario ON filtros_salvos(usuario_id);
   `,
+  /* sql */ `
+  -- Índices para o banco grande (centenas de milhares de questões)
+  CREATE INDEX IF NOT EXISTS provas_banca ON provas(banca_id);
+  CREATE INDEX IF NOT EXISTS provas_orgao ON provas(orgao_id);
+  CREATE INDEX IF NOT EXISTS questao_provas_questao ON questao_provas(questao_id);
+  CREATE INDEX IF NOT EXISTS assuntos_disciplina ON assuntos(disciplina_id, parent_id);
+  `,
 ];

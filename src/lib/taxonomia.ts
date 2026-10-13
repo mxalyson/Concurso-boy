@@ -83,9 +83,12 @@ export function assuntosIndentados(assuntos: Assunto[]) {
 export function listarBancas(): Banca[] {
   return db()
     .prepare(
-      `SELECT b.id, b.sigla, b.nome,
-         (SELECT count(DISTINCT qp.questao_id) FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id WHERE p.banca_id = b.id) AS total
-       FROM bancas b ORDER BY b.sigla`,
+      `SELECT b.id, b.sigla, b.nome, ifnull(c.total, 0) AS total
+       FROM bancas b LEFT JOIN (
+         SELECT p.banca_id AS id, count(DISTINCT qp.questao_id) AS total
+         FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id GROUP BY p.banca_id
+       ) c ON c.id = b.id
+       ORDER BY b.sigla`,
     )
     .all() as Banca[];
 }
@@ -93,9 +96,12 @@ export function listarBancas(): Banca[] {
 export function listarOrgaos(): Orgao[] {
   return db()
     .prepare(
-      `SELECT o.id, o.sigla, o.nome, o.esfera, o.uf,
-         (SELECT count(DISTINCT qp.questao_id) FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id WHERE p.orgao_id = o.id) AS total
-       FROM orgaos o ORDER BY o.sigla`,
+      `SELECT o.id, o.sigla, o.nome, o.esfera, o.uf, ifnull(c.total, 0) AS total
+       FROM orgaos o LEFT JOIN (
+         SELECT p.orgao_id AS id, count(DISTINCT qp.questao_id) AS total
+         FROM questao_provas qp JOIN provas p ON p.id = qp.prova_id GROUP BY p.orgao_id
+       ) c ON c.id = o.id
+       ORDER BY o.sigla`,
     )
     .all() as Orgao[];
 }

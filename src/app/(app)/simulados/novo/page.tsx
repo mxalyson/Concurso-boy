@@ -42,7 +42,7 @@ export default async function NovoSimulado({ searchParams }: { searchParams: Pro
         icone={<ClipboardList className="h-5 w-5" />}
       />
       <div className="space-y-4">
-        <PainelFiltros key={params} opcoes={carregarOpcoesFiltro(usuario.id)} filtros={filtros} base="/simulados/novo" />
+        <PainelFiltros key={params} opcoes={carregarOpcoesFiltro(usuario.id, filtros.disciplinas, filtros.assuntos)} filtros={filtros} base="/simulados/novo" />
         <FormSimulado params={params} disciplinas={disciplinasFiltradas} totalDisponivel={total} />
       </div>
     </>

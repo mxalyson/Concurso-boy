@@ -21,7 +21,7 @@ export default async function PaginaQuestoes({ searchParams }: { searchParams: P
   const pagina = Math.max(1, Number(params.pg) || 1);
   const porPagina = POR_PAGINA.includes(Number(params.pp)) ? Number(params.pp) : 10;
   const { total, questoes } = buscarQuestoes(filtros, usuario.id, pagina, porPagina);
-  const opcoes = carregarOpcoesFiltro(usuario.id);
+  const opcoes = carregarOpcoesFiltro(usuario.id, filtros.disciplinas, filtros.assuntos);
   const query = filtrosParaParams(filtros);
   const href = (p: number) => {
     const q = new URLSearchParams(query);

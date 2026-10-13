@@ -74,7 +74,7 @@ def pares_do_evento(ev):
     for a in arquivos:
         d = a["descricaoArquivo"].strip()
         u = _sem_acento(d).upper()
-        if not a["nomeArquivo"].lower().endswith(".pdf") or re.search(r"SUB ?JUDICE|ORAL|PRATICA|DISCURSIVA|LIBRAS|REAPLICA|JUSTIFICATIVA|PRELIMINAR|RASCUNHO|SEM EFEITO|CANCELAD|ANULAD", u):
+        if not a["nomeArquivo"].lower().endswith(".pdf") or re.search(r"SUB ?JUDICE|ORAL|PRATICA|DISCURSIVA|LIBRAS|REAPLICA|JUSTIFICATIVA|PRELIMINAR|RASCUNHO|SEM EFEITO|CANCELAD|ANULAD|ADAPTAD|AMPLIAD|BRAILLE|LEDOR", u):
             continue
         if re.match(r"\s*PROVAS? OBJETIVAS?", u):
             provas.setdefault(chave_par(d), a)
