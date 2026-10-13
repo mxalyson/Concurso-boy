@@ -57,6 +57,49 @@ def secoes_gabarito(txt):
     return secoes
 
 
+def secoes_cargo(txt):
+    """Gabarito com um bloco por cargo/tipo (IBADE e outras):
+        Cargo: A01 - BRAÇAL
+        Prova: T (Data da Prova: 11/3/2018)
+        Língua Portuguesa
+        1 2 3 ...
+        B C D ...
+    Devolve [{codigo, cargo, tipo, data, gab: {n: letra}, disciplinas: {n: nome}}].
+    "*" = anulada; minúscula = resposta alterada após recurso."""
+    blocos, atual, disc, nums = [], None, None, []
+    for l in txt.splitlines():
+        s, t = l.strip(), l.split()
+        if not t:
+            continue
+        m = re.match(r"Cargo:\s*([A-Z]{1,3}\d{1,3})?\s*-?\s*(.+)$", s)
+        if m:
+            atual = {"codigo": m.group(1), "cargo": m.group(2).strip(), "tipo": None, "data": None, "gab": {}, "disciplinas": {}}
+            blocos.append(atual)
+            disc, nums = None, []
+            continue
+        if atual is None:
+            continue
+        m = re.search(r"Data da Prova:\s*(\d{1,2})/(\d{1,2})/(\d{4})", s)
+        if m:
+            atual["data"] = f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+            mt = re.match(r"Prova:\s*([A-Z0-9]{1,2})\b", s)
+            atual["tipo"] = mt.group(1) if mt else atual["tipo"]
+            continue
+        if all(x.isdigit() for x in t):
+            nums += [int(x) for x in t]
+        elif nums and all(re.fullmatch(r"[A-Ea-e*X]", x) for x in t):
+            if len(t) != len(nums):
+                nums = list(range(nums[0], nums[0] + len(t)))
+            for n, v in zip(nums, t):
+                atual["gab"][n] = "X" if v in "*X" else v.upper()
+                if disc:
+                    atual["disciplinas"][n] = disc
+            nums = []
+        elif re.search(r"[A-Za-zÀ-ú]{3,}", s) and not re.match(r"(Página|Legenda|Gabarito)", s, re.I):
+            disc, nums = s, []
+    return [b for b in blocos if len(b["gab"]) >= 10]
+
+
 def lixo_repetido(txt):
     """Linhas repetidas em muitas páginas (cabeçalhos/rodapés) viram uma regex de lixo."""
     paginas = txt.split("@@PAGINA")
@@ -74,23 +117,29 @@ def detectar_formato(txt_prova, gab):
     certo_errado = bool(gab) and set(gab.values()) <= {"C", "E", "X", "*"}
     if certo_errado:
         return "ce"
-    if len(re.findall(r"(?m)^\s*Quest[ãa]o\s+\d{1,3}\s*$", txt_prova)) >= 5 and len(re.findall(r"(?m)^\s*\([A-E]\)", txt_prova)) < 10:
+    if len(re.findall(r"(?m)^\s*Quest[ãa]o\s+\d{1,3}\s*$", txt_prova)) >= 5 and len(re.findall(r"(?m)^\s*\(?[A-E]\)", txt_prova)) < 10:
         return "me_cebraspe"
     return "me_fgv"
 
 
-def montar(pdf, gab, meta, formato, pasta_saida, pasta_imagens, nome, especialidade=None):
+def montar(pdf, gab, meta, formato, pasta_saida, pasta_imagens, nome, especialidade=None, disciplinas=None):
     """Extrai, confere, classifica e grava o lote. meta: campos da prova + "fonte".
+    disciplinas: {número: nome da disciplina} quando o gabarito traz as seções.
     Devolve (status, mensagem, arquivo|None)."""
     final = os.path.join(pasta_saida, nome + ".json.gz")
+    os.makedirs(pasta_saida, exist_ok=True)
     if not gab or len(gab) < 10:
         return "pulada", "gabarito não encontrado ou incompleto", None
     with tempfile.TemporaryDirectory(prefix="lote-") as tmp:
-        if len(texto_pdf(pdf, layout=False).strip()) < 2000:
-            return "pulada", "PDF sem texto (escaneado: use npm run importar-pdfs -- --ia)", None
         txt = os.path.join(tmp, "p.txt")
+        # PDF sem camada de texto (escaneado ou com letras em curvas): OCR; sem recorte de figuras,
+        # então as questões que dependem de figura são descartadas pelo montar_me
+        paginas = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout or "Pages: 1").group(1))
+        por_ocr = len(re.sub(r"\s+", "", texto_pdf(pdf, layout=False))) < 400 * paginas
+        if por_ocr and not shutil.which("tesseract"):
+            return "pulada", "PDF sem texto e tesseract não instalado", None
         with open(txt, "w", encoding="utf8") as f:
-            subprocess.run([sys.executable, os.path.join(AQUI, "colunas.py"), pdf], stdout=f, check=True)
+            subprocess.run([sys.executable, os.path.join(AQUI, "ocr.py" if por_ocr else "colunas.py"), pdf], stdout=f, check=True)
         primeiro = min(gab)
         itens_json = os.path.join(tmp, "q.json")
         lixo = None
@@ -102,6 +151,11 @@ def montar(pdf, gab, meta, formato, pasta_saida, pasta_imagens, nome, especialid
             lixo = lixo_repetido(open(txt, encoding="utf8").read())
             subprocess.run([sys.executable, os.path.join(AQUI, "fgv.py"), txt, itens_json, lixo or "", str(primeiro)], capture_output=True, check=True)
         itens = json.load(open(itens_json, encoding="utf8"))
+        if por_ocr:  # frações e expoentes se perdem no OCR ("32 15" no lugar de 32/15): descarta
+            for x in itens:
+                if any(re.fullmatch(r"[-+]?\d+\s+\d+", a["texto"].strip()) for a in x["alternativas"]):
+                    x["problema"] = x.get("problema") or "fração perdida no OCR"
+            json.dump(itens, open(itens_json, "w", encoding="utf8"), ensure_ascii=False)
         com_gab = {x["numero"] for x in itens} & set(gab)
         if len(com_gab) < 0.85 * len(gab):
             return "pulada", f"extraídas {len(com_gab)} de {len(gab)} questões do gabarito", None
@@ -117,7 +171,7 @@ def montar(pdf, gab, meta, formato, pasta_saida, pasta_imagens, nome, especialid
         if formato == "me_fgv":
             classes = []
             for x in itens:
-                secao = x.get("secao") or ""
+                secao = (disciplinas or {}).get(x["numero"]) or x.get("secao") or ""
                 disc = disciplina_de(secao, secao, 2) if secao else None
                 if not disc and secao and 3 < len(secao) < 60 and not re.search(r"\d|tipo|prova|página", secao, re.I):
                     disc = secao.strip()
@@ -146,7 +200,9 @@ def montar(pdf, gab, meta, formato, pasta_saida, pasta_imagens, nome, especialid
                 f.write(f"{rotulo} " + " ".join(map(str, nums[i : i + 20])) + "\nGabarito " + " ".join(gab[n] for n in nums[i : i + 20]) + "\n\n")
         saida = os.path.join(pasta_saida, nome + ".json")
         script = "montar_me.py" if multipla else "montar.py"
-        cmd = [sys.executable, os.path.join(AQUI, script), cfg_arq, itens_json, gab_txt, saida, "--pdf", f"{pdf}:{primeiro}", "--imagens", pasta_imagens]
+        cmd = [sys.executable, os.path.join(AQUI, script), cfg_arq, itens_json, gab_txt, saida, "--imagens", pasta_imagens]
+        if not por_ocr:
+            cmd += ["--pdf", f"{pdf}:{primeiro}"]
         if lixo:
             cmd += ["--lixo", lixo]
         r = subprocess.run(cmd, capture_output=True, text=True)

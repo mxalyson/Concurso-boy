@@ -59,3 +59,38 @@ python3 auto.py --novas                     # só cadernos novos (para o cron) +
 O andamento fica em `data/cebraspe-estado.json` (importada / pulada com o motivo / erro).
 Provas já revisadas manualmente em `data/provas/*.json` não são reimportadas. A classificação
 automática é aproximada (70–97% de acerto nas provas revisadas à mão); ajuste pelo painel admin.
+
+## Importação automática (IBADE)
+
+`ibade.py` percorre `https://ibade.org.br/concursos-anteriores/` e, em cada concurso, a página
+`provas-e-gabaritos/`:
+
+1. baixa o gabarito **final** (retificado/após recursos; o preliminar é ignorado) e separa os
+   blocos `Cargo: F01 - NOME / Prova: T (Data da Prova: ...)`, com as disciplinas de cada faixa
+   de questões (`pipeline.secoes_cargo`; `*` = anulada);
+2. escolhe um tipo de caderno por cargo (pelo rótulo do link "F01 - T", pelo nome do arquivo ou
+   pela capa "CÓDIGO DA PROVA F01T") e importa pelo pipeline comum (`me_fgv`: "Questão 01" + "A)");
+3. cadernos sem camada de texto (letras convertidas em curvas, comuns na IBADE) passam por OCR
+   (`ocr.py`, tesseract `por`); nesses, questões que dependem de figura ou com fração perdida são descartadas.
+
+```bash
+python3 ibade.py --processos 4              # todos os concursos ainda não processados
+python3 ibade.py --concursos camara-de-cacoal-ro --forcar
+python3 ibade.py --listar                   # só mostra os pares caderno × gabarito
+```
+
+Estado em `data/ibade-estado.json`; lotes em `data/provas/ibade-*.json.gz`.
+
+## PDFs baixados à mão (qualquer banca)
+
+`lote.py` importa uma pasta com as provas e os gabaritos de um concurso (baixados do site da
+banca, Gabarite, PCI etc.). Separa provas de gabaritos pelo conteúdo, lê o gabarito (blocos por
+cargo, tabela "Questão/Gabarito" ou seções com números e letras), identifica o bloco de cada
+caderno pela capa (código, tipo, nome do cargo) e importa:
+
+```bash
+python3 lote.py ~/Downloads/pref-x-2024 --banca IBADE --orgao "Prefeitura de X/RO" --listar
+python3 lote.py ~/Downloads/pref-x-2024 --banca IBADE --orgao "Prefeitura de X/RO" [--ano 2024] [--cargo "..."]
+```
+
+OCR requer `tesseract-ocr` e `tesseract-ocr-por` (`apt-get install tesseract-ocr tesseract-ocr-por`).

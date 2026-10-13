@@ -27,7 +27,7 @@ def eh_lixo(s):
         return True
     return False
 
-RE_ALT = re.compile(r"^\(([A-E])\)\s*(.*)$")
+RE_ALT = re.compile(r"^\(?([A-E])\)\s*(.*)$")  # "(A) texto" (FGV) ou "A) texto" (IBADE e outras)
 
 itens = []
 disciplina = None
@@ -65,7 +65,8 @@ i = 0
 while i < len(limpas):
     l = limpas[i]
     s = l.strip()
-    if s.isdigit() and int(s) == esperado:
+    m_q = re.fullmatch(r"(?:Quest[ãa]o|QUEST[ÃA]O)?\s*0*(\d{1,3})", s)
+    if m_q and int(m_q.group(1)) == esperado and (s.isdigit() or s[:1] in "Qq"):
         fechar_item()
         # linhas soltas acumuladas: título de disciplina e/ou texto de apoio
         soltas = [x for x in buffer if x.strip()]
