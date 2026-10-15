@@ -1,0 +1,2380 @@
+{
+ "prova": {
+  "banca": "FGV",
+  "banca_nome": "Fundação Getulio Vargas",
+  "orgao": "TRT-16",
+  "orgao_nome": "Tribunal Regional do Trabalho da 16ª Região (MA)",
+  "esfera": "federal",
+  "cargo": "Técnico Judiciário — Área Administrativa",
+  "ano": 2022,
+  "escolaridade": "medio",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/tecnico_judiciario_area_administrativa_-_qualquer_areacnmt001_tipo_1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/trt_-_16_2022_-_gabarito_definitivo_8913849131354864.pdf"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Reescrita de frases",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Todas as frases abaixo foram reescritas, com o deslocamento de termos.\nAssinale a opção em que a frase reescrita apresenta incorreção ou modifica o sentido da frase original.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Quando a população começa a raciocinar, tudo está perdido / Tudo está perdido quando a população começa a raciocinar."
+    },
+    {
+     "letra": "B",
+     "texto": "Os homens tropeçam em pedras, não em montanhas / Os homens não tropeçam em montanhas, mas em pedras."
+    },
+    {
+     "letra": "C",
+     "texto": "O homem não vive só de pão, mas também não vive sem ele / O homem não vive sem o pão, mas também não vive só dele."
+    },
+    {
+     "letra": "D",
+     "texto": "O mundo não é ruim, só é muito mal frequentado / O mundo é muito mal frequentado, só não é ruim."
+    },
+    {
+     "letra": "E",
+     "texto": "Os animais são amigos muito agradáveis, pois não fazem perguntas / Os animais não fazem perguntas, por isso são amigos muito agradáveis."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 1"
+  },
+  {
+   "numero": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Argumentação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Observe a seguinte frase: “O Flamengo é, atualmente, o melhor time do Brasil, pois nenhum outro time consegue igualar-se a ele”.\nConsiderando a frase como argumentativa, o problema de sua estruturação é que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estabelece uma relação que confunde causa e efeito."
+    },
+    {
+     "letra": "B",
+     "texto": "apresenta um argumento autoritário, apoiado na palavra do enunciador."
+    },
+    {
+     "letra": "C",
+     "texto": "afirma a mesma coisa nos dois segmentos que compõem a frase."
+    },
+    {
+     "letra": "D",
+     "texto": "mostra uma afirmação sem provas de sua veracidade."
+    },
+    {
+     "letra": "E",
+     "texto": "se apoia em uma falsa analogia."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 2"
+  },
+  {
+   "numero": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A fim de tornar um texto mais conciso, um dos processos utilizados é a substituição de uma locução por uma só palavra.\nAssinale a frase abaixo em que essa substituição foi feita de forma adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pensamento sem clareza / pensamento obscuro."
+    },
+    {
+     "letra": "B",
+     "texto": "revolução sem chefia / revolução anarquista."
+    },
+    {
+     "letra": "C",
+     "texto": "crime sem motivação / crime anônimo."
+    },
+    {
+     "letra": "D",
+     "texto": "texto sem título / texto acéfalo."
+    },
+    {
+     "letra": "E",
+     "texto": "cidade sem esgoto / cidade inesgotável."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 3"
+  },
+  {
+   "numero": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em todas as opções abaixo ocorre a presença do advérbio “não” seguido de verbo.\nAssinale a frase em que foi feita adequadamente a substituição do termo sublinhado por um só verbo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O TSE não permite a entrada de celulares na cabine de votação / proíbe."
+    },
+    {
+     "letra": "B",
+     "texto": "O cliente não seguiu as recomendações do advogado / abandonou."
+    },
+    {
+     "letra": "C",
+     "texto": "A Prefeitura não liberou os documentos para a nova construção / interditou."
+    },
+    {
+     "letra": "D",
+     "texto": "O aluno não respondeu à professora / contestou."
+    },
+    {
+     "letra": "E",
+     "texto": "Não acreditamos nas promessas de políticos / recusamos."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 4"
+  },
+  {
+   "numero": 5,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Observe os dois grupos de palavras abaixo:\nGRUPO 1 – peru / galinha / pato / faisão; GRUPO 2 – urubu / pinguim / andorinha / gavião.\nAs características que opõem, respectivamente, esses dois grupos, são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pequeno tamanho / grande tamanho."
+    },
+    {
+     "letra": "B",
+     "texto": "ovíparos / mamíferos."
+    },
+    {
+     "letra": "C",
+     "texto": "comestíveis / não comestíveis."
+    },
+    {
+     "letra": "D",
+     "texto": "clima quente / clima frio."
+    },
+    {
+     "letra": "E",
+     "texto": "animais preservados / animais em risco de extinção."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 5"
+  },
+  {
+   "numero": 6,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em todas as frases abaixo, palavras de valor negativo foram substituídas por vocábulos de valor positivo.\nAssinale a frase em que essa modificação foi feita de forma adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O mecânico lambuzou a peça do carro / lubrificou."
+    },
+    {
+     "letra": "B",
+     "texto": "O garotinho lavou a cara na água do rio / focinho."
+    },
+    {
+     "letra": "C",
+     "texto": "Os detentos querem receber visitas íntimas / condenados."
+    },
+    {
+     "letra": "D",
+     "texto": "Os foliões esgoelavam as músicas do momento / berravam."
+    },
+    {
+     "letra": "E",
+     "texto": "Minha filha já pinta a boca com batom vermelho / beiços."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 6"
+  },
+  {
+   "numero": 7,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Figuras de linguagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Assinale a frase que usa o processo de reificação (considerar algo abstrato como coisa material).",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Meu filho abraçou a carreira de advogado."
+    },
+    {
+     "letra": "B",
+     "texto": "Suas ilusões viraram pó."
+    },
+    {
+     "letra": "C",
+     "texto": "Minha mãe fechou os ouvidos aos meus apelos."
+    },
+    {
+     "letra": "D",
+     "texto": "A praia alegra muitos turistas nos finais de semana."
+    },
+    {
+     "letra": "E",
+     "texto": "As meninas sentaram-se no chão da sala."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 7"
+  },
+  {
+   "numero": 8,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A seguir são dadas algumas citações de pessoas famosas, retiradas de um dicionário de citações, no qual estão dispostas por temas. Assinale a citação que não se insere no tema destacado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O que a lagarta chama de fim do mundo, o mesmo chama de borboleta / pontos de vista."
+    },
+    {
+     "letra": "B",
+     "texto": "Quem se senta no fundo de um poço para contemplar o céu, há de achá-lo pequeno / pontos de vista."
+    },
+    {
+     "letra": "C",
+     "texto": "Homens gastam sua vida em matutar sobre o passado, em queixar-se do presente e em temer o futuro / hoje, ontem e amanhã."
+    },
+    {
+     "letra": "D",
+     "texto": "Não espere esperando, espere vivendo / momento."
+    },
+    {
+     "letra": "E",
+     "texto": "Minha mente é meu próprio templo / ciência."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 8"
+  },
+  {
+   "numero": 9,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Reescrita de frases",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Entre os períodos abaixo, assinale aquele que apresenta a melhor redação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Querendo saber que informação tanto a mim incomodava, minha mulher, quando a ela revelei, ficou muda."
+    },
+    {
+     "letra": "B",
+     "texto": "Minha mulher ficou muda quando lhe revelei a informação que tanto me incomodava."
+    },
+    {
+     "letra": "C",
+     "texto": "Minha mulher queria saber que informação era a que me incomodava tanto. Quando eu a revelei, ficou muda."
+    },
+    {
+     "letra": "D",
+     "texto": "A informação que tanto a mim incomodava, ao ser revelada, fez com que minha mulher ficasse muda."
+    },
+    {
+     "letra": "E",
+     "texto": "Ficar muda foi a consequência de uma informação que tanto me incomodava sobre minha mulher."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 9"
+  },
+  {
+   "numero": 10,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em quatro das frases abaixo há polissemias intencionais, relacionadas à empresa responsável por elas; assinale a única frase isenta de polissemia.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "(Jornal) Notícia e cafezinho devem ser quentes."
+    },
+    {
+     "letra": "B",
+     "texto": "(Restaurante) Aqui levamos a massa em consideração."
+    },
+    {
+     "letra": "C",
+     "texto": "(Empresa de ônibus) A vida é passageira."
+    },
+    {
+     "letra": "D",
+     "texto": "(Delegacia) Estamos presos ao dever."
+    },
+    {
+     "letra": "E",
+     "texto": "(Banco) Nossa fé nunca nos abandona."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 10"
+  },
+  {
+   "numero": 11,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (ordenação)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Cinco amigos, A, B, C, D e E, marcaram um encontro em data e hora determinados, mas todos chegaram em horários diferentes.\nSabe-se que • A chegou depois de B.\n• C chegou antes de A.\n• Quando D chegou, C já estava, mas B não.\n• Quando E chegou somente 2 amigos já haviam chegado.\nÉ correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A não foi o último a chegar."
+    },
+    {
+     "letra": "B",
+     "texto": "E chegou antes de D."
+    },
+    {
+     "letra": "C",
+     "texto": "C foi o 2º a chegar."
+    },
+    {
+     "letra": "D",
+     "texto": "D chegou depois de B."
+    },
+    {
+     "letra": "E",
+     "texto": "B foi o 4º a chegar."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 11"
+  },
+  {
+   "numero": 12,
+   "disciplina": "Matemática",
+   "assunto": "Razão e proporção",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Uma empresa de engenharia está realizando as obras X, Y e Z.\nForam comprados 360 sacos de cimento que deverão ser repartidos entre as obras X, Y e Z em partes proporcionais aos números 4, 7 e 9, respectivamente.\nO número de sacos de cimento que a obra Y receberá é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "108."
+    },
+    {
+     "letra": "B",
+     "texto": "112."
+    },
+    {
+     "letra": "C",
+     "texto": "120."
+    },
+    {
+     "letra": "D",
+     "texto": "126."
+    },
+    {
+     "letra": "E",
+     "texto": "144."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 12"
+  },
+  {
+   "numero": 13,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "No ano de 2020, uma empresa que vende caixas de fósforos anunciou a redução do número de palitos de cada caixa de 240 palitos para 200 palitos e incluiu a informação de que a redução foi de 40 fósforos ou 20%.\nA informação contida no rótulo da caixa de fósforos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "está correta."
+    },
+    {
+     "letra": "B",
+     "texto": "está errada, porque a redução foi de 40%."
+    },
+    {
+     "letra": "C",
+     "texto": "está errada, porque a redução foi de, aproximadamente, 22,5%."
+    },
+    {
+     "letra": "D",
+     "texto": "está errada, porque a redução foi de, aproximadamente, 16,7%%."
+    },
+    {
+     "letra": "E",
+     "texto": "está errada, porque a redução foi de, aproximadamente, 83,3%."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 13"
+  },
+  {
+   "numero": 14,
+   "disciplina": "Matemática",
+   "assunto": "Múltiplos e divisores",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "N é o menor número que é múltiplo de 5 e de 7, e é maior que 800.\nA soma dos algarismos de N é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "11."
+    },
+    {
+     "letra": "B",
+     "texto": "12."
+    },
+    {
+     "letra": "C",
+     "texto": "13."
+    },
+    {
+     "letra": "D",
+     "texto": "14."
+    },
+    {
+     "letra": "E",
+     "texto": "15."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 14"
+  },
+  {
+   "numero": 15,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Análise combinatória",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em um jogo, as peças têm a forma abaixo, formada por 6 quadradinhos.\n[[img:0]]\nNa primeira fase do jogo, as peças devem ter exatamente 2 quadradinhos pretos e os outros brancos, mas os dois quadradinhos pretos não podem ser vizinhos, ou seja, não podem ter um lado em comum.\nO número de peças diferentes na primeira fase desse jogo é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9."
+    },
+    {
+     "letra": "B",
+     "texto": "10."
+    },
+    {
+     "letra": "C",
+     "texto": "12."
+    },
+    {
+     "letra": "D",
+     "texto": "14."
+    },
+    {
+     "letra": "E",
+     "texto": "16."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 15",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/15-1.png",
+     "parte": "inline",
+     "largura": 172,
+     "altura": 93
+    }
+   ]
+  },
+  {
+   "numero": 16,
+   "disciplina": "Matemática",
+   "assunto": "Potenciação e frações",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O valor da expressão numérica [[img:0]]\né:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "[[img:1]]"
+    },
+    {
+     "letra": "B",
+     "texto": "[[img:2]]"
+    },
+    {
+     "letra": "C",
+     "texto": "[[img:3]]"
+    },
+    {
+     "letra": "D",
+     "texto": "[[img:4]]"
+    },
+    {
+     "letra": "E",
+     "texto": "[[img:5]]"
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 16",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/16-1.png",
+     "parte": "inline",
+     "largura": 231,
+     "altura": 55
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-2.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-3.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-4.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-5.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-tecnico/16-6.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    }
+   ]
+  },
+  {
+   "numero": 17,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Uma jarra está totalmente cheia de suco de laranja. Um quinto do conteúdo da jarra é colocado em uma caneca e o restante é dividido igualmente por 5 xícaras.\nEm relação à capacidade total da jarra, o conteúdo colocado em cada xícara corresponde a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "20%."
+    },
+    {
+     "letra": "B",
+     "texto": "18%."
+    },
+    {
+     "letra": "C",
+     "texto": "16%."
+    },
+    {
+     "letra": "D",
+     "texto": "15%."
+    },
+    {
+     "letra": "E",
+     "texto": "12%."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 17"
+  },
+  {
+   "numero": 18,
+   "disciplina": "Matemática",
+   "assunto": "Razão e proporção",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Uma grandeza A é diretamente proporcional a B e inversamente proporcional a C. Quando B = 30 e C = 20, o valor de A é 60.\nQuando o valor de C é o dobro do valor de B, o valor de A é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10."
+    },
+    {
+     "letra": "B",
+     "texto": "20."
+    },
+    {
+     "letra": "C",
+     "texto": "30."
+    },
+    {
+     "letra": "D",
+     "texto": "40."
+    },
+    {
+     "letra": "E",
+     "texto": "50."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 18"
+  },
+  {
+   "numero": 19,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (ordenação)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Uma urna tem 15 bolas. Sobre essas bolas, sabe-se que:\n• Pelo menos 3 delas são azuis.\n• Dadas 4 quaisquer dessas bolas, pelo menos uma não é azul.\nÉ correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "exatamente 11 dessas bolas são azuis."
+    },
+    {
+     "letra": "B",
+     "texto": "exatamente 11 dessas bolas não são azuis."
+    },
+    {
+     "letra": "C",
+     "texto": "pelo menos 4 dessas bolas são azuis."
+    },
+    {
+     "letra": "D",
+     "texto": "exatamente 12 dessas bolas não são azuis."
+    },
+    {
+     "letra": "E",
+     "texto": "no máximo 4 dessas bolas não são azuis."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 19"
+  },
+  {
+   "numero": 20,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Argumentação lógica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Considere como verdadeiras as sentenças:\nI. Nenhum C é A.\nII. Algum A é B.\nÉ correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nenhum C é B."
+    },
+    {
+     "letra": "B",
+     "texto": "algum B não é C."
+    },
+    {
+     "letra": "C",
+     "texto": "algum C é B."
+    },
+    {
+     "letra": "D",
+     "texto": "nenhum B é C."
+    },
+    {
+     "letra": "E",
+     "texto": "algum B é C."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 20"
+  },
+  {
+   "numero": 21,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Recentemente testemunhamos uma grande vitória da ciência na pandemia causada pela Covid-19. Em pouquíssimo tempo, os cientistas lograram desenvolver vacinas eficazes, que ajudaram muito no combate à disseminação da doença.\nAvalie se as diferentes tecnologias envolvidas nessas vacinas incluem:\nI. Tecnologia de vírus inativado. Técnica consolidada há anos e amplamente estudada. Ao ser injetado no organismo, o vírus não é capaz de causar doença, mas induz uma resposta imunológica (Ex: Coronavac).\nII. Tecnologia do vetor viral. O adenovírus, que infecta chimpanzés, é manipulado geneticamente para que seja inserido o gene da proteína “Spike” (proteína “S”) do Sars- CoV-2 (Ex: AstraZeneca).\nIII. Tecnologia de RNA mensageiro, ou mRNA. O RNA mensageiro sintético dá as instruções ao organismo para a produção de proteínas encontradas na superfície do novo coronavírus, que estimulam a resposta do sistema imune (EX: Pfizer, BioNTech) Está correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 21"
+  },
+  {
+   "numero": 22,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“Atriz e produtora norte-americana. Vencedora de um Oscar, um Emmy Award e dois Tony Awards, dessa forma alcançando a Tríplice Coroa da Atuação (cinema, televisão, teatro). Foi considerada pela Time uma das 100 pessoas mais influentes do planeta em 2012 e em 2017.\nPor sua atuação na adaptação cinematográfica de Fences (Um Limite Entre Nós, no Brasil), recebeu aclamação da crítica e sua terceira indicação ao Oscar, tornando-se a primeira atriz negra na história a conseguir esse feito. Ela posteriormente ganhou o Oscar de Melhor Atriz Coadjuvante, o Globo de Ouro de Melhor Atriz Coadjuvante, o Prêmio BAFTA de Melhor Atriz Coadjuvante, e o prêmio Screen Actors Guild de Melhor Atriz Coadjuvante.”\n(adapatado. de Wikipedia) Esteve recentemente no Brasil para divulgar o filme “A Mulher Rei”, no qual desempenha o papel principal.\nEstamos falando de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Viola Davis."
+    },
+    {
+     "letra": "B",
+     "texto": "Whoopi Goldberg."
+    },
+    {
+     "letra": "C",
+     "texto": "Halle Berry."
+    },
+    {
+     "letra": "D",
+     "texto": "Angela Bassett."
+    },
+    {
+     "letra": "E",
+     "texto": "Dorothy Dandridge."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 22"
+  },
+  {
+   "numero": 23,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Diante dos problemas ecológicos que o planeta Terra tem enfrentado, é imperioso que a sustentabilidade seja enquadrada no modo de vida de todos os indivíduos para, assim, tentar reverter os danos causados à natureza e impedir que ela seja ainda mais agredida.\nSobre as condições necessárias para que a dimensão ambiental se torne realidade para toda a população, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) A limitação do consumo de combustíveis fósseis e de outros recursos ambientalmente prejudiciais, substituindo-os por recursos renováveis.\n( ) A redução do volume de resíduos sólidos e da poluição atmosférica, por meio de ações ambientais de conservação e reciclagem.\n( ) A escolha adequada de instrumentos econômicos, administrativos e legais que estimulem o uso de tecnologias limpas.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "C",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "E",
+     "texto": "F – F – V."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 23"
+  },
+  {
+   "numero": 24,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "[[img:0]]\nO artista plástico Banksy até hoje não tem sua identidade conhecida. Suas obras são famosas por questionarem de forma contundente a sociedade contemporânea; mensagens com alto teor de crítica social estão presentes em suas obras espalhadas pelo mundo, principalmente na Inglaterra.\nBanksy seguiu a melhor tradição do graffiti, muitas vezes encarado como uma forma de vandalismo, e atuou em locais públicos, como ruas e paredes. Muito valorizado hoje em dia, ele não vende seus trabalhos diretamente.\nAnalise as afirmativas a seguir, relativas ao trabalho de Banksy, e assinale V para a verdadeira e F para a falsa.\n( ) Sua arte está diretamente associada à Street Art e ao Muralismo.\n( ) Uma técnica de grafite que Banksy usa muito é o estêncil, ou seja, trabalha com molde vazado ou máscara e spray.\n( ) Em 2019, no salão da mais famosa casa de leilões de arte do mundo, Banksy vendeu cópia de sua obra “Garota com Balão” que reproduz o famoso grafite pintado no muro de Londres, em 2002, por mais de um milhão de libras. Assim que o leiloeiro bateu o martelo, um mecanismo picotou a parte de baixo do quadro. A performance dobrou o valor do quadro. As afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – F."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "F – F – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – V."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 24",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-tecnico/24-1.png",
+     "parte": "inline",
+     "largura": 333,
+     "altura": 230
+    }
+   ]
+  },
+  {
+   "numero": 25,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“[...] E tudo, tudo, tudo, tudo que nós tem é nós Tudo, tudo, tudo que nós tem é Tudo, tudo, tudo que nós tem é nós Tudo, tudo, tudo que nós tem é Tudo, tudo, tudo, tudo que nós tem é nós Tudo, tudo, tudo que nós tem é Tudo, tudo, tudo que nós tem é nós Tudo, tudo, tudo que nós tem é\nCale o cansaço, refaça o laço Ofereça um abraço quente A música é só uma semente Um sorriso ainda é a única língua que todos entende Cale o cansaço, refaça o laço Ofereça um abraço quente A música é só uma semente Um sorriso ainda é a única língua que todos entende (Gente é pra ser gentil)\nTipo um girassol, meu olho busca o sol Mano, crer que o ódio é solução É ser sommelier de anzol Barco à deriva sem farol Nem sinal de aurora boreal A voz corta a noite igual um rouxinol [...]”\nEsses versos de Principia são de Emicida, muito conhecido por suas rimas de improviso. Venceu onze vezes consecutivas a batalha de MC da Santa Cruz e doze vezes a Rinha dos MCs.\nSua música está mais associada ao seguinte gênero musical:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "trash rock."
+    },
+    {
+     "letra": "B",
+     "texto": "rap."
+    },
+    {
+     "letra": "C",
+     "texto": "jazz."
+    },
+    {
+     "letra": "D",
+     "texto": "bass&drums."
+    },
+    {
+     "letra": "E",
+     "texto": "punk."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 25"
+  },
+  {
+   "numero": 26,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“Créditos de carbono ou Redução Certificada de Emissão (RCE) corresponde a uma unidade emitida pela modalidade que prevê a redução de gases de efeito estufa (GEE), chamada de Mecanismo de Desenvolvimento Limpo (MDL) resultante do Protocolo de Kyoto. Esses créditos de carbono podem ser comercializados entre países desenvolvidos que possuem a obrigação de reduzir suas emissões de gases de efeito estufa e países em desenvolvimento que não possuem essa obrigatoriedade.\nO crédito de carbono como unidade de redução dos gases de efeito estufa equivale a uma tonelada de dióxido de carbono.\nPortanto, cada tonelada de CO2 não emitida para a atmosfera ou reduzida gera um crédito de carbono. Esse crédito é comercializável no mercado.”\n(brasilescola.uol.com.br/geografia/creditos-carbono.htm) Analise as afirmativas a seguir, a respeito das vantagens e desvantagens dos créditos de carbono, e assinale V para a verdadeira e F para a falsa.\n( ) Os países desenvolvidos que não atingirem suas metas de redução de gases de efeito estufa podem, por meio da compra de créditos de carbono, reduzir seu débito.\n( ) O uso dos créditos de carbono tende a estimular uma significativa redução da emissão de gases de efeito estufa, com bons reflexos no aquecimento global.\n( ) Um possível aumento dos níveis de emissão de gases poluentes por parte dos países que compram créditos de carbono pode ocorrer, o que causará supervalorização dos créditos de carbono, o que representará uma vantagem adicional de seu uso.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "F – F – F."
+    },
+    {
+     "letra": "E",
+     "texto": "F – V – F."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 26"
+  },
+  {
+   "numero": 27,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "É um programa de áudio que fica disponível em dispositivos com acesso à Internet.\nO termo surgiu no começo dos anos 2000, mas o primeiro episódio no Brasil ficou disponível em 2004. Podemos dar os créditos pela criação deste formato de transmissão de áudio ao ex-VJ da MTV Adam Curry, que é considerado um dos seus principais responsáveis.\nSua popularização aconteceu pela facilidade de acesso ao conteúdo. Os programas ficam disponíveis sob demanda, ou seja, você pode ouvir o que quiser, na hora que quiser e onde quiser.\n(Adap. de https://www.uol.com.br/) O texto faz referência a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "blogs."
+    },
+    {
+     "letra": "B",
+     "texto": "podcasts."
+    },
+    {
+     "letra": "C",
+     "texto": "tv a cabo."
+    },
+    {
+     "letra": "D",
+     "texto": "rádio digital."
+    },
+    {
+     "letra": "E",
+     "texto": "streaming."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 27"
+  },
+  {
+   "numero": 28,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Foi fundado em Baie-Saint-Paul, Canadá, em 1984, pelos artistas de rua Guy Laliberté e Daniel Gauthier, em resposta a um apelo feito pelo Commissariat général aux célébrations 1534-1984 do governo de Quebec pela celebração do 460º aniversário da descoberta do Canadá pelo explorador francês Jacques Cartier (1491-1557).\nCada espetáculo da companhia é a síntese da inovação do circo, contando com enredo, cenário e vestuário próprios, bem como música ao vivo durante as apresentações.\nDe 1990 a 2000, expandiu-se rapidamente, passando de um show com 73 artistas em 1984, para mais de 3.500 empregados em mais de 40 países, com 15 espetáculos apresentados simultaneamente e lucro anual estimado em US$800 milhões.\n(adaptado de Wikipedia) O texto fala do",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Flying Fruit Fly Circus."
+    },
+    {
+     "letra": "B",
+     "texto": "Cirque du Soleil."
+    },
+    {
+     "letra": "C",
+     "texto": "Circo de Moscou."
+    },
+    {
+     "letra": "D",
+     "texto": "New Xangai Circus."
+    },
+    {
+     "letra": "E",
+     "texto": "Circo Gran Fele."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 28"
+  },
+  {
+   "numero": 29,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "No Estado do Maranhão, os biomas Cerrado (64% do Estado), Amazônia (35%) e Caatinga (1%) compõem um mosaico de paisagens ricas em biodiversidade.\nAvalie se as afirmativas a seguir, acerca desses biomas, são falsas (F) ou verdadeiras (V):\n( ) O Bioma Amazônia ocupa cerca de 49% do território brasileiro. A Amazônia possui a maior floresta tropical do mundo, equivalente a 1/3 das reservas de florestas tropicais úmidas que abrigam a maior quantidade de espécies da flora e da fauna. Contém 20% da disponibilidade mundial de água e grandes reservas minerais. O delicado equilíbrio de suas formas de vida é muito sensível à interferência humana.\n( ) O Bioma Cerrado está presente, principalmente, no Planalto Central brasileiro e ocupa aproximadamente 24% do território brasileiro. O Cerrado é reconhecido como a Savana mais rica do mundo em biodiversidade. Até a década de 1950, os Cerrados mantiveram-se quase inalterados. A partir da década de 1960, com a transferência da Capital Federal, do Rio de Janeiro para Brasília, e a abertura de uma nova rede rodoviária, a cobertura vegetal natural deu lugar à pecuária e à agricultura empresarial.\n( ) O Bioma Caatinga ocupa uma área aproximada de 10% do território nacional. Embora esteja localizado em área de clima semiárido, apresenta grande variedade de paisagens, relativa riqueza biológica e espécies que só ocorrem nesse bioma.\nOs tipos de vegetação do Bioma Caatinga encontram-se bastante alterados, com a substituição de espécies vegetais nativas por pastagens e agricultura. O desmatamento e as queimadas são práticas comuns no preparo da terra para a agropecuária. Essa prática, além de destruir a cobertura vegetal, também prejudica a manutenção de animais silvestres, a qualidade da água e o equilíbrio do clima e do solo.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – F."
+    },
+    {
+     "letra": "C",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "D",
+     "texto": "F – F – F."
+    },
+    {
+     "letra": "E",
+     "texto": "V – F – V."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 29"
+  },
+  {
+   "numero": 30,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Poliomielite: apesar de evitável, se espalha novamente após décadas\nA poliomielite, também chamada de pólio ou paralisia infantil, é uma doença viral infecciosa que afeta, principalmente, crianças pequenas. A respeito da transmissão da pólio, analise as afirmativas a seguir I. A transmissão pode ocorrer por contato direto pessoa a pessoa, mais frequentemente pela via fecal-oral, ou pela via oral-oral, por meio de gotículas da orofaringe.\nII. A transmissão pode ocorrer por meio da picada da fêmea do mosquito Anopheles infectadas pelo protozoário Plasmodium, sendo transmitida pela água.\nIII. A transmissão pode ainda ocorrer, principalmente, pela ingestão de água contaminada por fezes ou vômitos de doentes ou portadores da bactéria Vibrio cholerae.\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 30"
+  },
+  {
+   "numero": 31,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Licitações e contratos (Lei 14.133/2021)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Jonas, diretor do setor de licitações e contratos de determinado Tribunal de Justiça, sugeriu a outras estruturas que certas aquisições de bens e serviços fossem realizadas de maneira conjunta com outras organizações públicas, de modo a alcançar, entre outros objetivos, a eficiência econômica, com ganho de escala, além de fomentar a produção e o consumo sustentáveis.\nÀ luz dos parâmetros estabelecidos pelo Conselho Nacional de Justiça, quanto à política de sustentabilidade no âmbito do Poder Judiciário, é correto afirmar que a sugestão de Jonas se mostra",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "certa, mas apenas se as contratações forem realizadas entre unidades da mesma organização pública, vale dizer, do mesmo Tribunal de Justiça."
+    },
+    {
+     "letra": "B",
+     "texto": "errada, pois o fomento da produção e do consumo sustentáveis deve ser buscado a partir de ações educativas, a serem periodicamente realizadas."
+    },
+    {
+     "letra": "C",
+     "texto": "errada, pois a realização de contratações compartilhadas afronta a autonomia dos entes envolvidos, o que é incompatível com a ordem constitucional."
+    },
+    {
+     "letra": "D",
+     "texto": "errada, pois a eficiência econômica, embora seja um objetivo a ser perseguido pela Administração Pública, não tem correlação com a dimensão cultural da sustentabilidade."
+    },
+    {
+     "letra": "E",
+     "texto": "certa, pois as contratações compartilhadas se prestam aos objetivos almejados, podendo ser realizadas por organizações públicas de diferentes setores ou entre unidades da mesma organização pública."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 31"
+  },
+  {
+   "numero": 32,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Agentes públicos > Lei 8.112/1990",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Ana, estudante de Direito, realizou pesquisa a respeito da sistemática de provimento dos cargos públicos conforme o regime jurídico dos servidores públicos civis da União.\nAo final, buscou estabelecer a correlação entre os institutos do provimento, da nomeação e da promoção, tendo concluído corretamente que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os três institutos são espécies do gênero investidura."
+    },
+    {
+     "letra": "B",
+     "texto": "a nomeação e a promoção são espécies do gênero provimento."
+    },
+    {
+     "letra": "C",
+     "texto": "os três institutos operam de maneira sequencial, principiando pela nomeação e terminando na promoção."
+    },
+    {
+     "letra": "D",
+     "texto": "os três institutos operam de maneira sequencial, principiando pelo provimento e terminando na promoção."
+    },
+    {
+     "letra": "E",
+     "texto": "com a promoção, o servidor deve ser nomeado para o cargo imediatamente superior, da classe subsequente, daí decorrendo novo provimento com a consequente investidura."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 32"
+  },
+  {
+   "numero": 33,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Agentes públicos > Lei 8.112/1990",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Joana ocupa o cargo de provimento efetivo XX, no âmbito de determinada entidade da Administração Pública indireta do Poder Executivo da União. Apesar de estar plenamente satisfeita com o seu local de trabalho, ouviu de um colega o comentário de que o seu cargo seria deslocado para outra entidade do mesmo Poder, com prévia apreciação do órgão competente.\nO deslocamento referido pelo colega de Joana, observados os requisitos estabelecidos pela ordem jurídica, caracteriza o instituto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da remoção."
+    },
+    {
+     "letra": "B",
+     "texto": "da realocação."
+    },
+    {
+     "letra": "C",
+     "texto": "da redistribuição."
+    },
+    {
+     "letra": "D",
+     "texto": "do reenquadramento."
+    },
+    {
+     "letra": "E",
+     "texto": "do redimensionamento de pessoal."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 33"
+  },
+  {
+   "numero": 34,
+   "disciplina": "Legislação Específica",
+   "assunto": "Estatuto da Pessoa com Deficiência",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Mário, pessoa muito ativa, ingressou no funcionalismo público em uma das vagas reservadas às pessoas com deficiência. Em razão de suas características físicas, necessitava de certas metodologias de trabalho para assegurar a sua autonomia e permitir a realização de sua atividade funcional. Além disso, para sua tristeza, a atitude de diversos colegas de trabalho prejudicava a formação de laços de amizade e consequente participação social.\nÀ luz dessa narrativa e da terminologia adotada pela Lei nº 13.146/2015, é correto afirmar que Mário necessita de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "tecnologia assistiva e enfrenta uma espécie de barreira."
+    },
+    {
+     "letra": "B",
+     "texto": "uma adaptação metodológica e enfrenta uma discriminação."
+    },
+    {
+     "letra": "C",
+     "texto": "um desenho universal e a superação de uma resistência inclusiva."
+    },
+    {
+     "letra": "D",
+     "texto": "acessibilidade e da correlata superação de uma limitação integrativa."
+    },
+    {
+     "letra": "E",
+     "texto": "uma adaptação razoável e deve receber apoio institucional para a sua integração."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 34"
+  },
+  {
+   "numero": 35,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Agentes públicos > Lei 8.112/1990",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João, ocupante de cargo de provimento efetivo no âmbito da Administração Pública federal, almejava integrar, como sócio-gerente, a sociedade empresária Alfa. Por estar em dúvida se a sua situação funcional oferecia algum óbice à materialização do seu objetivo, consultou um advogado a respeito dessa possibilidade.\nFoi corretamente informado a João que a sua situação funcional",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "impede, de modo peremptório, sem nenhuma exceção, a realização do objetivo almejado."
+    },
+    {
+     "letra": "B",
+     "texto": "não impede a realização do objetivo almejado, pois a atuação privada do servidor não tem correlação com a função pública."
+    },
+    {
+     "letra": "C",
+     "texto": "não impede a realização do objetivo almejado, ressaltando-se, apenas, a necessidade de serem observadas as normas sobre conflito de interesses."
+    },
+    {
+     "letra": "D",
+     "texto": "impede a realização do objetivo almejado, que somente será afastado por ocasião da aposentadoria, observadas as normas sobre conflito de interesses."
+    },
+    {
+     "letra": "E",
+     "texto": "não impede a realização do referido objetivo, desde que esteja de licença para trato de interesses particulares, observadas as normas sobre conflito de interesses."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 35"
+  },
+  {
+   "numero": 36,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Processo administrativo (Lei 9.784/1999)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "No âmbito da Administração Pública direta da União, constatou-se que a resolução de determinado problema de grande relevância exigia a prolação de decisões administrativas de competência de quatro estruturas orgânicas distintas, o que gerou grande dúvida em relação à forma de operacionalização desse processo decisório.\nÀ luz da sistemática instituída pela Lei nº 9.784/1999, é correto afirmar que esse processo decisório, observados os requisitos legais, se tornará operativo com a prolação de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "decisão prejudicial, em que as decisões a serem proferidas pelas autoridades posteriores deixam de considerar a parte do objeto avaliada pela autoridade anterior."
+    },
+    {
+     "letra": "B",
+     "texto": "decisão sistêmica, em que o superior hierárquico colhe as manifestações das quatro estruturas orgânicas e profere a sua decisão conforme os dados disponíveis."
+    },
+    {
+     "letra": "C",
+     "texto": "decisões sucessivas, principiando pelo órgão titularizado pelo servidor de menor antiguidade, até alcançar o órgão do servidor de maior antiguidade."
+    },
+    {
+     "letra": "D",
+     "texto": "decisões sucessivas, principiando pelo órgão titularizado pelo servidor de maior antiguidade, até alcançar o órgão do servidor de menor antiguidade."
+    },
+    {
+     "letra": "E",
+     "texto": "decisão coordenada, com a participação concomitante de todas as autoridades e agentes decisórios, além de outros agentes previstos em lei."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 36"
+  },
+  {
+   "numero": 37,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Improbidade administrativa",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A organização social Alfa celebrou contrato de gestão com a União, para desenvolver determinado projeto de interesse público, havendo a correlata transferência de recursos públicos para a realização desse objetivo. Por ocasião da análise da prestação de contas, foi detectado que parte dos recursos havia sido desviada no âmbito da administração interna de Alfa.\nÀ luz da sistemática estabelecida na Lei nº 8.429/1992, que busca coibir os atos de improbidade administrativa, é correto afirmar que o desvio dos recursos públicos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não configura improbidade administrativa, pois não há um agente público envolvido."
+    },
+    {
+     "letra": "B",
+     "texto": "não configura improbidade administrativa, pois o desvio de recursos públicos configura o crime de peculato."
+    },
+    {
+     "letra": "C",
+     "texto": "configura improbidade administrativa, devendo a organização social Alfa figurar como sujeito ativo do ato."
+    },
+    {
+     "letra": "D",
+     "texto": "somente irá configurar improbidade administrativa se restar demonstrando o conluio da organização Alfa com algum agente público."
+    },
+    {
+     "letra": "E",
+     "texto": "configura improbidade administrativa, devendo os gestores da organização social Alfa figurar como sujeitos ativos do ato, não a referida organização."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 37"
+  },
+  {
+   "numero": 38,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Licitações e contratos (Lei 14.133/2021)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em determinado ente da Administração Pública indireta, o órgão de controle interno detectou a existência de irregularidade insanável no procedimento licitatório. O contrato administrativo, no entanto, já tinha sido celebrado e a sua execução iniciada.\nConsiderando o teor dessa narrativa, é correto afirmar, à luz da sistemática estabelecida na Lei nº 14.133/2021, que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "vícios insanáveis no procedimento licitatório somente acarretam a necessária declaração de nulidade do contrato administrativo quando tiverem influído diretamente na escolha do licitante vencedor."
+    },
+    {
+     "letra": "B",
+     "texto": "somente será declarada a nulidade do contrato administrativo caso se revele medida de interesse público, observados os aspectos de avaliação previstos em lei."
+    },
+    {
+     "letra": "C",
+     "texto": "vícios insanáveis no procedimento licitatório acarretam, em qualquer hipótese, a necessária declaração de imediata nulidade do contrato administrativo."
+    },
+    {
+     "letra": "D",
+     "texto": "somente será declarada a nulidade do contrato administrativo caso a medida seja requerida por algum licitante preterido."
+    },
+    {
+     "letra": "E",
+     "texto": "não há correlação entre os vícios no procedimento licitatório e a validade do contrato administrativo posteriormente celebrado."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 38"
+  },
+  {
+   "numero": 39,
+   "disciplina": "Legislação Específica",
+   "assunto": "Lei Geral de Proteção de Dados (LGPD)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Maria adquiriu determinado produto junto à sociedade empresária Alfa, que atua na venda de aparelhos eletrodomésticos. Na ocasião, forneceu algumas informações pessoais, mais especificamente o CPF e o respectivo endereço, informações estas que permaneceram arquivadas no âmbito da referida sociedade empresária.\nÀ luz da narrativa, as informações fornecidas por Maria, nos termos da Lei nº 13.709/2018, devem ser consideradas dados",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pessoais sensíveis, que foram objeto de mero armazenamento por Alfa, não de tratamento."
+    },
+    {
+     "letra": "B",
+     "texto": "controlados, insuscetíveis de serem utilizados para qualquer finalidade por Alfa."
+    },
+    {
+     "letra": "C",
+     "texto": "anonimizáveis, devendo ser eliminados por Alfa em sessenta dias."
+    },
+    {
+     "letra": "D",
+     "texto": "cadastrais, podendo ser livremente utilizados por Alfa."
+    },
+    {
+     "letra": "E",
+     "texto": "pessoais, que foram objeto de tratamento por Alfa."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 39"
+  },
+  {
+   "numero": 40,
+   "disciplina": "Legislação Específica",
+   "assunto": "Regimento interno de tribunal",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Pedro, recém-empossado servidor do Tribunal Regional do Trabalho da 16ª Região, recebeu de seu superior hierárquico a determinação de que encaminhasse certos expedientes aos ocupantes dos “cargos de direção” no âmbito do Tribunal.\nApós consultar o regimento interno, Pedro concluiu corretamente que os referidos cargos são",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dois, o de Presidente e o de Corregedor."
+    },
+    {
+     "letra": "B",
+     "texto": "dois, o de Presidente e o de Vice-Presidente e Corregedor."
+    },
+    {
+     "letra": "C",
+     "texto": "três, o de Presidente, o de Vice-Presidente e o de Corregedor."
+    },
+    {
+     "letra": "D",
+     "texto": "três, o de Presidente e Corregedor, o de 1º Vice-Presidente e o de 2º Vice-Presidente."
+    },
+    {
+     "letra": "E",
+     "texto": "quatro, o de Presidente, o de 1º Vice-Presidente, o de 2º Vice-Presidente e o de Corregedor."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 40"
+  },
+  {
+   "numero": 41,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Princípios da Administração Pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Analise as assertivas a seguir, acerca de princípios constitucionais que balizam as ações da administração pública, e assinale V para a verdadeira e F para a falsa.\n( ) A eficiência se relaciona com a presteza e rendimento profissional na realização das atividades ( ) Publicidade se relaciona com a necessidade de ações de marketing governamental voltadas para o povo ( ) A Moralidade se relaciona a possibilidade de execução de qualquer ato não vedado expressamente na legislação As assertivas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – F."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – V."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 41"
+  },
+  {
+   "numero": 42,
+   "disciplina": "Administração Pública",
+   "assunto": "Modelos de administração pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A competição administrada, filosofia na qual unidades internas da Administração Pública são estimuladas a competirem entre si, em termos de produtividade, é uma característica do modelo de gestão conhecido por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "burocracia."
+    },
+    {
+     "letra": "B",
+     "texto": "patrimonialismo."
+    },
+    {
+     "letra": "C",
+     "texto": "gestão participativa."
+    },
+    {
+     "letra": "D",
+     "texto": "administração clientelista."
+    },
+    {
+     "letra": "E",
+     "texto": "gestão por resultado."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 42"
+  },
+  {
+   "numero": 43,
+   "disciplina": "Administração Geral",
+   "assunto": "Estrutura organizacional",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A implementação, em uma organização, de um modelo de departamentalização do tipo funcional tende a ter como vantagem um aumento na economia de escala, fator que ajuda na redução de custos.\nNo entanto, esse modelo também pode trazer problemas à organização, como, por exemplo,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "divergências evidentes de objetivos de cada área, dificultando a coordenação entre os departamentos."
+    },
+    {
+     "letra": "B",
+     "texto": "instabilidade e imprevistos recorrentes nas relações formais entre os cargos, criando situações de autoridade dual."
+    },
+    {
+     "letra": "C",
+     "texto": "abrangência exacerbada de competências realizadas por colaboradores de um mesmo setor, prejudicando a aquisição de habilidades específicas."
+    },
+    {
+     "letra": "D",
+     "texto": "perda da visão “micro” das atividades da organização, atendo-se apenas aos planos globais."
+    },
+    {
+     "letra": "E",
+     "texto": "foco demasiado em objetivos organizacionais, em detrimento dos funcionais."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 43"
+  },
+  {
+   "numero": 44,
+   "disciplina": "Administração Pública",
+   "assunto": "Gestão de pessoas > Avaliação de desempenho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O método de avaliação focado em registrar comportamentos manifestamente positivos ou negativos realizados pelo colaborador avaliado, ignorando suas respectivas atitudes ordinárias, é conhecido por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "avaliação 360•."
+    },
+    {
+     "letra": "B",
+     "texto": "método de escolhas forçadas."
+    },
+    {
+     "letra": "C",
+     "texto": "avaliação por objetivos."
+    },
+    {
+     "letra": "D",
+     "texto": "método da distribuição forçada."
+    },
+    {
+     "letra": "E",
+     "texto": "método dos incidentes críticos."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 44"
+  },
+  {
+   "numero": 45,
+   "disciplina": "Administração Pública",
+   "assunto": "Planejamento estratégico",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A missão de uma organização representa a razão de sua existência; deve, por esse motivo, servir de base para as ações estratégicas da organização.\nExistem, ainda, outros elementos que compõem o conjunto referencial da estratégia de uma organização, a exemplo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da retrospecção, que utiliza experiências passadas para evitar novos desvios."
+    },
+    {
+     "letra": "B",
+     "texto": "da visão, que busca expressar como a organização se vê no futuro."
+    },
+    {
+     "letra": "C",
+     "texto": "do estratagema, que estipula limitações de custo-benefício para cada ação definida."
+    },
+    {
+     "letra": "D",
+     "texto": "da rigidez, que impede que os planos se flexibilizem em caso de obstáculos."
+    },
+    {
+     "letra": "E",
+     "texto": "da responsabilização, que auxilia a organização na punição de funcionários."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 45"
+  },
+  {
+   "numero": 46,
+   "disciplina": "Administração Geral",
+   "assunto": "Gestão de projetos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Na execução de um projeto, uma das responsabilidades do gestor encarregado é a gestão adequada dos riscos envolvidos. Dessa forma, caso, como resposta a um risco de roubo de um dos veículos envolvidos no projeto, o gestor contrate um seguro, significa que ele adotou uma postura de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mitigação."
+    },
+    {
+     "letra": "B",
+     "texto": "prevenção."
+    },
+    {
+     "letra": "C",
+     "texto": "melhoramento."
+    },
+    {
+     "letra": "D",
+     "texto": "transferência."
+    },
+    {
+     "letra": "E",
+     "texto": "aceitação."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 46"
+  },
+  {
+   "numero": 47,
+   "disciplina": "Administração Geral",
+   "assunto": "Gestão de projetos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A estrutura conhecida como escritório de gerenciamento de projetos (EGP) pode desempenhar diferentes tipos de papeis com relação aos projetos realizados na organização, permitindo categorizá-los de acordo com o grau de influência que exercem nos projetos O EGP de suporte atua como",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "repositório de projetos, exercendo um baixo nível de controle."
+    },
+    {
+     "letra": "B",
+     "texto": "gerenciador direto dos projetos, exercendo alto nível de controle."
+    },
+    {
+     "letra": "C",
+     "texto": "impositor de conformidade com estruturas de governança, exercendo nível médio de controle."
+    },
+    {
+     "letra": "D",
+     "texto": "diretor primário dos projetos, exercendo baixo nível de controle."
+    },
+    {
+     "letra": "E",
+     "texto": "consultor do projeto, exercendo médio nível de controle."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 47"
+  },
+  {
+   "numero": 48,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": "Receita pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "As receitas públicas, consideradas segundo seu sentido amplo, são todos os ingressos auferidos pelo Poder Público visando ao atendimento de suas despesas. Na definição estrita, no entanto, ficam excluídas aquelas receitas que apresentam caráter meramente temporário, conhecidas como receitas extraorçamentárias.\nSão receitas conceituadas como extraorçamentárias",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os impostos federais."
+    },
+    {
+     "letra": "B",
+     "texto": "as taxas de utilização de serviços."
+    },
+    {
+     "letra": "C",
+     "texto": "os aluguéis de prédios públicos."
+    },
+    {
+     "letra": "D",
+     "texto": "os depósitos em caução."
+    },
+    {
+     "letra": "E",
+     "texto": "as operações de crédito sem antecipação de receita."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 48"
+  },
+  {
+   "numero": 49,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": "Orçamento público",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O orçamento público é um instrumento utilizado pelo Estado que, em função de sua essencialidade, é previsto expressamente na CF de 88.\nEm relação ao tema, analise as assertivas abaixo:\nI. O orçamento programa permite a integração entre o planejamento e o orçamento, fazendo uso de indicadores para avaliar os resultados.\nII. O orçamento base-zero tem caráter estático, reproduzindo anualmente, com mudanças incrementais, despesas fixadas em períodos anteriores.\nIII. O orçamento participativo permite que o povo ganhe novo papel na formulação de políticas públicas federais, eliminando a necessidade do Poder Legislativo.\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 49"
+  },
+  {
+   "numero": 50,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": "Princípios orçamentários",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O prefeito de um município, ao enviar uma proposta orçamentária ao Poder Legislativo Municipal que não contemple as estimativas de receitas, tratando apenas da fixação das despesas, comete uma evidente violação ao princípio",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da clareza."
+    },
+    {
+     "letra": "B",
+     "texto": "da exclusividade."
+    },
+    {
+     "letra": "C",
+     "texto": "da especificação."
+    },
+    {
+     "letra": "D",
+     "texto": "do não-estorno."
+    },
+    {
+     "letra": "E",
+     "texto": "da universalidade."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 50"
+  },
+  {
+   "numero": 51,
+   "disciplina": "Administração Pública",
+   "assunto": "Gestão da qualidade",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O ciclo PDCA, ferramenta elaborada inicialmente para ser adotada na gestão da qualidade em contextos industriais, expandiu-se posteriormente para outros ambientes, tornando-se, inclusive, frequentemente utilizado em órgãos e entidades da Administração Pública.\nCom relação a essa ferramenta, é correto afirmar que será utilizada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma única vez em cada processo."
+    },
+    {
+     "letra": "B",
+     "texto": "de forma iterativa, focando na melhoria contínua."
+    },
+    {
+     "letra": "C",
+     "texto": "de forma radical, revisando integralmente o sistema."
+    },
+    {
+     "letra": "D",
+     "texto": "de forma isolada com relação a qualquer outra ferramenta."
+    },
+    {
+     "letra": "E",
+     "texto": "com base no redesenho, eliminando etapas desnecessárias."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 51"
+  },
+  {
+   "numero": 52,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": "Lei de Responsabilidade Fiscal",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Lei da Transparência, LC nº 101/09, acrescentou novos dispositivos à Lei de Responsabilidade Fiscal, responsável por estabelecer normas de finanças públicas voltadas para a gestão fiscal, viabilizando, com isso, que a transparência fosse assegurada por meio da",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "permissão que qualquer pessoa denuncie descumprimentos das regras de transparência aos órgãos de controle governamentais."
+    },
+    {
+     "letra": "B",
+     "texto": "realização de audiências públicas no processo de discussão dos orçamentos."
+    },
+    {
+     "letra": "C",
+     "texto": "liberação, no exercício posterior, de informações sintetizadas sobre execução financeira e orçamentária."
+    },
+    {
+     "letra": "D",
+     "texto": "adoção de sistema independente de gestão operacional, com padrões de qualidade estabelecidos pelo mercado."
+    },
+    {
+     "letra": "E",
+     "texto": "criação de comitê gestor de política pública, com representação paritária, para a supervisão da aplicação da lei."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 52"
+  },
+  {
+   "numero": 53,
+   "disciplina": "Legislação Específica",
+   "assunto": "Lei de Acesso à Informação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Determinado órgão estadual, após a publicação da Lei de Acesso à Informação, decide adotar algumas medidas internas para se adequar aos ditames da lei.\nEm função, no entanto, de um erro de entendimento na aplicação da lei, o órgão publica uma informação com modificações quanto a origem, violando assim a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "integridade da informação."
+    },
+    {
+     "letra": "B",
+     "texto": "disponibilidade da informação."
+    },
+    {
+     "letra": "C",
+     "texto": "atualidade da informação."
+    },
+    {
+     "letra": "D",
+     "texto": "confidencialidade da informação."
+    },
+    {
+     "letra": "E",
+     "texto": "imperatividade da informação."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 53"
+  },
+  {
+   "numero": 54,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e garantias fundamentais > Remédios constitucionais",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Ana, cidadã atuante e moradora do pequeno Município Alfa, tomou conhecimento de que uma grande indústria estava despejando resíduos químicos no principal rio da região, responsável não só pelo fornecimento de água potável como pelo desenvolvimento da atividade pesqueira.\nInconformada com essa situação, questionou o seu advogado sobre a ação constitucional que ela própria poderia ajuizar para fazer cessar a referida prática.\nFoi corretamente informado a Ana que a ação a ser ajuizada é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a ação popular."
+    },
+    {
+     "letra": "B",
+     "texto": "a ação civil pública."
+    },
+    {
+     "letra": "C",
+     "texto": "a reclamação constitucional."
+    },
+    {
+     "letra": "D",
+     "texto": "a ação de interdição empresarial."
+    },
+    {
+     "letra": "E",
+     "texto": "o mandado de segurança coletivo."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 54"
+  },
+  {
+   "numero": 55,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Administração Pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em razão das sucessivas notícias de prática de nepotismo no âmbito dos Municípios abrangidos pelo Estado Alfa, a Constituição deste último ente federativo foi reformada para dispor que as nomeações para os cargos de direção da Administração Pública direta e indireta dos Municípios deveriam ser previamente aprovadas pela Assembleia Legislativa do Estado Alfa.\nIrresignada com o teor dessa determinação normativa, a Associação dos Municípios do Estado Alfa consultou o seu advogado a respeito de sua compatibilidade com a Constituição da República, sendo-lhe corretamente respondido que a determinação é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "constitucional, considerando a necessária subordinação dos Municípios aos comandos do respectivo Estado."
+    },
+    {
+     "letra": "B",
+     "texto": "constitucional, pois as normas da Constituição Estadual são vinculantes para o Estado e para os Municípios situados em seu território."
+    },
+    {
+     "letra": "C",
+     "texto": "constitucional, desde que as decisões proferidas pela Assembleia Legislativa sejam fundamentadas, de modo a afastar juízos de valor puramente políticos."
+    },
+    {
+     "letra": "D",
+     "texto": "inconstitucional, pois a determinação de que os atos de nomeação municipais sejam submetidos à aprovação de órgão estadual afronta a autonomia dos Municípios."
+    },
+    {
+     "letra": "E",
+     "texto": "inconstitucional, pois os comandos da Constituição Estadual, quaisquer que sejam eles, somente devem ser observados pelo Estado, não pelos Municípios situados em seu território."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 55"
+  },
+  {
+   "numero": 56,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Administração Pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Pedro, recém-empossado Prefeito do Município Alfa, consultou sua assessoria a respeito da possibilidade de nomear o seu amigo Jonas, pessoa com sólida formação científica na área urbanística e que não ocupava nenhum cargo público, para exercer uma função de confiança no âmbito da Secretaria Municipal de Urbanismo.\nA assessoria respondeu corretamente que a referida nomeação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é possível, já que as funções de confiança são franqueadas aos ocupantes de cargo efetivo e de cargo em comissão, bem como àqueles que não ocupam cargo público."
+    },
+    {
+     "letra": "B",
+     "texto": "não é possível, pois Jonas não ocupa cargo efetivo ou cargo em comissão no âmbito da Administração Pública, o que configura requisito indispensável."
+    },
+    {
+     "letra": "C",
+     "texto": "não é possível, pois Jonas não ocupa um cargo efetivo no âmbito da Administração Pública, o que configura requisito indispensável."
+    },
+    {
+     "letra": "D",
+     "texto": "é possível, considerando que a função de confiança a ser desempenhada é de caráter técnico."
+    },
+    {
+     "letra": "E",
+     "texto": "somente é possível se Jonas for previamente escolhido em processo seletivo simplificado."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 56"
+  },
+  {
+   "numero": 57,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Legislativo > Processo legislativo",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Instada por seu professor de direito constitucional a se posicionar sobre a possibilidade, ou não, de serem apresentadas emendas parlamentares nos projetos de iniciativa exclusiva do Presidente da República, Maria respondeu corretamente que esses projetos",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "podem receber emendas parlamentares como qualquer outro projeto de lei, não havendo nenhuma restrição."
+    },
+    {
+     "letra": "B",
+     "texto": "somente serão insuscetíveis de receber emendas parlamentares caso tramitem em regime de urgência."
+    },
+    {
+     "letra": "C",
+     "texto": "são insuscetíveis de receber emendas parlamentares, devendo ser aprovados ou rejeitados como apresentados."
+    },
+    {
+     "letra": "D",
+     "texto": "podem receber emendas parlamentares, desde que haja pertinência temática, sendo vedado, em qualquer caso, o aumento de despesa."
+    },
+    {
+     "letra": "E",
+     "texto": "podem receber emendas parlamentares, desde que haja pertinência temática e não haja aumento de despesa, ressalvadas, neste último caso, as leis orçamentárias em sentido lato."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 57"
+  },
+  {
+   "numero": 58,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Fiscalização contábil, financeira e orçamentária",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João, Presidente da autarquia federal XX, que atuara como ordenador de despesas, recebeu de um assessor a minuta da prestação anual de contas que deveria encaminhar ao Tribunal de Contas da União.\nÀ luz da sistemática constitucional, é correto afirmar que, na apreciação das contas, o referido Tribunal deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "emitir parecer prévio, cabendo ao Congresso Nacional o julgamento definitivo das contas."
+    },
+    {
+     "letra": "B",
+     "texto": "julgar as contas, podendo realizar a imputação de débito e aplicar sanção, não cabendo recurso ao Congresso Nacional."
+    },
+    {
+     "letra": "C",
+     "texto": "julgar as contas, sendo que a decisão proferida terá natureza jurídica de título executivo extrajudicial, cabendo recurso ao Congresso Nacional."
+    },
+    {
+     "letra": "D",
+     "texto": "julgar as contas em caráter preliminar, podendo realizar a imputação de débito, não aplicar sanção, providência esta de competência exclusiva do Congresso Nacional."
+    },
+    {
+     "letra": "E",
+     "texto": "emitir parecer prévio, indicando a imputação de débito e a aplicação de sanção, o qual só deixará de prevalecer pelo voto de dois terços dos membros do Congresso Nacional."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 58"
+  },
+  {
+   "numero": 59,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Judiciário",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em determinado processo judicial que tramitou, em última instância, perante o Tribunal de Justiça do Estado Alfa, não foi acolhido o argumento de João, demandante, de que a Lei estadual nº XX seria inválida por destoar da Lei federal nº YY.\nNesse caso, se João decidir recorrer para uma instância superior, o recurso cabível, preenchidos os demais requisitos exigidos, é o recurso",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "extraordinário, a ser julgado pelo Supremo Tribunal Federal."
+    },
+    {
+     "letra": "B",
+     "texto": "de revista, a ser julgado pelo Conselho Nacional de Justiça."
+    },
+    {
+     "letra": "C",
+     "texto": "ordinário, a ser julgado pelo Superior Tribunal de Justiça."
+    },
+    {
+     "letra": "D",
+     "texto": "especial, a ser julgado pelo Superior Tribunal de Justiça."
+    },
+    {
+     "letra": "E",
+     "texto": "ordinário, a ser julgado pelo Supremo Tribunal Federal."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 59"
+  },
+  {
+   "numero": 60,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Judiciário",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João, servidor de determinado Tribunal Regional do Trabalho e que atuava no setor de controle interno, consultou o seu superior hierárquico a respeito do papel desempenhado pelo Conselho Superior da Justiça do Trabalho em relação às atividades orçamentária e financeira desenvolvidas no referido Tribunal, considerando as competências constitucionais do Tribunal de Contas da União.\nFoi corretamente esclarecido a João que o Conselho, em relação às referidas atividades,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "realiza a sua supervisão, sendo que suas decisões têm efeito vinculante."
+    },
+    {
+     "letra": "B",
+     "texto": "irá centralizá-las, sendo retirado dos Tribunais o juízo de valor finalístico a seu respeito."
+    },
+    {
+     "letra": "C",
+     "texto": "não desempenha qualquer atribuição, pois sua competência está adstrita à atuação disciplinar."
+    },
+    {
+     "letra": "D",
+     "texto": "apenas atua como intermediário entre as decisões tomadas pelo Tribunal de Contas da União e os Tribunais da Justiça do Trabalho, zelando pela sua efetividade."
+    },
+    {
+     "letra": "E",
+     "texto": "é responsável pela verificação do cumprimento dos indicadores estabelecidos, podendo apenas expedir recomendações, que não terão caráter vinculante."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 60"
+  },
+  {
+   "numero": 61,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Pedro tem um contrato intermitente com uma sociedade empresária que realiza festas em Chapadinha/MA, sendo chamado quando há serviço. Em 29 de outubro de 2022, a empresa realizaria uma grande festa e convocou Pedro, no dia 25 de outubro de 2022, para nela trabalhar. Pedro recusou de plano a oferta porque já havia se comprometido com outra sociedade empresária para trabalhar naquele dia como garçom.\nDiante da situação retratada e dos termos da CLT, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "No caso de impasse entre as partes quanto à aceitação da prestação do serviço, a Justiça do Trabalho deverá ser acionada."
+    },
+    {
+     "letra": "B",
+     "texto": "A empresa está errada porque a convocação deveria ter ocorrido com 7 dias de antecedência."
+    },
+    {
+     "letra": "C",
+     "texto": "Pedro agiu de forma insubordinada e por isso poderia ser dispensado por justa causa."
+    },
+    {
+     "letra": "D",
+     "texto": "É direito de Pedro não aceitar o trabalho e isso não poderá ocasionar qualquer punição."
+    },
+    {
+     "letra": "E",
+     "texto": "O empregado agiu com indisciplina e poderia ser dispensado por justa causa."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 61"
+  },
+  {
+   "numero": 62,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Sheila é empregada de uma sociedade empresária localizada em Presidente Dutra/MA. Dolosamente, ela trocou de lugar com uma colega de trabalho no exame médico periódico realizado pela empresa, para que não fosse detectado que essa colega estava doente. No dia seguinte, o empregador descobriu a fraude arquitetada pelas empregadas e imediatamente as suspendeu por 40 dias consecutivos. Logo após, as empregadas pediram desculpas pelo ato.\nDiante da situação retratada e dos termos da CLT, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Está dentro do poder diretivo do empregador aplicar a punição de suspensão na forma exposta, sem limite de prazo."
+    },
+    {
+     "letra": "B",
+     "texto": "A empresa excedeu o período máximo da suspensão, daí o ato importa na rescisão injusta dos contratos de trabalho."
+    },
+    {
+     "letra": "C",
+     "texto": "A gravidade da conduta somente pode gerar a dispensa por justa causa, não podendo o empregador aplicar pena mais branda."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma vez que as empregadas se arrependeram do ato praticado, há o perdão tácito e o empregador não pode punir por aquele ato."
+    },
+    {
+     "letra": "E",
+     "texto": "A punição a ser aplicada é decisão exclusiva do empregador que, neste caso, poderá lançar a pena na CTPS das empregadas."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 62"
+  },
+  {
+   "numero": 63,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Lívia foi empregada da sociedade empresária Jardins Lindos Ltda.\nE, nesta condição, trabalhava como terceirizada na empresa de cosméticos Unhas Maravilhosas Ltda., cuidando da manutenção e limpeza dos vastos jardins desta empresa. Lívia foi dispensada sem justa causa em 2022, mas não recebeu as verbas pela sua saída e, por isso, ajuizou reclamação trabalhista contra as empresas Jardins Lindos Ltda. (o ex-empregador), Jardins Perfeitos Ltda. (empresa do mesmo grupo econômico do ex-empregador) e Unhas Maravilhosas Ltda.. Caso Lívia tenha sucesso, assinale, de acordo com a norma de regência, a afirmativa correta em relação à espécie de responsabilidade das empresas Jardins Perfeitos Ltda. e Unhas Maravilhosas Ltda..",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Jardins Perfeitos Ltda. terá responsabilidade solidária e Unhas Maravilhosas Ltda., subsidiária."
+    },
+    {
+     "letra": "B",
+     "texto": "Ambas as empresas terão responsabilidade solidária juntamente com o ex-empregador."
+    },
+    {
+     "letra": "C",
+     "texto": "Unhas Maravilhosas Ltda. terá responsabilidade solidária e Jardins Perfeitos Ltda., subsidiária."
+    },
+    {
+     "letra": "D",
+     "texto": "Ambas as empresas terão responsabilidade subsidiária juntamente com o ex-empregador."
+    },
+    {
+     "letra": "E",
+     "texto": "As empresas Jardins Perfeitos Ltda. e Unhas Maravilhosas Ltda. não terão qualquer responsabilidade."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 63"
+  },
+  {
+   "numero": 64,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Samuel trabalha num comércio estabelecido em Porto Franco/MA e cumpre jornada de 44 horas semanais divididas de 2ª feira a sábado.\nConsiderando o direito às pausas legais e ao repouso semanal remunerado, marque a opção que, de acordo com o entendimento consolidado pelo TST, traz o espaço de tempo que deve mediar 2 semanas de trabalho, ou seja, quanto tempo de descanso Samuel terá direito entre o término da jornada em uma semana e o início da jornada da semana seguinte.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "11 horas."
+    },
+    {
+     "letra": "B",
+     "texto": "24 horas."
+    },
+    {
+     "letra": "C",
+     "texto": "35 horas."
+    },
+    {
+     "letra": "D",
+     "texto": "12 horas."
+    },
+    {
+     "letra": "E",
+     "texto": "48 horas."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 64"
+  },
+  {
+   "numero": 65,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Maria Cecília é empregada numa indústria localizada em Santo Antônio dos Lopes/MA, há 5 anos, e foi comunicada que, em 2023, suas férias de 30 dias serão concedidas no mês de março. A empregadora de Maria Cecília costuma pagar a 1ª parcela do 13º salário no mês de novembro de cada ano e a 2ª parcela, no dia 20 de dezembro.\nConsiderando que Maria Cecília gostaria de receber todo ou ao menos parte do 13º salário juntamente com as férias, assinale a opção que, de acordo com a norma de regência, responde à pretensão da empregada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Maria Cecília poderá receber a totalidade do 13º salário juntamente com as férias desde que faça o requerimento ao empregador com 30 dias de antecedência do início das férias."
+    },
+    {
+     "letra": "B",
+     "texto": "Somente poderá haver a antecipação de 50% do 13º salário se isso estiver previsto na norma coletiva da categoria de Maria Cecília."
+    },
+    {
+     "letra": "C",
+     "texto": "Maria Cecília poderá receber a 1ª parcela do 13º salário juntamente com as férias desde que faça o requerimento ao empregador até 2 dias antes do início das férias."
+    },
+    {
+     "letra": "D",
+     "texto": "A empregada em questão não tem o direito de exigir o pagamento do 13º salário com as férias, no todo ou em parte, por falta de previsão legal."
+    },
+    {
+     "letra": "E",
+     "texto": "Maria Cecília poderá receber a 1ª parcela do 13º salário juntamente com as férias desde que faça o requerimento no mês de janeiro de 2023."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 65"
+  },
+  {
+   "numero": 66,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Lucimar ajuizou reclamação trabalhista contra o seu ex-empregador, uma sociedade empresária que explora o ramo de frutas industrializadas. O processo foi distribuído para a 10ª Vara do Trabalho de Chapadinha/MA, sendo designada audiência una.\nAssinale, de acordo com a CLT, a opção que contempla, respectivamente, o prazo mínimo que deve ser respeitado entre a citação e a realização da audiência, bem como o primeiro ato processual que, aberta a audiência, deverá ocorrer.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "10 dias e apresentação de memoriais."
+    },
+    {
+     "letra": "B",
+     "texto": "5 dias e tentativa de conciliação."
+    },
+    {
+     "letra": "C",
+     "texto": "15 dias e instrução."
+    },
+    {
+     "letra": "D",
+     "texto": "8 dias e apresentação da resposta."
+    },
+    {
+     "letra": "E",
+     "texto": "20 dias e instrução."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 66"
+  },
+  {
+   "numero": 67,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Prescrição",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "De acordo com o famoso e muito respeitado jurista Clóvis Beviláqua, prescrição “é a perda da ação atribuída a um direito e de toda sua capacidade defensiva, por causa ao não-uso delas, em um determinado espaço de tempo”.\nDas espécies de prescrição indicadas a seguir, assinale aquela que, de acordo com a CLT, pode ser declarada espontaneamente (de ofício) pelo magistrado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Prescrição bienal para ajuizamento de ação."
+    },
+    {
+     "letra": "B",
+     "texto": "Prescrição por ato único do empregador."
+    },
+    {
+     "letra": "C",
+     "texto": "Prescrição retroativa de 30 anos do FGTS, quando cabível."
+    },
+    {
+     "letra": "D",
+     "texto": "Prescrição intercorrente na execução."
+    },
+    {
+     "letra": "E",
+     "texto": "Prescrição parcial de 5 anos."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 67"
+  },
+  {
+   "numero": 68,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Pedro Lucas é auxiliar de montagem numa empresa localizada em Porto Franco/MA e recebe 1 salário mínimo mensal. Insatisfeito, Pedro Lucas ajuizou reclamação trabalhista contra o seu empregador requerendo o pagamento de horas extras, afirmando que trabalha de 2ª feira a domingo das 4:00 às 23:30 horas, sem intervalo para refeição. Designada audiência una, e em que pese regularmente citada, a empresa faltou e não protocolizou defesa escrita, tendo sido requerida a aplicação da revelia e confissão quanto à matéria de fato.\nDiante dos fatos narrados e de acordo com a CLT, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Com a aplicação da revelia e, consequentemente, da confissão quanto à matéria de fato, Pedro Lucas receberá as horas extras de acordo com a jornada da inicial."
+    },
+    {
+     "letra": "B",
+     "texto": "De acordo com a Lei, após aplicar a revelia, o juiz deverá abrir prazo de 10 dias para que Pedro Lucas comprove por algum meio a jornada informada na inicial, sob pena de inépcia."
+    },
+    {
+     "letra": "C",
+     "texto": "Apesar da revelia, não haverá confissão quanto à matéria de fato porque as alegações formuladas por Pedro Lucas são inverossímeis."
+    },
+    {
+     "letra": "D",
+     "texto": "Não se aplicará revelia nem confissão quanto à matéria de fato porque diante da jornada afirmada na inicial é obrigatória a participação do Ministério Público do Trabalho no processo."
+    },
+    {
+     "letra": "E",
+     "texto": "Sendo aplicada a revelia e julgado procedente o pedido, a empresa não poderá recorrer da sentença nem praticar atos no processo porque quedou-se inerte no momento oportuno."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 68"
+  },
+  {
+   "numero": 69,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Helena e Gislene são irmãs e empresárias, e cada uma delas possui uma marmoraria em São Luis/MA. Helena foi intimada de uma sentença numa reclamação trabalhista que julgou o pedido procedente, sendo fixado o valor de R$ 5.000,00 à condenação, sendo que dela pretende recorrer; já Gislene tem uma execução trabalhista em curso, cujo valor homologado também foi de R$ 5.000,00, e pretende ajuizar embargos à execução por entender que o valor está incorreto.\nConsiderando o que dispõe a CLT e que ambas as irmãs pretendem apresentar seguro garantia judicial em seus processos, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ambas as irmãs deverão apresentar seguro garantia judicial no valor de R$ 5.000,00."
+    },
+    {
+     "letra": "B",
+     "texto": "Gislene deverá apresentar seguro garantia judicial no valor de R$ 5.000,00 e Helena, de R$ 6.500,00."
+    },
+    {
+     "letra": "C",
+     "texto": "Não é possível a pretensão das irmãs porque na CLT não há previsão de apresentação de seguro garantia judicial."
+    },
+    {
+     "letra": "D",
+     "texto": "Ambas as irmãs deverão apresentar seguro garantia judicial no valor de R$ 6.500,00."
+    },
+    {
+     "letra": "E",
+     "texto": "Helena deverá apresentar seguro garantia judicial no valor de R$ 5.000,00 e Gislene, de R$ 6.500,00."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 69"
+  },
+  {
+   "numero": 70,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em determinada reclamação trabalhista que tramita perante a 30ª Vara do Trabalho de Barreirinhas/MA, foi homologada a quantia de R$ 10.000,00 devida ao exequente a título de dano moral, pois a sentença foi proferida de forma líquida e ambas as partes concordaram com o valor. Ocorre que, no dia seguinte, a sociedade empresária teve a falência decretada.\nDiante dos fatos narrados e da norma de regência, sobre o destino da execução, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Diante da falência decretada, o juiz deverá expedir requisição de pequeno valor para o pagamento da dívida."
+    },
+    {
+     "letra": "B",
+     "texto": "Deverá ser expedida certidão de crédito ao reclamante pelo valor homologado para habilitação junto à massa falida."
+    },
+    {
+     "letra": "C",
+     "texto": "A execução prosseguirá normalmente porque a falência foi posterior à homologação, ocorrendo o bloqueio de numerário caso a empresa não cumpra voluntariamente a obrigação."
+    },
+    {
+     "letra": "D",
+     "texto": "A partir da decretação de falência o juízo trabalhista cessa a sua competência, devendo anular a decisão homologatória e enviar os autos para o juízo falimentar."
+    },
+    {
+     "letra": "E",
+     "texto": "A Lei determina que metade do valor seja pago perante a Justiça do Trabalho em razão do caráter alimentar da verba e a outra metade, paga perante o juízo falimentar."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Técnico Judiciário (Área Administrativa), prova tipo 1, questão 70"
+  }
+ ]
+}

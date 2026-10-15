@@ -1,0 +1,2696 @@
+{
+ "prova": {
+  "banca": "FGV",
+  "banca_nome": "Fundação Getulio Vargas",
+  "orgao": "TRT-16",
+  "orgao_nome": "Tribunal Regional do Trabalho da 16ª Região (MA)",
+  "esfera": "federal",
+  "cargo": "Analista Judiciário — Área Judiciária",
+  "ano": 2022,
+  "escolaridade": "superior",
+  "url_prova": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_1.pdf",
+  "url_gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/trt_-_16_2022_-_gabarito_definitivo_8913849131354864.pdf"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Argumentação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Abaixo estão cinco silogismos. Assinale a opção que mostra uma estruturação válida.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todos os brasileiros gostam de Copacabana / Pedro é brasileiro / Pedro gosta de Copacabana."
+    },
+    {
+     "letra": "B",
+     "texto": "Todos os brasileiros gostam de Copacabana / Pedro não gosta de Copacabana / Pedro não é brasileiro."
+    },
+    {
+     "letra": "C",
+     "texto": "Se você é brasileiro, gosta de Copacabana / Você é brasileiro / Você gosta de Copacabana."
+    },
+    {
+     "letra": "D",
+     "texto": "Ou você não é brasileiro ou você gosta de Copacabana / Você não é brasileiro / Você gosta de Copacabana."
+    },
+    {
+     "letra": "E",
+     "texto": "Ou você não é brasileiro ou você gosta de Copacabana / Você é brasileiro / Você não gosta de Copacabana."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 1"
+  },
+  {
+   "numero": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Argumentação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Observe o seguinte raciocínio: A gramática portuguesa é de difícil aprendizagem, por isso acho conveniente a contratação de novos professores.\nNesse caso, a premissa inicial do raciocínio corresponde a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um fato comprovado."
+    },
+    {
+     "letra": "B",
+     "texto": "uma opinião do enunciador."
+    },
+    {
+     "letra": "C",
+     "texto": "um testemunho de autoridade."
+    },
+    {
+     "letra": "D",
+     "texto": "uma dúvida sobre um fato."
+    },
+    {
+     "letra": "E",
+     "texto": "uma certeza comprovada."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 2"
+  },
+  {
+   "numero": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Argumentação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Assinale a opção que mostra uma premissa antes de uma conclusão.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A passadeira não deve ter vindo / Minhas camisas estão amarrotadas."
+    },
+    {
+     "letra": "B",
+     "texto": "É possível que o Vasco seja promovido para a série A /O Vasco tem ganho vários jogos."
+    },
+    {
+     "letra": "C",
+     "texto": "O governo deve lançar novo plano contra a inflação / A inflação é uma das preocupações do governo."
+    },
+    {
+     "letra": "D",
+     "texto": "As ruas amanheceram inundadas / Choveu durante a noite."
+    },
+    {
+     "letra": "E",
+     "texto": "Pedro é mau professor / Muitos alunos de Pedro pediram transferência de turma."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 3"
+  },
+  {
+   "numero": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Observe o seguinte texto: “’Há muita gente atrapalhando a vida do governador, inclusive o próprio governador’, costuma dizer um deputado muito conhecido. Trata-se de um comentário muito comum na Assembleia Legislativa”.\nA introdução utilizada nesse texto pode ser identificada como",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "uma alusão histórica."
+    },
+    {
+     "letra": "B",
+     "texto": "uma interrogação."
+    },
+    {
+     "letra": "C",
+     "texto": "uma citação."
+    },
+    {
+     "letra": "D",
+     "texto": "uma definição."
+    },
+    {
+     "letra": "E",
+     "texto": "uma divisão de temas."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 4"
+  },
+  {
+   "numero": 5,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Para que um texto progrida de forma organizada, é preciso que a informação nele contida seja apresentada de forma conveniente.\nVeja, por exemplo, o texto a seguir:\n“A Corte Suprema dos Estados Unidos, cuja composição 1983- 1984 terminou há pouco, parece ter mostrado uma direção mais conservadora que a anterior, notadamente no que concerne aos direitos dos indivíduos diante do Estado. Ela decretou que os prisioneiros não tinham nenhum direito sobre sua vida privada e que os juízes, e não os jurados, devem decidir sobre a pena de morte. Ela também apoiou a posição do governo de Ronald Reagan em vários casos que envolviam liberdades civis ou de discriminação”.\nA organização da informação nesse texto pode ser identificada do seguinte modo:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cada frase parte de um mesmo elemento, dado como conhecido desde o primeiro momento, a que se acrescentam novas informações."
+    },
+    {
+     "letra": "B",
+     "texto": "cada frase parte do tema explorado na frase precedente, tornando-se ela mesma um novo tema, completado por uma nova informação."
+    },
+    {
+     "letra": "C",
+     "texto": "o tema da primeira frase é decomposto em múltiplos elementos, tomados como temas sucessivos das frases seguintes."
+    },
+    {
+     "letra": "D",
+     "texto": "dois temas são apresentados em sequência e analisados de forma paralela, com informações contrastantes."
+    },
+    {
+     "letra": "E",
+     "texto": "dois temas são apresentados inicialmente e informações comuns aos dois são dadas progressivamente."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 5"
+  },
+  {
+   "numero": 6,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "De cada uma das pequenas notícias abaixo, foi feita uma inferência, ou seja, algo que pode ser deduzido do que se leu.\nAssinale a opção em que a inferência é adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mulheres já podem entrar para a Polícia / o número de mulheres na população está aumentando."
+    },
+    {
+     "letra": "B",
+     "texto": "A soja brasileira é muito bem aceita no mercado internacional / o agronegócio está prosperando."
+    },
+    {
+     "letra": "C",
+     "texto": "O Sampaio Correia vai comprar um craque internacional / O Sampaio Correia vai demitir outros jogadores."
+    },
+    {
+     "letra": "D",
+     "texto": "Haverá uma feira internacional de tecnologia em São Luís / O trânsito na capital vai ficar menos congestionado."
+    },
+    {
+     "letra": "E",
+     "texto": "Calor no Rio chega a 42o / Muitos turistas vão deixar de vir ao Rio."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 6"
+  },
+  {
+   "numero": 7,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Classes de palavras > Pronomes",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em todas as opções abaixo mostram-se duas frases independentes, com termos repetidos; para evitar a repetição, elas foram unidas por meio de um pronome relativo.\nAssinale a frase em que essa modificação foi feita de forma adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Li o novo livro de Eduardo Gianetti / Comprei o novo livro de Eduardo Gianetti na nova livraria do bairro --- Li o novo livro de Eduardo Gianetti, cujo foi comprado na nova livraria do bairro."
+    },
+    {
+     "letra": "B",
+     "texto": "Estudei durante dois anos em Madrid / Em Madrid aprendi bastante --- Estudei durante dois anos em Madrid, aonde aprendi bastante."
+    },
+    {
+     "letra": "C",
+     "texto": "Comprei um carro novo na agência Oxford / O preço do carro foi baixo --- Comprei, na agência Oxford, um carro novo cujo preço foi baixo."
+    },
+    {
+     "letra": "D",
+     "texto": "Gostei muito da salada / Os legumes da salada são frescos --- Gostei muito de salada onde os legumes são frescos."
+    },
+    {
+     "letra": "E",
+     "texto": "Encontrei Maria e João / Maria é minha amiga --- Encontrei Maria e João, que é minha amiga."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 7"
+  },
+  {
+   "numero": 8,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Argumentação",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Numa reunião de departamento, um professor mostrou os péssimos resultados de seus alunos no primeiro semestre para demonstrar a falência do ensino universitário.\nEssa argumentação do professor mostra um problema, que é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "um círculo vicioso, pois a primeira e a segunda parte do raciocínio mostram o mesmo significado."
+    },
+    {
+     "letra": "B",
+     "texto": "uma falsa relação de causa e efeito, pois a primeira parte indica uma causa não verdadeira para a conclusão."
+    },
+    {
+     "letra": "C",
+     "texto": "um estereótipo, pois hoje se consideram os alunos universitários como símbolos da incompetência."
+    },
+    {
+     "letra": "D",
+     "texto": "uma falsa analogia, já que os elementos comparados são diferentes em um ponto essencial."
+    },
+    {
+     "letra": "E",
+     "texto": "uma generalização excessiva, pois fez uma dedução para um todo (o ensino universitário), que pode ser injusta."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 8"
+  },
+  {
+   "numero": 9,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Coesão textual",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em todas as frases abaixo, para evitar-se repetição, houve substituição do termo em destaque.\nAssinale a frase em que o processo utilizado na substituição está adequadamente identificado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A polícia declarou que cercou os criminosos, mas alguns dos bandidos conseguiram escapar / hiperônimo."
+    },
+    {
+     "letra": "B",
+     "texto": "Em fiz o discurso em uma hora, mas levei tempo para melhorá-lo / qualificação."
+    },
+    {
+     "letra": "C",
+     "texto": "A guerra na Ucrânia está demorando a acabar, pois o conflito mostra, a cada dia, novas etapas / símbolo."
+    },
+    {
+     "letra": "D",
+     "texto": "O PTB vai mostrar sua força nas próximas eleições, pois o partido já fez numerosos acordos / abreviação."
+    },
+    {
+     "letra": "E",
+     "texto": "Esqueci o celular no aeroporto e, a essas alturas, o aparelho já está voando para outro país / caracterização."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 9"
+  },
+  {
+   "numero": 10,
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Tipologia e estrutura textual",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Observe o parágrafo a seguir:\n“A imprensa brasileira está sendo criticada por todos os partidos políticos em função de seu partidarismo, de suas coberturas deficientes e de sua má redação dos textos”.\nIndique a opção em que seu desenvolvimento foi adequadamente identificado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pergunta e resposta."
+    },
+    {
+     "letra": "B",
+     "texto": "paralelo e contraste."
+    },
+    {
+     "letra": "C",
+     "texto": "enumeração de detalhes."
+    },
+    {
+     "letra": "D",
+     "texto": "exemplificação e ilustração."
+    },
+    {
+     "letra": "E",
+     "texto": "apresentação de razões."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 10"
+  },
+  {
+   "numero": 11,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (ordenação)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Cinco pessoas formam uma fila. Essa fila será modificada com a seguinte sequência de trocas de posição: o 2º com o 4º, o 1º com o 3º, o 2º com o 5º e o 1º com o 4º.\nA pessoa que estava no 3º lugar na fila inicial estará, na fila final, no",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1º lugar."
+    },
+    {
+     "letra": "B",
+     "texto": "2º lugar."
+    },
+    {
+     "letra": "C",
+     "texto": "3º lugar."
+    },
+    {
+     "letra": "D",
+     "texto": "4º lugar."
+    },
+    {
+     "letra": "E",
+     "texto": "5º lugar."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 11"
+  },
+  {
+   "numero": 12,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Certo supermercado anunciou a promoção que se vê na foto a seguir:\n[[img:0]]\nEsse desconto foi de, aproximadamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "15%."
+    },
+    {
+     "letra": "B",
+     "texto": "1,5%."
+    },
+    {
+     "letra": "C",
+     "texto": "0,15%."
+    },
+    {
+     "letra": "D",
+     "texto": "0,015%."
+    },
+    {
+     "letra": "E",
+     "texto": "0,0015%."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 12",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-analista/12-1.png",
+     "parte": "inline",
+     "largura": 257,
+     "altura": 173
+    }
+   ]
+  },
+  {
+   "numero": 13,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Argumentação lógica",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Considere verdadeira a afirmação:\n“Todos os corredores são magros”.\nObserve, a seguir, três conclusões da afirmação dada: 1. Se João é magro então é corredor. 2. Se João não é corredor, então não é magro. 3. Se João não é magro então não é corredor.\nDenotando por V uma conclusão verdadeira e por F uma conclusão falsa, para as três conclusões dadas, temos, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "V, V, V."
+    },
+    {
+     "letra": "B",
+     "texto": "F, V, V."
+    },
+    {
+     "letra": "C",
+     "texto": "F, F, V."
+    },
+    {
+     "letra": "D",
+     "texto": "V, V, F."
+    },
+    {
+     "letra": "E",
+     "texto": "V, F, F."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 13"
+  },
+  {
+   "numero": 14,
+   "disciplina": "Matemática",
+   "assunto": "Razão e proporção",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Um terreno de 1280 m² foi dividido em 3 partes, proporcionais aos números: 2, 5/2 e 7/2.\nA área da maior parte, em m², é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "400."
+    },
+    {
+     "letra": "B",
+     "texto": "440."
+    },
+    {
+     "letra": "C",
+     "texto": "480."
+    },
+    {
+     "letra": "D",
+     "texto": "520."
+    },
+    {
+     "letra": "E",
+     "texto": "560."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 14"
+  },
+  {
+   "numero": 15,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (calendários)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Alberto deverá fazer um tratamento contínuo de fisioterapia durante longo tempo. Para isso, deverá fixar 2 dias na semana (de 7 dias) para realizar as atividades do tratamento, mas esses dias não podem ser seguidos.\nO número de maneiras diferentes em que esses 2 dias podem ser fixados é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "12."
+    },
+    {
+     "letra": "B",
+     "texto": "14."
+    },
+    {
+     "letra": "C",
+     "texto": "15."
+    },
+    {
+     "letra": "D",
+     "texto": "18."
+    },
+    {
+     "letra": "E",
+     "texto": "20."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 15"
+  },
+  {
+   "numero": 16,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Porcentagem",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em um grupo de P pessoas, 54% são mulheres e as demais pessoas são homens. Trinta mulheres deixam o grupo e trinta novos homens passam a fazer parte do mesmo. Nesse novo grupo, os homens representam 61%.\nO valor de P é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "200."
+    },
+    {
+     "letra": "B",
+     "texto": "220."
+    },
+    {
+     "letra": "C",
+     "texto": "240."
+    },
+    {
+     "letra": "D",
+     "texto": "250."
+    },
+    {
+     "letra": "E",
+     "texto": "260."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 16"
+  },
+  {
+   "numero": 17,
+   "disciplina": "Matemática",
+   "assunto": "Razão e proporção",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Michael coleciona moedas brasileiras, americanas e francesas. Para cada 3 moedas americanas Michael tem 7 moedas brasileiras e para cada 5 moedas brasileiras, ele tem 2 francesas. Com relação às moedas de Michael, a razão entre a quantidade de moedas brasileiras e a quantidade de moedas não brasileiras é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "[[img:0]]"
+    },
+    {
+     "letra": "B",
+     "texto": "[[img:1]]"
+    },
+    {
+     "letra": "C",
+     "texto": "[[img:2]]"
+    },
+    {
+     "letra": "D",
+     "texto": "[[img:3]]"
+    },
+    {
+     "letra": "E",
+     "texto": "[[img:4]]"
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 17",
+   "imagens": [
+    {
+     "src": "fgv-trt16-2022-analista/17-1.png",
+     "parte": "inline",
+     "largura": 21,
+     "altura": 53
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-2.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-3.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 53
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-4.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    },
+    {
+     "src": "fgv-trt16-2022-analista/17-5.png",
+     "parte": "inline",
+     "largura": 31,
+     "altura": 52
+    }
+   ]
+  },
+  {
+   "numero": 18,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (calendários)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "No Brasil, o Dia das Mães é comemorado no segundo domingo de maio. Em um determinado ano bissexto, o dia 1o de janeiro ocorreu em uma terça-feira.\nLembrando que, em ano bissexto, fevereiro tem 29 dias, concluímos que, nesse ano, o Dia das Mães foi comemorado no dia",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "9 de maio."
+    },
+    {
+     "letra": "B",
+     "texto": "10 de maio."
+    },
+    {
+     "letra": "C",
+     "texto": "11 de maio."
+    },
+    {
+     "letra": "D",
+     "texto": "12 de maio."
+    },
+    {
+     "letra": "E",
+     "texto": "13 de maio."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 18"
+  },
+  {
+   "numero": 19,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (ordenação)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Horácio tem 5 filhos. Cada um desses 5 filhos, também tem 5 filhos ou não tem filho algum. Horácio não tem bisnetos.\nAo todo, somando filhos e netos, Horácio tem 20 descendentes.\nO número de descendentes de Horácio que não têm filhos é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "3."
+    },
+    {
+     "letra": "B",
+     "texto": "6."
+    },
+    {
+     "letra": "C",
+     "texto": "9."
+    },
+    {
+     "letra": "D",
+     "texto": "15."
+    },
+    {
+     "letra": "E",
+     "texto": "17."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 19"
+  },
+  {
+   "numero": 20,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio lógico (ordenação)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em uma caixa há 18 bolas. A bola mais leve pesa 20 gramas e a mais pesada, 24 gramas. O peso de cada bola é um número inteiro de gramas.\nÉ correto concluir que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pelo menos uma bola pesa 22 gramas."
+    },
+    {
+     "letra": "B",
+     "texto": "nenhuma bola pesa 22 gramas."
+    },
+    {
+     "letra": "C",
+     "texto": "a média dos pesos de todas as bolas é 22 gramas."
+    },
+    {
+     "letra": "D",
+     "texto": "pelo menos 4 bolas têm o mesmo peso."
+    },
+    {
+     "letra": "E",
+     "texto": "a soma dos pesos de todas as bolas é maior do que 396 gramas."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 20"
+  },
+  {
+   "numero": 21,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“Um novo mural do controverso e misterioso artista britânico Banksy apareceu na cidade de Dover, na Inglaterra. Na gravura, é possível ver um operário que retira uma das estrelas que compõe a bandeira da União Europeia.”\n(Revista Galileu, maio de 2017) O mural mostra um operário a martelar e destruir uma estrela da bandeira da União Europeia. Ele trata, de modo crítico,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da possibilidade de os países membros da União Europeia caírem, um a um, nas mãos do Estado Islâmico."
+    },
+    {
+     "letra": "B",
+     "texto": "da iminência da guerra Rússia – Ucrânia, ocasionada pelo desejo da Ucrânia ingressar na União Europeia."
+    },
+    {
+     "letra": "C",
+     "texto": "da ameaça da Hungria, sob um governo nacionalista, sair da União Europeia."
+    },
+    {
+     "letra": "D",
+     "texto": "do “Brexit”, a saída do Reino Unido do bloco econômico europeu."
+    },
+    {
+     "letra": "E",
+     "texto": "do temor de que a França saísse da União Europeia devido ao protagonismo da Alemanha de Angela Merkel nas decisões econômicas do bloco."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 21"
+  },
+  {
+   "numero": 22,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“O escritor e jornalista foi eleito para a vaga deixada por Sérgio Paulo Rouanet na Academia Brasileira de Letras. O autor de 74 anos obteve 32 votos entre 35 imortais que compareceram à cerimônia, que ocorreu a portas fechadas, durante cerca de meia hora.\nO presidente da Academia, Merval Pereira, queimou os votos em uma pira, como é tradição. O ato simboliza que há consenso entre os acadêmicos na escolha. ‘Ele é um grande escritor, um biógrafo excepcional, só vai acrescentar à Academia’, disse Pereira. Indagado se o fato de o autor ser um campeão de vendas influenciou na escolha, o presidente refutou e disse que a qualidade do trabalho foi determinante.\nO autor é um dos principais biógrafos do Brasil, tendo realizado obras seminais sobre figuras de sua admiração como Carmen Miranda (‘Carmen, uma Biografia’, de 2005), Garrincha (‘Estrela Solitária’, de 1995) e Nelson Rodrigues (‘O Anjo Pornográfico’, de 1992).”\n(adaptado de Folha de São Paulo, 07/10/2022) O texto refere-se a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Geraldo Carneiro."
+    },
+    {
+     "letra": "B",
+     "texto": "Fernando Morais."
+    },
+    {
+     "letra": "C",
+     "texto": "Ruy Castro."
+    },
+    {
+     "letra": "D",
+     "texto": "Sérgio Rodrigues."
+    },
+    {
+     "letra": "E",
+     "texto": "Itamar Vieira Junior."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 22"
+  },
+  {
+   "numero": 23,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "“É um tipo especial de token criptográfico que representa algo único. Diferentemente das criptomoedas como o Bitcoin e de vários outros tokens utilitários, eles não são mutuamente intercambiáveis.\nUm item fungível, como o dinheiro, pode ser trocado por outro.\nUma cédula de Real pode ser substituída, desde que de mesmo valor. Já os itens infungíveis são como as obras de arte, objetos raros, exemplares únicos etc.”\n(adaptado, Wikipedia) Ele representa algo específico e individual e não pode ser substituído. Assim, esses tokens vêm sendo muito comercializados no mercado de artes.\nO texto fala do uso e comércio de arte na forma conhecida pela sigla",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "NFT."
+    },
+    {
+     "letra": "B",
+     "texto": "GLE."
+    },
+    {
+     "letra": "C",
+     "texto": "ESG."
+    },
+    {
+     "letra": "D",
+     "texto": "BDF."
+    },
+    {
+     "letra": "E",
+     "texto": "TTT."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 23"
+  },
+  {
+   "numero": 24,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O fornecimento de gás da Rússia a países europeus tornou-se tema central nas consequências da guerra motivada pela invasão da Ucrânia pela Rússia. Como reação à invasão, a União Europeia e os EUA apoiaram a Ucrânia e estabeleceram duras sanções econômicas à Rússia. Em resposta, a Rússia cortou o fornecimento de gás à Europa.\nEm relação ao tema, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o fato de o petróleo ser a principal matriz energética usada na Europa atenua os eventuais efeitos danosos do corte no fornecimento de gás natural russo à União Europeia."
+    },
+    {
+     "letra": "B",
+     "texto": "uma das principais motivações para a invasão russa é o fato de o presidente ucraniano, Volodymyr Zelensky, reivindicar para a Ucrânia a operação do gasoduto Nord Stream II."
+    },
+    {
+     "letra": "C",
+     "texto": "o gasoduto Nord Stream I, que liga a Rússia à Alemanha, mas passa pela Ucrânia, sofreu recente sabotagem por parte dos ucranianos."
+    },
+    {
+     "letra": "D",
+     "texto": "o preço do gás ao consumidor subiu, em países europeus como o Reino Unido, muito acima da média da última década, e o inverno europeu se aproxima, o que fará com que aumente muito seu consumo, devido à necessidade não só de indústrias terem energia, mas de casas serem aquecidas."
+    },
+    {
+     "letra": "E",
+     "texto": "Além de cortar o fonecimento de gás pelo Nord Stream I, a Rússia também interrompeu o fornecimento pelos gasolutos Irmandade e União, que saem da Rússia, passam pela Ucrânia e chegam à Hungria, de onde seguem, ainda, para a França e a Itália."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 24"
+  },
+  {
+   "numero": 25,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "As mudanças climáticas representam um desafio sem precedente para a política ambiental global, colocando em xeque a capacidade de articulação dos Estados, ao mesmo tempo em que evidencia desigualdades globais. O enfrentamento eficaz do problema deve ter em mente um acordo que combine responsabilidades e vulnerabilidades diferenciadas.\nSobre a lógica inaugurada no Acordo de Paris, analise as afirmativas a seguir.\nI. Centra-se nas contribuições nacionais, em que cada Estado determina, internamente, sua contribuição para a redução da emissão de gases de efeito estufa.\nII. Serve de base para uma ação global mais forte em relação às mudanças climáticas, impondo as mesmas obrigações a todos os países participantes.\nIII. Permite que circunstâncias nacionais sejam levadas em consideração e estabelece uma estrutura duradoura para uma cooperação de longo prazo.\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 25"
+  },
+  {
+   "numero": 26,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Christo e Jeanne-Claude foi um casal de artistas plásticos que se notabilizou por um trabalho muito próximo à arquitetura e com forte componente social, que aparecia na execução de seus projetos, que sempre envolviam a comunidade onde as obras eram instaladas.\nAlguns aspectos presentes em sua obra, evidenciados nas fotos, são apresentados nas opções a seguir, à exceção de um.\nAssinale-o.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A escala de suas obras."
+    },
+    {
+     "letra": "B",
+     "texto": "A intervenção em ambientes naturais."
+    },
+    {
+     "letra": "C",
+     "texto": "A repetição de elementos."
+    },
+    {
+     "letra": "D",
+     "texto": "O caráter arquitetônico de sua linguagem."
+    },
+    {
+     "letra": "E",
+     "texto": "O fazer performático."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 26"
+  },
+  {
+   "numero": 27,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O ESG surgiu no mercado financeiro como uma forma de medir o impacto que as ações de sustentabilidade geram nos resultados das empresas. A sigla surgiu a primeira vez em 2004, dentro de um grupo de trabalho do Principles for Responsible Investment (PRI), rede ligada à ONU que tem como objetivo atrair investimentos sustentáveis.\nJames Gifford, economista que liderava o PRI, resumiu assim o significado de ESG:\n“O ESG é apenas um subgrupo inserido no contexto maior do investimento sustentável. O termo foi criado, especificamente, para focar em questões materiais. A ideia foi inverter a lógica do que, na época, era chamado de investimento ético, para se concentrar em fatores relevantes para os investidores. Se você tem uma responsabilidade fiduciária, como no caso de um fundo de pensão, não deveria estar pensando num horizonte de nove meses, mas sim de nove anos, ou de 20 anos. E quando se considera esse horizonte, temas como mudanças climáticas, riscos sociopolíticos etc., se tornam relevantes. Algumas pessoas usam o termo de maneira mais ampla, mas o ponto central é a incorporação de fatores socioambientais nos investimentos para gerenciar riscos. Não é mais sobre ética.”\n(https://exame.com/esg/) A sigla em inglês ESG significa",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "meio ambiente, social e governança."
+    },
+    {
+     "letra": "B",
+     "texto": "economia, social e gestão."
+    },
+    {
+     "letra": "C",
+     "texto": "energia, sustentabilidade e gestão."
+    },
+    {
+     "letra": "D",
+     "texto": "ética, natureza e economia."
+    },
+    {
+     "letra": "E",
+     "texto": "eficiência, sustentação e ação global."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 27"
+  },
+  {
+   "numero": 28,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Leia o fragmento a seguir.\n“Viver é muito perigoso... Porque aprender a viver é que é o viver mesmo... Travessia perigosa, mas é a da vida. Sertão que se alteia e abaixa... O mais difícil não é um ser bom e proceder honesto, dificultoso mesmo, é um saber definido ...”\nO fragmento mostra a linguagem característica de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "João Guimarães Rosa."
+    },
+    {
+     "letra": "B",
+     "texto": "Manoel Bandeira."
+    },
+    {
+     "letra": "C",
+     "texto": "Carlos Drummond de Andrade."
+    },
+    {
+     "letra": "D",
+     "texto": "Jorge Amado."
+    },
+    {
+     "letra": "E",
+     "texto": "Euclides da Cunha."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 28"
+  },
+  {
+   "numero": 29,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Anjos Tronchos (Caetano Veloso) Uns anjos tronchos do Vale do Silício Desses que vivem no escuro em plena luz Disseram: Vai ser virtuoso no vício Das telas dos azuis mais do que azuis Agora a minha história é um denso algoritmo Que vende venda a vendedores reais Neurônios meus ganharam novo outro ritmo E mais, e mais, e mais, e mais, e mais Primavera árabe E logo o horror Querer que o mundo acabe-se Sombras do amor Palhaços líderes brotaram macabros No império e nos seus vastos quintais Ao que revêm impérios já milenares Munidos de controles totais Anjos já mi, ou bi, ou trilionários Comandam só seus mi, bi, trilhões E nós, quando não somos otários Ouvimos Schoenberg, Webern, Cage, canções Ah, morena bela Estás aqui Sem pele, tela a tela Estamos aí Um post vil poderá matar Que é que pode ser salvação?\nQue nuvem, se nem espaço há?\nNem tempo, nem sim, nem não Sim, nem não Mas há poemas como jamais Ou como algum poeta sonhou Nos tempos em que havia tempos atrás E eu vou, por que não? Eu vou, por que não? Eu vou Uns anjos tronchos do Vale do Silício Tocaram fundo o minimíssimo grão E enquanto nós nos perguntamos do início Miss Eilish faz tudo do quarto com o irmão.\nAs afirmativas a seguir, acerca de referências que a letra da música faz, estão corretas, à exceção de uma. Assinale-a.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“Vale do Silício”, na Califórnia, EUA, é uma das maiores aglomerações de empresas com domínio de tecnologia de ponta do mundo."
+    },
+    {
+     "letra": "B",
+     "texto": "“Primavera Árabe” é uma expressão criada para designar a onda de protestos que marcou os países árabes a partir do final do ano de 2010."
+    },
+    {
+     "letra": "C",
+     "texto": "“Schoenberg, Webern, Cage” foram compositores eruditos com obra marcante no século XIX."
+    },
+    {
+     "letra": "D",
+     "texto": "“E eu vou, por que não? Eu vou, por que não? Eu vou” cita versos do próprio Caetano em Alegria, Alegria."
+    },
+    {
+     "letra": "E",
+     "texto": "“Miss Eilish” refere-se a Billie Eilish, jovem compositora e cantora, já ganhadora de Oscar e outros prêmios importantes, que compôs seu álbum de estreia no quarto do irmão, Finneas."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 29"
+  },
+  {
+   "numero": 30,
+   "disciplina": "Atualidades",
+   "assunto": "Atualidades (2022)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Academia Real das Ciências da Suécia anunciou que Alain Aspect (Universidade de Paris-Saclay e Escola Politécnica, França), John F. Clauser (J.F. Clauser & Associados, EUA) e Anton Zeilinger (Universidade de Viena, Áustria) foram os laureados do Prêmio Nobel de Física de 2022. O trio recebeu o reconhecimento por experimentos envolvendo emaranhamento quântico, cujos resultados abriram caminho para o desenvolvimento de novas tecnologias na era da informação quântica.\n“Tornou-se cada vez mais claro que um novo tipo de tecnologia está surgindo. Podemos ver que o trabalho dos laureados com estados emaranhados é de grande importância, mesmo para além das questões fundamentais sobre a interpretação da mecânica quântica” anunciou o comitê do Nobel.\n(Adaptado de https://jornal.unesp.br/2022/10/04) A mecânica quântica é um ramo da física que surgiu por volta de _____ e se dedica a pesquisar o comportamento de partículas em escalas atômicas e subatômicas, como átomos, elétrons e prótons.\nA lacuna fica corretamente preenchida por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1800."
+    },
+    {
+     "letra": "B",
+     "texto": "1850."
+    },
+    {
+     "letra": "C",
+     "texto": "1900."
+    },
+    {
+     "letra": "D",
+     "texto": "1950."
+    },
+    {
+     "letra": "E",
+     "texto": "2000."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 30"
+  },
+  {
+   "numero": 31,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Licitações e contratos (Lei 14.133/2021)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Determinado órgão da Administração Pública, ao identificar a necessidade de ser realizada a contratação de serviços de engenharia, concluiu que a melhor opção, entre aquelas oferecidas pela Lei nº 14.133/2021, era a contratação semi-integrada.\nNesse caso, além de serem atendidos os demais requisitos estabelecidos pela ordem jurídica, é correto afirmar que o contratado deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a partir do projeto básico, elaborar e desenvolver o projeto executivo, executar o serviço e praticar as demais operações necessárias e suficientes à sua entrega final."
+    },
+    {
+     "letra": "B",
+     "texto": "prestar os serviços contratados em sua integralidade, de modo que o contratante possa fruir os respectivos benefícios sem qualquer atividade complementar."
+    },
+    {
+     "letra": "C",
+     "texto": "praticar todos os atos de individualização do objeto do ajuste, executar o serviço e praticar as demais operações necessárias e suficientes à entrega final do objeto."
+    },
+    {
+     "letra": "D",
+     "texto": "prestar os serviços necessários para pequenos trabalhos por preço certo, com ou sem o fornecimento de materiais."
+    },
+    {
+     "letra": "E",
+     "texto": "fornecer o serviço contratado e responsabilizar-se pela sua manutenção durante tempo determinado."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 31"
+  },
+  {
+   "numero": 32,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Improbidade administrativa",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Inês, estudiosa do direito administrativo, questionou sua professora a respeito da possibilidade, ou não, de uma pessoa jurídica ser considerada sujeito ativo do ato de improbidade administrativa.\nÀ luz dos balizamentos estabelecidos na Lei nº 8.429/1992, Inês foi corretamente esclarecida no sentido de que a pessoa jurídica",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "somente pode figurar como terceiro caso tenha concorrido ou se beneficiado do ato, não como sujeito ativo."
+    },
+    {
+     "letra": "B",
+     "texto": "somente pode figurar como sujeito ativo, em caráter sequencial, caso um dos seus dirigentes seja previamente condenado pela prática do ato."
+    },
+    {
+     "letra": "C",
+     "texto": "pode figurar como sujeito ativo, desde que solicitada e deferida a desconsideração inversa da personalidade jurídica, considerando o ato praticado pelo seu sujeito ativo."
+    },
+    {
+     "letra": "D",
+     "texto": "pode figurar como sujeito ativo se recebeu recursos de origem pública, ao celebrar, com a administração pública, convênio, contrato de repasse, contrato de gestão ou ajuste equivalente."
+    },
+    {
+     "letra": "E",
+     "texto": "sempre figurará como sujeito ativo do ato quando tiver celebrado contrato administrativo com a administração pública ou mesmo ajuste que caracterize convergência de interesses entre ambos."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 32"
+  },
+  {
+   "numero": 33,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Agentes públicos > Lei 8.112/1990",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Júlio, servidor público federal ocupante de cargo de provimento efetivo, decidiu requerer a sua remoção, no âmbito do mesmo quadro, para a atuação em outra estrutura orgânica, com mudança de sede.\nÀ luz do regime jurídico dos servidores públicos civis da União, é correto afirmar que a remoção referida por Júlio é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "incompatível com o referido regime, pois somente é admitida a remoção de ofício, não a pedido."
+    },
+    {
+     "letra": "B",
+     "texto": "incompatível com o referido regime, pois somente é admitida a remoção caso não haja mudança de sede."
+    },
+    {
+     "letra": "C",
+     "texto": "compatível com o referido regime, mas somente se dá no interesse da Administração, qualquer que seja o motivo invocado pelo servidor."
+    },
+    {
+     "letra": "D",
+     "texto": "compatível com o referido regime, sendo possível que, em certas circunstâncias, deva ser promovida independentemente do interesse da Administração."
+    },
+    {
+     "letra": "E",
+     "texto": "compatível com o referido regime, mas somente se dá a critério da Administração, o que significa dizer que está sujeita a um juízo de conveniência e oportunidade."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 33"
+  },
+  {
+   "numero": 34,
+   "disciplina": "Legislação Específica",
+   "assunto": "Regimento interno de tribunal",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Joana, servidora do Tribunal Regional do Trabalho da 16ª Região, atua no âmbito da Comissão de Jurisprudência do Tribunal. Em sua atuação, constatou que alguns Desembargadores do Trabalho em atuação no Tribunal subscreveram requerimento de edição de súmula.\nCom base nessa narrativa e levando em consideração o Regimento Interno do Tribunal, Joana concluiu corretamente que a Comissão",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "independente do seu entendimento sobre a oportunidade e conveniência da proposta, deve encaminhá-la ao Presidente do Tribunal."
+    },
+    {
+     "letra": "B",
+     "texto": "independente de qualquer deliberação sobre a oportunidade e conveniência da proposta, deve encaminhá-la à livre distribuição do Tribunal Pleno."
+    },
+    {
+     "letra": "C",
+     "texto": "deve deliberar sobre a oportunidade e conveniência da proposta antes de lhe dar seguimento, com o encaminhamento ao Presidente do Tribunal."
+    },
+    {
+     "letra": "D",
+     "texto": "deve solicitar a autorização de processamento do requerimento ao Presidente do Tribunal e, uma vez autorizado, iniciar o processo de instrução e análise."
+    },
+    {
+     "letra": "E",
+     "texto": "deve deliberar sobre a oportunidade e conveniência da proposta antes de lhe dar seguimento, com o encaminhamento à livre distribuição do Tribunal Pleno."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 34"
+  },
+  {
+   "numero": 35,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Controle de constitucionalidade",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O Supremo Tribunal Federal (STF), em sede de controle concentrado de constitucionalidade, reconheceu a conformidade constitucional da Lei estadual nº XX, rejeitando o argumento de que o respectivo Estado seria incompetente para legislar sobre a matéria. Poucos anos depois, foi editada a Lei estadual nº YY, que conferiu nova disciplina à matéria versada na Lei estadual nº XX, revogando-a.\nA exemplo do que ocorrera com a Lei estadual nº XX, diversos entes privados e inúmeras estruturas estatais de poder estavam se negando a cumprir a Lei estadual nº YY, sob o argumento de que o Estado não tinha competência para legislar sobre a matéria.\nAo solicitar que a Procuradoria-Geral do Estado ingressasse com a ação declaratória de constitucionalidade (ADC), foi corretamente informado ao Chefe do Poder Executivo que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não há interesse processual para o ajuizamento da ADC, pois o STF já se manifestou quanto à competência do Estado para legislar sobre a matéria."
+    },
+    {
+     "letra": "B",
+     "texto": "não é possível o ajuizamento da ADC para que seja reconhecida a conformidade constitucional da Lei estadual nº YY, por estarem ausentes os requisitos exigidos."
+    },
+    {
+     "letra": "C",
+     "texto": "como a legitimidade para o ajuizamento da ADC é do Governador, não do Estado enquanto ente federativo, a Procuradoria-Geral do Estado não pode ajuizar, de modo isolado, a referida ação."
+    },
+    {
+     "letra": "D",
+     "texto": "a ADC, a ser ajuizada perante o STF, deve observar o princípio da subsidiariedade, o que significa dizer que somente será cabível caso não se obtenha êxito em ação similar perante o Tribunal de Justiça local."
+    },
+    {
+     "letra": "E",
+     "texto": "é cabível, em razão de permissivo constitucional expresso, o ajuizamento de reclamação, perante o STF, em razão das inobservância dos motivos prevalecentes adotados na decisão que reconheceu a constitucionalidade da Lei estadual nº XX."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 35"
+  },
+  {
+   "numero": 36,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Judiciário",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "No curso de relação processual no âmbito da Justiça do Trabalho, foram acolhidos, em sentença transitada em julgado, os pedidos formulados pelo reclamante, com a consequente condenação do antigo empregador ao pagamento dos valores almejados.\nRessalte-se que a condenação decorreu do não pagamento de horas extraordinárias, sendo que, durante toda a relação de emprego, as contribuições previdenciárias incidentes sobre o salário normal foram pontualmente recolhidas pelo empregador.\nNesse caso, as contribuições previdenciárias concernentes ao objeto da referida condenação devem ser objeto de execução no âmbito da Justiça",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "do Trabalho, devendo ser iniciada de ofício."
+    },
+    {
+     "letra": "B",
+     "texto": "do Trabalho, a partir de iniciativa privativa do Instituto Nacional de Previdência Social."
+    },
+    {
+     "letra": "C",
+     "texto": "comum, por iniciativa da Fazenda Pública, após a devida inscrição do débito em dívida ativa."
+    },
+    {
+     "letra": "D",
+     "texto": "do Trabalho, a partir de iniciativa do reclamante ou do Instituto Nacional de Previdência Social."
+    },
+    {
+     "letra": "E",
+     "texto": "comum, por iniciativa da Fazenda Pública, independente de prévia inscrição do débito em dívida ativa."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 36"
+  },
+  {
+   "numero": 37,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Controle de constitucionalidade",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João, estudante de direito, questionou o seu professor a respeito da possibilidade de a arguição de descumprimento de preceito fundamental ser direcionada à impugnação de atos de caráter não normativo do Poder Público.\nO professor respondeu corretamente que o referido instrumento, preenchidos os requisitos exigidos,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a exemplo dos demais instrumentos utilizados para o controle concentrado de constitucionalidade, somente pode ser utilizado para impugnar atos normativos, qualquer que seja a sua natureza, excluídos os pré-constitucionais."
+    },
+    {
+     "letra": "B",
+     "texto": "a exemplo dos demais instrumentos utilizados para o controle concentrado de constitucionalidade, somente pode ser utilizado para impugnar atos normativos, qualquer que seja a sua natureza, incluídos os pré-constitucionais."
+    },
+    {
+     "letra": "C",
+     "texto": "somente pode ser utilizado para impugnar atos não normativos do Poder Público quando não for possível a utilização dos denominados remédios constitucionais pelo titular do direito."
+    },
+    {
+     "letra": "D",
+     "texto": "pode ser utilizado tanto para impugnar os atos normativos como os atos administrativos do Poder Público, excluídos os atos jurisdicionais, isto em razão do princípio da subsidiariedade."
+    },
+    {
+     "letra": "E",
+     "texto": "pode ser utilizado tanto para impugnar atos normativos como outros atos do Poder Público, incluindo atos jurisdicionais e a interpretação que dispensem ao texto normativo."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 37"
+  },
+  {
+   "numero": 38,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Editora XX, em evento muito divulgado pelos meios de comunicação social, lançou detalhada biografia de YY, famoso compositor, nacional do País Alfa, mas que residia há alguns anos no território brasileiro. Para surpresa de todos, YY compareceu ao evento e, aos gritos, disse que iria processar a Editora e o autor da biografia, pois ele não tinha autorizado a sua publicação.\nConsiderando os termos dessa narrativa, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "como YY é nacional de outro País, não se lhe aplicam as normas constitucionais de proteção dos direitos fundamentais."
+    },
+    {
+     "letra": "B",
+     "texto": "a Editora XX e o autor da biografia praticaram ato ilícito, pois texto dessa natureza penetra na intimidade alheia, o que tornava indispensável a prévia autorização de YY."
+    },
+    {
+     "letra": "C",
+     "texto": "a Editora XX e o autor da biografia não praticaram qualquer ilícito caso a existência do texto tenha sido previamente informada a YY, permitindo-lhe fazer o contraponto argumentativo."
+    },
+    {
+     "letra": "D",
+     "texto": "a publicação da biografia de YY não dependia de sua prévia autorização, devendo prevalecer as liberdades de pensamento e de expressão, que não se coadunam com a censura prévia."
+    },
+    {
+     "letra": "E",
+     "texto": "a licitude, ou não, da publicação da biografia sem a prévia autorização de YY só pode ser aferida à luz das peculiaridades do caso concreto, conforme prepondere, nas informações apresentadas ao leitor, o interesse público ou a privacidade."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 38"
+  },
+  {
+   "numero": 39,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e garantias fundamentais > Direitos políticos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Câmara do Município Alfa decidiu formular consulta à população local a respeito da conveniência de se alterar os nomes das principais ruas do Município, sendo que os nomes atualmente adotados configuram homenagem a personagens de grande importância histórica. O Poder Legislativo ainda decidiu que a consulta popular teria maiores chances de êxito se fosse realizada por intermédio da Justiça Eleitoral, de modo concomitante com as eleições para cargos eletivos federais e estaduais a serem realizadas quatro meses depois.\nÀ luz dessa narrativa, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Justiça Eleitoral deve realizar a consulta popular alvitrada, desde que os termos da consulta lhe sejam encaminhados até 90 dias antes da data da referida eleição, observados os limites operacionais quanto ao número de quesitos."
+    },
+    {
+     "letra": "B",
+     "texto": "a Justiça Eleitoral tem plena liberdade valorativa para decidir se deve, ou não, realizar a consulta popular pretendida, podendo celebrar convênio com o Município com esse objetivo."
+    },
+    {
+     "letra": "C",
+     "texto": "a consulta não pode ser realizada pela Justiça Eleitoral, que somente tem a incumbência constitucional de realizar as eleições, não de promover consultas populares de interesse local."
+    },
+    {
+     "letra": "D",
+     "texto": "a consulta popular alvitrada pela Câmara Municipal não pode ser realizada na referida eleição, ainda que os seus termos sejam encaminhados até 90 dias antes da sua realização."
+    },
+    {
+     "letra": "E",
+     "texto": "a Justiça Eleitoral somente está obrigada a realizar a consulta popular alvitrada caso seja editada lei da União estabelecendo a obrigatoriedade."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 39"
+  },
+  {
+   "numero": 40,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Organização do Estado",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O Município Delta, situado na região costeira do território nacional, é um importante polo turístico, o que é influenciado pela exuberância de suas praias. Apesar disso, esse potencial, ao ver das autoridades municipais, estava sendo afetado pelo movimento de embarcações no porto marítimo existente no local, o que agitava o mar e comprometia o uso das praias pelos turistas. Por tal razão, foi editada a Lei municipal nº XX, que determinava, à sociedade empresária administradora do porto, que somente permitisse o acesso de navios cujo peso e dimensão não ultrapassasse o padrão estabelecido nesse diploma normativo, bem como limitava ao período diurno, apenas durante os dias da semana, a circulação de navios.\nÀ luz da divisão de competências legislativas estabelecida na Constituição da República, a Lei municipal nº XX é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "constitucional, pois a matéria é de competência legislativa concorrente entre a União e os Estados, podendo ser suplementada pelos Municípios."
+    },
+    {
+     "letra": "B",
+     "texto": "parcialmente constitucional, apenas na parte em que estabelece os dias e os horários nos quais os navios podem circular."
+    },
+    {
+     "letra": "C",
+     "texto": "parcialmente constitucional, apenas na parte em que limitou o acesso de navios, conforme o respectivo peso e dimensão."
+    },
+    {
+     "letra": "D",
+     "texto": "constitucional, pois compete aos Municípios legislar sobre matérias de interesse local."
+    },
+    {
+     "letra": "E",
+     "texto": "inconstitucional, pois compete privativamente à União legislar sobre a matéria."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 40"
+  },
+  {
+   "numero": 41,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e garantias fundamentais > Direitos individuais e coletivos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João se inscreveu em concurso público no qual seriam selecionados os ocupantes de cargos de provimento efetivo no âmbito do Estado Alfa. Para a sua surpresa, a prova foi designada para o dia XX, único dia do ano no qual sua religião apregoava a necessidade de amplo e irrestrito “retiro espiritual”, exigindo do fiel o total isolamento de outras pessoas.\nNesse caso, à luz da interpretação que deve ser dispensada à ordem constitucional, é correto afirmar que:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não é possível que João faça a prova em data distinta, o que acarretaria o descumprimento do edital, no qual foi definida a data da prova."
+    },
+    {
+     "letra": "B",
+     "texto": "João tem o direito subjetivo de realizar a prova em outra data, que será indicada pela Administração Pública, considerando a proteção constitucional à liberdade de crença."
+    },
+    {
+     "letra": "C",
+     "texto": "a Administração deve decidir de maneira fundamentada sobre a realização da prova em outra data, observando os referenciais de razoabilidade, isonomia entre os candidatos e ausência de ônus desproporcional para o erário."
+    },
+    {
+     "letra": "D",
+     "texto": "só é possível que João faça a prova em data diversa caso seja instaurado processo administrativo regular, com a manifestação dos demais candidatos, que devem se pronunciar sobre a possível quebra de isonomia."
+    },
+    {
+     "letra": "E",
+     "texto": "em razão da ponderação entre o interesse individual de João e o interesse coletivo na regular realização do concurso público, a data da prova não pode ser alterada, salvo se houver previsão editalícia específica."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 41"
+  },
+  {
+   "numero": 42,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Executivo",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Conforme fora amplamente divulgado pelos meios de comunicações social, em determinada legislatura, já sob a égide da Constituição da República de 1988, o Presidente da República, desacompanhado do Vice-Presidente, decidiu realizar uma viagem ao continente europeu, com a duração de vinte dias, durante a qual seria negociada a celebração de diversos tratados de interesse para o País.\nÀ luz da sistemática constitucional, a referida viagem do Presidente da República",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não dependia de prévia autorização do Congresso Nacional, já que o Vice-Presidente da República permaneceu no território brasileiro."
+    },
+    {
+     "letra": "B",
+     "texto": "dependia de prévia autorização, de competência exclusiva do Congresso Nacional, o que significa dizer que não precisava ser veiculada em lei."
+    },
+    {
+     "letra": "C",
+     "texto": "somente dependeria de autorização prévia do Congresso Nacional caso o Presidente da República se ausentasse do território nacional por lapso superior a trinta dias."
+    },
+    {
+     "letra": "D",
+     "texto": "deveria apenas resultar na apresentação de relatório, a posteriori, ao Congresso Nacional, não se exigindo autorização prévia para a viagem, o que afrontaria a separação dos poderes."
+    },
+    {
+     "letra": "E",
+     "texto": "dependia de prévia autorização do Congresso Nacional, pois o Presidente da República, ainda que desacompanhado do Vice-Presidente, sempre necessita de autorização para se ausentar do território brasileiro."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 42"
+  },
+  {
+   "numero": 43,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Administração Pública",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João, Prefeito do Município Alfa, questionou sua assessoria a respeito da possibilidade de os servidores públicos municipais incorporarem à remuneração do cargo efetivo os valores decorrentes do exercício de função de confiança.\nA assessoria respondeu corretamente que, à luz da sistemática constitucional, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "expressamente vedada a incorporação pretendida."
+    },
+    {
+     "letra": "B",
+     "texto": "permitida a incorporação pretendida, desde que prevista na lei orgânica municipal."
+    },
+    {
+     "letra": "C",
+     "texto": "permitida a incorporação pretendida, desde que prevista na lei que disciplina o regime jurídico dos servidores públicos municipais."
+    },
+    {
+     "letra": "D",
+     "texto": "permitida a incorporação pretendida, desde que prevista em lei municipal e haja razoabilidade em relação ao tempo exigido de exercício da função de confiança;"
+    },
+    {
+     "letra": "E",
+     "texto": "somente é permitida em relação ao cargo em comissão, não quanto à função de confiança, que somente pode ser desempenhada pelos servidores ocupantes de cargo efetivo."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 43"
+  },
+  {
+   "numero": 44,
+   "disciplina": "Direito Constitucional",
+   "assunto": "Fiscalização contábil, financeira e orçamentária",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O Tribunal de Contas do Estado Alfa, ao tomar ciência da admissão de pessoal pelo Poder Executivo do Município Beta, constatou a ilegalidade de determinado ato.\nConsiderando os termos da narrativa, é correto afirmar, à luz da ordem constitucional, que o Tribunal de Contas",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não deve ratificar o ato de admissão de pessoal, que somente passa a produzir efeitos após a decisão favorável do Tribunal de Contas."
+    },
+    {
+     "letra": "B",
+     "texto": "somente deve examinar a admissão para o provimento de cargo de provimento efetivo e, uma vez constatada a ilegalidade, deve anulá-la de imediato."
+    },
+    {
+     "letra": "C",
+     "texto": "deve examinar qualquer ato de admissão de pessoal, para o provimento de cargo de provimento efetivo ou em comissão, e, uma vez constatada a ilegalidade, deve anulá-lo de imediato."
+    },
+    {
+     "letra": "D",
+     "texto": "deve examinar qualquer ato de admissão de pessoal e, uma vez constatada a ilegalidade, deve assinar prazo para que o ente de origem adote as medidas necessárias ao exato cumprimento da lei."
+    },
+    {
+     "letra": "E",
+     "texto": "somente deve examinar a admissão para o provimento de cargo de provimento efetivo e, uma vez constatada a ilegalidade, deve assinar prazo para que o ente de origem adote as medidas necessárias ao exato cumprimento da lei."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 44"
+  },
+  {
+   "numero": 45,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Responsabilidade civil do Estado",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Após briga com seu vizinho, João foi atingido por três disparos de arma de fogo feitos por Leonardo e foi levado ao hospital público do Estado Alfa. João foi operado e, no dia seguinte, Leonardo entrou no hospital, passou pela recepção, na qual não havia qualquer funcionário ou vigilante, se dirigiu ao quarto onde João se recuperava da cirurgia e efetuou mais dois disparos, fugindo em seguida. Não havia qualquer médico no hospital naquele momento, e João morreu após grave hemorragia. Os filhos de João ajuizaram ação indenizatória em face do Estado Alfa, alegando e comprovando inexistência de vigilância, cuidados mínimos de segurança e médico de plantão por parte do hospital.\nNo caso em tela, de acordo com a jurisprudência atual do Superior Tribunal de Justiça, a pretensão indenizatória dos filhos de João",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não merece prosperar, diante da falta de nexo causal, por se tratar de caso fortuito."
+    },
+    {
+     "letra": "B",
+     "texto": "não merece prosperar, diante da falta de nexo causal, por se tratar de fato exclusivo de terceiro."
+    },
+    {
+     "letra": "C",
+     "texto": "não merece prosperar, diante da falta de nexo causal, por se tratar de fato imprevisível."
+    },
+    {
+     "letra": "D",
+     "texto": "merece prosperar, diante da responsabilidade civil objetiva do Estado Alfa."
+    },
+    {
+     "letra": "E",
+     "texto": "merece prosperar, diante da responsabilidade civil subjetiva do Estado Alfa."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 45"
+  },
+  {
+   "numero": 46,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Improbidade administrativa",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O Ministério Público Federal (MPF) instaurou inquérito civil para apurar a prática de ato de improbidade administrativa doloso, que teria sido cometido pelo agente público João, ocorrido em agosto de 2022, que causou prejuízo ao erário da União em decorrência de superfaturamento em licitação na ordem de trezentos mil reais. Ao final das investigações, o advogado de João propôs ao MPF a celebração de um acordo de não persecução civil (ANPC), para evitar o ajuizamento de ação de improbidade com possibilidade de condenação de seu cliente a sanções mais gravosas.\nPreenchidos os requisitos legais, em tese, é possível a celebração do acordo de não persecução civil e, de acordo com a atual redação da Lei nº 8.429/92,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "deve ocorrer a reversão ao MPF da vantagem indevida obtida com o superfaturamento, no prazo de até 60 (sessenta) dias após a homologação do acordo, permitido o parcelamento."
+    },
+    {
+     "letra": "B",
+     "texto": "não deve ocorrer homologação judicial, porque se trata de acordo celebrado antes do ajuizamento da ação de improbidade administrativa."
+    },
+    {
+     "letra": "C",
+     "texto": "não é possível a celebração do ANPC antes do ajuizamento da ação de improbidade, pois o acordo somente pode ser celebrado no curso da ação de improbidade."
+    },
+    {
+     "letra": "D",
+     "texto": "deve ocorrer homologação judicial do acordo e não há necessidade de aprovação do ANPC pelo órgão do Ministério Público competente para apreciar as promoções de arquivamento de inquéritos civis."
+    },
+    {
+     "letra": "E",
+     "texto": "deve ser realizada a oitiva do Tribunal de Contas competente, para fins de apuração do valor do dano a ser ressarcido, e a Corte de Contas se manifestará, com indicação dos parâmetros utilizados, no prazo de 90 (noventa) dias."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 46"
+  },
+  {
+   "numero": 47,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Bens públicos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A associação de moradores do Bairro Alfa obteve consentimento do Município Beta para utilização especial de bem público consistente no fechamento da Rua Gama, no primeiro sábado de junho, das 18h às 23h, para realização de um evento festivo.\nSabe-se que o mencionado consentimento ocorreu de forma precária, sem prévia licitação, e atendendo ao interesse daquela coletividade, sem prejuízo ao interesse público.\nDe acordo com a doutrina de Direito Administrativo, o ato praticado pelo poder público municipal consiste em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "concessão de uso."
+    },
+    {
+     "letra": "B",
+     "texto": "permissão de uso."
+    },
+    {
+     "letra": "C",
+     "texto": "autorização de uso."
+    },
+    {
+     "letra": "D",
+     "texto": "concessão de direito real de uso."
+    },
+    {
+     "letra": "E",
+     "texto": "concessão de uso especial transitória."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 47"
+  },
+  {
+   "numero": 48,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Licitações e contratos (Lei 14.133/2021)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em meados de 2022, o Tribunal Regional do Trabalho da Yª Região, após regular procedimento licitatório, contratou a sociedade empresária Gama para realizar determinadas obras. De acordo com a regra geral do texto da Lei nº 14.133/2021, o recebimento provisório do objeto do contrato será feito",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "por servidor designado pela autoridade competente, mediante termo técnico que comprove o atendimento das exigências do edital de licitação e do contrato."
+    },
+    {
+     "letra": "B",
+     "texto": "pelo responsável por seu acompanhamento e fiscalização, mediante termo detalhado, quando verificado o cumprimento das exigências de caráter técnico."
+    },
+    {
+     "letra": "C",
+     "texto": "pelo responsável por seu acompanhamento e fiscalização, de forma sumária, com verificação posterior da conformidade do material com as exigências contratuais."
+    },
+    {
+     "letra": "D",
+     "texto": "por comissão, composta por três servidores, designada pela autoridade competente mediante termo detalhado que comprove o atendimento das exigências contratuais."
+    },
+    {
+     "letra": "E",
+     "texto": "por comissão, composta por cinco servidores, designada pela autoridade competente mediante termo técnico que comprove o atendimento das exigências do edital do certame e do contrato."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 48"
+  },
+  {
+   "numero": 49,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Agentes públicos > Lei 8.112/1990",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Fernando, servidor público federal ocupante do cargo de Analista Judiciário do Tribunal Regional do Trabalho da Yª Região, praticou incontinência pública e conduta escandalosa na repartição. Após regular processo administrativo disciplinar, de acordo com a Lei nº 8.112/1990, Fernando está sujeito à sanção de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "demissão, a ser aplicada pelo Presidente do TRT da Yª Região."
+    },
+    {
+     "letra": "B",
+     "texto": "demissão, a ser aplicada pelo Presidente da República."
+    },
+    {
+     "letra": "C",
+     "texto": "suspensão de até 90 (noventa), a ser aplicada pelo Presidente da República."
+    },
+    {
+     "letra": "D",
+     "texto": "suspensão de até 90 (noventa), a ser aplicada pelo Presidente do TRT da Yª Região."
+    },
+    {
+     "letra": "E",
+     "texto": "advertência, a ser aplicada pelo Corregedor-Geral do TRT da Yª Região."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 49"
+  },
+  {
+   "numero": 50,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Intervenção do Estado na propriedade",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O Município Alfa, para fins de instalação de poste para viabilizar o serviço de iluminação pública, utilizou, com base no poder de polícia, uma parcela do terreno privado de propriedade de Marcelo. No caso em tela, o poder público municipal fez uso da intervenção do Estado na propriedade denominada",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "requisição administrativa."
+    },
+    {
+     "letra": "B",
+     "texto": "servidão administrativa."
+    },
+    {
+     "letra": "C",
+     "texto": "limitação administrativa."
+    },
+    {
+     "letra": "D",
+     "texto": "desapropriação indireta."
+    },
+    {
+     "letra": "E",
+     "texto": "tombamento."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 50"
+  },
+  {
+   "numero": 51,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Consórcios públicos",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Lei nº 11.107/2005 dispõe sobre normas gerais de contratação de consórcios públicos. De acordo com o citado diploma legal, o consórcio público",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "constituirá associação pública ou pessoa jurídica de direito privado."
+    },
+    {
+     "letra": "B",
+     "texto": "será constituído por contrato cuja celebração independerá da prévia subscrição de protocolo de intenções."
+    },
+    {
+     "letra": "C",
+     "texto": "não poderá ser contratado pela administração direta ou indireta dos entes da Federação consorciados, dispensada a licitação."
+    },
+    {
+     "letra": "D",
+     "texto": "não poderá firmar convênios, contratos, acordos de qualquer natureza, receber auxílios, contribuições e subvenções sociais ou econômicas de outras entidades e órgãos do governo, mas poderá fazê-lo com a iniciativa privada."
+    },
+    {
+     "letra": "E",
+     "texto": "não poderá, em qualquer caso, promover desapropriações e instituir servidões nos termos de declaração de utilidade ou necessidade pública, ou interesse social, realizada pelo Poder Público."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 51"
+  },
+  {
+   "numero": 52,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Processo administrativo (Lei 9.784/1999)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "De acordo com a Lei nº 9.784/1999, que trata do processo administrativo federal, a motivação deve ser explícita, clara e congruente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato, configurando o que a doutrina denomina de motivação aliunde."
+    },
+    {
+     "letra": "B",
+     "texto": "não podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, para se evitar, segundo a doutrina, denominada reformatio in pejus."
+    },
+    {
+     "letra": "C",
+     "texto": "podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, contudo, não serão parte integrante do ato, configurando o que a doutrina denomina de motivação per relationem."
+    },
+    {
+     "letra": "D",
+     "texto": "não podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, para se evitar, segundo a doutrina, o chamado efeito ex nunc."
+    },
+    {
+     "letra": "E",
+     "texto": "podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato, configurando o que a doutrina denomina de teoria dos motivos determinantes."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 52"
+  },
+  {
+   "numero": 53,
+   "disciplina": "Legislação Específica",
+   "assunto": "Carreiras do Poder Judiciário da União (Lei 11.416/2006)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A Lei nº 11.416/2006, que dispõe sobre as Carreiras dos Servidores do Poder Judiciário da União, estabelece que integram os Quadros de Pessoal dos órgãos do Poder Judiciário da União as Funções Comissionadas, escalonadas de FC-1 a FC-6, e os Cargos em Comissão, escalonados de CJ-1 a CJ-4, para o exercício de atribuições de direção, chefia e assessoramento. Nesse contexto, o referido diploma legal dispõe que cada órgão destinará",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a integralidade das funções comissionadas para serem exercidas por servidores integrantes das Carreiras dos Quadros de Pessoal do Poder Judiciário da União."
+    },
+    {
+     "letra": "B",
+     "texto": "a integralidade das funções comissionadas para serem exercidas por servidores integrantes da Administração Pública Direta da União."
+    },
+    {
+     "letra": "C",
+     "texto": "no mínimo, 80% (oitenta por cento) do total das funções comissionadas para serem exercidas por servidores integrantes das Carreiras dos Quadros de Pessoal do Poder Judiciário da União, podendo designar-se para as restantes pessoas não concursadas."
+    },
+    {
+     "letra": "D",
+     "texto": "no mínimo, 80% (oitenta por cento) do total das funções comissionadas para serem exercidas por servidores integrantes das Carreiras dos Quadros de Pessoal do Poder Judiciário da União, podendo designar-se para as restantes apenas servidores ocupantes de cargos de provimento efetivo de outros órgãos do Poder Judiciário."
+    },
+    {
+     "letra": "E",
+     "texto": "no mínimo, 80% (oitenta por cento) do total das funções comissionadas para serem exercidas por servidores integrantes das Carreiras dos Quadros de Pessoal do Poder Judiciário da União, podendo designar-se para as restantes servidores ocupantes de cargos de provimento efetivo que não integrem essas carreiras ou que sejam titulares de empregos públicos, observados os requisitos de qualificação e de experiência previstos em regulamento."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 53"
+  },
+  {
+   "numero": 54,
+   "disciplina": "Direito Administrativo",
+   "assunto": "Licitações e contratos (Lei 14.133/2021)",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em matéria de princípios da licitação, na aplicação da Lei nº 14.133/2021, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade e também alguns outros, como",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "da competitividade, da economicidade, do desenvolvimento nacional sustentável e do julgamento subjetivo."
+    },
+    {
+     "letra": "B",
+     "texto": "da não vinculação, ao edital, do julgamento objetivo, da segurança jurídica e da competitividade."
+    },
+    {
+     "letra": "C",
+     "texto": "do planejamento, da eficácia, da segregação de funções e da motivação."
+    },
+    {
+     "letra": "D",
+     "texto": "da vedação de segregação de funções, do julgamento objetivo, da economicidade e da competitividade."
+    },
+    {
+     "letra": "E",
+     "texto": "da segurança jurídica, da competitividade, da celeridade, do julgamento subjetivo, da economicidade e do desenvolvimento nacional sustentável."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 54"
+  },
+  {
+   "numero": 55,
+   "disciplina": "Direito Civil",
+   "assunto": "Direito civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A sociedade empresária Rio Festivo, em razão de fatos extraordinários e imprevisíveis, sofreu com a interrupção de suas atividades comerciais, impactando negativamente o patrimônio da sociedade. Em que pese todo o esforço para adimplir as obrigações previamente assumidas, a sociedade Rio Festivo não teve capacidade financeira para pagar um dos seus fornecedores, que ingressou com ação judicial a fim de satisfazer o seu crédito.\nNo curso da ação, restou evidenciado que a sociedade Rio Festivo não possuía patrimônio suficiente, porém Carlos, sócio majoritário, possuía confortável situação financeira.\nAnte o fato hipoteticamente narrado, é correto afirmar que o fornecedor-credor deverá requerer",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a instauração do incidente de desconsideração da personalidade jurídica, o qual será deferido em razão de Carlos possuir condições financeiras para efetuar o pagamento devido."
+    },
+    {
+     "letra": "B",
+     "texto": "a instauração do incidente de desconsideração da personalidade jurídica, o qual será deferido, posto que o inadimplemento configura o desvio de finalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "a instauração do incidente de desconsideração da personalidade jurídica, o qual será indeferido em razão de não restar configurada a confusão patrimonial ou o desvio de finalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "a instauração do incidente de desconsideração inversa da personalidade jurídica, a fim de satisfazer o seu crédito."
+    },
+    {
+     "letra": "E",
+     "texto": "a instauração do incidente de desconsideração da personalidade jurídica, o qual será indeferido em razão de o crédito do fornecedor não ser preferencial."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 55"
+  },
+  {
+   "numero": 56,
+   "disciplina": "Direito Civil",
+   "assunto": "Direito civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Daniel e Pedro, irmãos gêmeos e filhos de Tereza, com o intuito de celebrar os seus aniversários de 13 anos, resolveram realizar uma espécie de gincana na garagem do condomínio edilício no qual residem com a mãe. A gincana era composta por vários desafios, envolvendo corrida de obstáculos, caça ao tesouro e o desafio final era uma disputa de pênaltis.\nPara tanto, estabeleceram como gol o espaço entre dois veículos estacionados na garagem, o de Tereza e o veículo de propriedade do vizinho do apartamento 901. Justamente no último chute ao gol, Daniel acerta uma luminária que despenca em cima do teto do carro do vizinho, ocasionando avarias na pintura, além de um pequeno amassado. Diante do fato, devidamente constatado nas câmeras de segurança e confirmado pelos irmãos, o vizinho procura Tereza, requerendo a reparação pelos danos sofridos.\nAnte o fato hipoteticamente narrado, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tereza responde objetivamente pelos danos causados por seus filhos menores."
+    },
+    {
+     "letra": "B",
+     "texto": "Tereza poderá ser responsabilizada pelos danos causados por seus filhos menores se o vizinho demonstrar a culpa in vigilando."
+    },
+    {
+     "letra": "C",
+     "texto": "Tereza, em que pese ser civilmente responsável pelos atos dos seus filhos menores, não será obrigada a indenizar se demonstrar que não teve culpa pelos atos praticados por seus filhos."
+    },
+    {
+     "letra": "D",
+     "texto": "Tereza, em que pese ser civilmente responsável pelos atos dos seus filhos menores, não será obrigada a indenizar, pois o ato praticado por seus filhos resultou em mero aborrecimento para o vizinho."
+    },
+    {
+     "letra": "E",
+     "texto": "Tereza, em que pese ser civilmente responsável pelos atos dos seus filhos menores, não será obrigada a indenizar, pois não há nexo de causalidade entre o ato praticado por um dos seus filhos e o dano, já que este derivou da queda da luminária."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 56"
+  },
+  {
+   "numero": 57,
+   "disciplina": "Direito Civil",
+   "assunto": "Direito civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Antônio, empresário do setor de alimentos, em razão da necessidade de uma viagem, resolve celebrar um contrato de mandato com Maria, sua afilhada, de 17 anos de idade, a fim de que ela o represente em certas atividades negociais. O contrato de mandato é celebrado nos termos da legislação vigente, com a outorga de poderes gerais devidamente formalizada.\nApós a viagem de Antônio, Maria se apresenta, como mandatária de Antônio, em importante reunião com Túlio para a formalização da venda de quotas da sociedade empresária de Antônio. Túlio, não obstante a comprovação da sua qualidade de mandatária e da apresentação da outorga de poderes gerais, se recusa a negociar com ela.\nAnte a situação hipotética narrada, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio se fosse emancipada."
+    },
+    {
+     "letra": "B",
+     "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio se fosse devidamente assistida por seu representante legal."
+    },
+    {
+     "letra": "C",
+     "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, em razão da sua menoridade, Maria só poderia ser mandatária e representar Antônio para a realização de atos de administração."
+    },
+    {
+     "letra": "D",
+     "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, em razão da outorga de poderes gerais, Maria só poderia ser mandatária e representar Antônio para a realização de atos de administração."
+    },
+    {
+     "letra": "E",
+     "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio para a realização do ato em questão, se tivesse poderes específicos e fosse emancipada."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 57"
+  },
+  {
+   "numero": 58,
+   "disciplina": "Direito Civil",
+   "assunto": "Direito civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Cristina e Paulo, pais de Ana, de 21 anos, e de Túlio, de 17 anos, relatam que seus filhos saíram para uma viagem de barco com amigos há quinze dias e, desde então, não possuem notícias de nenhum dos dois. As únicas informações que possuem são de que Túlio se desentendeu com um outro integrante do grupo e não chegou a embarcar, mas que Ana decidiu seguir viagem, como informado pela própria filha aos pais por mensagem.\nRelatam ainda que, como Túlio não havia retornado para casa e nem dado notícias, tentaram entrar em contato com Ana no dia seguinte, mas sem sucesso. Informam ainda que tiveram ciência de que havia ocorrido uma forte tempestade na noite em que se iniciou a viagem de barco e que, desde então, não se tinha notícias de nenhum dos integrantes do grupo que havia embarcado, assim como a guarda costeira não havia localizado o barco.\nDiante da situação, procuram assessoria jurídica especializada a fim de receberem orientações jurídicas sobre como proceder em razão dos últimos acontecimentos envolvendo seus filhos.\nAnte a situação hipotética narrada, analise os itens a seguir:\nI. Após esgotadas as buscas e averiguações, Ana e Túlio serão ambos declarados presumidamente mortos sem a decretação de ausência.\nII. Após esgotadas as buscas e averiguações, Cristina e Paulo deverão promover as respectivas ações declaratórias de ausência de ambos os seus filhos.\nIII. Após esgotadas as buscas e averiguações, sem qualquer notícia de ambos os filhos, Ana não poderá ser declarada presumidamente morta sem a decretação de ausência.\nIV. Após esgotadas as buscas e averiguações, sem qualquer notícia de ambos os filhos, Túlio poderá ser declarado presumidamente morto após a decretação de ausência.\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "III e IV, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "II e IV, apenas."
+    }
+   ],
+   "gabarito": "X",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 58"
+  },
+  {
+   "numero": 59,
+   "disciplina": "Direito Civil",
+   "assunto": "Direito civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "João da Silva celebrou contrato de vida com cobertura por morte junto à Seguradora Viva Feliz. Durante a vigência do contrato, João da Silva veio a óbito. Carmen, com quem João da Silva mantinha relacionamento afetivo há muitos anos, e Tereza, com quem João da Silva ainda mantinha o vínculo conjugal, não obstante a separação de fato há mais de duas décadas, pleitearam, junto à Seguradora, o recebimento do benefício do seguro de vida.\nA Seguradora Viva Feliz, após as diligências habituais, constatou que João da Silva não havia indicado os beneficiários do seguro de vida, restando, portanto, a dúvida, de quem seria o credor do benefício.\nAnte a situação hipoteticamente narrada e considerando o melhor interesse da Seguradora Viva Feliz em pagar ao credor de direito, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Seguradora Viva Feliz se exonerará da sua obrigação pagando a qualquer das duas requerentes, pois são credoras solidárias."
+    },
+    {
+     "letra": "B",
+     "texto": "a Seguradora Viva Feliz, diante da dúvida sobre a quem deve pagar, deve proceder a consignação do pagamento."
+    },
+    {
+     "letra": "C",
+     "texto": "a Seguradora Viva Feliz, diante da dúvida sobre a quem deve pagar, deve repartir o valor do capital estipulado e pagar a ambas as requerentes em proporções iguais, pois restaria configurada hipótese de obrigação divisível."
+    },
+    {
+     "letra": "D",
+     "texto": "a Seguradora Viva Feliz não pode valer-se da consignação em pagamento, pois o caso narrado não configura hipótese para sua incidência."
+    },
+    {
+     "letra": "E",
+     "texto": "a Seguradora Viva Feliz, diante da dúvida sobre a quem deve pagar e, não sendo hipótese de consignação em pagamento, deve reter o pagamento até a finalização do inventário."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 59"
+  },
+  {
+   "numero": 60,
+   "disciplina": "Direito Processual Civil",
+   "assunto": "Processo civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "De acordo com o entendimento do Superior Tribunal de Justiça e do Código de Processo Civil, sobre o cumprimento de sentença, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é possível penhorar único imóvel residencial de pessoa solteira, já que esta condição não se enquadra na definição de bem de família da Lei nº 8.009/90."
+    },
+    {
+     "letra": "B",
+     "texto": "para o reconhecimento da fraude à execução é indispensável que seja apresentada a averbação da penhora ou da execução pelo credor."
+    },
+    {
+     "letra": "C",
+     "texto": "o termo inicial da prescrição intercorrente será contado a partir da ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis e será suspensa, por uma única vez, pelo prazo máximo de um ano."
+    },
+    {
+     "letra": "D",
+     "texto": "a suspensão do processo poderá ser determinada em virtude da não localização do executado ou de bens penhoráveis apenas no processo de execução de quantia certa, por ser procedimento incompatível com o cumprimento de sentença da mesma obrigação."
+    },
+    {
+     "letra": "E",
+     "texto": "a decisão judicial que reconhece a exigibilidade de obrigação de pagar submetida ao cumprimento provisório, poderá ser levada a protesto depois de transcorrido o prazo de quinze dias, diante da ausência de pagamento voluntário."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 60"
+  },
+  {
+   "numero": 61,
+   "disciplina": "Direito Processual Civil",
+   "assunto": "Processo civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Determinado condomínio propôs ação para a cobrança de cotas condominiais quando, na fase de cumprimento da sentença, descobriu que a ré já era falecida quando a ação foi proposta.\nDiante dessa situação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "poderá ser solicitada a sucessão processual do réu pelo seu espólio ainda que na fase de cumprimento de sentença, pois o autor tomou conhecimento do falecimento da parte apenas nesta fase"
+    },
+    {
+     "letra": "B",
+     "texto": "não há como ocorrer a sucessão processual pelo espólio na fase de cumprimento frente à ausência de citação válida do réu a autorizar o prosseguimento do feito na fase de conhecimento."
+    },
+    {
+     "letra": "C",
+     "texto": "o espólio poderá suceder o réu na fase de cumprimento de sentença, mas as decisões proferidas no processo não podem ser consideradas válidas, impondo-se a anulação de todo o processado."
+    },
+    {
+     "letra": "D",
+     "texto": "o tomar conhecimento da morte do réu no processo, o juiz poderá ordenar a inclusão do espólio ou herdeiros em sucessão de ofício em razão do princípio da eficiência processual."
+    },
+    {
+     "letra": "E",
+     "texto": "a ação de habilitação é indispensável para a tramitação do processo em caso de morte da parte autora, e sem a comprovação de que foi proposta o juiz deverá extinguir o processo sem julgamento do mérito."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 61"
+  },
+  {
+   "numero": 62,
+   "disciplina": "Direito Processual Civil",
+   "assunto": "Processo civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "De acordo com o Código de Processo Civil, sobre a liquidação e cumprimento de sentença, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a sentença arbitral constitui título executivo judicial."
+    },
+    {
+     "letra": "B",
+     "texto": "todas as decisões interlocutórias proferidas no processo de execução podem ser impugnadas de imediato, através de agravo de instrumento, observadas as limitações impostas pelo Código de Processo Civil."
+    },
+    {
+     "letra": "C",
+     "texto": "a decisão que resolve a fase de liquidação tem natureza jurídica de sentença."
+    },
+    {
+     "letra": "D",
+     "texto": "a liquidação para apurar valor em sentença que condena ao pagamento de quantia ilíquida depende do trânsito em julgado da decisão para sua instauração."
+    },
+    {
+     "letra": "E",
+     "texto": "a existência de um título executivo extrajudicial impede que seja instaurado processo de conhecimento para a obtenção de título executivo judicial."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 62"
+  },
+  {
+   "numero": 63,
+   "disciplina": "Direito Processual Civil",
+   "assunto": "Processo civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em determinada ação ajuizada com procedimento de tutela antecipada antecedente contra a Fazenda Pública, foi concedida a medida liminar requerida em favor do autor.\nNessa situação,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Fazenda Pública se submete ao regime da estabilização da tutela antecipada antecedente, sendo necessário interpor agravo de instrumento contra a decisão que a conceder, por não se tratar de decisão sujeita a remessa necessária."
+    },
+    {
+     "letra": "B",
+     "texto": "a Fazenda Pública não se submete ao regime da estabilização da tutela antecipada antecedente em razão do regime de remessa necessária."
+    },
+    {
+     "letra": "C",
+     "texto": "a remessa necessária é capaz de obstaculizar a estabilização da tutela antecipada antecedente concedida, com a consequente extinção do processo."
+    },
+    {
+     "letra": "D",
+     "texto": "a tutela da evidência, por ser uma tutela provisória, também poderá ser concedida em caráter antecedente ou incidental."
+    },
+    {
+     "letra": "E",
+     "texto": "a decisão que concede a tutela antecipada antecedente fará coisa julgada, estabilizando-se os seus efeitos se a Fazenda Pública não agravar de instrumento da decisão."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 63"
+  },
+  {
+   "numero": 64,
+   "disciplina": "Direito Processual Civil",
+   "assunto": "Processo civil",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Analise as proposições a seguir:\nI. Os embargos de terceiros podem ser interpostos por quem sofre penhora de seus bens por força de desconsideração da personalidade jurídica da qual não fez parte.\nII. O amicus curiae poderá recorrer da decisão que indefere o seu pedido de ingresso no processo.\nIII. O incidente de desconsideração da personalidade jurídica poderá ser instaurado na fase recursal e da decisão do relator, caberá agravo de instrumento.\nIV. O autor poderá requerer o cumprimento da sentença contra o devedor e o denunciado, nos limites da condenação deste em eventual ação regressiva.\nEstá correto apenas o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II, IV."
+    },
+    {
+     "letra": "B",
+     "texto": "I, III, IV."
+    },
+    {
+     "letra": "C",
+     "texto": "III e IV."
+    },
+    {
+     "letra": "D",
+     "texto": "I e IV."
+    },
+    {
+     "letra": "E",
+     "texto": "I e II."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 64"
+  },
+  {
+   "numero": 65,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "O sindicato dos trabalhadores em escritórios e afins de São José do Ribamar/MA acertou, em convenção coletiva entabulada com o sindicato dos empregadores, a redução da jornada de trabalho e, proporcionalmente, do salário, por 5 meses no ano de 2022, como modo de enfrentar os reflexos da pandemia.\nSobre a convenção coletiva em referência, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Não há necessidade de contrapartida específica em favor dos trabalhadores, pois feita após a reforma trabalhista."
+    },
+    {
+     "letra": "B",
+     "texto": "Precisa ser estipulada a contrapartida de proteção dos empregados contra dispensa imotivada pelo prazo de 5 meses."
+    },
+    {
+     "letra": "C",
+     "texto": "A cláusula será nulificada pelo Poder Judiciário porque a redução salarial tal qual feita viola norma constitucional."
+    },
+    {
+     "letra": "D",
+     "texto": "É necessário, conforme a CLT, haver como contrapartida a concessão de ticket refeição em valor não inferior a 30% do salário-base por mês."
+    },
+    {
+     "letra": "E",
+     "texto": "A cláusula pode ser estipulada desde que haja autorização prévia da Justiça do Trabalho, feita perante a Vara da localidade."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 65"
+  },
+  {
+   "numero": 66,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Maria, que trabalha numa empresa em Açailândia/MA, engravidou, teve o seu bebê, e saiu em licença maternidade em junho de 2022. Após 120 dias, retornou à empresa.\nConsiderando a situação apresentada, assinale a opção que contempla o intervalo especial para amamentação a que Maria terá direito e o seu tempo de duração.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Durante 1 ano Maria terá direito a um intervalo de 1 hora corrida para amamentação."
+    },
+    {
+     "letra": "B",
+     "texto": "Para amamentar seu bebê, Maria terá um intervalo diário de 30 minutos até 6 meses após o seu retorno à empresa."
+    },
+    {
+     "letra": "C",
+     "texto": "Uma vez que a licença maternidade foi aproveitada após a reforma trabalhista, no retorno não haverá direito a qualquer intervalo especial, salvo previsão em norma coletiva."
+    },
+    {
+     "letra": "D",
+     "texto": "Maria terá direito a quantos intervalos forem necessários para manter o bem-estar de seu bebê, não havendo na Lei um limite."
+    },
+    {
+     "letra": "E",
+     "texto": "Maria terá direito a dois intervalos especiais de meia hora cada um até 6 meses de idade do filho."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 66"
+  },
+  {
+   "numero": 67,
+   "disciplina": "Direito do Trabalho",
+   "assunto": "Direito do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Regina é uma teletrabalhadora, sendo empregada em uma empresa situada em Timon/MA. Regina recebeu do empregador todo o equipamento de informática, devidamente instalado num quarto de sua residência que é utilizado como escritório. Em determinado dia de 2022, durante a realização de suas atividades normais, Regina recebeu um violento choque no computador que manuseava. Uma vez que a empregada em questão possui um marca-passo, além do enorme susto sofrido, precisou se afastar do serviço por alguns dias para se recuperar, pois o marca-passo sofreu uma pequena avaria.\nDiante da situação retratada, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O evento não é um acidente do trabalho porque se trata de uma teletrabalhadora, que não cumpre suas atividades na sede da empresa."
+    },
+    {
+     "letra": "B",
+     "texto": "O sinistro será considerado acidente do trabalho se a recuperação da empregada exceder 15 dias."
+    },
+    {
+     "letra": "C",
+     "texto": "Ocorreu um acidente do trabalho e a empresa deverá emitir a Comunicação de Acidente do Trabalho (CAT)."
+    },
+    {
+     "letra": "D",
+     "texto": "O evento será acidente do trabalho se essa situação estiver prevista, por escrito, no contrato da empregada."
+    },
+    {
+     "letra": "E",
+     "texto": "O fato não caracteriza acidente do trabalho porque o empregador não teve culpa, sendo responsabilizada a empresa que fornece a energia elétrica."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 67"
+  },
+  {
+   "numero": 68,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em determinada reclamação trabalhista, ajuizada em 2021, e que tramita na 20ª VT/São Luís, o pedido foi julgado procedente, sendo condenado o ex-empregador ao pagamento de R$ 40.000,00 para o trabalhador e R$ 4.000,00 de honorários advocatícios de sucumbência. No título executivo consta ainda a responsabilidade do Estado do Maranhão, que está no polo passivo porque houve terceirização dos serviços. Não tendo sido pago o débito pelo ex-empregador e não se logrando êxito na constrição do seu patrimônio, a execução foi direcionada contra o Estado do Maranhão.\nSobre a forma de pagamento do ente público no caso concreto, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O crédito do trabalhador e os honorários advocatícios serão pagos mediante precatório."
+    },
+    {
+     "letra": "B",
+     "texto": "O crédito do trabalhador e os honorários advocatícios serão pagos mediante RPV."
+    },
+    {
+     "letra": "C",
+     "texto": "Os honorários advocatícios serão pagos por RPV e o crédito do trabalhador, por precatório."
+    },
+    {
+     "letra": "D",
+     "texto": "É o juiz que determinará se a forma de pagamento será RPV ou precatório de acordo com a condição financeira e social do credor."
+    },
+    {
+     "letra": "E",
+     "texto": "O crédito do trabalhador será pago por RPV e dos honorários, por precatório."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 68"
+  },
+  {
+   "numero": 69,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Nilton joga no maior clube de futebol do Maranhão, recebendo elevado salário. Entendendo que estava sendo lesado pelo clube em vários direitos, Nilton ajuizou reclamação trabalhista contra o clube, perseguindo a reparação dessas lesões e da multa contratualmente fixada, atribuindo à causa o valor de R$ 1.800.000,00 (um milhão e oitocentos mil reais), que foi o somatório dos direitos que reivindicou. A ação foi contestada e instruída, sobrevindo a sentença de improcedência total dos pedidos formulados.\nDe acordo com a CLT, e considerando que não houve requerimento de gratuidade de justiça, assinale a opção correta em relação às custas que deverão ser recolhidas por Nilton caso ele queira recorrer.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nilton deve recolher R$ 36.000,00."
+    },
+    {
+     "letra": "B",
+     "texto": "Nilton deve recolher R$ 18.000,00."
+    },
+    {
+     "letra": "C",
+     "texto": "Não haverá necessidade de recolhimento de custas quando é o trabalhador quem recorre."
+    },
+    {
+     "letra": "D",
+     "texto": "Sendo o pedido julgado totalmente improcedente, o juiz terá liberdade de fixar as custas por equidade."
+    },
+    {
+     "letra": "E",
+     "texto": "Nilton deve recolher quatro vezes o limite dos benefícios do Regime Geral de Previdência Social."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 69"
+  },
+  {
+   "numero": 70,
+   "disciplina": "Direito Processual do Trabalho",
+   "assunto": "Processo do trabalho",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Uma empresa de construção civil localizada em Balsas/MA é executada numa reclamação trabalhista pelo valor de R$ 50.000,00, tendo sido citada por oficial de justiça para pagar a dívida em 48 horas. A empresa em questão está com os seus ativos concentrados em 2 projetos de engenharia, daí porque não deseja se descapitalizar neste momento, e deseja uma alternativa para garantir o juízo e discutir os cálculos, pois tem absoluta certeza que o valor homologado judicialmente é superior ao devido.\nDiante da situação retratada e do que dispõe a CLT, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A empresa poderá apresentar seguro-garantia judicial no valor de R$ 65.000,00 para garantir o juízo."
+    },
+    {
+     "letra": "B",
+     "texto": "O seguro-garantia judicial é possível apenas em relação à parcela incontroversa, pois a controversa deverá ser depositada em espécie."
+    },
+    {
+     "letra": "C",
+     "texto": "A executada poderá apresentar seguro-garantia judicial no valor de R$ 50.000,00 para garantir o juízo."
+    },
+    {
+     "letra": "D",
+     "texto": "A empresa deverá depositar o valor do débito ou apresentar bens à penhora, pois na seara trabalhista não é possível o uso de seguro-garantia judicial."
+    },
+    {
+     "letra": "E",
+     "texto": "A empresa devedora poderá apresentar seguro-garantia judicial, mas no valor do dobro da dívida exequenda."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 70"
+  },
+  {
+   "numero": 71,
+   "disciplina": "Direito Empresarial",
+   "assunto": "Direito empresarial",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "A sociedade em conta de participação tem uma série de peculiaridades que a distinguem de outras sociedades, como, por exemplo, a sociedade em comum ou a sociedade limitada. Nas alternativas abaixo são apresentados aspectos desta sociedade referentes a sua natureza, constituição, registro e responsabilidade dos sócios.\nAssinale a opção que apresenta corretamente todas as características apontadas.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A sociedade em conta de participação tem natureza de sociedade não personificada; sua constituição independe das formalidades exigidas para outros tipos de sociedade; o contrato pode ou não ser levado a registro, não interferindo na aquisição da personalidade jurídica; apenas se obriga ilimitadamente perante terceiros o sócio ostensivo."
+    },
+    {
+     "letra": "B",
+     "texto": "A sociedade em conta de participação tem natureza de sociedade personificada; sua constituição independe das formalidades exigidas para outros tipos de sociedade; o contrato pode ou não ser levado a registro, não interferindo na aquisição da personalidade jurídica; apenas o sócio ostensivo se obriga limitadamente até o valor de sua quota."
+    },
+    {
+     "letra": "C",
+     "texto": "A sociedade em conta de participação tem natureza de sociedade não personificada; sua constituição depende de autorização governamental; o contrato pode ou não ser levado a registro, não interferindo na aquisição da personalidade jurídica; apenas se obriga ilimitadamente perante terceiros o sócio participante."
+    },
+    {
+     "letra": "D",
+     "texto": "A sociedade em conta de participação tem natureza de contrato associativo e bilateral; sua constituição depende das formalidades exigidas para outros tipos de sociedade; o contrato deve ser levado a registro para fins de aquisição da personalidade jurídica; obrigam-se ilimitadamente perante terceiros tanto o sócio ostensivo quanto o sócio participante."
+    },
+    {
+     "letra": "E",
+     "texto": "A sociedade em conta de participação tem natureza de contrato preliminar; sua constituição depende de autorização governamental; o contrato pode ou não ser levado a registro, não interferindo na aquisição da personalidade jurídica; apenas se obriga ilimitadamente perante terceiros o sócio ostensivo."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 71"
+  },
+  {
+   "numero": 72,
+   "disciplina": "Direito Empresarial",
+   "assunto": "Direito empresarial",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Paulo Ramos explora, em caráter permanente e profissional, empresa rural voltada para o beneficiamento da carnaúba.\nConsiderando-se a condição de empresário rural de Paulo Ramos, é correto afirmar, quanto ao registro na Junta Comercial, que o empresário rural",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "está obrigado à inscrição na Junta Comercial, e, caso não o faça, será considerado para todos os fins de direito como empresário irregular."
+    },
+    {
+     "letra": "B",
+     "texto": "não está obrigado à inscrição na Junta Comercial, pois o dever de inscrição só se aplica à sociedade empresária rural."
+    },
+    {
+     "letra": "C",
+     "texto": "apenas está obrigado à inscrição na Junta Comercial caso seja enquadrado como microempresa ou empresa de pequeno porte."
+    },
+    {
+     "letra": "D",
+     "texto": "não está obrigado à inscrição na Junta Comercial, mas se vier a fazê-lo, ficará equiparado ao empresário registrado para todos os fins de direito."
+    },
+    {
+     "letra": "E",
+     "texto": "está obrigado à inscrição na Junta Comercial, mas a ele é defeso pleitear enquadramento como microempresário ou empresário de pequeno porte."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 72"
+  },
+  {
+   "numero": 73,
+   "disciplina": "Direito Empresarial",
+   "assunto": "Direito empresarial",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Embora os institutos da falência, recuperação judicial e recuperação extrajudicial tenham suas peculiaridades e procedimentos próprios, alguns elementos comuns se destacam, entre eles o juízo competente.\nÉ competente para homologar o plano de recuperação extrajudicial, deferir a recuperação judicial ou decretar a falência",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "qualquer local de operações em que o devedor desenvolva uma atividade econômica não transitória com o emprego de recursos humanos e de bens ou serviços."
+    },
+    {
+     "letra": "B",
+     "texto": "o local da sede da empresa individual ou da sede da sociedade empresária, exceto para o empresário irregular, que será o local em que for encontrado."
+    },
+    {
+     "letra": "C",
+     "texto": "o juízo do local do principal estabelecimento do devedor ou, caso o devedor tenha sede fora do Brasil, o local da filial brasileira."
+    },
+    {
+     "letra": "D",
+     "texto": "o local do domicílio dos administradores, para a sociedade empresária, ou de qualquer um dos estabelecimentos do empresário individual."
+    },
+    {
+     "letra": "E",
+     "texto": "o juízo da sede do devedor, independentemente de a sede estar situada em território brasileiro ou no exterior."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 73"
+  },
+  {
+   "numero": 74,
+   "disciplina": "Direito Empresarial",
+   "assunto": "Direito empresarial",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Para estimular o financiamento aos agentes econômicos que atuam no segmento imobiliário, que tem grande impacto na geração de emprego e renda, bem como no suprimento de novas unidades habitacionais para a população, foram criados, em 2004, dois novos títulos de crédito – a Cédula de Crédito Imobiliário (CCI) e a Letra de Crédito Imobiliário (LCI).\nAnalise as afirmativas a seguir sobre estes títulos de crédito.\nI. A LCI terá sua emissão lastreada por créditos imobiliários garantidos por penhor ou por alienação fiduciária de coisa móvel; a CCI tem como lastro crédito imobiliário com ou sem garantia real.\nII. A emissão da LCI é privativa das instituições financeiras autorizadas por lei ou pelo Banco Central do Brasil; a CCI pode ser emitida por credor de crédito imobiliário, ainda que não seja instituição financeira.\nIII. A circulação da LCI pode ser por endosso em preto, caso contenha cláusula à ordem; a circulação da CCI é sempre por cessão de crédito averbada no registro do emitente, por ser título nominativo.\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I e II, apenas."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 74"
+  },
+  {
+   "numero": 75,
+   "disciplina": "Direito Previdenciário",
+   "assunto": "Seguridade social",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Um dos princípios constitucionais da Seguridade Social é o caráter democrático e descentralizado da gestão administrativa.\nNeste sentido, tem-se que o CNPS (Conselho Nacional de Previdência Social)",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é quinquipartite, tendo representantes dos trabalhadores, dos empregadores, dos aposentados, do Ministério Público e do governo nos órgãos colegiados."
+    },
+    {
+     "letra": "B",
+     "texto": "tem apenas representantes do Governo."
+    },
+    {
+     "letra": "C",
+     "texto": "é bipartite, tendo a participação dos trabalhadores e do governo nos órgãos colegiados."
+    },
+    {
+     "letra": "D",
+     "texto": "é quadripartite, tendo a participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados."
+    },
+    {
+     "letra": "E",
+     "texto": "é tripartite, tendo a participação dos trabalhadores, dos empregadores e dos aposentados nos órgãos colegiados."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 75"
+  },
+  {
+   "numero": 76,
+   "disciplina": "Direito Previdenciário",
+   "assunto": "Seguridade social",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Pedro estava em seu horário de almoço e alimentava-se no refeitório da empresa. Ao levantar e se dirigir ao balcão para deixar sua bandeja, Pedro escorregou, porque o chão estava molhado, e teve violenta queda, machucando-se e quebrando o prato e a bandeja que conduzia.\nDiante dos fatos narrados e da Lei previdenciária, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O evento não foi acidente do trabalho porque Pedro não estava trabalhando, e sim no horário de refeição."
+    },
+    {
+     "letra": "B",
+     "texto": "O acidente do trabalho somente ficará caracterizado se Pedro não se recuperar em 15 dias consecutivos."
+    },
+    {
+     "letra": "C",
+     "texto": "Houve acidente do trabalho e a empresa deverá emitir CAT até o 1º dia útil seguinte ao evento, sob pena de multa."
+    },
+    {
+     "letra": "D",
+     "texto": "Uma vez que a desatenção foi de Pedro, não se caracteriza acidente do Trabalho e o empregado deverá arcar com o prejuízo material que causou à empresa."
+    },
+    {
+     "letra": "E",
+     "texto": "Em 24 horas a empresa terá de emitir a CAT e a autoridade policial deverá ser convocada para instaurar inquérito."
+    }
+   ],
+   "gabarito": "C",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 76"
+  },
+  {
+   "numero": 77,
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes em espécie",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Insatisfeito com sua remuneração e carga horária de trabalho como empregado da “empresa X”, Bernardo convence seus colegas de trabalho a iniciarem uma greve regular.\nNa hipótese, ao ser questionado se é correto afirmar que Bernardo cometeu crime(s) de atentado contra a liberdade de trabalho, previsto(s) no art. 197, do CP, você deve responder, corretamente, que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não, Bernardo não cometeu crime de atentado contra a liberdade de trabalho, previsto no art. 197, do CP, uma vez que o tipo penal exige, para sua caracterização, o emprego de violência ou grave ameaça para forçar alguém a aderir ao movimento."
+    },
+    {
+     "letra": "B",
+     "texto": "sim, Bernardo cometeu crime de atentado contra a liberdade de trabalho, previsto no art. 197, do CP, visto que, ao convencer seus pares, Bernardo violou a liberdade de trabalho de seus colegas."
+    },
+    {
+     "letra": "C",
+     "texto": "não, Bernardo agiu em estado de necessidade, que é uma excludente da ilicitude, prevista no art. 23, I c/c art. 24, do CP."
+    },
+    {
+     "letra": "D",
+     "texto": "não, Bernardo não cometeu crime de atentado contra a liberdade de trabalho, previsto no art. 197, do CP, uma vez que não logrou êxito em convencer seus pares a aderirem ao movimento de greve."
+    },
+    {
+     "letra": "E",
+     "texto": "sim, Bernardo cometeu crimes de atentado contra a liberdade de trabalho, em concurso formal, nos termos do art. 197, na forma do art. 70, ambos do CP."
+    }
+   ],
+   "gabarito": "A",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 77"
+  },
+  {
+   "numero": 78,
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes em espécie",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Em 05 de junho de 2022, Mariana entrou em um restaurante estilo “self-service” e apoiou sua bolsa em uma cadeira. Enquanto conversava distraidamente com seu marido, José, Mariana esqueceu sua bolsa aberta. Diogo, outro cliente que estava no estabelecimento, terminou o almoço, levantou-se de onde estava sentado e foi em direção ao caixa para efetuar o pagamento da conta. Nesse momento, Diogo percebeu a bolsa de Mariana aberta e, sorrateiramente, pegou o aparelho celular dela.\nLogo em seguida, Mariana e José deram falta do aparelho e iniciaram a procura no local, tendo José visto Diogo na fila do caixa com o celular de Mariana. Imediatamente, José interpelou Diogo e restou comprovado que se tratava realmente do celular de Mariana.\nDe acordo com jurisprudência consolidada dos Tribunais Superiores, em relação à conduta de Diogo, pode-se afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "praticou o crime de roubo consumado, previsto no art. 157, caput, do CP."
+    },
+    {
+     "letra": "B",
+     "texto": "praticou o crime de furto, na sua forma tentada, previsto no art. 155, caput, c/c art. 14, II, ambos do CP."
+    },
+    {
+     "letra": "C",
+     "texto": "praticou o crime de roubo, na sua forma tentada, previsto no art. 157, caput c/c art. 14, II, ambos do CP."
+    },
+    {
+     "letra": "D",
+     "texto": "praticou o crime de furto consumado, previsto no art. 155, caput, do CP."
+    },
+    {
+     "letra": "E",
+     "texto": "praticou o crime de apropriação indébita, previsto no art. 168, caput, do CP."
+    }
+   ],
+   "gabarito": "D",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 78"
+  },
+  {
+   "numero": 79,
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes em espécie",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Durante regular manifestação, os empregados Daniel e Júlio participavam de um ato de greve com mais 10 pessoas, todos trabalhadores da “empresa X”.\nEm um dado momento, policiais que estavam no local para garantir a segurança do ato, abordaram Daniel e Júlio, e constataram que este último portava um canivete no bolso.\nConduzidos à Delegacia, Daniel e Júlio foram indiciados pelo crime de paralização de trabalho, seguida de violência ou perturbação da ordem, em concurso de pessoas, na forma do art. 200 c/c art. 29, caput, ambos do CP.\nSobre essa situação, assinale a afirmativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Daniel e Júlio praticaram o crime de paralização de trabalho, seguida de violência ou perturbação da ordem, em concurso de pessoas, nos moldes do art. 200 c/c art. 29, caput, ambos do CP, visto que estavam juntos e em conluio no ato de greve, portando um deles arma branca, com flagrante intenção de perturbação da ordem."
+    },
+    {
+     "letra": "B",
+     "texto": "Daniel não cometeu crime. Entretanto, Júlio praticou o crime de paralização de trabalho, seguida de violência ou perturbação da ordem, nos moldes do art. 200, do CP, visto que estava em ato de greve, portando arma branca, com flagrante intenção de perturbação da ordem."
+    },
+    {
+     "letra": "C",
+     "texto": "Todos os 10 empregados, Daniel e Júlio cometeram o crime de paralização de trabalho, seguida de violência ou perturbação da ordem, previsto no art. 200, do CP. O concurso de, pelo menos, três empregados é elementar do tipo penal previsto no art. 200, do CP, não incidindo portanto a figura do art. 29, caput do CP."
+    },
+    {
+     "letra": "D",
+     "texto": "Daniel e Júlio cometeram o crime de paralização de trabalho, seguida de violência ou perturbação da ordem, previsto no art. 200, do CP, sem a incidência da figura do art. 29, caput do CP. Isso porque o concurso de, pelo menos, três empregados é elementar do tipo penal previsto no art. 200, do CP, não incidindo portanto a figura do art. 29, caput do CP."
+    },
+    {
+     "letra": "E",
+     "texto": "Não houve crime de paralização de trabalho, seguida de violência ou perturbação da ordem, tendo em vista que o simples porte de arma branca no bolso durante a manifestação de greve não configura a violência prevista no Art. 200, do CP."
+    }
+   ],
+   "gabarito": "E",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 79"
+  },
+  {
+   "numero": 80,
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes em espécie",
+   "tipo": "multipla",
+   "texto_base": null,
+   "enunciado": "Renato foi ao supermercado fazer compras para abastecer sua residência. Enquanto colocava as sacolas com os produtos adquiridos na mala de seu automóvel, foi surpreendido por José que, apontando-lhe uma arma de fogo, exigiu que Renato lhe entregasse o relógio. Surpreso e sem saber se a arma era de fato verdadeira, Renato acabou por entregar seu relógio a José.\nDe posse do bem, José foi embora caminhando normalmente, certo de que Renato nada faria por conta da arma que empunhava. Ocorre que Renato, exímio lutador de artes marciais, seguiu José, conseguindo detê-lo logo na saída do estabelecimento, logrando êxito em recuperar seu relógio, bem como desarmar o audacioso elemento. Registrada a ocorrência em sede policial, a arma restou periciada e comprovada a sua potencialidade lesiva.\nAcerca da hipótese, é correto afirmar que José responderá por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "furto por arrebatamento, na forma do art. 155, caput, do CP."
+    },
+    {
+     "letra": "B",
+     "texto": "roubo com aumento de pena pelo emprego de arma de fogo, na forma do art. 157, §2º-A, I, do CP."
+    },
+    {
+     "letra": "C",
+     "texto": "roubo simples, na forma do art. 157, caput, do CP."
+    },
+    {
+     "letra": "D",
+     "texto": "roubo com aumento de pena pelo emprego de arma de fogo, na forma tentada, nos termos do art. 157, §2º-A, I c/c art. 14, II, ambos do CP."
+    },
+    {
+     "letra": "E",
+     "texto": "furto, na forma do art. 155, caput do CP."
+    }
+   ],
+   "gabarito": "B",
+   "desatualizada": false,
+   "fonte": "FGV — TRT-16 2022 — Analista Judiciário (Área Judiciária), prova tipo 1, questão 80"
+  }
+ ]
+}

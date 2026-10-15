@@ -1,0 +1,2360 @@
+{
+ "prova": {
+  "banca": "VUNESP",
+  "banca_nome": "VUNESP",
+  "orgao": "TJ SP",
+  "orgao_nome": "Tribunal de Justiça de São Paulo",
+  "cargo": "Escrevente Técnico Judiciário",
+  "ano": "2025",
+  "uf": "SP",
+  "esfera": "estadual",
+  "escolaridade": "medio",
+  "area": "Tribunais"
+ },
+ "questoes": [
+  {
+   "numero": "1",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
+   "enunciado": "Com as informações do texto, conclui-se corretamente que Stephen Hawking",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é considerado um professor renomado devido a seu carisma e carinho."
+    },
+    {
+     "letra": "B",
+     "texto": "foi incapaz de garantir mais popularidade à ciência e à matemática."
+    },
+    {
+     "letra": "C",
+     "texto": "contribuiu para Stephen Toope tornar-se um renomado professor."
+    },
+    {
+     "letra": "D",
+     "texto": "é celebrado pela sua colaboração para a ciência e para a matemática."
+    },
+    {
+     "letra": "E",
+     "texto": "teve um papel insignificante no desenvolvimento da ciência e da matemática."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 1"
+  },
+  {
+   "numero": "2",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Norma culta ou norma padrão",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
+   "enunciado": "A Universidade de Cambridge, ________ Stephen Hawking dedicou boa parte de suas contribuições, considera o renomado professor como uma inspiração _________ , _________ quais deixa um legado indelével.\n\nDe acordo com a norma-padrão, as lacunas da frase devem ser preenchidas, respectivamente, com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a qual … as muitas pessoas … às"
+    },
+    {
+     "letra": "B",
+     "texto": "à qual … à muitas pessoas … às"
+    },
+    {
+     "letra": "C",
+     "texto": "a qual … à pessoas em geral … as"
+    },
+    {
+     "letra": "D",
+     "texto": "à que … às pessoas do mundo … as"
+    },
+    {
+     "letra": "E",
+     "texto": "à qual … a milhões de pessoas … às"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 2"
+  },
+  {
+   "numero": "3",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras)",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
+   "enunciado": "Na frase do 2o parágrafo “Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”..., os termos destacados significam, correta e respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "prescindíveis; raro."
+    },
+    {
+     "letra": "B",
+     "texto": "profícuas; transformador."
+    },
+    {
+     "letra": "C",
+     "texto": "brilhantes; permanente."
+    },
+    {
+     "letra": "D",
+     "texto": "relevantes; efêmero."
+    },
+    {
+     "letra": "E",
+     "texto": "excelentes; transitório."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 3"
+  },
+  {
+   "numero": "4",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Norma culta ou norma padrão",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
+   "enunciado": "Assinale a alternativa que atende à norma-padrão de concordância verbal, de regência e de colocação pronominal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A universidade e o mundo todo se lembrará de Stephen Hawking, o que é coerente do seu perfil inspirador."
+    },
+    {
+     "letra": "B",
+     "texto": "A universidade e o mundo todo lembrar-se-ão de Stephen Hawking, o que é coerente com o seu perfil inspirador."
+    },
+    {
+     "letra": "C",
+     "texto": "Lembrarão-se de Stephen Hawking a universidade e o mundo todo, o que é coerente sobre o seu perfil inspirador."
+    },
+    {
+     "letra": "D",
+     "texto": "A universidade e o mundo todo lembrarão de Stephen Hawking, o que é coerente ao seu perfil inspirador."
+    },
+    {
+     "letra": "E",
+     "texto": "Se lembrará a universidade e o mundo todo de Stephen Hawking, o que é coerente perante o seu perfil inspirador."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 4"
+  },
+  {
+   "numero": "5",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pontuação > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 01 a 05.\n\nA Universidade de Cambridge, onde Stephen Hawking realizou boa parte de suas contribuições, enfatizou que ele era uma “inspiração para milhões” de pessoas e deixa ao mundo “um legado indelével”. Em um comunicado, Stephen Toope, vice-reitor dessa instituição acadêmica, disse que o renomado professor era um “indivíduo único”, que será lembrado com “calor e carinho”, não só na universidade, mas também em todo o mundo.\n\n“Suas contribuições excepcionais para o conhecimento científico e a popularidade da ciência e da matemática deixaram um legado indelével”, afirmou a academia da universidade.\n\n(https://www.estadao.com.br/ciencia, 14.03.2018. Adaptado)",
+   "enunciado": "Assinale a alternativa que atende à norma-padrão de pontuação e de emprego de pronome.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Stephen Hawking, contribuiu muito com a Universidade de Cambridge, e era uma inspiração para milhões de pessoas, deixando-as um legado indelével."
+    },
+    {
+     "letra": "B",
+     "texto": "Stephen Hawking, que contribuiu muito com a Universidade de Cambridge, era uma inspiração para milhões de pessoas, deixando-lhes um legado indelével."
+    },
+    {
+     "letra": "C",
+     "texto": "Stephen Hawking contribuiu muito com a Universidade de Cambridge e era, uma inspiração para milhões de pessoas, deixando-as um legado indelével."
+    },
+    {
+     "letra": "D",
+     "texto": "Stephen Hawking contribuiu muito com a Universidade de Cambridge e era uma inspiração para milhões de pessoas, deixando-nas um legado indelével."
+    },
+    {
+     "letra": "E",
+     "texto": "Stephen Hawking que contribuiu muito com a Universidade de Cambridge, era uma inspiração para milhões de pessoas, deixando-lhes um legado indelével."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 5"
+  },
+  {
+   "numero": "6",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Inferência Textual > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
+   "enunciado": "As informações do editorial permitem inferir corretamente que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o fato de a questão da violência contra as mulheres ser uma responsabilidade da gestão pública significa que o tema deva deixar de ser tratado como algo também da esfera da moral e particular."
+    },
+    {
+     "letra": "B",
+     "texto": "a criação da Lei do Feminicídio, em 2015, foi um marco relevante no combate à violência contra a mulher, e, desde então, os estudos comprovam que não houve uma escalada dos casos."
+    },
+    {
+     "letra": "C",
+     "texto": "os problemas relativos ao combate à violência contra a mulher interessam a um grupo específico da sociedade, então, as autoridades governamentais desconhecem as necessidades desse grupo."
+    },
+    {
+     "letra": "D",
+     "texto": "as autoridades governamentais vêm demonstrando certa fragilidade no combate à violência contra a mulher, razão pela qual os dados confirmam a presença do feminicídio de forma tão intensa."
+    },
+    {
+     "letra": "E",
+     "texto": "a realização do Agosto Lilás coincidiu com a divulgação do Mapa Nacional da Violência de Gênero, que comprova que as Leis Maria da Penha e do Feminicídio obtiveram êxito além do esperado."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 6"
+  },
+  {
+   "numero": "7",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras) > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
+   "enunciado": "No texto, o assombro com a violência que vitima as mulheres aparece expresso em palavras por meio de um substantivo, um adjetivo e um advérbio, correta e respectivamente destacados nas passagens:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Um recorte mais amplo mostra... (3⁠º parágrafo) / As estatísticas assustadoras não podem... (4⁠º parágrafo) / ... há caminho longe desse horror... (6⁠º parágrafo)"
+    },
+    {
+     "letra": "B",
+     "texto": "... escancara a gravidade desse contexto. (3⁠º parágrafo) / Esse roteiro de horror permanente... (3⁠º parágrafo) / ... especialmente as polícias especializadas... (5⁠º parágrafo)"
+    },
+    {
+     "letra": "C",
+     "texto": "... há caminho longe desse horror... (6⁠º parágrafo) / O bárbaro diagnóstico expõe a falha... (2⁠º parágrafo) / Mas, infelizmente, a realidade cruel... (1⁠º parágrafo)"
+    },
+    {
+     "letra": "D",
+     "texto": "O bárbaro diagnóstico expõe a falha... (2⁠º parágrafo) / Um recorte mais amplo mostra... (3⁠º parágrafo) / ... ainda há muito a ser feito. (1⁠º parágrafo)"
+    },
+    {
+     "letra": "E",
+     "texto": "... as mulheres presas em relacionamentos violentos... (6⁠º parágrafo) / ... diante do quadro alarmante. (5⁠º parágrafo) / ... diariamente está na mira... (4⁠º parágrafo)"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 7"
+  },
+  {
+   "numero": "8",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Antônimos",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
+   "enunciado": "Na oração do 1⁠º parágrafo “... a realidade cruel que envolve esse tipo de crime se mostra implacável...”, o termo destacado é antônimo de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "arrojada."
+    },
+    {
+     "letra": "B",
+     "texto": "impassiva."
+    },
+    {
+     "letra": "C",
+     "texto": "intolerante."
+    },
+    {
+     "letra": "D",
+     "texto": "exigente."
+    },
+    {
+     "letra": "E",
+     "texto": "compassiva."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 8"
+  },
+  {
+   "numero": "9",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
+   "enunciado": "Com a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito. (1⁠º parágrafo)\n\nOs termos “Com”, “para”, “Mas” e “e” estabelecem, correta e respectivamente, relações de sentido de:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "meio, finalidade, oposição e adição."
+    },
+    {
+     "letra": "B",
+     "texto": "meio, conformidade, conclusão e oposição."
+    },
+    {
+     "letra": "C",
+     "texto": "modo, finalidade, conclusão e adição."
+    },
+    {
+     "letra": "D",
+     "texto": "causa, consequência, adição e conclusão."
+    },
+    {
+     "letra": "E",
+     "texto": "modo, conformidade, oposição e conclusão."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 9"
+  },
+  {
+   "numero": "10",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Relação de causa e consequência",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 06 a 10.\n\nEpidemia de violência de gênero tem de ser contida\n\nCom a realização do Agosto Lilás, o Brasil dedicou um mês para desenvolver campanhas de conscientização e combate à violência contra a mulher, celebrando a Lei Maria da Penha. Mas, infelizmente, a realidade cruel que envolve esse tipo de crime se mostra implacável e, em meio aos eventos, a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito.\n\nDivulgados na última semana, números organizados a partir de dados extraídos do Ministério da Justiça e Segurança Pública revelam que o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. O levantamento detalha, ainda, que 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. O bárbaro diagnóstico expõe a falha nos mecanismos de proteção e escancara a gravidade desse contexto.\n\nUm recorte mais amplo mostra que, desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime, e a média de quatro homicídios por dia se repete há cinco anos. Esse roteiro de horror permanente precisa ser interrompido. É urgente que sejam adotadas medidas para melhorar a articulação para o enfrentamento da violência de gênero.\n\nAs estatísticas assustadoras não podem ser consideradas de interesse apenas da parcela da população que diariamente está na mira dos abusos domésticos e dos ataques nas ruas. E o tema não pode continuar sendo tratado como algo da esfera da moral e particular. Acabar com a violência contra as mulheres é uma responsabilidade da gestão pública e precisa ser encarada como prioridade.\n\nA sociedade brasileira não pode aceitar que o país se transforme, cada vez mais, em um território de perigo para meninas e mulheres. Essa epidemia de violência precisa ser contida, e o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta diante do quadro alarmante.\n\nO abuso sexual, a morte e a agressão por gênero não podem fazer parte do cotidiano nacional. As políticas públicas precisam amparar as mulheres presas em relacionamentos violentos, oferecendo a elas a certeza de que há caminho longe desse horror.\n\n(Editorial. https://www.correiobraziliense.com.br/opiniao, 01.09.2025. Adaptado)",
+   "enunciado": "Há uma relação de consequência e causa, nessa ordem, explicitada na passagem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "... 718 mulheres morreram em razão do gênero de janeiro a junho deste ano, conforme os registros de ocorrências. (2⁠º parágrafo)"
+    },
+    {
+     "letra": "B",
+     "texto": "... o país apresentou média de quatro feminicídios e 187 estupros de mulheres por dia no primeiro semestre de 2025. (2⁠º parágrafo)"
+    },
+    {
+     "letra": "C",
+     "texto": "... a divulgação do Mapa Nacional da Violência de Gênero comprova que ainda há muito a ser feito. (1⁠º parágrafo)"
+    },
+    {
+     "letra": "D",
+     "texto": "... desde a criação da Lei do Feminicídio, em 2015, o Brasil contabilizou 12.380 vítimas desse crime... (3⁠º parágrafo)"
+    },
+    {
+     "letra": "E",
+     "texto": "... o Estado, o Judiciário e as forças de segurança, especialmente as polícias especializadas, têm que executar ações de forma conjunta... (5⁠º parágrafo)"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 10"
+  },
+  {
+   "numero": "11",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "Da perspectiva apresentada pelo cronista, conclui-se corretamente que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "memórias ancestrais encontram na música dos brasileiros e dos cabo-verdianos a forma de serem transportadas para o futuro, sendo a voz daqueles a mais celebrada."
+    },
+    {
+     "letra": "B",
+     "texto": "cantores como Cesária Évora e Orlando Pantera ratificam a superioridade de Cabo Verde em relação a outros países, principalmente o Brasil, cujo povo é bem musical."
+    },
+    {
+     "letra": "C",
+     "texto": "todos os cabo-verdianos nutrem amor pela música, que passam a amar intensamente depois de nascerem e por meio da qual buscam expressar suas memórias."
+    },
+    {
+     "letra": "D",
+     "texto": "brasileiros e cabo-verdianos são povos intensamente musicais, sendo estes caracterizados por expressarem por meio das canções o seu amor ao país em que vivem."
+    },
+    {
+     "letra": "E",
+     "texto": "montanhas longínquas do interior de Santiago abrigam as tristezas do povo cabo-verdiano, que busca inspirações nas canções dos brasileiros para romper o silenciamento."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 11"
+  },
+  {
+   "numero": "12",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentido conotativo, figurado ou metafórico",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "Identifica-se termo empregado em sentido figurado, destacado em negrito, na passagem:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo... (1⁠º parágrafo)"
+    },
+    {
+     "letra": "B",
+     "texto": "Um dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra... (2⁠º parágrafo)"
+    },
+    {
+     "letra": "C",
+     "texto": "A música continua a ser o passaporte da cultura cabo-verdiana no mundo. (2⁠º parágrafo)"
+    },
+    {
+     "letra": "D",
+     "texto": "... as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam... (3⁠º parágrafo)"
+    },
+    {
+     "letra": "E",
+     "texto": "Embora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago... (2⁠º parágrafo)"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 12"
+  },
+  {
+   "numero": "13",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras) > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "Considere as passagens:\n• O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. (1⁠º parágrafo)\n• Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. (2⁠º parágrafo)\n• E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos. (3⁠º parágrafo)\n\nNo contexto em que estão empregados, os termos destacados significam, correta e respectivamente:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "consensual; intensa; remontar."
+    },
+    {
+     "letra": "B",
+     "texto": "hesitante; antiquada, levar."
+    },
+    {
+     "letra": "C",
+     "texto": "irrestrito; libertadora; passar."
+    },
+    {
+     "letra": "D",
+     "texto": "ilimitado; perturbadora; restringir."
+    },
+    {
+     "letra": "E",
+     "texto": "impingido; imutável; comunicar."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 13"
+  },
+  {
+   "numero": "14",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Concordância verbal",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "A concordância verbal está em conformidade com a norma-padrão em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Todos os momentos marcantes da história de Cabo Verde dispõe da presença da música."
+    },
+    {
+     "letra": "B",
+     "texto": "Orlando Pantera transpõem para a canção o sentir das gentes dos campos, os esquecidos."
+    },
+    {
+     "letra": "C",
+     "texto": "São poucos que mantêm uma relação com o sentir das gentes, como Orlando Pantera."
+    },
+    {
+     "letra": "D",
+     "texto": "Para os cabo-verdianos, o país e os seus ritmos conta com um amor que não tem paralelo."
+    },
+    {
+     "letra": "E",
+     "texto": "Em Cabo Verde, houveram artistas cujas músicas remetem às memórias ancestrais."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 14"
+  },
+  {
+   "numero": "15",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos sinais de pontuação > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "Considere as passagens:\n• ... mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. (1⁠º parágrafo)\n• ... morreu no dia em que iniciaria, em Paris, as gravações do disco... (3⁠º parágrafo)\n\nAs vírgulas empregadas nas passagens transcritas apresentam o mesmo motivo de emprego, respectivamente, nas expressões destacadas em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ao ponderar sobre os negócios, no entanto, ele não sabia que havia informações obscuras. / Era preciso entender que, na condição precária do carro, um acidente era quase inevitável."
+    },
+    {
+     "letra": "B",
+     "texto": "Todos esperavam um reajuste no salário, por isso, já estavam fazendo planos com o dinheiro. / O rosto do rapaz estava marcado, de fato, por lágrimas, que sugeriam seu sofrimento."
+    },
+    {
+     "letra": "C",
+     "texto": "Durante a conversa com leitores, o autor explorou grandes temas, a saber, política, liberdade e justiça. / O livro era um marco na história da editora que, bem famosa, seria reinaugurada."
+    },
+    {
+     "letra": "D",
+     "texto": "O livro que ele escreveu era muito ruim, isto é, nem deveria ter sido publicado. / Era preciso que a professora organizasse, na sala, um debate sobre o tema."
+    },
+    {
+     "letra": "E",
+     "texto": "O que o cidadão pretende, por enquanto, é que se acelerem as principais obras urbanas. / Tudo que ele via naquele momento, na entrada de casa, era seus bons amigos chegando."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 15"
+  },
+  {
+   "numero": "16",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Norma culta ou norma padrão > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Leia o texto para responder às questões de 11 a 15.\n\nPassaporte da cultura\n\nAo lado dos brasileiros, o povo mais musical que tive o privilégio de conhecer são os cabo-verdianos. O amor incondicional que nutrem pelo país e pelos seus ritmos não tem paralelo. Um amor libertador, que não precisa possuir para se validar. Um amor não exigente, mas que se faz presente na língua que todos aprendem a falar desde o berço — ou melhor, a declamar e a cantar desde o ventre. Não é exagero: todos os cabo-verdianos que conheço são poetas.\n\nEmbora se reconheça Cesária Évora como sendo a voz que revelou a alma do arquipélago, existe nas montanhas longínquas do interior de Santiago um gênero que já sofrera os seus desafios de silenciamento. Uma música catártica, crua e negra com a qual gerações novas se reconciliaram e aprenderam a reivindicar a sua herança africana. A música continua a ser o passaporte da cultura cabo-verdiana no mundo. Está presente em todos os momentos marcantes da história do país, e é por meio dela que as memórias ancestrais são catalogadas e transportadas para o futuro.\n\nUm dos músicos mais celebrados da nação é Orlando Pantera, um cometa que viveu na terra por escassos 33 anos. Não gravou nenhum álbum, morreu no dia em que iniciaria, em Paris, as gravações do disco que confirmaria aquilo que os habitantes da ilha de Santiago já sabiam: era um gênio. E um dos poucos que conseguiu transportar para a canção o sentir das gentes dos campos, os esquecidos, os seus ritmos e desejos.\n\n(Kalaf Epalanga. Minha pátria é a língua pretuguesa: Crônicas. 2023. Adaptado)",
+   "enunciado": "Considere as informações:\n• Estigma _______ por mulheres asiáticas que pedem divórcio\n\n(https://www.terra.com.br/noticias, 31.08.2025. Adaptado.)\n• Quando, a energia elétrica caiu em praticamente toda a Península Ibérica, em Madri, era meio-dia e ________ .\n\nO que se seguiu a partir daí foi o que se espera em situações como essa: caos.\n\n(https://www.nexojornal.com.br, 30.04.2025. Adaptado.)\n• NASA trouxe para Terra _______ gramas de um tipo de asteroide que “pode ter acelerado o surgimento da vida”\n\n(https://expresso.pt/sociedade/ciencia, 27.09.2023. Adaptado)\n\nDe acordo com a norma-padrão, as lacunas das frases devem ser preenchidas, respectivamente, com:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "enfrentado … meio … duzentos e cinquenta"
+    },
+    {
+     "letra": "B",
+     "texto": "enfrentado … meia … duzentos e cinquenta"
+    },
+    {
+     "letra": "C",
+     "texto": "enfrentados … meio … duzentas e cinquenta"
+    },
+    {
+     "letra": "D",
+     "texto": "enfrentada … meio … duzentas e cinquenta"
+    },
+    {
+     "letra": "E",
+     "texto": "enfrentada … meia … duzentas e cinquenta"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 16"
+  },
+  {
+   "numero": "17",
+   "disciplina": "Direito Penal",
+   "assunto": "Falsificação de Papéis Públicos",
+   "tipo": "multipla",
+   "enunciado": "É crime, expressamente previsto no “caput” combinado com o inciso IV do art. 293 do CP, falsificar cautela de penhor emitida por entidade de direito público. Na hipótese de o documento de cautela ser legitimamente cancelado pela entidade, mediante a aposição de um carimbo, a conduta do sujeito que suprime tal carimbo, visando a uma nova utilização da cautela de penhor, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "típica e punida pelo próprio “caput” combinado com o inciso IV do art. 293 do CP, tendo em vista que a supressão também é considerada uma forma de falsificação."
+    },
+    {
+     "letra": "B",
+     "texto": "típica e punida com a mesma pena, tendo em vista a equivalência das condutas de falsificar e suprimir."
+    },
+    {
+     "letra": "C",
+     "texto": "atípica, tendo em vista ausência de expressa previsão legal para a punição da supressão."
+    },
+    {
+     "letra": "D",
+     "texto": "atípica, tendo em vista que não se pode admitir interpretação extensiva para que a supressão seja englobada pelo conceito de falsificação."
+    },
+    {
+     "letra": "E",
+     "texto": "típica e punida pelo CP, tendo em vista que o bem jurídico também é atingido pela supressão."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 17"
+  },
+  {
+   "numero": "18",
+   "disciplina": "Direito Penal",
+   "assunto": "Falsa identidade",
+   "tipo": "multipla",
+   "enunciado": "O crime de falsa identidade previsto no art. 307 do CP apenas é punível se",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "causa prejuízo à Administração Pública."
+    },
+    {
+     "letra": "B",
+     "texto": "cometido em conjunto por aquele a que se atribui falsa identidade e pelo terceiro que cede a própria identidade para utilização."
+    },
+    {
+     "letra": "C",
+     "texto": "causa prejuízo a terceiro."
+    },
+    {
+     "letra": "D",
+     "texto": "cometido por funcionário público."
+    },
+    {
+     "letra": "E",
+     "texto": "não constitui elemento de crime mais grave."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 18"
+  },
+  {
+   "numero": "19",
+   "disciplina": "Direito Penal",
+   "assunto": "Inserção de dados falsos em sistema de informações > Crimes Praticados por Funcionário Público Contra a Administração em Geral",
+   "tipo": "multipla",
+   "enunciado": "Com relação ao crime previsto no art. 313-A do CP (inserção de dados falsos em sistema de informações), é correto afirmar que, para que o crime se configure,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "basta o mero fim de obtenção de vantagem indevida para si ou terceiro, não sendo necessário que o agente obtenha vantagem efetiva."
+    },
+    {
+     "letra": "B",
+     "texto": "é necessário que haja efetivo dano à Administração, não caracterizando figura típica a mera intenção de causar dano."
+    },
+    {
+     "letra": "C",
+     "texto": "é necessário que o funcionário efetivamente insira dados falsos, não caracterizando figura típica a exclusão de dados corretos."
+    },
+    {
+     "letra": "D",
+     "texto": "é necessário que o funcionário efetivamente insira dados falsos, não caracterizando figura típica a facilitação para inserção."
+    },
+    {
+     "letra": "E",
+     "texto": "é necessário que haja efetivo dano a administrado, não caracterizando figura típica a mera intenção de causar dano."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 19"
+  },
+  {
+   "numero": "20",
+   "disciplina": "Direito Penal",
+   "assunto": "Crimes Praticados por Funcionário Público Contra a Administração em Geral > Direito Penal",
+   "tipo": "multipla",
+   "enunciado": "O crime de condescendência criminosa caracteriza-se quando o funcionário público deixa de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não leva o fato ao conhecimento da autoridade competente. Complementa a descrição da ação típica o elemento",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“causando prejuízo ao serviço público”."
+    },
+    {
+     "letra": "B",
+     "texto": "“mediante promessa de vantagem indevida”."
+    },
+    {
+     "letra": "C",
+     "texto": "“por indulgência”."
+    },
+    {
+     "letra": "D",
+     "texto": "“ainda que por reconhecida nobreza”."
+    },
+    {
+     "letra": "E",
+     "texto": "“para satisfazer interesse pessoal”."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 20"
+  },
+  {
+   "numero": "21",
+   "disciplina": "Direito Penal",
+   "assunto": "Incompatibilidades e Impedimentos > Direito Processual Penal",
+   "tipo": "multipla",
+   "enunciado": "De acordo com o Código de Processo Penal, é correto afirmar que o juiz será considerado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "impedido se for credor ou devedor, tutor ou curador, de qualquer das partes."
+    },
+    {
+     "letra": "B",
+     "texto": "suspeito se o seu cônjuge for diretamente interessado no feito."
+    },
+    {
+     "letra": "C",
+     "texto": "suspeito se tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão."
+    },
+    {
+     "letra": "D",
+     "texto": "suspeito se tiver aconselhado qualquer das partes."
+    },
+    {
+     "letra": "E",
+     "texto": "impedido se um parente seu (no caso, seu primo) responde a processo que tenha de ser julgado por qualquer das partes."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 21"
+  },
+  {
+   "numero": "22",
+   "disciplina": "Direito Processual Penal",
+   "assunto": "Sujeitos do processo",
+   "tipo": "multipla",
+   "enunciado": "Sobre o tema “Do acusado e seu defensor”, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "em caso de abandono do processo pelo defensor, cumulado com a não localização do acusado, o processo será sobrestado até a prisão do acusado."
+    },
+    {
+     "letra": "B",
+     "texto": "a constituição de defensor independerá de instrumento de mandato se o acusado o indicar por ocasião do interrogatório."
+    },
+    {
+     "letra": "C",
+     "texto": "o acusado poderá realizar sua própria defesa, bastando, para tanto, possuir o grau de bacharel em Direito, sendo desnecessária sua inscrição na Ordem dos Advogados do Brasil."
+    },
+    {
+     "letra": "D",
+     "texto": "a falta de defensor público, dativo ou particular impedirá o processamento e o julgamento do acusado ausente; todavia, não impedirá o processamento e o julgamento do acusado foragido."
+    },
+    {
+     "letra": "E",
+     "texto": "quando nomeados pelo juiz, os advogados, como defensores dativos, têm a faculdade de declinar da nomeação, sendo desnecessário declarar o motivo da recusa."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 22"
+  },
+  {
+   "numero": "23",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Citação > Direito Processual Penal",
+   "tipo": "multipla",
+   "enunciado": "Sobre a temática da citação judicial no processo penal, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não sendo encontrado o acusado, será procedida a citação por carta-convite."
+    },
+    {
+     "letra": "B",
+     "texto": "se o réu estiver preso, será requisitada a sua apresentação em juízo, no dia e hora designados, ao diretor do presídio onde se encontra recolhido, por isso desnecessária a citação pessoal do preso."
+    },
+    {
+     "letra": "C",
+     "texto": "se o réu não for encontrado, será citado por edital, com o prazo de 120 (cento e vinte) dias."
+    },
+    {
+     "letra": "D",
+     "texto": "a notificação judicial para o comparecimento de funcionário público em juízo, na condição de acusado, não deve ser endereçada ao próprio acusado, mas tão somente ao chefe da repartição a que pertence o funcionário acusado."
+    },
+    {
+     "letra": "E",
+     "texto": "o militar deve ser citado por intermédio do chefe do respectivo serviço."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 23"
+  },
+  {
+   "numero": "24",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Procedimento comum > Direito Processual Penal",
+   "tipo": "multipla",
+   "enunciado": "No tocante ao tema “instrução criminal – procedimento comum”, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Nos procedimentos ordinário e sumário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 10 (dez) dias."
+    },
+    {
+     "letra": "B",
+     "texto": "O procedimento comum será ordinário, sumário, sumariíssimo e especial."
+    },
+    {
+     "letra": "C",
+     "texto": "O procedimento será comum ordinário quando tiver por objeto crime cuja sanção máxima cominada seja inferior a 4 (quatro) anos de pena privativa de liberdade."
+    },
+    {
+     "letra": "D",
+     "texto": "Os processos que apurem a prática de crime hediondo ou violência contra a mulher terão prioridade de tramitação em todas as instâncias, desde que haja requerimento expresso do Ministério Público ou do(a) ofendido(a)."
+    },
+    {
+     "letra": "E",
+     "texto": "O procedimento será comum sumário quando tiver por objeto crime cuja sanção máxima cominada for igual ou superior a 4 (quatro) anos de pena privativa de liberdade."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 24"
+  },
+  {
+   "numero": "25",
+   "disciplina": "Direito Processual Penal",
+   "assunto": "Recursos no Juizado Especial Criminal",
+   "tipo": "multipla",
+   "enunciado": "Sobre os Juizados Especiais Criminais, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os erros materiais não poderão ser corrigidos de ofício pelo juiz, motivo pelo qual a parte interessada deverá opor embargos de declaração no prazo de 3 (três) dias, contados da ciência da decisão."
+    },
+    {
+     "letra": "B",
+     "texto": "Da sentença caberá apelação, a qual será interposta no prazo de 15 (quinze) dias, contados da ciência da decisão pelo Ministério Público, pelo réu e seu defensor, por petição escrita, da qual constarão as razões e o pedido do recorrente."
+    },
+    {
+     "letra": "C",
+     "texto": "Os embargos de declaração não interrompem o prazo para a interposição de recurso."
+    },
+    {
+     "letra": "D",
+     "texto": "Da decisão de rejeição da denúncia ou queixa caberá recurso em sentido estrito, que poderá ser julgado por turma composta de três juízes em exercício no primeiro grau de jurisdição, reunidos na sede do juizado."
+    },
+    {
+     "letra": "E",
+     "texto": "No recurso de apelação, a parte recorrida terá o prazo de 10 (dez) dias para oferecer sua resposta escrita."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 25"
+  },
+  {
+   "numero": "26",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Conceito e Princípios dos Atos Processuais > Penhora",
+   "tipo": "multipla",
+   "enunciado": "Tom emprestou R$ 50.000,00 a Gael mediante a assinatura de uma nota promissória com vencimento no prazo 30 dias. Passado o prazo, Gael não realizou o pagamento, razão pela qual Tom ajuizou ação de execução de título extrajudicial requerendo a citação de Gael para pagar a dívida em 3 dias, sob pena de penhora de bens. Citado, Gael manteve-se inerte. O juiz então determinou a penhora do automóvel de Gael. O oficial de justiça compareceu à casa de Gael em um sábado, às 21h, para efetivar a diligência.\n\nDiante da situação hipotética, é correto afirmar que o ato processual é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "nulo, pois deverá ser realizado em dias úteis."
+    },
+    {
+     "letra": "B",
+     "texto": "nulo, pois ainda que possa ser realizado em finais de semana e feriados, deve ser realizado das 6 (seis) às 20 (vinte) horas."
+    },
+    {
+     "letra": "C",
+     "texto": "válido, por se tratar de ato que, por sua natureza, tem característica de urgente."
+    },
+    {
+     "letra": "D",
+     "texto": "válido, independentemente de autorização judicial."
+    },
+    {
+     "letra": "E",
+     "texto": "nulo, pois depende de autorização judicial específica para a realização fora do horário do expediente."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 26"
+  },
+  {
+   "numero": "27",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Procedimento > Execução de Prestação Alimentícia",
+   "tipo": "multipla",
+   "enunciado": "João, de 10 anos, representado por sua mãe, ajuíza ação de alimentos contra seu pai, Carlos, alegando que este não contribui regularmente para seu sustento. Nos autos, resta comprovado que a mãe arca sozinha com todas as despesas de João, enquanto Carlos possui emprego estável e renda mensal líquida de R$ 6.000,00. João requer o pagamento de R$ 30.000,00 pelos alimentos em atraso, bem como a fixação de alimentos mensais no valor de R$ 1.800,00.\n\nEm sentença, o juiz julga totalmente procedentes os pedidos de João.\n\nDiante da situação hipotética, sendo certo que a sentença ainda não transitou em julgado, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O juiz só poderá requerer o desconto em folha de pagamento caso Carlos atrase alguma parcela."
+    },
+    {
+     "letra": "B",
+     "texto": "João poderá executar desde logo os alimentos nos mesmos autos."
+    },
+    {
+     "letra": "C",
+     "texto": "Carlos poderá parcelar o valor dos alimentos em atraso, não podendo a parcela, somada ao valor mensal, ser superior R$ 3.000,00."
+    },
+    {
+     "letra": "D",
+     "texto": "Carlos terá o prazo de cinco dias para pagar o valor integral decidido em sentença."
+    },
+    {
+     "letra": "E",
+     "texto": "Caso reste verificada conduta procrastinatória de Carlos, o juiz poderá, desde que mediante requerimento de João, dar ciência ao Ministério Público dos indícios da prática do crime de abandono material."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 27"
+  },
+  {
+   "numero": "28",
+   "disciplina": "Direito Processual Civil - CPC 2015",
+   "assunto": "Requisitos Extrínsecos > Procedimento",
+   "tipo": "multipla",
+   "enunciado": "Helena contratou Arthur, advogado autônomo, para propor ação de indenização contra Karina. Realizada a instrução processual, a sentença foi julgada improcedente. Durante o prazo para interposição de apelação, Arthur veio a falecer.\n\nDiante da situação hipotética, é correto afirmar que o prazo para interposição da apelação",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "será restituído em proveito de Helena, contra quem começará a correr novamente depois da intimação."
+    },
+    {
+     "letra": "B",
+     "texto": "será interrompido, com prosseguimento de onde parou, após peticionamento de novo advogado."
+    },
+    {
+     "letra": "C",
+     "texto": "será prorrogado automaticamente por mais 15 (quinze) dias."
+    },
+    {
+     "letra": "D",
+     "texto": "não se suspende nem se interrompe, devendo Helena ser diligente e constituir rapidamente novo advogado."
+    },
+    {
+     "letra": "E",
+     "texto": "será suspenso, com prosseguimento de onde parou, após nomeação de novo advogado."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 28"
+  },
+  {
+   "numero": "29",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 9.099/1995 - Lei dos Juizados Especiais Cíveis e Criminais",
+   "tipo": "multipla",
+   "enunciado": "Dona Maria, costureira autônoma, compareceu ao Juizado Especial Cível e, de forma oral, narrou que adquiriu uma máquina de costura da loja Retalhão pelo valor de 5 salários-mínimos. O equipamento apresentou defeito na primeira semana e, diante da recusa da loja em substituí-lo ou devolver o valor pago, Maria propôs ação requerendo a restituição do valor ou a entrega de um novo produto.\n\nDiante da situação hipotética, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Por ser o réu pessoa jurídica, Dona Maria deverá ser assistida por advogado, independentemente do valor da causa."
+    },
+    {
+     "letra": "B",
+     "texto": "Caso a loja Retalhão fosse citada e apresentasse pedido contraposto, este deveria ser indeferido por não ser permitido nos juizados especiais."
+    },
+    {
+     "letra": "C",
+     "texto": "Dona Maria deverá escolher entre a restituição do valor ou a entrega de um novo produto, uma vez que, nos juizados especiais, não é possível apresentar pedidos alternativos ou cumulados."
+    },
+    {
+     "letra": "D",
+     "texto": "Caso a loja Retalhão comparecesse inicialmente junto com Dona Maria, a sessão de conciliação seria instaurada no prazo de até trinta dias, dispensados o registro prévio de pedido e a citação."
+    },
+    {
+     "letra": "E",
+     "texto": "Registrado o pedido de Dona Maria, independentemente de distribuição e autuação, a Secretaria do Juizado designará a sessão de conciliação com a loja Retalhão, a realizar-se no prazo de quinze dias."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 29"
+  },
+  {
+   "numero": "30",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 12.153/2009 - Dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios.",
+   "tipo": "multipla",
+   "enunciado": "A Fundação Municipal de Cultura de Santa Aurora, vinculada ao Município de Santa Aurora, contratou a microempresa Luz & Som Ltda. – ME para fornecer equipamentos de iluminação para comemoração do aniversário da Fundação. O contrato previa o pagamento de 50 salários-mínimos. Apesar da execução integral do serviço, a Fundação deixou de efetuar o pagamento.\n\nDiante disso, a microempresa ajuizou ação de cobrança contra a Fundação perante o Juizado Especial da Fazenda Pública, atribuindo à causa o valor correspondente ao contrato. A sentença julgou a ação procedente.\n\nDiante da situação hipotética, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se a sentença transitar em julgado, o pagamento será feito no prazo máximo de 30 (trinta) dias, contados da entrega da requisição do juiz à autoridade citada para a causa."
+    },
+    {
+     "letra": "B",
+     "texto": "Em que pese a Fundação seja pessoa jurídica de direito público, terá o prazo de 10 (dez) dias úteis para apresentar recurso contra a sentença."
+    },
+    {
+     "letra": "C",
+     "texto": "Por se tratar de causa proposta perante o Juizado Especial da Fazenda Pública, não se admite recurso, exceto para evitar dano de difícil ou incerta reparação."
+    },
+    {
+     "letra": "D",
+     "texto": "A sentença deverá ser anulada e o processo remetido para vara comum em razão das partes."
+    },
+    {
+     "letra": "E",
+     "texto": "Caso não seja apresentado recurso, a sentença será objeto de reexame necessário."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 30"
+  },
+  {
+   "numero": "31",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos e deveres individuais e coletivos ou direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade,àsegurançaeàpropriedade (artigo 5º da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "O policial Severo foi chamado a atender um flagrante delito que o sujeito apelidado de Pernalonga estava cometendo dentro da casa deste. Chegando ao local do crime no final da tarde e evidenciada a prática de infração penal, Severo constatou que era hipótese de flagrante delito. Coincidentemente, o policial avistou em uma casa vizinha Carcará, criminoso foragido e que tinha mandado de prisão expedido por autoridade judicial. Diante da situação, face ao adiantado da hora, e, obviamente, não havendo consentimento dos moradores, pairou dúvidas acerca da possibilidade de adentrar nos domicílios de Pernalonga e Carcará para efetuar as prisões.\n\nFace a situação hipotética, é correto afirmar, de acordo com o disposto na Constituição de 1988, que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ainda que persistisse a situação de flagrante durante o período noturno, Severo somente poderia adentrar na casa de Pernalonga durante o dia para efetuar a prisão."
+    },
+    {
+     "letra": "B",
+     "texto": "a casa é asilo inviolável, não podendo Severo adentrar nas duas casas no período noturno, podendo entrar nas duas casas apenas no período diurno."
+    },
+    {
+     "letra": "C",
+     "texto": "Severo pode ingressar em ambas as casas para efetuar as prisões nos períodos diurno ou noturno."
+    },
+    {
+     "letra": "D",
+     "texto": "Severo não pode ingressar na casa de Carcará no período noturno, mas pode ingressar na casa de Pernalonga uma vez caraterizada no momento do ingresso a situação de flagrante delito."
+    },
+    {
+     "letra": "E",
+     "texto": "Severo pode ingressar no período noturno apenas na casa de Carcará, pois há ordem judicial a ser cumprida – mandado de prisão."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 31"
+  },
+  {
+   "numero": "32",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Remédios constitucionais ou writs constitucionais ou ações constitucionais ou garantias constitucionais > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "A respeito das ações constitucionais, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Mandado de segurança coletivo pode ser proposto por entidade sindical ou partido político com representação na assembleia legislativa."
+    },
+    {
+     "letra": "B",
+     "texto": "Ocorrendo ilegalidade ou abuso de poder por autoridade pública que viole a liberdade de locomoção, a ação cabível será o mandado de segurança."
+    },
+    {
+     "letra": "C",
+     "texto": "O autor da ação popular, inexistente situação de comprovada má-fé, bem como os impetrantes de habeas data não estão sujeitos ao pagamento de custas processuais."
+    },
+    {
+     "letra": "D",
+     "texto": "Na ação popular, salvo comprovada má-fé, tanto o autor popular como o réu estarão isentos do pagamento de custas processuais e ônus sucumbenciais."
+    },
+    {
+     "letra": "E",
+     "texto": "São gratuitas as ações de mandado de segurança e habeas corpus."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 32"
+  },
+  {
+   "numero": "33",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "Joaquim, integrante da carreira diplomática portuguesa, prestando serviço em Angola, foi casado em primeiras núpcias com a atriz portuguesa Catarina, tendo nascido a filha Josefina. Posteriormente, Joaquim se separou e casou-se com Rúbia, tenista e brasileira naturalizada, tendo nascido da união a filha Sandra. Josefina e Sandra nasceram em Angola quando apenas o genitor estava a serviço de Portugal.\n\nTendo interesse que as filhas sigam a carreira diplomática, mas pela República Federativa do Brasil, assinale a alternativa correta à luz das disposições da Constituição de 1988",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Caso Sandra tenha sido registrada na repartição competente brasileira em Angola, será considerada brasileira naturalizada, podendo seguir a carreira diplomática."
+    },
+    {
+     "letra": "B",
+     "texto": "Josefina e Sandra podem seguir a carreira diplomática brasileira se adquirirem a nacionalidade brasileira e houver reciprocidade em favor dos brasileiros, exigida residência permanente no Brasil."
+    },
+    {
+     "letra": "C",
+     "texto": "Josefina pode se tornar brasileira naturalizada se comprovar idoneidade moral e vier a residir por um ano na República Federativa do Brasil, sendo permitido seguir a carreira diplomática brasileira."
+    },
+    {
+     "letra": "D",
+     "texto": "Sandra poderá seguir a carreira diplomática brasileira, se vier a residir no Brasil e optar, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira."
+    },
+    {
+     "letra": "E",
+     "texto": "Josefina e Sandra não podem ser consideradas brasileiras natas, não sendo, assim, permitido seguir a carreira diplomática brasileira."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 33"
+  },
+  {
+   "numero": "34",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Disposições gerais (artigo 37 da CF)",
+   "tipo": "multipla",
+   "enunciado": "O engenheiro Alípio foi admitido como servidor público concursado de autarquia estadual, tendo se efetivado.\n\nÉ correto afirmar, à luz do disposto na Constituição de 1988, que Alípio",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "estará sujeito ao limite remuneratório mensal máximo pago a título de subsídio ao Governador do Estado."
+    },
+    {
+     "letra": "B",
+     "texto": "caso instituído pelo estado-membro, poderá aderir a plano de previdência complementar na modalidade benefício definido, observado o limite máximo previsto para o regime geral da previdência social."
+    },
+    {
+     "letra": "C",
+     "texto": "poderá ter seus proventos de aposentadoria do regime próprio de previdência superiores ao limite máximo fixado pelo Regime Geral de Previdência Social, observadas as normas constitucionais relativas ao regime de previdência complementar."
+    },
+    {
+     "letra": "D",
+     "texto": "não estará sujeito a teto remuneratório mensal máximo por ser servidor público da administração indireta estadual."
+    },
+    {
+     "letra": "E",
+     "texto": "estará sujeito ao teto remuneratório mensal máximo pago a título de subsídio aos Desembargadores do Tribunal de Justiça Estadual."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 34"
+  },
+  {
+   "numero": "35",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos dos trabalhadores urbanos e rurais (artigo 7º da CF)",
+   "tipo": "multipla",
+   "enunciado": "João trabalhava como empregado da empresa Alfa em regime ininterrupto de revezamento, sendo filiado ao respectivo sindicato. Através de negociação coletiva firmada pelos sindicatos representativos das categorias, foi fixada jornada superior a seis horas por turno, bem como acordada redução salarial.\n\nTendo ocorrido a extinção do vínculo laboral recentemente, e pretendendo João ingressar com reclamação trabalhista para cobrança de diversas verbas em face da empresa, pode-se afirmar que a Constituição de 1988",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não autoriza negociação coletiva estabelecendo jornada superior a seis horas por turno, devendo a empresa indenizá-lo pelas horas extraordinárias, dispondo João do prazo máximo de 02 anos após a extinção do contrato de trabalho para ingressar com reclamação trabalhista."
+    },
+    {
+     "letra": "B",
+     "texto": "permite negociação coletiva fixando jornada superior a seis horas por turno e também redução salarial mediante convenção ou acordo coletivo, e João poderá ingressar com reclamação trabalhista no prazo máximo de 02 anos após a extinção do contrato de trabalho para a cobrança de verbas trabalhistas."
+    },
+    {
+     "letra": "C",
+     "texto": "permite negociação coletiva estabelecendo redução salarial e aumento da jornada de trabalho, e João terá direito de ação quanto aos créditos resultantes da relação de trabalho com prazo prescricional de 10 anos após a data de extinção do contrato de trabalho."
+    },
+    {
+     "letra": "D",
+     "texto": "permite negociação coletiva estabelecendo a redução salarial, mas não permite negociação para fixação de jornada superior a seis horas por turno, e João deverá ingressar com reclamação trabalhista no prazo máximo de 02 anos após a extinção do contrato de trabalho."
+    },
+    {
+     "letra": "E",
+     "texto": "não permite negociação coletiva estabelecendo redução salarial, mas permite mediante negociação coletiva a fixação de jornada superior a seis horas por turno, dispondo João do prazo máximo de 05 anos, após a extinção do contrato de trabalho, para ingressar com reclamação trabalhista."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 35"
+  },
+  {
+   "numero": "36",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968 > Legislação Estadual, Distrital e Municipal",
+   "tipo": "multipla",
+   "enunciado": "João, servidor público do Estado de São Paulo, é um atleta de destaque em sua modalidade esportiva. Ele recebeu um convite para participar de duas competições importantes: (1) os Jogos Sul-Americanos, que acontecerão na Colômbia, onde representará o Brasil, conforme requisição formal da Confederação Brasileira de sua modalidade; e (2) o torneio interestadual, em Minas Gerais, no qual a equipe do clube esportivo que irá representar, baseada em São Paulo, irá competir com chances reais de pódio. O clube esportivo fez a solicitação de seu afastamento para o segundo caso. Supondo que João buscou a devida autorização junto à autoridade competente, é correto afirmar, com base no Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei nº 10.261/1968), que o afastamento de João para participar",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "dos Jogos Sul-Americanos será sem prejuízo do vencimento ou remuneração, e o torneio interestadual de clubes será igualmente sem prejuízo, em virtude da relevância esportiva."
+    },
+    {
+     "letra": "B",
+     "texto": "de ambas as competições será com prejuízo do vencimento ou remuneração, por se tratar de atividades esportivas não relacionadas diretamente às atribuições do cargo, independentemente de autorização da autoridade competente."
+    },
+    {
+     "letra": "C",
+     "texto": "dos Jogos Sul-Americanos será com prejuízo do vencimento ou remuneração, pois se trata de uma competição internacional."
+    },
+    {
+     "letra": "D",
+     "texto": "de ambas as competições será sem prejuízo do vencimento ou remuneração, desde que haja a devida autorização do governador."
+    },
+    {
+     "letra": "E",
+     "texto": "dos Jogos Sul-Americanos será sem prejuízo do vencimento ou remuneração, e o torneio interestadual de clubes será com prejuízo do vencimento ou remuneração, sempre mediante autorização do governador."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 36"
+  },
+  {
+   "numero": "37",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968 > Legislação Estadual, Distrital e Municipal",
+   "tipo": "multipla",
+   "enunciado": "Maria, recém-aprovada em concurso público para o cargo civil no Governo do Estado de São Paulo, tomou posse em 15 de agosto de 2025. No entanto, em 10 de setembro de 2025, Maria sofreu um acidente doméstico e necessitou de repouso absoluto, impossibilitando sua entrada em exercício no prazo. No dia 12 de setembro de 2025, sua advogada protocolou um requerimento solicitando a prorrogação do prazo para início do exercício por mais 90 dias. Não houve qualquer pedido de licença por motivo de saúde por parte de Maria. A autoridade competente, avaliando o caso, concedeu a prorrogação solicitada para o início do exercício, porém, apenas até 14 de outubro de 2025. De acordo com o Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei nº 10.261/1968) e com a situação hipotética descrita, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se, porventura, Maria não entrar em exercício dentro do prazo estabelecido, será considerada sem efeito a sua nomeação, sendo dispensado o ato de exoneração."
+    },
+    {
+     "letra": "B",
+     "texto": "se, porventura, Maria não entrar em exercício dentro do prazo estabelecido nada ocorrerá, posto que o afastamento de Maria se deve por questão de saúde."
+    },
+    {
+     "letra": "C",
+     "texto": "a autoridade competente agiu errado ao fixar o prazo limite, posto que a legislação não fixa prazo máximo para a prorrogação do início do exercício em cargo público."
+    },
+    {
+     "letra": "D",
+     "texto": "se, porventura, Maria não entrar em exercício dentro do prazo estabelecido será exonerada do cargo."
+    },
+    {
+     "letra": "E",
+     "texto": "a autoridade competente agiu corretamente ao fixar o prazo para início do exercício em 14 de outubro, posto que o prazo regular é de 45 dias, postergável por mais 15."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 37"
+  },
+  {
+   "numero": "38",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto dos Funcionários Públicos do Estado de São Paulo - Lei nº 10.261/1968",
+   "tipo": "multipla",
+   "enunciado": "De acordo com a Lei nº10.261/1968 (Estatuto dos Funcionários Públicos Civis do Estado de São Paulo), a reintegração de servidor público estadual é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "considerada ato privativo do governador do Estado de São Paulo, após análise e parecer conclusivo do procurador-geral do Estado."
+    },
+    {
+     "letra": "B",
+     "texto": "feita para cargo do mesmo padrão de vencimento ou superior, ainda que se trate de reintegração a pedido."
+    },
+    {
+     "letra": "C",
+     "texto": "o reingresso no serviço público, decorrente da decisão judicial passada em julgado, com ressarcimento de prejuízos resultantes do afastamento."
+    },
+    {
+     "letra": "D",
+     "texto": "o reingresso no serviço público, decorrente da decisão administrativa transitada em julgado, com ou sem ressarcimento de prejuízos resultantes do afastamento."
+    },
+    {
+     "letra": "E",
+     "texto": "feita para cargo do mesmo padrão de vencimento ou de igual remuneração, ressalvados os casos de reintegração a pedido."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 38"
+  },
+  {
+   "numero": "39",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Sanções Cabíveis > Direito Administrativo",
+   "tipo": "multipla",
+   "enunciado": "A empresa Construções Rápidas Ltda., uma construtora de médio porte com atuação predominante em projetos de infraestrutura básica em pequenos municípios do interior, foi processada por ato de improbidade administrativa, na modalidade de lesão ao erário, em razão de superfaturamento comprovado em contrato de pavimentação de vias urbanas com a Prefeitura Municipal de Y. Auditoria do Tribunal de Contas competente confirmou o dano ao patrimônio público. Durante a fase de fixação das sanções, a defesa da Construções Rápidas Ltda. demonstrou que a empresa é a principal empregadora da cidade, gerando centenas de postos de trabalho diretos e indiretos, e que sua falência, decorrente de uma sanção excessivamente severa, causaria um grave impacto social e econômico no município, com o fechamento de postos de trabalho, a interrupção de projetos em andamento e a perda de arrecadação de impostos. Com base na situação hipotética e nas disposições da Lei nº 8.429/1992 (Lei de Improbidade Administrativa), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A preocupação com os efeitos econômicos e sociais das sanções é um critério que só pode ser invocado pela defesa da pessoa jurídica em fase recursal, após a fixação da pena em primeira instância."
+    },
+    {
+     "letra": "B",
+     "texto": "A possibilidade de consideração pelo juiz dos efeitos econômicos e sociais das sanções sobre pessoas jurídicas apenadas nos termos da Lei de Improbidade Administrativa aplica-se exclusivamente às entidades sem fins lucrativos."
+    },
+    {
+     "letra": "C",
+     "texto": "Na fixação das sanções à empresa Construções Rápidas Ltda., o juiz deverá considerar os efeitos econômicos e sociais das penalidades, buscando viabilizar a manutenção das atividades da empresa, mesmo diante do superfaturamento."
+    },
+    {
+     "letra": "D",
+     "texto": "A manutenção das atividades da pessoa jurídica é um critério a ser considerado na aplicação das sanções, mas apenas se o dano ao erário for de pequena monta e não houver dolo comprovado."
+    },
+    {
+     "letra": "E",
+     "texto": "A Lei de Improbidade Administrativa não permite que o juiz leve em consideração os efeitos econômicos e sociais na aplicação das sanções à pessoa jurídica, devendo focar na reparação integral do dano ao erário."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 39"
+  },
+  {
+   "numero": "40",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Sanções Cabíveis > Direito Administrativo",
+   "tipo": "multipla",
+   "enunciado": "A Organização da Sociedade Civil Esperança Viva, pessoa jurídica de direito privado sem fins lucrativos, celebrou com a Prefeitura Municipal de X o instrumento jurídico apropriado para a gestão de um projeto social de atendimento a crianças e adolescentes em situação de vulnerabilidade, utilizando integralmente recursos provenientes do erário público municipal. Durante a execução do projeto, verificou-se que o Sr. João da Silva, presidente da Esperança Viva, em conluio com a Sra. Maria Souza, servidora pública municipal responsável pela fiscalização do termo de parceria, desviou parte dos recursos repassados pela prefeitura para fins pessoais, por meio da apresentação de notas fiscais falsas relativas a serviços nunca prestados. Tal conduta gerou um prejuízo significativo aos cofres públicos e comprometeu o atendimento às crianças e aos adolescentes beneficiados pelo projeto. Com base na situação hipotética e nas disposições da Lei nº 8.429/1992 (Lei de Improbidade Administrativa), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Lei de Improbidade Administrativa não se aplica ao Sr. João da Silva, por não ser este considerado como agente público nos termos desta Lei."
+    },
+    {
+     "letra": "B",
+     "texto": "O Sr. João da Silva, em razão de celebrar instrumento jurídico com a Administração e utilizar recursos de origem pública, sujeita-se às sanções da Lei de Improbidade Administrativa."
+    },
+    {
+     "letra": "C",
+     "texto": "Somente a Organização da Sociedade Civil Esperança Viva pode ser responsabilizada, por ser a entidade que celebrou o instrumento jurídico, não podendo haver automática desconsideração da personalidade jurídica."
+    },
+    {
+     "letra": "D",
+     "texto": "A conduta do Sr. João da Silva configura meramente um ilícito civil, não estando abrangida pelas disposições da Lei de Improbidade Administrativa, que se restringe a atos dolosos praticados especificamente por agentes públicos diretos e equiparados."
+    },
+    {
+     "letra": "E",
+     "texto": "A Sra. Maria Souza é a única, no caso, que pode ser responsabilizada por ato de improbidade administrativa, pois a lei não alcança instituições sem fins lucrativos."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 40"
+  },
+  {
+   "numero": "41",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Seção I - Dos Atos de Improbidade Administrativa que Importam Enriquecimento Ilícito",
+   "tipo": "multipla",
+   "enunciado": "João é servidor público municipal concursado e no momento ocupa a função de secretário Municipal de Obras e Serviços Públicos de uma pequena cidade. Aproveitando-se de sua posição, João solicitou e recebeu de um empresário local, que frequentemente participava das licitações do município, um “presente” de grande valor, a título de “ajuda de custo” para uma viagem particular que faria com sua família. Em troca, João agilizou e facilitou a aprovação de projetos do referido empresário na prefeitura, sem seguir os trâmites regulares, e inclusive “fechou os olhos” para algumas irregularidades que deveriam ser fiscalizadas por sua secretaria, garantindo que a empresa do empresário fosse sempre beneficiada em futuros contratos. Com base nesta situação hipotética, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "eventual não apresentação de ação civil por improbidade administrativa pelo Ministério Público, após análise em inquérito civil especialmente aberto para a apuração das condutas descritas no enunciado, tem como efeito o bloqueio da aplicação, pela própria Administração, de sanções disciplinares a João."
+    },
+    {
+     "letra": "B",
+     "texto": "João não está sujeito a sanções com base na Lei de Improbidade Administrativa (Lei nº 8.429/1992), pois as condutas descritas não se amoldam perfeitamente à tipologia fixada nesta lei, a qual exige correspondência direta entre a conduta descrita e a praticada para que se possa falar em improbidade, considerando-se o princípio da legalidade estrita."
+    },
+    {
+     "letra": "C",
+     "texto": "a simples demonstração de recebimento, por João, de vantagem oriunda de pessoa com interesse em decisão da Secretaria de Obras e Serviços Públicos é razão suficiente para a condenação por improbidade, sendo desnecessária a demonstração da conexão entre a vantagem recebida e a expectativa da prática de ato ilegal."
+    },
+    {
+     "letra": "D",
+     "texto": "ainda que a conduta de João possa, em tese, figurar como ato de improbidade que importa violação de princípio da Administração Pública, como agente político, não está João sujeito à Lei de Improbidade Administrativa (Lei nº 8.429/1992), mas sim à lei de crimes de responsabilidade dos prefeitos."
+    },
+    {
+     "letra": "E",
+     "texto": "João está sujeito, entre outras sanções, à perda dos bens ou valores acrescidos ilicitamente ao patrimônio, perda da função pública, suspensão dos direitos políticos por até 14 anos, pagamento de multa civil equivalente ao valor do acréscimo patrimonial."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 41"
+  },
+  {
+   "numero": "42",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação Aplicada - TJ SP > Legislação dos Órgãos",
+   "tipo": "multipla",
+   "enunciado": "Considere que o juiz diretor realizou reunião para informar os servidores da Comarca sobre a implantação do sistema eproc. A ideia era reforçar a importância de que todos os servidores conheçam as condições de funcionamento do sistema e consigam orientar partes e advogados sobre os passos a serem seguidos para o protocolo correto de petições. Logo após a divulgação do cronograma de implantação, Fabiana, escrevente judiciária, foi designada para atender o público externo e esclarecer dúvidas sobre o assunto.\n\nCom base na Resolução nº 963/2025, Fabiana poderá afirmar corretamente que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "os processos ajuizados antes da implantação do sistema eproc, bem como os recursos, incidentes e processos dependentes ou conexos, continuarão tramitando no sistema legado até o seu encerramento, ressalvada a hipótese de migração."
+    },
+    {
+     "letra": "B",
+     "texto": "os processos com tramitação no esaj serão migrados para o eproc, devendo as partes promover a transmissão dos arquivos do processo para o novo sistema, de acordo com as condições previstas na Resolução."
+    },
+    {
+     "letra": "C",
+     "texto": "o cumprimento definitivo de sentença oriundo de processo que tramitou no sistema legado deverá ser iniciado no sistema eproc, mediante o protocolo de petição inicial autônoma e juntada de cópia integral do processo de conhecimento."
+    },
+    {
+     "letra": "D",
+     "texto": "o protocolo de petição em sistema processual equivocado não produzirá prejuízo às partes, pois houve o direcionamento do ato ao Poder Judiciário; portanto, caso comprovado o equívoco, a Secretaria da Vara deve intimar o representante processual para que regularize o ato, no prazo de 05 (cinco) dias."
+    },
+    {
+     "letra": "E",
+     "texto": "as ações poderão, na fase de implantação do sistema, ser propostas no eproc e no esaj, pelo prazo de 60 (sessenta) dias, findo o qual somente será admitido o uso do sistema eproc."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 42"
+  },
+  {
+   "numero": "43",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação Aplicada - TJ SP > Legislação dos Órgãos",
+   "tipo": "multipla",
+   "enunciado": "Felipe é escrevente técnico judiciário e tem o interesse de desempenhar as suas atividades no regime de teletrabalho. Por estar no exercício do cargo há dois anos (estágio probatório) e lotado no gabinete da magistrada titular da Vara, ele tem dúvidas sobre a real possibilidade de ser enquadrado no regime, motivo pelo qual procura sua colega de trabalho, Fernanda, para sanar dúvidas sobre o assunto.\n\nCom base na situação hipotética e no disposto na Resolução nº 850/2021, Fernanda poderá afirmar corretamente que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "ele não pode ser enquadrado no regime, por estar em estágio probatório."
+    },
+    {
+     "letra": "B",
+     "texto": "o servidor, em regime de teletrabalho, tem o direito ao auxílio tecnológico, a ser utilizado na aquisição dos bens e serviços necessários ao exercício de suas atividades funcionais em ambiente remoto."
+    },
+    {
+     "letra": "C",
+     "texto": "Felipe, após enquadrado no teletrabalho, somente poderá trabalhar no regime presencial caso autorizado pela juíza titular da Vara."
+    },
+    {
+     "letra": "D",
+     "texto": "o colega, caso passe ao regime de teletrabalho, perderá o auxílio-transporte relativo ao dia em teletrabalho, mas não o auxílio-alimentação."
+    },
+    {
+     "letra": "E",
+     "texto": "Felipe poderá ser enquadrado no teletrabalho, desde que menos de 50% do quadro de servidores da unidade esteja em trabalho remoto."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 43"
+  },
+  {
+   "numero": "44",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação Aplicada - TJ SP",
+   "tipo": "multipla",
+   "enunciado": "Tânia é escrevente judiciária e tem a intenção de se tornar chefe de seção judiciária.\n\nCom base nessa informação e no disposto na Lei Complementar nº 1.111/2010, é correto afirmar:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tânia não pode ocupar o cargo, por se tratar de função reservada a magistrados."
+    },
+    {
+     "letra": "B",
+     "texto": "para concorrer ao cargo, Tânia deve participar de processo seletivo promovido pelo Comitê de Recursos Humanos, a ser composto de entrevista com os candidatos e avaliação escrita."
+    },
+    {
+     "letra": "C",
+     "texto": "Tânia deve ter exercido anteriormente cargos dessa natureza, ainda que em substituição, ou comprovar experiência adequada, de acordo com critérios estabelecidos pelo Comitê de Recursos Humanos para ser nomeada."
+    },
+    {
+     "letra": "D",
+     "texto": "Tânia deve ter dez anos de carreira, formação em Direito, Economia ou Administração e não ter sofrido penalidade disciplinar nos últimos cinco anos para ser nomeada."
+    },
+    {
+     "letra": "E",
+     "texto": "para ser nomeada ao cargo, Tânia deve ser indicada pelo juiz diretor do foro."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 44"
+  },
+  {
+   "numero": "45",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação dos Órgãos",
+   "tipo": "multipla",
+   "enunciado": "Em relação às normas relacionadas a sessões, reuniões, audiências, pauta e ordem dos trabalhos, previstas no Regimento Interno do Tribunal de Justiça de São Paulo, assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Para cada sessão, será organizada uma pauta de julgamento, com observância da ordem de apresentação dos feitos, em relação aos da mesma classe; os apresentados no mesmo dia serão inscritos segundo a ordem ascendente numérica, e somente podem ser julgados, sem prévia inclusão em pauta, o habeas corpus e os embargos de declaração em matéria criminal."
+    },
+    {
+     "letra": "B",
+     "texto": "Salvo deliberação em contrário, recaindo a data da sessão em feriado ou dia em que não haja expediente forense, os feitos incluídos em pauta serão julgados na sessão ordinária seguinte, mediante nova publicação."
+    },
+    {
+     "letra": "C",
+     "texto": "Quando, na votação de questão indecomponível ou de questões distintas, formarem-se correntes divergentes, sem que se alcance a maioria exigida, prevalecerá o voto do presidente do órgão responsável pelo julgamento."
+    },
+    {
+     "letra": "D",
+     "texto": "Nenhum feito será julgado na ausência do relator, ainda que já tenha proferido voto, salvo se, iniciado o julgamento, vier ele a se afastar, computando-se os votos proferidos."
+    },
+    {
+     "letra": "E",
+     "texto": "A ata da sessão de julgamento mencionará a data e a hora de início e de encerramento, quem presidiu os trabalhos, os nomes, pela ordem de antiguidade, dos desembargadores presentes e do representante do Ministério Público, devendo ser aprovada e assinada no final da própria sessão."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 45"
+  },
+  {
+   "numero": "46",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Legislação dos Órgãos",
+   "tipo": "multipla",
+   "enunciado": "Cesar é escrevente técnico judiciário e foi responsável por elaborar um ofício de comunicação, direcionado ao chefe do Poder Executivo do município X, contendo decisão judicial que ordena o fornecimento de relação descrevendo todas as notas fiscais emitidas nos últimos cinco anos por uma empresa executada em processo judicial.\n\nCom base na situação hipotética e no disposto nas normas da Corregedoria Geral de Justiça, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o ofício deverá ser assinado pelo juiz, por se tratar de ato direcionado a uma autoridade."
+    },
+    {
+     "letra": "B",
+     "texto": "Cesar deve assinar o ofício de comunicação, independentemente da matéria e do destinatário, por se tratar de mera execução de ato ordinatório."
+    },
+    {
+     "letra": "C",
+     "texto": "Cesar não pode assinar ofícios de comunicação, pois a sua competência legal é para redigir os seus termos."
+    },
+    {
+     "letra": "D",
+     "texto": "Cesar pode assinar o ofício de comunicação, pois a decisão é subscrita pelo juiz competente."
+    },
+    {
+     "letra": "E",
+     "texto": "o ofício precisará ser assinado pelo juiz, pois as informações solicitadas estão protegidas por sigilo fiscal."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 46"
+  },
+  {
+   "numero": "47",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Política Internacional / Relação entre Países",
+   "tipo": "multipla",
+   "enunciado": "Na noite de quinta-feira (12.06.2025), as Forças de Defesa de Israel atingiram dezenas de alvos no Irã. Explosões foram registradas em Teerã e em outras cidades do país. O regime iraniano ameaçou Israel e Estados Unidos, ao afirmar que os países iriam “pagar caro”. O líder supremo iraniano, o aiatolá Ali Khamenei, disse que Israel receberia “um destino amargo”. No dia seguinte, depois que as Forças israelenses realizaram uma segunda ofensiva, o Irã lançou centenas de mísseis balísticos. Alguns deles atingiram Tel Aviv, furando o sistema de defesa de Israel.\n\n(g1. Disponível em: https://shre.ink/tQPr. Adaptado)\n\nO primeiro-ministro Benjamin Netanyahu justificou o ataque israelense afirmando que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o Hezbollah recebera tanques e mísseis do governo iraniano para atacar Tel Aviv."
+    },
+    {
+     "letra": "B",
+     "texto": "o objetivo da operação era impedir o avanço do programa nuclear iraniano."
+    },
+    {
+     "letra": "C",
+     "texto": "o aiatolá Khamenei convocara reservistas com a intenção de ajudar a Palestina."
+    },
+    {
+     "letra": "D",
+     "texto": "drones iranianos foram lançados tendo como alvo a embaixada americana em Tel Aviv."
+    },
+    {
+     "letra": "E",
+     "texto": "líderes do Hamas estavam refugiados em Teerã planejando ataques a Israel."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 47"
+  },
+  {
+   "numero": "48",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Economia",
+   "tipo": "multipla",
+   "enunciado": "Um projeto de lei enviado pelo Palácio do Planalto ao Congresso e aprovado em comissão especial da Câmara, no dia 16 de julho de 2025, pretende reduzir a desigualdade do sistema tributário brasileiro, no qual os super-ricos pagam proporcionalmente muito menos tributos sobre seus rendimentos do que o resto da população brasileira. Segundo um estudo divulgado por uma organização britânica que atua no combate à desigualdade, os 10% de brasileiros mais pobres pagam, em proporção da sua renda, três vezes mais tributos do que 0,1% mais rico da população. A pesquisa aponta que os mais pobres comprometem 32% da sua renda com tributos, contra 10% dos mais ricos.\n\n(DW. Disponível em https://shre.ink/t2me. Adaptado)\n\nDe acordo com o mencionado projeto,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "mais de 25 milhões de pessoas serão beneficiadas com a isenção do IR."
+    },
+    {
+     "letra": "B",
+     "texto": "as pessoas que ganham até R$ 7,35 mil reais por mês ficarão isentas do tributo."
+    },
+    {
+     "letra": "C",
+     "texto": "as pessoas que ganham até R$ 5 mil reais por mês ficarão isentas do imposto de renda."
+    },
+    {
+     "letra": "D",
+     "texto": "quem ganha mais de R$ 600 mil por ano, a alíquota será de 10%."
+    },
+    {
+     "letra": "E",
+     "texto": "os rendimentos de estrangeiros serão tributados em 50%, no caso de envio de valores ao exterior."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 48"
+  },
+  {
+   "numero": "49",
+   "disciplina": "Atualidades e Conhecimentos Gerais",
+   "assunto": "Política Internacional / Relação entre Países",
+   "tipo": "multipla",
+   "enunciado": "No dia 30 de janeiro de 2025, o presidente americano fez a seguinte afirmação comentando a intenção do BRICS: “Vamos exigir um compromisso desses países aparentemente hostis de que eles não criarão uma nova moeda nem apoiarão qualquer outra moeda para substituir o poderoso dólar americano, caso contrário, eles enfrentarão 100% de tarifas e deverão dizer adeus às vendas para a maravilhosa economia dos EUA”. O bloco agora enfrenta problemas em relação ao assunto porque um dos países fundadores pretende protagonismo em relação ao tema.\n\n(CPG. Disponível em: https://shre.ink/t21e. Adaptado)\n\nSegundo analistas,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a Índia insiste que as transações do bloco sejam feitas em rúpia."
+    },
+    {
+     "letra": "B",
+     "texto": "a Rússia oferece o rublo como alternativa ao dólar."
+    },
+    {
+     "letra": "C",
+     "texto": "a China quer que o yuan seja a moeda de transações do BRICS."
+    },
+    {
+     "letra": "D",
+     "texto": "o Brasil propôs o real como moeda comum do bloco."
+    },
+    {
+     "letra": "E",
+     "texto": "a África do Sul justifica a estabilidade do ZAR como a melhor solução."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 49"
+  },
+  {
+   "numero": "50",
+   "disciplina": "Legislação Federal",
+   "assunto": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência > Da Igualdade e não Discriminação - Artigo 4º ao 8º",
+   "tipo": "multipla",
+   "enunciado": "Soraia tem 45 anos, tem impedimento, de longo prazo, de natureza intelectual e sensorial, os quais, em interação com duas barreiras – urbanísticas e atitudinais –, obstruem sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. Ela está atualmente em curatela – exercida por Mário –, e como quer se tornar mãe, deseja adotar uma criança. No dia em que procuraria atendimento jurídico para saber se poderia se inscrever no cadastro de nacional de adoção, Soraia desmaiou. Em face do estado de inconsciência, foi atendida sem consentimento prévio. Quando acordou, estava no hospital, oportunidade na qual o médico, responsável pelo atendimento, lhe informou que estava desenvolvendo uma pesquisa científica com indícios de benefícios diretos para sua saúde, e disse que não havia outra pesquisa de eficácia comparável sendo realizada com participantes não curatelados, perguntou, então, se ela gostaria de participar da pesquisa.\n\nCom base na situação hipotética apresentada e no disposto na Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência), assinale a alternativa correta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Soraia é considerada como pessoa com deficiência, em virtude dos impedimentos de longo prazo que, ao interagirem com duas barreiras, dificultam sua participação na vida em sociedade. O fato de ela estar em curatela impede que ela participe da pesquisa científica, conforme expressa vedação legal. Assim, sua participação na pesquisa científica depende do encerramento judicial da curatela."
+    },
+    {
+     "letra": "B",
+     "texto": "Para Soraia ser considerada como pessoa com deficiência, ela deverá se submeter a uma avaliação biopsicossocial, realizada por equipe multiprofissional e interdisciplinar, que considerará os impedimentos enfrentados por ela, os fatores socioambientais e psicológicos e a limitação no desempenho das atividades diárias e sociais, a qual poderá ocorrer por meio da tecnologia de telemedicina, vedando-se o exame por análise documental."
+    },
+    {
+     "letra": "C",
+     "texto": "Apesar de estar atualmente em curatela, Soraia não pode ser considerada como uma pessoa com deficiência, pois, para tanto, é preciso que o indivíduo tenha impedimento de longo prazo de natureza física, mental, intelectual e sensorial, que, combinado com pelo menos três barreiras – urbanísticas, arquitetônicas, nos transportes, nas comunicações ou atitudinais – impeça sua participação na sociedade."
+    },
+    {
+     "letra": "D",
+     "texto": "Como Soraia estava inconsciente no momento do atendimento médico, é imprescindível que Mário, o curador, apresente consentimento expresso, livre e esclarecido previamente ao atendimento, sob pena da prática de infração administrativa pela equipe médica."
+    },
+    {
+     "letra": "E",
+     "texto": "A deficiência de Soraia não afeta sua plena capacidade civil, de forma que ela pode exercer o direito à adoção, como adotante, em igualdade de oportunidades com as demais pessoas. Ademais, ela tem direito a receber atendimento prioritário como na tramitação processual e procedimentos judiciais e administrativos em que for parte ou interessada, em todos os atos e diligências, o que não é extensivo ao seu acompanhante."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 50"
+  },
+  {
+   "numero": "51",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Um encontro reúne 84 musicistas que são especialistas em piano ou violão, sendo que alguns são apenas violonistas, alguns são apenas pianistas e os demais que são pianistas e violonistas. Considerando apenas os musicistas com especialidade em um único instrumento, a razão entre o número dos que são pianistas e o número dos que são violonistas é igual a 4/7. Considerando as especialidades desses musicistas, a razão entre o número dos que são pianistas e o número dos que são violonistas é igual 7/10.\n\nO algarismo das unidades do número de musicistas nesse encontro que são violonistas, mas não são pianistas é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2."
+    },
+    {
+     "letra": "B",
+     "texto": "6."
+    },
+    {
+     "letra": "C",
+     "texto": "4."
+    },
+    {
+     "letra": "D",
+     "texto": "5."
+    },
+    {
+     "letra": "E",
+     "texto": "3."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 51"
+  },
+  {
+   "numero": "52",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Sofia digitalizou todos os processos arquivados em um depósito em 33 dias. Nos primeiros 9 dias ela digitalizou 36% dos processos, concluindo 27 processos por dia e, nos demais dias, ela concluiu os demais processos, digitalizando N processos a cada dia. O algarismo das unidades de N é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4."
+    },
+    {
+     "letra": "B",
+     "texto": "7."
+    },
+    {
+     "letra": "C",
+     "texto": "6."
+    },
+    {
+     "letra": "D",
+     "texto": "8."
+    },
+    {
+     "letra": "E",
+     "texto": "5."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 52"
+  },
+  {
+   "numero": "53",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Dois retângulos, com as mesmas dimensões, foram desenhados no interior de um quadrado, de maneira que três dos lados dos retângulos estão sobre os lados do quadrado e um lado de um dos retângulos está sobre um lado do outro retângulo, conforme mostra a figura:\n\n[[img:0]]\n\nDado que a área do quadrado não ocupada pelos retângulos é 253 cm² , o perímetro de cada um dos retângulos é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "30 cm."
+    },
+    {
+     "letra": "B",
+     "texto": "40 cm."
+    },
+    {
+     "letra": "C",
+     "texto": "35 cm."
+    },
+    {
+     "letra": "D",
+     "texto": "42 cm."
+    },
+    {
+     "letra": "E",
+     "texto": "28 cm."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 53",
+   "imagens": [
+    {
+     "src": "quest/2501786378/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "54",
+   "disciplina": "Matemática",
+   "assunto": "Matemática",
+   "tipo": "multipla",
+   "enunciado": "Certo dia, em um treino de lances livres de uma equipe de basquetebol, apenas André e Carlos faltaram. Considerando os atletas presentes nesse treino, a média aritmética do número de lances livres convertidos foi igual a 48. No dia seguinte, André fez o treino sozinho e a média aritmética do número de lances livres convertidos pelos atletas que treinaram nesses dois dias foi igual a 50. Finalmente, no terceiro dia, Carlos fez o treino sozinho e a média aritmética do número de lances livres convertidos por todos os atletas dessa equipe nesses três dias foi igual a 49.\n\nSabendo que André converteu 53 lances livres a mais do que Carlos, o número de atletas dessa equipe de basquetebol é igual a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "17."
+    },
+    {
+     "letra": "B",
+     "texto": "19."
+    },
+    {
+     "letra": "C",
+     "texto": "16."
+    },
+    {
+     "letra": "D",
+     "texto": "18."
+    },
+    {
+     "letra": "E",
+     "texto": "20."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 54"
+  },
+  {
+   "numero": "55",
+   "disciplina": "Informática",
+   "assunto": "OneDrive > Internet",
+   "tipo": "multipla",
+   "enunciado": "Ao usar o OneDrive com o MS-Windows 11, em sua configuração padrão, um arquivo da nuvem marcado como disponível localmente pode deixar de estar disponível localmente",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "caso o usuário local saia da sessão do Windows, fazendo com que o arquivo seja excluído e só volte a ser sincronizado no próximo login, automaticamente."
+    },
+    {
+     "letra": "B",
+     "texto": "em caso de queda da internet local, o que impede que ele seja atualizado e causa sua exclusão automática."
+    },
+    {
+     "letra": "C",
+     "texto": "por falta de espaço no dispositivo local, de modo que o arquivo pode ser excluído do dispositivo mesmo sem ação direta do usuário."
+    },
+    {
+     "letra": "D",
+     "texto": "se o servidor da nuvem for desligado acidentalmente."
+    },
+    {
+     "letra": "E",
+     "texto": "se a internet do servidor da nuvem ficar fora do ar por mais de dez minutos."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 55"
+  },
+  {
+   "numero": "56",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório",
+   "tipo": "multipla",
+   "enunciado": "Um usuário do MS-Word 365, em sua configuração padrão, recebeu um documento de texto contendo uma lista numerada de 1 a 5. No entanto, essa lista deveria ser numerada de 20 a 25.\n\nPara alterar a lista numerada conforme a necessidade, o usuário deve",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "remover toda a lista item por item e iniciar uma nova lista escolhendo o botão Lista personalizada do grupo Lista da guia Inserir."
+    },
+    {
+     "letra": "B",
+     "texto": "clicar com o botão primário do mouse no número 1 da lista numerada e, no menu de contexto aberto, escolher a opção “Valor de Numeração...”, que abre a janela na qual pode ser colocado o número 20, para ajustar toda a lista."
+    },
+    {
+     "letra": "C",
+     "texto": "clicar com o botão secundário do mouse no número 5 da lista numerada e, no menu de contexto aberto, escolher a opção “Iniciar Numeração em...”, que abre a janela na qual pode ser colocado o número 20, para ajustar toda a lista."
+    },
+    {
+     "letra": "D",
+     "texto": "clicar com o botão primário do mouse no número 5 da lista numerada e, no menu de contexto aberto, escolher a opção “Iniciar Numeração em...”, que abre a janela na qual pode ser colocado o número 20, para ajustar toda a lista."
+    },
+    {
+     "letra": "E",
+     "texto": "clicar com o botão secundário do mouse no número 1 da lista numerada e, no menu de contexto aberto, escolher a opção “Definir Valor de Numeração...”, que abre a janela na qual pode ser colocado o número 20, para ajustar toda a lista."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 56"
+  },
+  {
+   "numero": "57",
+   "disciplina": "Informática",
+   "assunto": "Microsoft Word > Microsoft Word 365",
+   "tipo": "multipla",
+   "enunciado": "Um escrevente criou um novo documento vazio por meio do MS-Word 365, em sua configuração padrão, e executou as ações a seguir, nesta ordem:\n\n1. Pressionou o botão sublinhado.\n\n2. Digitou a palavra TRIBUNAL.\n\n3. Pressionou a barra de espaços.\n\n4. Digitou a palavra DE.\n\n5. Pressionou o botão negrito.\n\n6. Pressionou a barra de espaços.\n\n7. Pressionou o botão itálico.\n\n8. Digitou a palavra JUSTIÇA.\n\n9. Pressionou o botão negrito.\n\n10. Pressionou a barra de espaços.\n\n11. Digitou a palavra DO.\n\n12. Pressionou a barra de espaços.\n\n13. Pressionou o botão sublinhado.\n\n14. Pressionou o botão itálico.\n\n15. Digitou a palavra ESTADO.\n\n16. Selecionou todo o parágrafo.\n\n17. Pressionou o botão sublinhado.\n\nApós todas as ações descritas, os números de palavras com formatação negrito, formatação itálico e formatação sublinhado são, correta e respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1, 2 e 0."
+    },
+    {
+     "letra": "B",
+     "texto": "2, 3 e 0."
+    },
+    {
+     "letra": "C",
+     "texto": "2, 2 e 5."
+    },
+    {
+     "letra": "D",
+     "texto": "2, 1 e 5."
+    },
+    {
+     "letra": "E",
+     "texto": "1, 2 e 5."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 57"
+  },
+  {
+   "numero": "58",
+   "disciplina": "Informática",
+   "assunto": "Microsoft Excel > EXCEL 365",
+   "tipo": "multipla",
+   "enunciado": "Um escrevente preparou a seguinte planilha por meio do MS-Excel 365, em sua configuração padrão, para auxiliar na gestão de processos e suas respectivas situações:\n\n[[img:0]]\n\nApós preencher as colunas A, B e C, digitou a palavra Descrição na célula D6, inseriu uma fórmula na célula D7 e, arrastando a alça de preenchimento de D7 até D9, terminou a planilha.\n\nAssinale a alternativa que apresenta corretamente a fórmula inserida em D7 que atende ao enunciado e aos valores da planilha.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "=PROCV(C7;$A2:$B4;2)"
+    },
+    {
+     "letra": "B",
+     "texto": "=PROCV($A2:$B4;C7;2)"
+    },
+    {
+     "letra": "C",
+     "texto": "=PROCV($A2:$B4;2;C7)"
+    },
+    {
+     "letra": "D",
+     "texto": "=PROCV(C7;A$2:B$4;2)"
+    },
+    {
+     "letra": "E",
+     "texto": "=PROCV(A$2:B$4;C7;2)"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 58",
+   "imagens": [
+    {
+     "src": "quest/2501032197/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "59",
+   "disciplina": "Informática",
+   "assunto": "EXCEL 365 > Informática",
+   "tipo": "multipla",
+   "enunciado": "A planilha a seguir foi elaborada por meio do MS-Excel 365, em sua configuração padrão:\n\n[[img:0]]\n\nAssinale a alternativa que apresenta corretamente o valor retornado pela fórmula\n\n=SE(MAIOR(A2:C3;2)<5;MENOR(A1:B3;3)+B2;MENOR(A1:B3;3)+B1) após esta ser inserida na célula A4.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1"
+    },
+    {
+     "letra": "B",
+     "texto": "4"
+    },
+    {
+     "letra": "C",
+     "texto": "5"
+    },
+    {
+     "letra": "D",
+     "texto": "3"
+    },
+    {
+     "letra": "E",
+     "texto": "2"
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 59",
+   "imagens": [
+    {
+     "src": "quest/2555606392/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "60",
+   "disciplina": "Informática",
+   "assunto": "Mensagem de e-Mail: Componentes e Ações",
+   "tipo": "multipla",
+   "enunciado": "Observe a descrição do seguinte e-mail, denominado e-mail 1:\n\nDe: A\n\nPara: B\n\nCc: C\n\nCco: D Assunto: manual\n\nO usuário B, ao receber o e-mail 1, clicou em Responder a Todos e enviou a resposta, que se tornou o e-mail 2. Todos os usuários que receberam o e-mail 2 clicaram em Responder a Todos e enviaram uma resposta.\n\nConsiderando que todos os e-mails, desde o e-mail 1, foram enviados e recebidos com sucesso por meio do Gmail, em sua configuração padrão, assinale a alternativa que apresenta corretamente a quantidade de e-mails recebidos, respectivamente, pelos usuários A, B, C e D.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "2, 3, 3 e 4."
+    },
+    {
+     "letra": "B",
+     "texto": "2, 3, 3 e 1."
+    },
+    {
+     "letra": "C",
+     "texto": "3, 2, 3 e 1."
+    },
+    {
+     "letra": "D",
+     "texto": "2, 2, 3 e 1."
+    },
+    {
+     "letra": "E",
+     "texto": "3, 4, 4 e 4."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 60"
+  },
+  {
+   "numero": "61",
+   "disciplina": "Informática",
+   "assunto": "Internet > Google",
+   "tipo": "multipla",
+   "enunciado": "Um usuário do buscador www.google.com, em sua configuração padrão, deseja buscar páginas que contenham, simultaneamente, as três palavras seguintes no corpo da página: “segurança”, “dados” e “privacidade”.\n\nAssinale a alternativa que apresenta corretamente a expressão de busca que deve ser usada no buscador.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "segurança +dados +privacidade"
+    },
+    {
+     "letra": "B",
+     "texto": "intext:segurança +dados +privacidade"
+    },
+    {
+     "letra": "C",
+     "texto": "“segurança dados privacidade”"
+    },
+    {
+     "letra": "D",
+     "texto": "intext:segurança * dados * privacidade"
+    },
+    {
+     "letra": "E",
+     "texto": "allintext:segurança dados privacidade"
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 61"
+  },
+  {
+   "numero": "62",
+   "disciplina": "Informática",
+   "assunto": "Microsoft Teams",
+   "tipo": "multipla",
+   "enunciado": "Em um chat do MS-Teams, em sua configuração padrão, qual é o formato correto para citar um usuário (fulano) de modo que o Teams envie uma notificação automaticamente a esse usuário?",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "@fulano"
+    },
+    {
+     "letra": "B",
+     "texto": "!fulano"
+    },
+    {
+     "letra": "C",
+     "texto": "&fulano"
+    },
+    {
+     "letra": "D",
+     "texto": "#fulano"
+    },
+    {
+     "letra": "E",
+     "texto": "#fulano#"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 62"
+  },
+  {
+   "numero": "63",
+   "disciplina": "Informática",
+   "assunto": "Windows 11 > Windows",
+   "tipo": "multipla",
+   "enunciado": "Um usuário abriu uma pasta local em seu computador, por meio do Explorador de Arquivos do MS-Windows 11, ambos na configuração padrão, e nela estavam somente os seguintes arquivos vazios:\n\nnormas_sindicato.txt\n\nbusca_indicios.txt\n\nindicativo_correto.txt\n\nIntroducao.txt\n\nprocesso_inicial.txt\n\nEm seguida, usou a barra de pesquisa do Explorador de Arquivos na mesma pasta, para pesquisar nessa pasta pelo nome dos arquivos com o seguinte padrão de pesquisa:\n\nind*\n\nQuanto aos arquivos retornados como resultado dessa pesquisa, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "apareceu o arquivo indicativo_correto.txt, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "apareceram os arquivos normas_sindicato.txt, busca_indicios.txt e indicativo_correto.txt, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "apareceram os arquivos normas_sindicato.txt, busca_indicios.txt, indicativo_correto.txt, Introducao. txt e processo_inicial.txt."
+    },
+    {
+     "letra": "D",
+     "texto": "nenhum arquivo coincide com o padrão de pesquisa."
+    },
+    {
+     "letra": "E",
+     "texto": "apareceram os arquivos busca_indicios.txt e indicativo_correto.txt, apenas."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 63"
+  },
+  {
+   "numero": "64",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a proposição “Se estou correndo ou jogando futebol, então amanhã estarei de férias”. Uma negação lógica dessa proposição é equivalente a:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Ou estou correndo ou jogando futebol ou amanhã estarei de férias."
+    },
+    {
+     "letra": "B",
+     "texto": "Ou não estou correndo ou não estou jogando futebol ou amanhã não estarei de férias."
+    },
+    {
+     "letra": "C",
+     "texto": "Estou correndo ou jogando futebol, e amanhã não estarei de férias."
+    },
+    {
+     "letra": "D",
+     "texto": "Se não estou correndo ou não estou jogando futebol, então amanhã não estarei de férias."
+    },
+    {
+     "letra": "E",
+     "texto": "Se amanhã não estarei de férias, então não estou correndo e não estou jogando futebol."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 64"
+  },
+  {
+   "numero": "65",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a sequência A = (1, 4, 7, 10, 13, 16, 19, …), formada a partir de um padrão lógico. A partir da sequência A, foi formada a sequência B = (1, 4, 7, 1, 0, 1, 3, 1, 6, 1, 9, …).\n\nO 245º termo da sequência B é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "4."
+    },
+    {
+     "letra": "B",
+     "texto": "7."
+    },
+    {
+     "letra": "C",
+     "texto": "5."
+    },
+    {
+     "letra": "D",
+     "texto": "8."
+    },
+    {
+     "letra": "E",
+     "texto": "0."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 65"
+  },
+  {
+   "numero": "66",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Em um restaurante, Ana, Eva, Bruno, Davi e Carla estavam sentados, nessa ordem, ao redor de uma mesa circular com cinco assentos. Em uma disposição circular, cada pessoa tem duas pessoas ao seu lado, uma do lado esquerdo e outra do lado direito; nessa mesa, ao lado esquerdo de Ana estava Eva. Após algum tempo, Fábio chegou para juntar-se ao grupo; todos se levantaram, cumprimentaram Fábio e os seis sentaram-se em uma mesa circular com seis assentos. Nessa nova disposição, ninguém se sentou ao lado das mesmas pessoas que estavam ao seu lado anteriormente; a pessoa que se sentou ao lado esquerdo de Davi não é a mesma pessoa que se sentou ao lado direito de Carla; a pessoa ao lado direito de Ana não é Davi; e Eva não se sentou ao lado de Carla.\n\nNessa mesa com seis assentos, sentaram-se ao lado de Fábio, em alguma ordem,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Carla e Eva."
+    },
+    {
+     "letra": "B",
+     "texto": "Eva e Bruno."
+    },
+    {
+     "letra": "C",
+     "texto": "Bruno e Davi."
+    },
+    {
+     "letra": "D",
+     "texto": "Ana e Carla."
+    },
+    {
+     "letra": "E",
+     "texto": "Davi e Ana."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 66"
+  },
+  {
+   "numero": "67",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "As lojas matrizes A, B e C têm uma filial cada uma, que são, não necessariamente nessa ordem, as lojas D, E e F. A loja A tem 20 funcionários a mais do que sua filial, e a filial F tem um terço do número de funcionários de sua matriz. Os números de funcionários das lojas A, B e C são, respectivamente, 33, 24 e 42, e o total de funcionários dessas seis lojas é igual a 128. Sabendo que a filial E tem o mesmo número de funcionários de uma das outras duas filiais, o número de funcionários da loja C e sua filial excede o número de funcionários da loja A e sua filial em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "6."
+    },
+    {
+     "letra": "B",
+     "texto": "4."
+    },
+    {
+     "letra": "C",
+     "texto": "7."
+    },
+    {
+     "letra": "D",
+     "texto": "8."
+    },
+    {
+     "letra": "E",
+     "texto": "5."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 67"
+  },
+  {
+   "numero": "68",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "O professor de Educação Física viu que 5 de seus alunos disputaram uma corrida de 100 metros rasos, mas, como estava distante da pista, só conseguiu identificar que não houve empate em posição alguma, porém não soube dizer quem chegou em qual posição. Ao se aproximar dos alunos e perguntar quem havia vencido, obteve as seguintes respostas:\n\nLarson: Eu não venci a corrida.\n\nLeandro: Liam foi o terceiro colocado.\n\nLiam: Lorenzo chegou na frente de Larson.\n\nLorenzo: Luciano foi o penúltimo colocado.\n\nLuciano: Lorenzo não venceu a corrida.\n\nSabendo que os dois últimos colocados mentiram em suas respostas e que os três primeiros falaram a verdade, conclui-se que o terceiro colocado nessa corrida foi o",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Larson."
+    },
+    {
+     "letra": "B",
+     "texto": "Leandro."
+    },
+    {
+     "letra": "C",
+     "texto": "Luciano."
+    },
+    {
+     "letra": "D",
+     "texto": "Liam."
+    },
+    {
+     "letra": "E",
+     "texto": "Lorenzo."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 68"
+  },
+  {
+   "numero": "69",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a sequência 200, 207, 209, 198, 205, 207, 196, 203, 205, 194, … Essa sequência tem alguns elementos que se repetem, como, por exemplo, o 205, que está nas posições 5 e 9, e alguns elementos que ocorrem apenas uma vez, como o 0 (zero), que se encontra na posição",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "301."
+    },
+    {
+     "letra": "B",
+     "texto": "323."
+    },
+    {
+     "letra": "C",
+     "texto": "312."
+    },
+    {
+     "letra": "D",
+     "texto": "292."
+    },
+    {
+     "letra": "E",
+     "texto": "295."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 69"
+  },
+  {
+   "numero": "70",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere as proposições p e q a seguir:\n\np: É dia de verão.\n\nq: As pessoas estão felizes e os carrinhos de picolé estão vazios.\n\nSe o valor lógico de p → ∼q é falso, então tem valor lógico verdadeiro o que se afirma em:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "é dia de verão e as pessoas estão felizes e os carrinhos de picolé estão vazios."
+    },
+    {
+     "letra": "B",
+     "texto": "ou não é dia de verão, ou as pessoas estão felizes e os carrinhos de picolé não estão vazios."
+    },
+    {
+     "letra": "C",
+     "texto": "ou é dia de verão, ou as pessoas estão felizes e os carrinhos de picolé estão vazios."
+    },
+    {
+     "letra": "D",
+     "texto": "não é dia de verão e as pessoas não estão felizes e os carrinhos de picolé não estão vazios."
+    },
+    {
+     "letra": "E",
+     "texto": "é dia de verão e as pessoas não estão felizes e os carrinhos de picolé não estão vazios."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "VUNESP 2025 – TJ SP – Escrevente Técnico Judiciário, questão 70"
+  }
+ ]
+}

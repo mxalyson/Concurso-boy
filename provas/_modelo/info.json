@@ -1,0 +1,13 @@
+{
+  "banca": "CEBRASPE",
+  "orgao": "PF",
+  "orgao_nome": "Polícia Federal",
+  "cargo": "Agente de Polícia Federal",
+  "ano": 2021,
+  "escolaridade": "superior",
+  "disciplinas": {
+    "1-20": "Língua Portuguesa",
+    "21-40": "Direito Constitucional",
+    "41-60": "Direito Administrativo"
+  }
+}

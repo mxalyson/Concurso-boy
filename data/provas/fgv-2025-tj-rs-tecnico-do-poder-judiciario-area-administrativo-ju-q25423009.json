@@ -1,0 +1,2712 @@
+{
+ "prova": {
+  "banca": "FGV",
+  "banca_nome": "FGV",
+  "orgao": "TJ RS",
+  "orgao_nome": "Tribunal de Justiça do Rio Grande do Sul",
+  "cargo": "Técnico do Poder Judiciário – Área: Administrativo-Judiciária",
+  "ano": "2025",
+  "uf": "RS",
+  "esfera": "estadual",
+  "escolaridade": "medio",
+  "area": "Tribunais"
+ },
+ "questoes": [
+  {
+   "numero": "1",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Análise das estruturas linguísticas do texto > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nNo livro Os Sertões, Euclides da Cunha, numa comparação entre o sertanejo e o gaúcho, traça o seguinte texto:\n\nAs suas vestes são um traje de festa, ante a vestimenta rústica do vaqueiro. As amplas bombachas, adrede talhadas para a movimentação fácil sobre os baguais, no galope fechado ou no corcovear raivoso, não se estragam em espinhos dilaceradores de caatingas. O seu poncho vistoso jamais fica perdido, embaraçado nos esgalhos das árvores garranchentas. E, rompendo pelas coxilhas, arrebatadamente na marcha do redomão desinsofrido, calçando as largas botas russilhonas, em que retinem as rosetas das esporas de prata; lenço de seda encarnado, ao pescoço; coberto pelo sombreiro de enormes abas flexíveis, e tendo à cinta, rebrilhando, presas pela guaiaca, a pistola e a faca - é um vitorioso jovial e forte. O cavalo, sócio inseparável desta existência algo romanesca, é quase objeto de luxo. Demonstra-o o arreamento complicado e espetaculoso. O gaúcho andrajoso sobre um \"pingo\" bem aperado está decente, está corretíssimo.\n\nCUNHA, Euclides da. Os Sertões. São Paulo: Três, 1984 (Biblioteca do Estudante).",
+   "enunciado": "Com base no trecho, assinale a opção que apresenta uma afirmativa correta sobre sua estruturação ou significação.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de uma descrição de base visual, sendo apontadas algumas diferenças entre o gaúcho e o sertanejo."
+    },
+    {
+     "letra": "B",
+     "texto": "Mostra aspectos típicos tanto do gaúcho quanto do sertanejo."
+    },
+    {
+     "letra": "C",
+     "texto": "Apresenta diferenças econômicas e sociais entre o gaúcho e o sertanejo."
+    },
+    {
+     "letra": "D",
+     "texto": "O texto estrutura-se como argumentativo, com a defesa da tese de superioridade do gaúcho sobre o sertanejo."
+    },
+    {
+     "letra": "E",
+     "texto": "Na comparação entre o gaúcho e o sertanejo, esse último está sempre em contato mais direto com a natureza."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 1"
+  },
+  {
+   "numero": "2",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Adjetivos > Classes de palavras (classes gramaticais)",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nNo livro Os Sertões, Euclides da Cunha, numa comparação entre o sertanejo e o gaúcho, traça o seguinte texto:\n\nAs suas vestes são um traje de festa, ante a vestimenta rústica do vaqueiro. As amplas bombachas, adrede talhadas para a movimentação fácil sobre os baguais, no galope fechado ou no corcovear raivoso, não se estragam em espinhos dilaceradores de caatingas. O seu poncho vistoso jamais fica perdido, embaraçado nos esgalhos das árvores garranchentas. E, rompendo pelas coxilhas, arrebatadamente na marcha do redomão desinsofrido, calçando as largas botas russilhonas, em que retinem as rosetas das esporas de prata; lenço de seda encarnado, ao pescoço; coberto pelo sombreiro de enormes abas flexíveis, e tendo à cinta, rebrilhando, presas pela guaiaca, a pistola e a faca - é um vitorioso jovial e forte. O cavalo, sócio inseparável desta existência algo romanesca, é quase objeto de luxo. Demonstra-o o arreamento complicado e espetaculoso. O gaúcho andrajoso sobre um \"pingo\" bem aperado está decente, está corretíssimo.\n\nCUNHA, Euclides da. Os Sertões. São Paulo: Três, 1984 (Biblioteca do Estudante).",
+   "enunciado": "Nesse mesmo segmento textual de Euclides da Cunha, o trecho, que mostra maior quantidade da classe gramatical dos adjetivos, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "As suas vestes são um traje de festa, ante a vestimenta rústica do vaqueiro."
+    },
+    {
+     "letra": "B",
+     "texto": "As amplas bombachas, adrede talhadas para a movimentação fácil sobre os baguais, no galope fechado ou no corcovear raivoso, não se estragam em espinhos dilaceradores de caatingas."
+    },
+    {
+     "letra": "C",
+     "texto": "O seu poncho vistoso jamais fica perdido, embaraçado nos esgalhos das árvores garranchentas."
+    },
+    {
+     "letra": "D",
+     "texto": "E, rompendo pelas coxilhas, arrebatadamente na marcha do redomão desinsofrido, calçando as largas botas russilhonas, em que retinem as rosetas das esporas de prata; lenço de seda encarnado, ao pescoço."
+    },
+    {
+     "letra": "E",
+     "texto": "coberto pelo sombreiro de enormes abas flexíveis, e tendo à cinta, rebrilhando, presas pela guaiaca, a pistola e a faca - é um vitorioso jovial e forte."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 2"
+  },
+  {
+   "numero": "3",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Tipologias Textuais",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nLeia o segmento inicial da Trilogia O Tempo e o Vento, do escritor gaúcho Érico Veríssimo.\n\nEra uma noite fria de lua cheia. As estrelas cintilavam sobre a cidade de Santa Fé, que de tão quieta e deserta parecia um cemitério abandonado. Era tanto o silêncio e tão leve o ar, que se alguém aguçasse o ouvido talvez pudesse até escutar o sereno na solidão.\n\nAgachado atrás dum muro, José Lírio preparava-se para a última corrida. Quantos passos dali até a igreja? Talvez uns dez ou doze, bem puxados. Recebera ordens para revezar o companheiro que estava de vigia no alto duma das torres da matriz. “Tenente Liroca”, dissera-lhe o coronel, havia poucos minutos, “suba pro alto do campanário e fique de olho firme no quintal do sobrado. Se alguém aparecer pra tirar água do poço, faça fogo sem piedade.",
+   "enunciado": "A tipologia textual predominante no primeiro e no segundo parágrafo é, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "argumentativa e descritiva."
+    },
+    {
+     "letra": "B",
+     "texto": "descritiva e narrativa."
+    },
+    {
+     "letra": "C",
+     "texto": "narrativa e expositiva."
+    },
+    {
+     "letra": "D",
+     "texto": "expositiva e argumentativa."
+    },
+    {
+     "letra": "E",
+     "texto": "narrativa e argumentativa."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 3"
+  },
+  {
+   "numero": "4",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Flexões verbais",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas duas questões.\n\nLeia o segmento inicial da Trilogia O Tempo e o Vento, do escritor gaúcho Érico Veríssimo.\n\nEra uma noite fria de lua cheia. As estrelas cintilavam sobre a cidade de Santa Fé, que de tão quieta e deserta parecia um cemitério abandonado. Era tanto o silêncio e tão leve o ar, que se alguém aguçasse o ouvido talvez pudesse até escutar o sereno na solidão.\n\nAgachado atrás dum muro, José Lírio preparava-se para a última corrida. Quantos passos dali até a igreja? Talvez uns dez ou doze, bem puxados. Recebera ordens para revezar o companheiro que estava de vigia no alto duma das torres da matriz. “Tenente Liroca”, dissera-lhe o coronel, havia poucos minutos, “suba pro alto do campanário e fique de olho firme no quintal do sobrado. Se alguém aparecer pra tirar água do poço, faça fogo sem piedade.",
+   "enunciado": "Leia o trecho a seguir.\n\nEra tanto o silêncio e tão leve o ar, que se alguém aguçasse o ouvido talvez pudesse até escutar o sereno na solidão.\n\nMudando o tempo verbal do passado para o presente, a forma adequada desse segmento será a seguinte:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Era tanto o silêncio e tão leve o ar, que se alguém aguça o ouvido talvez possa até escutar o sereno na solidão."
+    },
+    {
+     "letra": "B",
+     "texto": "É tanto o silêncio e tão leve o ar, que se alguém aguçasse o ouvido talvez possa até escutar o sereno na solidão."
+    },
+    {
+     "letra": "C",
+     "texto": "É tanto o silêncio e tão leve o ar, que se alguém aguça o ouvido talvez possa até escutar o sereno na solidão."
+    },
+    {
+     "letra": "D",
+     "texto": "Era tanto o silêncio e tão leve o ar, que se alguém aguçar o ouvido talvez pode até escutar o sereno na solidão."
+    },
+    {
+     "letra": "E",
+     "texto": "É tanto o silêncio e tão leve o ar, que se alguém aguce o ouvido talvez pode até escutar o sereno na solidão."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 4"
+  },
+  {
+   "numero": "5",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos",
+   "tipo": "multipla",
+   "enunciado": "Todas as frases a seguir mostram um termo modificador sublinhado.\n\nAssinale a opção em que esse termo foi colocado numa posição adequada na frase, de forma que não cause ambiguidade e mantenha clareza.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O médico disse a minha irmã frequentemente que colocasse colírio nos olhos."
+    },
+    {
+     "letra": "B",
+     "texto": "O gerente da empresa preveniu aos funcionários que atendessem os telefones logo que tocassem rapidamente."
+    },
+    {
+     "letra": "C",
+     "texto": "O marinheiro consertou finalmente o problema do barco com a ferramenta emprestada por um amigo, bastante útil."
+    },
+    {
+     "letra": "D",
+     "texto": "O menino olhava o cachorro dinamarquês que seguia o seu dono de boca aberta."
+    },
+    {
+     "letra": "E",
+     "texto": "A notícia dada pela TV de que uma casa havia pegado fogo, alarmou os vizinhos."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 5"
+  },
+  {
+   "numero": "6",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ordem dos termos da oração > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Cada opção apresenta uma frase formada a partir de um conjunto de termos sintáticos.\n\nAssinale a opção em que esses termos estão organizados na ordem direta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "para um morador de rua - Francisco, filho do porteiro - entregou - o dinheiro que levava\n\nFrancisco, filho do porteiro, entregou o dinheiro que levava para um morador de rua."
+    },
+    {
+     "letra": "B",
+     "texto": "contra uma árvore da estrada - se chocou - o carro dos correios – violentamente\n\nViolentamente, o carro dos correios se chocou contra uma árvore da estrada."
+    },
+    {
+     "letra": "C",
+     "texto": "os alunos da universidade - nos salões da Prefeitura - representaram - uma comédia moderna\n\nOs alunos da universidade representaram, nos salões da Prefeitura, uma comédia moderna."
+    },
+    {
+     "letra": "D",
+     "texto": "destruíram - a colheita de milho - do Rio Grande do Sul - as grandes tempestades do mês passado\n\nA colheita de milho do Rio Grande do Sul as grandes tempestades do mês passado destruíram."
+    },
+    {
+     "letra": "E",
+     "texto": "a problemática situação - a resolveu - o chefe - com grande tranquilidade\n\nO chefe, com grande tranquilidade, resolveu a problemática situação."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 6"
+  },
+  {
+   "numero": "7",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Reorganização e reescrita de orações e períodos > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Todas as frases a seguir mostram palavras repetidas, que foram reescritas de forma a eliminar a repetição.\n\nA frase em que a estratégia utilizada na reescritura foi a omissão do termo repetido, é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O operário pretendia ganhar mais e, por isso, o operário decidiu procurar nova ocupação. / O operário pretendia ganhar mais e, por isso, decidiu procurar nova ocupação."
+    },
+    {
+     "letra": "B",
+     "texto": "Pelé não está mais entre nós, mas Pelé estará sempre na memória dos que amam o futebol. / Pelé não está mais entre nós, mas Edson Arantes do Nascimento estará sempre na memória dos que amam o futebol."
+    },
+    {
+     "letra": "C",
+     "texto": "O ex-presidente Fernando Henrique Cardoso retirou-se da vida pública, mas Fernando Henrique Cardoso deixou boas obras. / O ex-presidente Fernando Henrique Cardoso retirou-se da vida pública, mas FHC deixou boas obras."
+    },
+    {
+     "letra": "D",
+     "texto": "A prova estava fácil, mas o fácil pode ser só aparente. / A prova estava fácil, mas a facilidade pode ser só aparente."
+    },
+    {
+     "letra": "E",
+     "texto": "Anselmo lia a Bíblia todos os dias e divulgava as ideias da Bíblia entre os colegas de profissão. / Anselmo lia a Bíblia e divulgava as ideias religiosas entre os colegas de profissão."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 7"
+  },
+  {
+   "numero": "8",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ambiguidade",
+   "tipo": "multipla",
+   "enunciado": "A ambiguidade é um problema sério na escrita, pois compromete a clareza da mensagem. Todas as frases a seguir apresentam ambiguidade.\n\nAssinale a opção em que ela é causada pela má colocação de uma palavra.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A nomeação do Ministro provocou reclamações."
+    },
+    {
+     "letra": "B",
+     "texto": "João e Magda vão casar-se no domingo."
+    },
+    {
+     "letra": "C",
+     "texto": "O passageiro enjoado abandonou a viagem."
+    },
+    {
+     "letra": "D",
+     "texto": "Viu o policial e o delegado que temia."
+    },
+    {
+     "letra": "E",
+     "texto": "O aluno falou com a professora que mora perto."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 8"
+  },
+  {
+   "numero": "9",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Equivalência e substituição de palavras, locuções, expressões e trechos. > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Uma das marcas da língua escrita é a possibilidade de múltiplas construções com o mesmo significado. Nas frases a seguir, a locução sublinhada foi substituída por um só vocábulo.\n\nAssinale a opção em que essa substituição foi feita de forma adequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A reação do público deixou o artista sem qualquer reação. / inativo"
+    },
+    {
+     "letra": "B",
+     "texto": "A vegetação do Nordeste é diferente da do Sul. / nortista"
+    },
+    {
+     "letra": "C",
+     "texto": "Os acordos comerciais entre Japão e Brasil estão em vigor. / sino-brasileiros"
+    },
+    {
+     "letra": "D",
+     "texto": "As ações de todo dia trazem monotonia. / cotidianas"
+    },
+    {
+     "letra": "E",
+     "texto": "A guerra está por um fio no Oriente. / eminente"
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 9"
+  },
+  {
+   "numero": "10",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Equivalência e substituição de palavras, locuções, expressões e trechos.",
+   "tipo": "multipla",
+   "enunciado": "A operação de substituição de um termo por outro é bastante frequente na língua escrita.\n\nAssinale a frase em que o termo sublinhado foi substituído adequadamente por um advérbio de mesmo significado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os caminhões de lixo passam muitas vezes por aquela estrada de terra. / diariamente"
+    },
+    {
+     "letra": "B",
+     "texto": "O policial impediu a entrada do convidado sem que se entendesse a razão. / racionalmente"
+    },
+    {
+     "letra": "C",
+     "texto": "O juiz retirou-se do gramado sem dizer nada. / tacitamente"
+    },
+    {
+     "letra": "D",
+     "texto": "O rapaz parecia muito perturbado pelo aspecto emocional. / afetivamente"
+    },
+    {
+     "letra": "E",
+     "texto": "Mesmo sem estudo aprofundado, o candidato se saiu bem nos testes. / Imperceptivelmente"
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 10"
+  },
+  {
+   "numero": "11",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Substantivo coletivo",
+   "tipo": "multipla",
+   "enunciado": "Assinale a opção em que a relação estabelecida entre as duas primeiras palavras sublinhadas se repete inadequadamente na continuação da frase.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Incêndio está para bombeiro como doente está para médico."
+    },
+    {
+     "letra": "B",
+     "texto": "Prefácio está para livro como portaria está para o hotel."
+    },
+    {
+     "letra": "C",
+     "texto": "Tato está para a mão como paladar está para a língua."
+    },
+    {
+     "letra": "D",
+     "texto": "Verão está para inverno como a noite está para o dia."
+    },
+    {
+     "letra": "E",
+     "texto": "Enxame está para abelhas como constelação está para céu."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 11"
+  },
+  {
+   "numero": "12",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto",
+   "tipo": "multipla",
+   "enunciado": "Em todas as frases a seguir há expressões populares sublinhadas, que foram criadas em relação a um determinado campo profissional.\n\nAssinale a opção em que essa relação se mostra inadequada.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Os empregados devem imediatamente meter a mão na massa. / sociólogo"
+    },
+    {
+     "letra": "B",
+     "texto": "Decidiu dar uma colher de chá a todos os candidatos que chegaram atrasados. / médico, enfermeiro"
+    },
+    {
+     "letra": "C",
+     "texto": "Os moradores de rua pareciam estar na última lona. / mecânico de automóveis"
+    },
+    {
+     "letra": "D",
+     "texto": "Esse candidato ao emprego está um pouco cru em língua inglesa. / cozinheiro"
+    },
+    {
+     "letra": "E",
+     "texto": "Decidiu apagar o fogo da discussão no plenário. / bombeiro"
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 12"
+  },
+  {
+   "numero": "13",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto",
+   "tipo": "multipla",
+   "enunciado": "Nas frases a seguir aparecem dois termos que poderiam ser utilizados no mesmo contexto.\n\nAssinale a opção em que o primeiro termo destacado é o mais adequado, isto é, o mais correto e preciso para transmitir a ideia contida na frase.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Aquele que pretenda ser um bom atleta, deve privar-se / abster-se de bebidas alcoólicas."
+    },
+    {
+     "letra": "B",
+     "texto": "Os idosos devem preocupar-se em reaver / recuperar as forças perdidas."
+    },
+    {
+     "letra": "C",
+     "texto": "A modelo procurava mostrar / exibir as joias valiosas que levava."
+    },
+    {
+     "letra": "D",
+     "texto": "Nos romances de terror, o que predomina na leitura é a intuição / a imaginação."
+    },
+    {
+     "letra": "E",
+     "texto": "Ninguém deve acumular / amontoar riqueza sem uma finalidade já traçada."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 13"
+  },
+  {
+   "numero": "14",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Semântica (significação das palavras)",
+   "tipo": "multipla",
+   "enunciado": "Em todas as frases, há a presença de dois termos numa determinada situação.\n\nAssinale a frase em que os termos sublinhados se encontram em progressiva intensificação semântica.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O desempregado se via como pobre, miserável."
+    },
+    {
+     "letra": "B",
+     "texto": "A temperatura estava gelada, fria."
+    },
+    {
+     "letra": "C",
+     "texto": "O bolo da festa estava saboroso, gostoso."
+    },
+    {
+     "letra": "D",
+     "texto": "Morava em um subúrbio distante, afastado."
+    },
+    {
+     "letra": "E",
+     "texto": "A montanha parecia bastante elevada, alta."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 14"
+  },
+  {
+   "numero": "15",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Parônimos > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Os parônimos trazem problemas a quem escreve, pois são palavras de grafia semelhante, mas de significados distintos. É o caso de “cerca de”, “acerca de” e “há cerca de”. O uso adequado desses termos ocorre quando cada um deles é empregado de acordo com o seu sentido próprio.\n\nA esse respeito, leia as frases a seguir, extraídas do livro Os Sertões, de Euclides da Cunha, e assinale a opção em que um desses parônimos foi usado corretamente.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Canudos, velha fazenda de gado à beira do Vaza-Barris, era, em 1890, uma tapera de acerca de cinquenta capuabas de pau-a-pique."
+    },
+    {
+     "letra": "B",
+     "texto": "Esta iniciava-se agora sob maus auspícios. Apesar disto correu em paz até ao quarto dia, e concorridíssima: cerca de cinco mil assistentes, entre os quais todos os homens válidos se destacavam."
+    },
+    {
+     "letra": "C",
+     "texto": "Há cerca de dez ou oito léguas de Xique-Xique demora a sua capital, o arraial de Santo Inácio, ereto entre montanhas e inacessível até hoje a todas as diligências policiais."
+    },
+    {
+     "letra": "D",
+     "texto": "É usado no sentido de estar em sintonia com sua época e exprimir suas principais contradições, levando o leitor a uma verdadeira reflexão cerca das condições ontológica e social do ser humano."
+    },
+    {
+     "letra": "E",
+     "texto": "Começa investindo com a montanha, segundo a normal de máximo declive, em rampa de a cerca de vinte graus."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 15"
+  },
+  {
+   "numero": "16",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sentidos do texto > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Leia as frases a seguir, retiradas do romance O Cortiço, de Aluísio Azevedo, e assinale a que apresenta a troca indevida entre os verbos “costumar” e “acostumar”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tomava o bonde e ia direitinho para uma charutaria da Rua do Ouvidor, onde acostumava ficar assentado até às horas do jantar."
+    },
+    {
+     "letra": "B",
+     "texto": "O que nesse dia ela fez foi dar uma boa lavagem na casa e arrumá-la muitas vezes, como costumava, sempre que tinha lá as suas zangas."
+    },
+    {
+     "letra": "C",
+     "texto": "Se o bolas do fiscal esperava comê-lo por uma perna, como costumava fazer com os outros, que experimentasse, para ver só quanto lhe custaria a festa!"
+    },
+    {
+     "letra": "D",
+     "texto": "Depois, como neste mundo uma criatura a tudo se acostuma, Dona Isabel mudou-se para a casa da filha."
+    },
+    {
+     "letra": "E",
+     "texto": "Às duas horas da tarde entrou no botequim do Garnisé, uma espelunca, perto da praia, onde ele costumava beber de súcia com o Porfiro."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 16"
+  },
+  {
+   "numero": "17",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Onde/aonde",
+   "tipo": "multipla",
+   "enunciado": "As crônicas do escritor gaúcho Luís Fernando Veríssimo apresentam linguagem coloquial e narrativa fluida, mas ainda assim seguem normas da língua culta.\n\nNas frases a seguir, retiradas de uma seleção de suas crônicas, identifique aquela em que há inadequação no uso do demonstrativo relativo de lugar, com a forma onde empregada incorretamente no lugar de aonde.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Empregou o dinheiro. Mudou de bairro. Comprou casa. Passou a vestir bem, a comer bem, a cuidar onde põe o pronome. Subiu de classe. Contratou babás e entrou na Pontifícia Universidade Católica."
+    },
+    {
+     "letra": "B",
+     "texto": "Minha mulher e eu temos o segredo para fazer um casamento durar: duas vezes por semana, vamos a um ótimo restaurante, onde há uma comida gostosa, uma boa bebida e um bom companheirismo."
+    },
+    {
+     "letra": "C",
+     "texto": "E haverá bilhões de telas espalhadas por onde o homem estiver, desde lavatórios públicos até estações espaciais. Bastará ao homem apertar um botão para ter a informação que quiser."
+    },
+    {
+     "letra": "D",
+     "texto": "Perguntei a ela onde ela gostaria de ir no nosso aniversário de casamento, “em algum lugar que eu não tenha ido há muito tempo!” ela disse."
+    },
+    {
+     "letra": "E",
+     "texto": "\"Não deixa eles te humilharem, Mário Cesar\", dizia sempre. O Mário Cesar ficou firme onde estava, do seu lado."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 17"
+  },
+  {
+   "numero": "18",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Mudança de posição/ordem (deslocamento) > Língua Portuguesa",
+   "tipo": "multipla",
+   "enunciado": "Leia o primeiro parágrafo do romance Memórias de um Sargento de Milícias, do escritor Manoel Antônio de Almeida.\n\nEra no tempo do rei. Uma das quatro esquinas que formam as ruas do Ouvidor e da Quitanda, cortando-se mutuamente, chamava-se nesse tempo o canto dos meirinhos; e bem lhe assentava o nome, porque era aí o lugar de encontro favorito de todos os indivíduos dessa classe (que gozava então de não pequena consideração).\n\nNesse segmento inicial da obra, há uma série de palavras que podem mudar de posição sem alteração de sentido.\n\nA opção em que a mudança realizada ocorre por necessidade de clareza, já que o termo deslocado está originalmente mal colocado, é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“cortando-se mutuamente” / mutuamente cortando-se."
+    },
+    {
+     "letra": "B",
+     "texto": "“chamava-se nesse tempo” / nesse tempo chamava-se."
+    },
+    {
+     "letra": "C",
+     "texto": "“bem lhe assentava o nome” / o nome lhe assentava bem."
+    },
+    {
+     "letra": "D",
+     "texto": "“lugar de encontro favorito” / lugar favorito de encontro."
+    },
+    {
+     "letra": "E",
+     "texto": "“que gozava então” / que então gozava."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 18"
+  },
+  {
+   "numero": "19",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Emprego dos tempos verbais > Interpretação de Texto",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "No texto, o autor apresenta uma situação em que o narrador, entrevistado por uma jovem repórter, reflete com humor sobre o processo de criação da crônica. No início, os verbos aparecem no passado, e, em seguida, passam a ser empregados no presente.\n\nEssa alternância verbal ocorre porque",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "existe a descrição de eventos concomitantes, que são a entrevista com a repórter e a realização da crônica."
+    },
+    {
+     "letra": "B",
+     "texto": "a inscrição no passado retoma um evento anterior à escrita da crônica, que é realizada no momento da enunciação."
+    },
+    {
+     "letra": "C",
+     "texto": "o ato da escrita da crônica marca um fato permanente, enquanto o passado retoma uma ação anterior à enunciação."
+    },
+    {
+     "letra": "D",
+     "texto": "o presente atualiza um fato passado, correspondendo a essa outra ação também no passado, que é a entrevista à repórter."
+    },
+    {
+     "letra": "E",
+     "texto": "o passado marca um evento pontual anterior à enunciação, enquanto o presente designa processo em curso."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 19"
+  },
+  {
+   "numero": "20",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Função textual dos vocábulos",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "No texto “Nasce uma crônica”, há o uso recorrente do pronome “você”.\n\nConsiderando os efeitos de sentido produzidos por esse emprego, assinale a opção que identifica corretamente sua função no texto.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Convocar o leitor a participar do texto, apelando para o uso de um pronome de tratamento próximo da informalidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Estabelecer uma hierarquia de posições desiguais entre enunciador e leitor, de maneira a adotar um tom mais descontraído."
+    },
+    {
+     "letra": "C",
+     "texto": "Evitar o uso do pronome “tu”, que atribuiria ao texto um sentido de formalidade indesejado."
+    },
+    {
+     "letra": "D",
+     "texto": "Indicar uma indeterminação do sujeito que pratica a ação, apontando para um agente genérico, inespecífico."
+    },
+    {
+     "letra": "E",
+     "texto": "Promover um diálogo entre os interlocutores do texto, simulando a situação de comunicação da entrevista com a repórter."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 20"
+  },
+  {
+   "numero": "21",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Colocação Pronominal",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Sobre a colocação pronominal no trecho “A moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica”, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "são casos de ênclise, tendo em vista o uso adequado dos pronomes, respeitando as normas da gramática tradicional."
+    },
+    {
+     "letra": "B",
+     "texto": "são casos de próclise, tendo em vista um uso informal dos pronomes, não previstos na gramática tradicional."
+    },
+    {
+     "letra": "C",
+     "texto": "são casos de dupla possibilidade de colocação pronominal, tendo em vista a ausência de palavras atratoras."
+    },
+    {
+     "letra": "D",
+     "texto": "são casos de ênclise, tendo em vista a sequência de inícios de frase, que levam o pronome para depois do verbo."
+    },
+    {
+     "letra": "E",
+     "texto": "são casos de próclise, tendo em vista a sequência de orações coordenadas, que levam o pronome para antes do verbo."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 21"
+  },
+  {
+   "numero": "22",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Concordância verbal",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Sobre a concordância do verbo haver no trecho “Às vezes, há um assunto em evidência que você é obrigado a comentar”, é correto afirmar que o verbo se flexiona no singular, pois",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "concorda com o sujeito (assunto) que está no singular."
+    },
+    {
+     "letra": "B",
+     "texto": "está veiculando um sentido distinto do usual, nesse trecho."
+    },
+    {
+     "letra": "C",
+     "texto": "funciona como verbo impessoal, no trecho."
+    },
+    {
+     "letra": "D",
+     "texto": "deve concordar com o sujeito que está no singular, uma vez que possui o sentido do verbo ter."
+    },
+    {
+     "letra": "E",
+     "texto": "tal verbo indica sentido de tempo transcorrido."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 22"
+  },
+  {
+   "numero": "23",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Análise das estruturas linguísticas do texto",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "O texto “Nasce uma crônica” utiliza variadas estratégias argumentativas para comprovar a defesa de seu ponto de vista, exceto",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "a pontuação fragmentada, com uso frequente de períodos curtos, apontando para um perfil de leitor apressado e distante do ambiente literário."
+    },
+    {
+     "letra": "B",
+     "texto": "o uso inicial de um exemplo particular de entrevista para discutir mais amplamente a temática da elaboração de uma crônica, construindo uma verdade."
+    },
+    {
+     "letra": "C",
+     "texto": "a associação da escrita da crônica a elementos próximos do cotidiano do leitor, aproximando o universo estético do utilitário."
+    },
+    {
+     "letra": "D",
+     "texto": "a perspectiva irônica revelada no fim do texto sobre a escrita da crônica não ser só um parágrafo de introdução, quando é exatamente o que se pratica neste texto."
+    },
+    {
+     "letra": "E",
+     "texto": "a construção de um estilo próprio de escrita, evidenciado no tom descompromissado, debochado, estabelecendo uma cumplicidade com o leitor."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 23"
+  },
+  {
+   "numero": "24",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Análise sintática > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Assinale a opção em que a palavra destacada exerce a mesma função sintática que o termo em destaque no trecho “e me perguntou como nascia uma crônica”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há um assunto em evidência."
+    },
+    {
+     "letra": "B",
+     "texto": "Acontece muito."
+    },
+    {
+     "letra": "C",
+     "texto": "A moça era bonita."
+    },
+    {
+     "letra": "D",
+     "texto": "E não pinga nada."
+    },
+    {
+     "letra": "E",
+     "texto": "Qualquer coisa pode originar uma crônica."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 24"
+  },
+  {
+   "numero": "25",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Pontuação > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Leia o trecho a seguir.\n\n“E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto”.\n\nAssinale a afirmativa correta sobre o trecho sublinhado",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A ausência da vírgula na oração adjetiva indica que todos os cronistas se respeitam e evitam o truque de escrever sobre falta de assunto."
+    },
+    {
+     "letra": "B",
+     "texto": "A ausência da vírgula na oração adjetiva indica que todos os cronistas evitam o truque de recorrer ao tema da falta de assunto."
+    },
+    {
+     "letra": "C",
+     "texto": "A ausência da vírgula na oração adjetiva indica que, ao se respeitar, o cronista pode escrever sobre a falta de assunto."
+    },
+    {
+     "letra": "D",
+     "texto": "A ausência da vírgula na oração adjetiva indica que todos os cronistas não se respeitam e, por isso, não recorrem ao tema da falta de assunto."
+    },
+    {
+     "letra": "E",
+     "texto": "A ausência da vírgula na oração adjetiva indica que, ao se respeitar, o cronista não pode recorrer ao tema da falta de assunto."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 25"
+  },
+  {
+   "numero": "26",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Flexões verbais > Verbos",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Assinale a opção correta sobre as marcas de flexão presentes na palavra sublinhada em “Você espreme o cérebro e não pinga nada”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A forma verbal sublinhada não apresenta vogal temática."
+    },
+    {
+     "letra": "B",
+     "texto": "A forma verbal sublinhada apresenta o radical, -ping, que caracteriza a marca de modo e tempo do verbo."
+    },
+    {
+     "letra": "C",
+     "texto": "A forma verbal sublinhada não apresenta desinência modo-temporal e nem desinência número-pessoal."
+    },
+    {
+     "letra": "D",
+     "texto": "A forma verbal sublinhada está flexionada na primeira pessoa do singular, do presente do indicativo."
+    },
+    {
+     "letra": "E",
+     "texto": "A forma verbal sublinhada está flexionada na terceira pessoa do singular, do presente do subjuntivo."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 26"
+  },
+  {
+   "numero": "27",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Acentuação gráfica > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Assinale a opção que apresenta a justificativa correta para a ausência de acento gráfico na palavra “ideias”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Paroxítona com ditongo aberto."
+    },
+    {
+     "letra": "B",
+     "texto": "Proparoxítona com ditongo aberto."
+    },
+    {
+     "letra": "C",
+     "texto": "Paroxítona terminada em hiato."
+    },
+    {
+     "letra": "D",
+     "texto": "Proparoxítona terminada em ditongo aberto."
+    },
+    {
+     "letra": "E",
+     "texto": "Paroxítona terminada em ditongo aberto, em sua forma singular."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 27"
+  },
+  {
+   "numero": "28",
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de Texto > Língua Portuguesa",
+   "tipo": "multipla",
+   "texto_base": "Atenção: o texto a seguir deve ser usado para responder às próximas nove questões.\n\nNasce uma crônica\n\nA moça era bonita, se chamava Fabíola e me perguntou como nascia uma crônica. Entre outras coisas. Ela era repórter do jornal da universidade de Ouro Preto e estava me entrevistando, uma tarefa que eu não desejo a ninguém, enquanto uma câmera de TV gravava tudo. Dei a resposta de sempre. Qualquer coisa pode originar uma crônica. Às vezes, há um assunto em evidência que você é obrigado a comentar. Às vezes, é uma coisa, assim, impressionista; às vezes, é pura invenção, uma frase que sugere uma história, ou um cheiro no ar, ou um incidente banal... Os mistérios, enfim, da criação. Etcetera, etcetera. Não há vezes em que as ideias simplesmente não vêm? Há, há. Acontece muito. Com os anos, as ideias parecem que vão ficando cada vez mais longe, enquanto o seu poder de convocá-las diminui. Você chama e elas não se aproximam. Você grita por socorro e elas continuam longe, lixando as unhas. Você espreme o cérebro e não pinga nada. E hoje nenhum cronista que se respeite pode recorrer ao velho truque de, não tendo assunto, escrever sobre a falta de assunto. Ou desperdiçar papel caro e o tempo do leitor com um parágrafo inteiro só de introdução.\n\nVERISSIMO, Luis Fernando. \"Nasce uma crônica\". São Paulo. O Estado de São Paulo, caderno 2, p. 49, 01/05/2003.",
+   "enunciado": "Assinale a afirmativa correta sobre a interpretação do texto “Nasce uma crônica”.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "O texto faz um apelo para que os cronistas sejam criativos e evitem escrever sobre temas supérfluos."
+    },
+    {
+     "letra": "B",
+     "texto": "O texto emprega um tom bem-humorado e irônico para abordar as dificuldades da escrita."
+    },
+    {
+     "letra": "C",
+     "texto": "O texto emprega uma metalinguagem a fim de criticar a falta de assunto nas crônicas atualmente."
+    },
+    {
+     "letra": "D",
+     "texto": "O texto faz uma crítica à crônica e à falta de assunto característica desse gênero."
+    },
+    {
+     "letra": "E",
+     "texto": "O texto emprega um tom irônico a fim de enaltecer os cronistas, que enfrentam as dificuldades impostas pela escrita."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 28"
+  },
+  {
+   "numero": "29",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Em lógica, quantificadores são operadores que definem o alcance de uma proposição em relação a um domínio. O quantificador universal (∀) indica que a propriedade se aplica a todos os elementos do domínio, enquanto o quantificador existencial (∃) afirma que há pelo menos um elemento no domínio que satisfaz a propriedade.\n\nCom base nisso, assinale a sentença que pode ser expressa por meio de um quantificador universal.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Há leis que entraram em vigor no ano de 2002."
+    },
+    {
+     "letra": "B",
+     "texto": "Todo juiz deve fundamentar suas decisões."
+    },
+    {
+     "letra": "C",
+     "texto": "Existe uma norma suprema no ordenamento jurídico."
+    },
+    {
+     "letra": "D",
+     "texto": "Em certos casos, a lei penal retroage para beneficiar o réu."
+    },
+    {
+     "letra": "E",
+     "texto": "Algumas normas constitucionais têm aplicação imediata."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 29"
+  },
+  {
+   "numero": "30",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Com base no conceito lógico clássico de proposição, analise os itens a seguir.\n\nI. Todo réu tem direito à ampla defesa e ao contraditório?\n\nII. Apresente os documentos solicitados no prazo legal!\n\nIII. Testemunhas podem ser ouvidas sem a presença do juiz.\n\nÉ proposição o que se indica em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, II e III."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "III, apenas."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 30"
+  },
+  {
+   "numero": "31",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "O almoxarife de uma empresa precisa comprar cartuchos de tinta preta para as impressoras do escritório. Ele dispõe de um orçamento com 5 tipos diferentes de cartuchos.\n\nO preço e o volume de tinta de cada tipo de cartucho estão descritos na tabela a seguir.\n\n[[img:0]]\n\nNessa compra, todos os cartuchos devem ser de um mesmo tipo.\n\nPara pagar o menor valor por mililitro de tinta, o almoxarife deve adquirir cartuchos do tipo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1."
+    },
+    {
+     "letra": "B",
+     "texto": "2."
+    },
+    {
+     "letra": "C",
+     "texto": "3."
+    },
+    {
+     "letra": "D",
+     "texto": "4."
+    },
+    {
+     "letra": "E",
+     "texto": "5."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 31",
+   "imagens": [
+    {
+     "src": "quest/2541705736/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "32",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a seguinte situação:\n\nUm advogado informa ao seu cliente que seguirá defendendo seu caso se, e somente se, ele se comprometer a seguir à risca as suas orientações.\n\nSe representarmos essa situação por meio das proposições lógicas “o advogado defende o cliente” e “o cliente segue as orientações”, o conectivo lógico que descreve corretamente a relação entre elas é o de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "negação."
+    },
+    {
+     "letra": "B",
+     "texto": "condicionalidade."
+    },
+    {
+     "letra": "C",
+     "texto": "disjunção."
+    },
+    {
+     "letra": "D",
+     "texto": "bicondicionalidade."
+    },
+    {
+     "letra": "E",
+     "texto": "conjunção."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 32"
+  },
+  {
+   "numero": "33",
+   "disciplina": "Geografia",
+   "assunto": "Solos",
+   "tipo": "multipla",
+   "enunciado": "Leia as descrições a seguir, nas quais elementos naturais e institucionais são apresentados por meio de estruturas paralelas.\n\nI. Um rio subterrâneo se concentra em lençóis ocultos, irrompe por fendas da rocha, modifica a consistência do solo, percorre canais invisíveis e se prolonga em umidade contínua.\n\nII. Um conjunto de processos percorre fluxos organizados, se prolonga em despachos sucessivos, se concentra em arquivos reservados, altera a rotina do fórum e emerge em movimentações judiciais.\n\nCom base na correspondência estrutural entre os elementos de cada sequência, assinale a expressão em II que ocupa posição análoga à de “consistência do solo” em I.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "“movimentações judiciais”."
+    },
+    {
+     "letra": "B",
+     "texto": "“despachos sucessivos”."
+    },
+    {
+     "letra": "C",
+     "texto": "“rotina do fórum”."
+    },
+    {
+     "letra": "D",
+     "texto": "“arquivos reservados”."
+    },
+    {
+     "letra": "E",
+     "texto": "“pilhas ordenadas”."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 33"
+  },
+  {
+   "numero": "34",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "O Setor de Protocolo de uma Vara Cível utiliza grandes volumes de papel A4 para impressão de despachos, sentenças e intimações. O consumo médio mensal atual é de 3.600 folhas de papel A4.\n\nO gestor do setor determinou que o estoque de papel é ideal quando mantido sempre em um nível equivalente ao consumo médio de dois meses. No entanto, devido a uma atualização nas impressoras, prevê-se que o consumo mensal de papel cairá 25% a partir do próximo mês.\n\nAs requisições de papel A4 são feitas mensalmente e devem considerar uma margem de segurança adicional de 10% sobre o valor do estoque ideal.\n\nConsiderando que, no próximo mês, no momento da requisição, o estoque contenha 390 folhas de papel A4, será preciso comprar mais",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "5.540."
+    },
+    {
+     "letra": "B",
+     "texto": "5.550."
+    },
+    {
+     "letra": "C",
+     "texto": "5.555"
+    },
+    {
+     "letra": "D",
+     "texto": "5.565."
+    },
+    {
+     "letra": "E",
+     "texto": "5.575."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 34"
+  },
+  {
+   "numero": "35",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Em um debate sobre mobilidade urbana, um comentarista afirmou:\n\nApós a implantação de faixas exclusivas para ônibus, o trânsito piorou nas avenidas centrais. Portanto, as faixas exclusivas são responsáveis por todo esse congestionamento.\n\nAnalise o raciocínio apresentado nessa afirmação e assinale a opção que identifica corretamente a falácia lógica nele contida.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Generalização apressada, pois toma uma observação localizada como se fosse válida para todas as cidades."
+    },
+    {
+     "letra": "B",
+     "texto": "Falsa causa, pois estabelece como causa única das dificuldades no trânsito a criação das faixas exclusivas."
+    },
+    {
+     "letra": "C",
+     "texto": "Apelo à tradição, pois insinua que o trânsito funcionava melhor antes e, por isso, não deveria ter mudado."
+    },
+    {
+     "letra": "D",
+     "texto": "Falsa dicotomia, pois sugere que ou se mantêm faixas exclusivas ou se elimina o congestionamento."
+    },
+    {
+     "letra": "E",
+     "texto": "Petição de princípio, pois repete a conclusão de que “as faixas são responsáveis” sem argumento novo."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 35"
+  },
+  {
+   "numero": "36",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere o raciocínio a seguir.\n\nSe um contrato é válido, então está assinado pelas duas partes; o contrato não está assinado pelas duas partes; logo, o contrato não é válido.\n\nCom base na análise do raciocínio, assinale a opção em que ele está classificado corretamente do ponto de vista lógico.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Trata-se de um argumento dedutivo, porque a conclusão parece verdadeira dadas as premissas apresentadas, o que garante sua validade e veracidade."
+    },
+    {
+     "letra": "B",
+     "texto": "Trata-se de um raciocínio analógico, em que a ausência das assinaturas é interpretada como uma diferença relevante em relação a outros documentos que costumam ser oficiais."
+    },
+    {
+     "letra": "C",
+     "texto": "Trata-se de um raciocínio baseado nas normas e costumes do meio jurídico, em que a falta de assinatura é usada como critério prático para declarar a invalidez do contrato."
+    },
+    {
+     "letra": "D",
+     "texto": "Trata-se de uma inferência abdutiva, em que a ausência das assinaturas é tomada como a explicação mais provável para a não oficialidade do documento."
+    },
+    {
+     "letra": "E",
+     "texto": "Trata-se de um argumento dedutivo em que a ausência da assinatura pelas duas partes permite concluir, com base na estrutura lógica, que o contrato não é válido."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 36"
+  },
+  {
+   "numero": "37",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a seguinte proposição lógica:\n\n“Se José é alto, então Maria é alta ou Pedro é alto.”\n\nSabendo que essa proposição é falsa, é correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "José é alto, Maria é alta, Pedro é alto."
+    },
+    {
+     "letra": "B",
+     "texto": "José é alto, Maria não é alta, Pedro é alto."
+    },
+    {
+     "letra": "C",
+     "texto": "José é alto, Maria não é alta, Pedro não é alto."
+    },
+    {
+     "letra": "D",
+     "texto": "José não é alto, Maria não é alta, Pedro é alto."
+    },
+    {
+     "letra": "E",
+     "texto": "José não é alto, Maria não é alta, Pedro não é alto."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 37"
+  },
+  {
+   "numero": "38",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere a sentença:\n\n“Se Márcia é gaúcha, então é torcedora do Grêmio ou torcedora do Internacional”.\n\nAssinale a opção que indica uma sentença logicamente equivalente a essa.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Se Márcia não é gaúcha, então não é torcedora do Grêmio nem do Internacional."
+    },
+    {
+     "letra": "B",
+     "texto": "Se Márcia não é torcedora do Grêmio, então não é gaúcha ou é torcedora do Internacional."
+    },
+    {
+     "letra": "C",
+     "texto": "Se Márcia não é torcedora do Grêmio, então não é gaúcha nem é torcedora do Internacional."
+    },
+    {
+     "letra": "D",
+     "texto": "Se Márcia não é torcedora do Internacional, então não é gaúcha nem é torcedora do Grêmio."
+    },
+    {
+     "letra": "E",
+     "texto": "Se Márcia não é torcedora do Grêmio ou não é torcedora do Internacional, então não é gaúcha."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 38"
+  },
+  {
+   "numero": "39",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Três esportistas - um gaúcho, um paulista e um carioca - têm idades diferentes e cada um pratica apenas um dos seguintes esportes: futebol, tênis ou basquete.\n\nConsidere as seguintes informações:\n• O carioca não joga futebol;\n• O paulista não é o mais velho;\n• O gaúcho é mais velho do que o jogador de basquete;\n• O jogador de basquete é mais novo do que o paulista;\n• O jogador de futebol é mais novo do que o jogador de tênis.\n\nDiante dessas condições, é correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "o carioca é o mais velho."
+    },
+    {
+     "letra": "B",
+     "texto": "o jogador de futebol é o mais novo."
+    },
+    {
+     "letra": "C",
+     "texto": "o gaúcho é o jogador de tênis."
+    },
+    {
+     "letra": "D",
+     "texto": "o jogador de basquete não é o mais novo."
+    },
+    {
+     "letra": "E",
+     "texto": "o paulista é o jogador de tênis."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 39"
+  },
+  {
+   "numero": "40",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Em um grupo de 44 jovens, todos usam bonés brancos ou bonés grenás. Sabe-se que 25 deles estão com bonés brancos. Para a realização de uma determinada atividade, os 44 jovens formam, aleatoriamente, 22 pares.\n\nCom base nessa formação dos pares, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "há, pelo menos, 3 pares de jovens cujos bonés têm cores diferentes."
+    },
+    {
+     "letra": "B",
+     "texto": "há, pelo menos, 3 pares de jovens cujos bonés são grenás."
+    },
+    {
+     "letra": "C",
+     "texto": "há, pelo menos, 3 pares de jovens cujos bonés são brancos."
+    },
+    {
+     "letra": "D",
+     "texto": "há, no máximo, 20 pares de jovens cujos bonés têm cores diferentes."
+    },
+    {
+     "letra": "E",
+     "texto": "há, no máximo, 20 pares de jovens cujos bonés têm a mesma cor."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 40"
+  },
+  {
+   "numero": "41",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere as seguintes premissas:\n• Se Ramiro gosta de chimarrão ou de churrasco, então ele não gosta de alface;\n• Se Ramiro gosta de alface ou de chimarrão, então ele gosta de churrasco.\n\nCom base nessas premissas lógicas, é correto concluir que Ramiro",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "não gosta de alface."
+    },
+    {
+     "letra": "B",
+     "texto": "gosta de churrasco."
+    },
+    {
+     "letra": "C",
+     "texto": "gosta de chimarrão."
+    },
+    {
+     "letra": "D",
+     "texto": "gosta de alface."
+    },
+    {
+     "letra": "E",
+     "texto": "não gosta de chimarrão."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 41"
+  },
+  {
+   "numero": "42",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Um sapo dá saltos sobre uma linha reta, sempre no mesmo sentido. Cada salto pode ter comprimento, exclusivamente, de 1 metro (salto curto) ou de 2 metros (salto longo).\n\nConsiderando-se 6 saltos consecutivos desse sapo, se a distância total percorrida for maior que 9 metros, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "pelo menos 3 desses saltos foram curtos."
+    },
+    {
+     "letra": "B",
+     "texto": "exatamente 5 desses saltos foram longos."
+    },
+    {
+     "letra": "C",
+     "texto": "a quantidade de saltos longos é igual à quantidade de saltos curtos."
+    },
+    {
+     "letra": "D",
+     "texto": "exatamente 2 desses saltos foram curtos."
+    },
+    {
+     "letra": "E",
+     "texto": "pelo menos 4 desses saltos foram longos."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 42"
+  },
+  {
+   "numero": "43",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere as letras da palavra TIJUCA.\n\nO número de permutações dessas 6 letras que não contêm vogais juntas é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "24."
+    },
+    {
+     "letra": "B",
+     "texto": "36."
+    },
+    {
+     "letra": "C",
+     "texto": "72."
+    },
+    {
+     "letra": "D",
+     "texto": "144."
+    },
+    {
+     "letra": "E",
+     "texto": "360."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 43"
+  },
+  {
+   "numero": "44",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Norma gosta de decidir seus programas de lazer de forma aleatória. Para isso, utiliza uma moeda honesta (a probabilidade de ocorrer cara é a mesma de ocorrer coroa) e um dado honesto (a probabilidade de ocorrer qualquer um dos números de 1 a 6 é a mesma).\n\nEla lança a moeda duas vezes consecutivas e, em seguida, lança o dado. A regra que ela adota é a seguinte:\n• Se sair cara nos dois lançamentos da moeda e o número obtido no dado for par ou maior que 4, então Norma ficará em casa ouvindo música;\n• Em qualquer outro resultado, Norma irá à praia.\n\nCom base nessa situação, a probabilidade de Norma ir à praia é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1/2."
+    },
+    {
+     "letra": "B",
+     "texto": "2/3."
+    },
+    {
+     "letra": "C",
+     "texto": "3/4."
+    },
+    {
+     "letra": "D",
+     "texto": "4/5."
+    },
+    {
+     "letra": "E",
+     "texto": "5/6."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 44"
+  },
+  {
+   "numero": "45",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Em uma urna há 8 bolas brancas, 7 bolas amarelas e 5 bolas vermelhas. Uma dessas bolas é retirada ao acaso.\n\nA probabilidade de que essa bola retirada não seja amarela é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "55%."
+    },
+    {
+     "letra": "B",
+     "texto": "60%."
+    },
+    {
+     "letra": "C",
+     "texto": "65%."
+    },
+    {
+     "letra": "D",
+     "texto": "70%."
+    },
+    {
+     "letra": "E",
+     "texto": "75%."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 45"
+  },
+  {
+   "numero": "46",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Considere como verdadeira a seguinte afirmação referente a pessoas brasileiras:\n\n“Todo deputado conhece bem a língua portuguesa”.\n\nA partir dessa afirmação é correto concluir que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "se uma pessoa conhece bem a língua portuguesa, então é deputado."
+    },
+    {
+     "letra": "B",
+     "texto": "se uma pessoa não é um deputado, então não conhece bem a língua portuguesa."
+    },
+    {
+     "letra": "C",
+     "texto": "se uma pessoa não conhece bem a língua portuguesa, então não é deputado."
+    },
+    {
+     "letra": "D",
+     "texto": "existe um deputado que não conhece bem a língua portuguesa."
+    },
+    {
+     "letra": "E",
+     "texto": "não existe pessoa que conheça bem a língua portuguesa e não seja deputado."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 46"
+  },
+  {
+   "numero": "47",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Um dado comum (com faces numeradas de 1 a 6) foi lançado 50 vezes.\n\nCom base nesse experimento, é correto afirmar que",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cada número do dado ocorreu, pelo menos, uma vez."
+    },
+    {
+     "letra": "B",
+     "texto": "um dos números do dado ocorreu exatamente 8 vezes."
+    },
+    {
+     "letra": "C",
+     "texto": "é possível que todos os números do dado tenham ocorrido o mesmo número de vezes."
+    },
+    {
+     "letra": "D",
+     "texto": "dois dos números do dado ocorreram exatamente 9 vezes."
+    },
+    {
+     "letra": "E",
+     "texto": "um dos números do dado ocorreu, pelo menos, 9 vezes."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 47"
+  },
+  {
+   "numero": "48",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Um clube oferece treinamento em três esportes: futebol (F), voleibol (V) e natação (N). Dos 40 atletas inscritos:\n\n- Alguns praticam apenas um esporte;\n\n- Outros praticam dois dos esportes oferecidos;\n\n- Nenhum atleta pratica os três esportes.\n\nSabe-se que:\n\n- O número de atletas que praticam F e V é igual ao número dos que praticam V e N e também é igual ao número dos que praticam F e N;\n\n- Entre os atletas que praticam apenas um esporte, 8 praticam apenas F, 7 praticam apenas V e 4 praticam apenas N.\n\nNesse clube, o número de atletas que praticam natação é:",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "18."
+    },
+    {
+     "letra": "B",
+     "texto": "19."
+    },
+    {
+     "letra": "C",
+     "texto": "20."
+    },
+    {
+     "letra": "D",
+     "texto": "21."
+    },
+    {
+     "letra": "E",
+     "texto": "22."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 48"
+  },
+  {
+   "numero": "49",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Uma empresa de comércio internacional possui 50 funcionários, dos quais 32 falam inglês. Sabe-se que, de todos os funcionários, 28 são homens; e que, das mulheres, 7 não falam inglês.\n\nCom base nessas informações, é correto afirmar que o número de funcionários homens que falam inglês é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "16."
+    },
+    {
+     "letra": "B",
+     "texto": "17."
+    },
+    {
+     "letra": "C",
+     "texto": "18."
+    },
+    {
+     "letra": "D",
+     "texto": "19."
+    },
+    {
+     "letra": "E",
+     "texto": "20."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 49"
+  },
+  {
+   "numero": "50",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Cinco amigos, Alice, Bruno, Carla, Dário e Elias, ocupam cinco posições numeradas de 1 a 5, para tirar uma foto.\n\nPara descobrir a ordem exata em que eles estão, você recebeu as seguintes informações:\n• Alice não está na posição central.\n• Bruno está em uma posição par.\n• Elias está em uma posição cujo número é menor que 3.\n• O número da posição da Carla é o dobro do número da posição do Elias.\n\nCom base nestas informações, é correto afirmar que Dário está na posição",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "1."
+    },
+    {
+     "letra": "B",
+     "texto": "2."
+    },
+    {
+     "letra": "C",
+     "texto": "3."
+    },
+    {
+     "letra": "D",
+     "texto": "4."
+    },
+    {
+     "letra": "E",
+     "texto": "5."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 50"
+  },
+  {
+   "numero": "51",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Uma agência de marketing realizou uma pesquisa com 150 influenciadores digitais para entender seus hábitos de consumo de conteúdo em duas plataformas T e Y.\n\nA pesquisa permitiu concluir que:\n• 65 não consomem a plataforma T;\n• 60 consomem apenas uma entre as 2 plataformas;\n• 55 não consomem a plataforma Y.\n\nA quantidade de influenciadores que consomem ambas as plataformas é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "40."
+    },
+    {
+     "letra": "B",
+     "texto": "50."
+    },
+    {
+     "letra": "C",
+     "texto": "55."
+    },
+    {
+     "letra": "D",
+     "texto": "60."
+    },
+    {
+     "letra": "E",
+     "texto": "65."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 51"
+  },
+  {
+   "numero": "52",
+   "disciplina": "Raciocínio Lógico",
+   "assunto": "Raciocínio Lógico",
+   "tipo": "multipla",
+   "enunciado": "Uma empresa de advocacia possui escritórios em duas cidades do Estado. No Escritório A trabalham 8 homens e 2 mulheres, e no Escritório B trabalham 7 homens e 5 mulheres. A empresa irá selecionar aleatoriamente dois funcionários, um de cada escritório, para desenvolver um novo projeto.\n\nA probabilidade de que esses dois funcionários sejam de sexos diferentes é",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "35%."
+    },
+    {
+     "letra": "B",
+     "texto": "40%."
+    },
+    {
+     "letra": "C",
+     "texto": "45%."
+    },
+    {
+     "letra": "D",
+     "texto": "50%."
+    },
+    {
+     "letra": "E",
+     "texto": "55%."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 52"
+  },
+  {
+   "numero": "53",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Fundamentos da República Federativa do Brasil - formas de Estado, formas de governo, sistemas de governo, regimes de governo. Poder: titularidade x exercício (artigo 1º da CF)",
+   "tipo": "multipla",
+   "enunciado": "O preâmbulo da Constituição Federal estabelece que: “nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte Constituição da República Federativa do Brasil”.\n\nNesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que a República Federativa do Brasil tem como fundamento a",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "cooperação entre os povos para o progresso da humanidade."
+    },
+    {
+     "letra": "B",
+     "texto": "solução pacífica dos conflitos."
+    },
+    {
+     "letra": "C",
+     "texto": "não intervenção."
+    },
+    {
+     "letra": "D",
+     "texto": "defesa da paz."
+    },
+    {
+     "letra": "E",
+     "texto": "soberania."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 53"
+  },
+  {
+   "numero": "54",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Competência da justiça federal (artigo 109 da CF)",
+   "tipo": "multipla",
+   "enunciado": "No curso de ação penal, que tramita junto ao Tribunal de Justiça do Estado do Rio Grande do Sul, o Procurador-Geral da República, Chefe do Ministério Público da União, com a finalidade de assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos, dos quais o Brasil é parte, em razão de hipótese de grave violação de direitos humanos, suscitou incidente de deslocamento de competência para a Justiça Federal.\n\nNesse caso, considerando as disposições da Constituição Federal, o incidente de deslocamento de competência será apreciado pelo",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tribunal de Justiça do Estado do Rio Grande do Sul."
+    },
+    {
+     "letra": "B",
+     "texto": "Conselho Nacional do Ministério Público."
+    },
+    {
+     "letra": "C",
+     "texto": "Conselho Nacional de Justiça."
+    },
+    {
+     "letra": "D",
+     "texto": "Superior Tribunal de Justiça."
+    },
+    {
+     "letra": "E",
+     "texto": "Supremo Tribunal Federal."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 54"
+  },
+  {
+   "numero": "55",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Empresas Públicas",
+   "tipo": "multipla",
+   "enunciado": "O Prefeito do Município Beta manifestou, em discursivo divulgado em rádio local, o desejo de instituir a empresa pública Alfa, que será responsável pela prestação de serviços públicos à coletividade em geral.\n\nConsiderando a situação relatada e o entendimento doutrinário dominante, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) A empresa pública Alfa será, uma vez instituída, uma pessoa jurídica de direito público, integrante da Administração Indireta.\n\n( ) A empresa pública Alfa será, depois de criada, um caso de desconcentração administrativa, exemplificando uma forma de organizar a Administração Pública.\n\n( ) A empresa pública Alfa será instituída mediante autorização em decreto, a ser publicado pelo Prefeito da municipalidade.\n\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – F – F."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "C",
+     "texto": "F – F – V."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "E",
+     "texto": "F – V – F."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 55"
+  },
+  {
+   "numero": "56",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Regimento Interno > Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS",
+   "tipo": "multipla",
+   "enunciado": "Nos termos do Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul, o Órgão Especial, funcionando no exercício delegado das atribuições administrativas e jurisdicionais da competência originária do Tribunal Pleno, é constituído por vinte e cinco Desembargadores, provendo-se doze vagas pelo critério de antiguidade no Tribunal de Justiça e a outra metade por eleição pelo Tribunal Pleno.\n\nDe acordo com a narrativa e considerando as disposições do Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul, analise as afirmativas a seguir.\n\nI. O Presidente do Tribunal será excluído do cálculo das metades do Órgão Especial e presidirá as suas sessões, sendo substituído, nos seus impedimentos, pelo Desembargador por ele indicado.\n\nII. Compete ao Órgão Especial, além das atribuições previstas em lei e no Regimento Interno do Tribunal, deliberar sobre as propostas orçamentárias do Poder Judiciário.\n\nIII. Para fins de ordenação dos trabalhos administrativos e jurisdicionais do Órgão Especial, será observado o critério do merecimento.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 56"
+  },
+  {
+   "numero": "57",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Poder Legislativo (artigos 44 a 75 da CF)",
+   "tipo": "multipla",
+   "enunciado": "Após a imprensa nacional repercutir que a organização criminosa XYZ estaria infiltrada em órgãos públicos do Estado Alfa, Deputados Federais vinculados ao referido ente federativo pretendem colher assinaturas para deflagrar uma CPI (Comissão Parlamentar de Inquérito).\n\nNesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que a CPI poderá ser criada, na Câmara dos Deputados, mediante requerimento de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "metade dos seus membros, para a apuração de fato determinado e pelo prazo máximo de cento e oitenta dias, sendo suas conclusões, se for o caso, encaminhadas à Polícia Federal, para que promova a responsabilidade civil ou criminal dos infratores."
+    },
+    {
+     "letra": "B",
+     "texto": "um terço dos seus membros, para a apuração de fato determinado e pelo prazo máximo de cento e oitenta dias, sendo suas conclusões, se for o caso, encaminhadas à Polícia Federal, para que promova a responsabilidade civil ou criminal dos infratores."
+    },
+    {
+     "letra": "C",
+     "texto": "metade dos seus membros, para a apuração de fato determinado e pelo prazo máximo de trezentos e sessenta dias, sendo suas conclusões, se for o caso, encaminhadas à Polícia Federal, para que promova a responsabilidade civil ou criminal dos infratores."
+    },
+    {
+     "letra": "D",
+     "texto": "um terço dos seus membros, para a apuração de fato determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores."
+    },
+    {
+     "letra": "E",
+     "texto": "metade dos seus membros, para a apuração de fato determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 57"
+  },
+  {
+   "numero": "58",
+   "disciplina": "Direito Penal",
+   "assunto": "Capítulo III - Das Penas > Direito Administrativo",
+   "tipo": "multipla",
+   "enunciado": "Caio, agente público no Estado Alfa, agindo dolosamente, permitiu que veículos pertencentes ao Poder Público fossem empregados em obras e serviços particulares, gerando lesividade relevante ao bem jurídico tutelado.\n\nNesse cenário, considerando as disposições da Lei nº 8.429/1992, em caso de condenação pela prática de ato doloso de improbidade administrativa, poderá ser aplicada, a Caio, a sanção de",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, pelo prazo não superior a catorze anos."
+    },
+    {
+     "letra": "B",
+     "texto": "perda dos bens ou valores acrescidos ilicitamente ao patrimônio, se concorrer essa circunstância."
+    },
+    {
+     "letra": "C",
+     "texto": "multa civil de até vinte e quatro vezes o valor da remuneração percebida pelo agente."
+    },
+    {
+     "letra": "D",
+     "texto": "suspensão dos direitos políticos por até catorze anos."
+    },
+    {
+     "letra": "E",
+     "texto": "suspensão da função pública por até oito anos."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 58"
+  },
+  {
+   "numero": "59",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Capacidade Eleitoral Passiva",
+   "tipo": "multipla",
+   "enunciado": "João, maior e capaz, pretende se candidatar ao cargo de Deputado Estadual no Estado do Rio Grande do Sul. Dessa forma, o indivíduo procurou maiores informações sobre os requisitos que deve preencher para ocupar o referido cargo eletivo.\n\nConsiderando as disposições da Constituição Federal, as opções a seguir listam corretamente condições de elegibilidade relativas a esse cenário, à exceção de uma. Assinale-a.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Idade mínima de trinta anos para Deputado Estadual."
+    },
+    {
+     "letra": "B",
+     "texto": "Pleno exercício dos direitos políticos."
+    },
+    {
+     "letra": "C",
+     "texto": "Domicílio eleitoral na circunscrição."
+    },
+    {
+     "letra": "D",
+     "texto": "Nacionalidade brasileira."
+    },
+    {
+     "letra": "E",
+     "texto": "Alistamento eleitoral."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 59"
+  },
+  {
+   "numero": "60",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Do Processo Licitatório > Direito Administrativo",
+   "tipo": "multipla",
+   "enunciado": "A sociedade empresária Gama, interessada em participar de procedimentos licitatórios realizados pelo Estado do Rio Grande do Sul, resolveu, por meio dos seus sócios, consultar a legislação de regência, para conhecer o regramento aplicável à matéria.\n\nConsiderando as disposições da Lei nº 14.133/2021, avalie as afirmativas a seguir a respeito do caso citado e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) As licitações serão realizadas preferencialmente sob a forma presencial, admitida a utilização da modalidade eletrônica, desde que motivada.\n\n( ) Nos procedimentos realizados por meio eletrônico, a Administração poderá determinar, como condição de validade e eficácia, que os licitantes pratiquem seus atos em formato eletrônico.\n\n( ) Na licitação sob a forma presencial, a sessão pública de apresentação de propostas poderá, a critério da Administração Pública, ser gravada em áudio e vídeo, hipótese em que a gravação será juntada aos autos do processo licitatório depois de seu encerramento.\n\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "F – F – F."
+    },
+    {
+     "letra": "C",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – V."
+    }
+   ],
+   "gabarito": "A",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 60"
+  },
+  {
+   "numero": "61",
+   "disciplina": "Legislação Estadual, Distrital e Municipal",
+   "assunto": "Estatuto e Regime Jurídico Único dos Servidores Públicos Civis do Estado do Rio Grande do Sul - Lei Complementar nº 10.098/1994",
+   "tipo": "multipla",
+   "enunciado": "A lotação é a força de trabalho qualitativa e quantitativa de cargos nos órgãos em que, efetivamente, devam ter exercício os servidores, observados os limites fixados para cada repartição ou unidade de trabalho.\n\nDe acordo com a narrativa e considerando as disposições do Estatuto e Regime Jurídico Único dos Servidores Públicos Civis do Estado do Rio Grande do Sul, analise as afirmativas a seguir.\n\nI. A indicação do órgão, sempre que possível, observará a relação entre as atribuições do cargo, as atividades específicas da repartição e as características individuais apresentadas pelo servidor.\n\nII. Tanto a lotação como a relotação poderão ser efetivadas de ofício, mas não a pedido, atendendo ao interesse da Administração.\n\nIII. Nos casos de nomeação para cargos em comissão ou designação para funções gratificadas, a lotação será compreendida no próprio ato.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 61"
+  },
+  {
+   "numero": "62",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Direitos de nacionalidade ou da nacionalidade (artigos 12 e 13 da CF)",
+   "tipo": "multipla",
+   "enunciado": "Maria, a serviço da República Federativa do Brasil, reside em Buenos Aires, na Argentina. Registre-se que Maria teve um filho, João, que nasceu em território argentino. Surgiram, assim, dúvidas sobre a nacionalidade de João.\n\nNesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que João",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "será considerado brasileiro naturalizado, desde que Maria o registre na repartição brasileira competente na Argentina."
+    },
+    {
+     "letra": "B",
+     "texto": "não será considerado brasileiro enquanto não passar a residir na República Federativa do Brasil."
+    },
+    {
+     "letra": "C",
+     "texto": "não é considerado brasileiro, nato ou naturalizado."
+    },
+    {
+     "letra": "D",
+     "texto": "é considerado brasileiro naturalizado."
+    },
+    {
+     "letra": "E",
+     "texto": "é considerado brasileiro nato."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 62"
+  },
+  {
+   "numero": "63",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Do Supremo Tribunal Federal (artigos 101 a 103 da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "O Ministério Público e a Polícia Civil do Estado Gama, em atuação conjunta, descobriram a existência de complexa articulação para desviar recursos públicos do Tribunal de Contas do referido ente federativo, com a participação ativa de diversos agentes públicos e, também, de João, chefe de determinada missão diplomática de caráter permanente. Registre-se que as investigações demonstraram que os fatos têm relação com o cargo ocupado por João, que se valia da sua função para atrair sociedades empresárias internacionais para as práticas criminosas.\n\nNesse cenário, considerando as disposições da Constituição Federal, João, que ainda é chefe de missão diplomática em caráter permanente, será processado e julgado perante o",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Tribunal de Justiça do Estado Gama."
+    },
+    {
+     "letra": "B",
+     "texto": "juízo estadual de primeira instância."
+    },
+    {
+     "letra": "C",
+     "texto": "juízo federal de primeira instância."
+    },
+    {
+     "letra": "D",
+     "texto": "Supremo Tribunal Federal."
+    },
+    {
+     "letra": "E",
+     "texto": "Tribunal Regional Federal."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 63"
+  },
+  {
+   "numero": "64",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Tribunal de Justiça do Rio Grande do Sul - TJ RS",
+   "tipo": "multipla",
+   "enunciado": "Após ser aprovado em concurso público de provas e títulos, Caio resolveu estudar o Código de Ética e de Conduta dos servidores do Poder Judiciário do Estado do Rio Grande do Sul, com o objetivo de agir em conformidade com a normativa existente.\n\nDe acordo com a narrativa e considerando as disposições do Código de Ética e de Conduta dos Servidores do Poder Judiciário do Estado do Rio Grande do Sul, analise as afirmativas a seguir.\n\nI. O Código de Ética e de Conduta dos servidores do Poder Judiciário do Rio Grande do Sul deverá estar disponível em todas as unidades de trabalho de 1º e 2º graus, e sua versão digital deverá estar na intranet e internet.\n\nII. A prestação de compromisso de observância do Código de Ética integrará o termo de posse do servidor e dos contratos de estágio e de prestação de serviços de forma a assegurar o alinhamento de conduta entre todos os colaboradores do Poder Judiciário estadual.\n\nIII. Cabe aos gestores, em todos os níveis, divulgar os preceitos do Código de Ética, por meio de reuniões e palestras mensais junto aos subordinados.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 64"
+  },
+  {
+   "numero": "65",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Capítulo VIII - Da forma, tempo e lugar dos atos do processo",
+   "tipo": "multipla",
+   "enunciado": "Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir. Ademais, os referidos atos devem ser produzidos por escrito, em vernáculo, com a data e o local de sua realização e a assinatura da autoridade responsável.\n\nDe acordo com a narrativa e considerando as disposições da Lei nº 9.784/1999, analise as afirmativas a seguir.\n\nI. Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força maior.\n\nII. Os atos do processo devem realizar-se em dias úteis, no horário normal de funcionamento da repartição na qual tramitar o processo.\n\nIII. Serão concluídos no dia imediatamente subsequente, útil ou não, os atos já iniciados, cujo adiamento prolongado prejudique o curso regular do procedimento ou cause dano ao interessado ou à Administração.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, II e III."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 65"
+  },
+  {
+   "numero": "66",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Estados ou Dos Estados (artigos 25 a 28 da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "Nos termos da Constituição Federal, os Estados organizam-se e regem-se pelas constituições e leis que adotarem, observados os princípios do texto constitucional. Ademais, estabeleceu-se que o número de Deputados da Assembleia Legislativa corresponderá, como regra, ao triplo da representação do Estado na Câmara dos Deputados.\n\nA esse respeito, considerando as disposições da Constituição Federal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) O mandato dos Deputados Estaduais será de quatro anos, sendo-lhes aplicáveis as regras previstas na Constituição Federal relativas ao sistema eleitoral, à inviolabilidade, às imunidades, à remuneração, à perda de mandato, à licença, aos impedimentos e à incorporação às Forças Armadas.\n\n( ) Caberá às Assembleias Legislativas organizar o seu regimento interno, a polícia e os serviços administrativos de sua secretaria, bem como prover os cargos respectivos.\n\n( ) Lei complementar estadual disporá sobre a iniciativa popular no processo legislativo estadual.\n\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – F."
+    },
+    {
+     "letra": "B",
+     "texto": "V – V – F."
+    },
+    {
+     "letra": "C",
+     "texto": "F – F – V."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – V."
+    },
+    {
+     "letra": "E",
+     "texto": "F – F – F."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 66"
+  },
+  {
+   "numero": "67",
+   "disciplina": "Direito Constitucional",
+   "assunto": "Ministério Público (artigos 127 a 130-A da CF) > Direito Constitucional",
+   "tipo": "multipla",
+   "enunciado": "No contexto de uma maior interlocução entre as carreiras públicas, José, membro do Ministério Público do Estado Alfa, foi convidado a ministrar palestra aos novos servidores públicos do Tribunal de Justiça do referido ente federativo. Com efeito, o membro do Parquet abordou as vedações a que estão sujeitos os Promotores de Justiça.\n\nNesse cenário, considerando as disposições da Constituição Federal, os membros do Ministério Público estão sujeitos às seguintes vedações, à exceção de uma. Assinale-a.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais."
+    },
+    {
+     "letra": "B",
+     "texto": "Exercer, ainda que em disponibilidade, qualquer outra função pública, inclusive uma de magistério."
+    },
+    {
+     "letra": "C",
+     "texto": "Participar de sociedade comercial, na forma da lei."
+    },
+    {
+     "letra": "D",
+     "texto": "Exercer atividade político-partidária."
+    },
+    {
+     "letra": "E",
+     "texto": "Exercer a advocacia."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 67"
+  },
+  {
+   "numero": "68",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Dos Meios Alternativos de Resolução de Controvérsias",
+   "tipo": "multipla",
+   "enunciado": "Em observância à Lei nº 14.133/2021, nos contratos administrativos regidos pela referida legislação, poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem.\n\nNesse cenário, considerando as disposições da Lei nº 14.133/2021, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) A arbitragem será sempre de direito e observará o princípio da publicidade.\n\n( ) Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de resolução de controvérsias.\n\n( ) O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas observará critérios isonômicos, técnicos e transparentes.\n\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "C",
+     "texto": "F – V – F."
+    },
+    {
+     "letra": "D",
+     "texto": "V – V – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – F."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 68"
+  },
+  {
+   "numero": "69",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório > Informática",
+   "tipo": "multipla",
+   "enunciado": "O Power Automate da Microsoft é uma ferramenta que permite automatizar tarefas e processos de trabalho.\n\nA seguir, indique a opção que apresenta os tipos de fluxo que os profissionais do TJ-RS podem criar, utilizando essa ferramenta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Fluxos de dados, fluxos de agendados e fluxos de processos, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "Fluxos inteligentes, fluxos de eventos e fluxos automáticos, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "Fluxos da nuvem, fluxos de área de trabalho e fluxos do processo empresarial, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "Fluxos de mineração e dados, fluxos ascendentes e fluxos transversais, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "Fluxos híbridos e fluxos de informações e fluxos de controle, apenas."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 69"
+  },
+  {
+   "numero": "70",
+   "disciplina": "Informática",
+   "assunto": "Segurança da Informação > Informática",
+   "tipo": "multipla",
+   "enunciado": "A equipe de respostas a incidentes de segurança do TJ-RS detectou que um desktop com sistema operacional Windows 11 foi alvo de um ciberataque. Um invasor enviou códigos prejudiciais por e-mail a um estagiário, que, ao executá-los, instalou um cavalo de Tróia no desktop. Esse código malicioso alterou o arquivo de hosts do desktop, redirecionando o tráfego do usuário para um site falso: sempre que o estagiário digitava um endereço correto, como www.google.com, o arquivo de hosts corrompido o direcionava a um site fraudulento.\n\nCom base nessas informações, assinale a opção que indica a classificação correta do ataque detectado.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "Typosquatting."
+    },
+    {
+     "letra": "B",
+     "texto": "Tabnabbing."
+    },
+    {
+     "letra": "C",
+     "texto": "Pharming."
+    },
+    {
+     "letra": "D",
+     "texto": "Worm."
+    },
+    {
+     "letra": "E",
+     "texto": "Bot."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 70"
+  },
+  {
+   "numero": "71",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório",
+   "tipo": "multipla",
+   "enunciado": "Analise a planilha a seguir do Excel 365.\n\n[[img:0]]\n\nConsidere que a célula C3 contém a fórmula =AGREGAR(1;0;A1:A11).\n\nCom base nisso, assinale a opção que indica qual será o resultado exibido na célula C3 após a execução da fórmula.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "50."
+    },
+    {
+     "letra": "B",
+     "texto": "40."
+    },
+    {
+     "letra": "C",
+     "texto": "30."
+    },
+    {
+     "letra": "D",
+     "texto": "20."
+    },
+    {
+     "letra": "E",
+     "texto": "10."
+    }
+   ],
+   "gabarito": "D",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 71",
+   "imagens": [
+    {
+     "src": "quest/2532986778/01.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "72",
+   "disciplina": "Informática",
+   "assunto": "Windows > Informática",
+   "tipo": "multipla",
+   "enunciado": "O Windows 11, a partir da versão 24H2, passou a oferecer o recurso Sudo, que permite aos usuários executarem comandos do perfil de administrador diretamente em uma sessão de console.\n\nCom base nas informações sobre o recurso Sudo no Windows 11, analise as afirmativas a seguir.\n\nI. Sudo só pode ser elevado por meio do recurso de segurança Controle de Conta de Usuário projetado para proteger o sistema operacional contra alterações não autorizadas usando o prompt de verificação.\n\nII. Para habilitar o Sudo, basta acionar a sequência de ações “Configurações> Sistema> Para Desenvolvedores” e habilitar a opção Sudo como ativado.\n\nIII. Sudo só suporta três opções de configuração diferentes, a saber: Em uma nova janela (forceNewWindow), Entrada fechada (disableInput) e Em segundo plano (background).\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "II e III, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "I, apenas."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 72"
+  },
+  {
+   "numero": "73",
+   "disciplina": "Informática",
+   "assunto": "Internet",
+   "tipo": "multipla",
+   "enunciado": "Maria foi temporariamente alocada em um novo setor no TJ-RS, onde utilizava o navegador Chrome em um computador com Windows 10 para desempenhar suas tarefas administrativas. Maria reconhece a relação entre a segurança da informação e navegadores. Ao ser designada para retornar ao setor original, ela precisou excluir todos os cookies do navegador daquela máquina.\n\nCom base nesse contexto, analise os procedimentos sequenciais que Maria deve executar no computador temporário e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) Abrir o navegador Chrome, clicar no canto superior direito em Mais e, em seguida, selecionar Configurações .\n\n( ) Acessar “Privacidade e segurança” e clicar em “Cookies primários e de terceiros”.\n\n( ) Selecionar “Analisar todos os cookies e as permissões”, clicar em “Excluir todos os dados”, e, para confirmar, selecionar “Salvar”. Por fim, Maria deve reiniciar o navegador.\n\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "F – V – V."
+    },
+    {
+     "letra": "B",
+     "texto": "F – F – V."
+    },
+    {
+     "letra": "C",
+     "texto": "V – F – F."
+    },
+    {
+     "letra": "D",
+     "texto": "V – F – V."
+    },
+    {
+     "letra": "E",
+     "texto": "V – V – F."
+    }
+   ],
+   "gabarito": "C",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 73"
+  },
+  {
+   "numero": "74",
+   "disciplina": "Informática",
+   "assunto": "Conceitos básicos em Informática",
+   "tipo": "multipla",
+   "enunciado": "Magda está avaliando os prós e contras da adoção do Slack como plataforma de comunicação corporativa pelo TJ-RS. Ela sabe que o Slack possui muitos recursos e é amplamente utilizado em organizações públicas e privadas.\n\nA respeito dessa plataforma, analise as afirmativas a seguir.\n\nI. O Slack Connect permite substituir a troca tradicional de e-mails, possibilitando que organizações externas, como fornecedores, parceiros e clientes, colaborem dentro de um workspace seguro da organização.\n\nII. O Slack Marketplace permite integrar ferramentas empresariais populares, como o Microsoft Teams, de modo que os servidores do TJ-RS possam interagir com esses programas sem precisar sair de seu workspace.\n\nIII. O Slack BlackBoard permite compartilhar conhecimento e fazer o trabalho do tribunal avançar, sendo um recurso nativo no qual as equipes podem criar, organizar e compartilhar recursos importantes. Um BlackBoard pode conter textos, arquivos, apps, imagens, vídeos e dados, como dados de cliente.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e II, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "II e III, apenas."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 74"
+  },
+  {
+   "numero": "75",
+   "disciplina": "Informática",
+   "assunto": "Suítes ou Pacotes de Escritório",
+   "tipo": "multipla",
+   "enunciado": "Um usuário do Excel 365 digitou os dados a seguir em uma planilha.\n\n[[img:0]]\n\nAo final, decidiu exportar a planilha para um arquivo no formato CSV. O Excel exibiu a seguinte mensagem de aviso:\n\n[[img:1]]\n\nLegenda: POSSÍVEL PERDA DE DADOS\n\nAlguns recursos podem ser perdidos se você salvar esta pasta de trabalho no formato (.csv) delimitada por vírgulas. Para preservar estes recursos, salve-a em um formato de arquivo do Excel.\n\nNão mostrar novamente\n\nSalvas como...\n\nApesar disso, o usuário clicou em “Salvar como”, selecionou o formato CSV e nomeou o arquivo como Pasta1.CSV.\n\nEm seguida, ele abriu o arquivo no Bloco de Notas do Windows 10.\n\nCom base no procedimento relatado, assinale a opção que apresenta o conteúdo que será visualizado no arquivo CVS.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "[[img:2]] [[img:2]]"
+    },
+    {
+     "letra": "B",
+     "texto": "[[img:3]] [[img:3]]"
+    },
+    {
+     "letra": "C",
+     "texto": "[[img:4]] [[img:4]]"
+    },
+    {
+     "letra": "D",
+     "texto": "[[img:5]] [[img:5]]"
+    },
+    {
+     "letra": "E",
+     "texto": "[[img:6]] [[img:6]]"
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "2",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 75",
+   "imagens": [
+    {
+     "src": "quest/2549724422/01.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/02.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/03.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/04.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/05.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/06.webp",
+     "parte": "inline"
+    },
+    {
+     "src": "quest/2549724422/07.webp",
+     "parte": "inline"
+    }
+   ]
+  },
+  {
+   "numero": "76",
+   "disciplina": "Legislação Federal",
+   "assunto": "Do Tratamento de Dados Pessoais - LGPD",
+   "tipo": "multipla",
+   "enunciado": "A Lei nº 13.709, de 14 de agosto de 2018, dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado.\n\nA respeito dessa normativa, analise as afirmativas a seguir e assinale a que está incorreta.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A Lei tem como objetivo proteger os direitos fundamentais de liberdade e de privacidade, bem como o livre desenvolvimento da personalidade da pessoa natural."
+    },
+    {
+     "letra": "B",
+     "texto": "O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que devem ser disponibilizadas de forma clara, adequada e ostensiva observando as características previstas em regulamentação para garantir o princípio do livre acesso."
+    },
+    {
+     "letra": "C",
+     "texto": "A autoridade nacional poderá determinar ao controlador que elabore relatório de impacto à proteção de dados pessoais, inclusive de dados sensíveis, referente às suas operações de tratamento de dados, nos termos de regulamento, observados os segredos comercial e industrial."
+    },
+    {
+     "letra": "D",
+     "texto": "Os dados devem ser mantidos em formato interoperável e estruturado para o uso compartilhado, com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública e à disseminação das informações ao público em geral."
+    },
+    {
+     "letra": "E",
+     "texto": "O titular dos dados pessoais de crianças tem direito a obter do operador das plataformas, a qualquer momento e mediante requerimento registrado em cartório, acesso aos dados da criança por ele representada."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 76"
+  },
+  {
+   "numero": "77",
+   "disciplina": "Direito Administrativo",
+   "assunto": "Capítulo I - Disposições Gerais",
+   "tipo": "multipla",
+   "enunciado": "A segurança da informação é um tema cada vez mais importante no âmbito dos Tribunais de Justiça. Ela está baseada em vários princípios e pode ser definida como uma série de boas práticas focadas especialmente em garantir a proteção dos dados da instituição, a mitigação dos riscos e a adequação às leis vigentes.\n\nO princípio que assegura que a informação foi produzida, expedida, modificada ou destruída por uma determinada pessoa física, equipamento, sistema, órgão ou entidade é conhecido por",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "confidencialidade."
+    },
+    {
+     "letra": "B",
+     "texto": "indisponibilidade."
+    },
+    {
+     "letra": "C",
+     "texto": "temporalidade."
+    },
+    {
+     "letra": "D",
+     "texto": "autenticidade."
+    },
+    {
+     "letra": "E",
+     "texto": "integridade."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 77"
+  },
+  {
+   "numero": "78",
+   "disciplina": "Atendimento ao Público",
+   "assunto": "Telefonia Móvel (3G; 4G/LTE; 4,5G/LTE-Advanced-Pro; 5G) > Redes de Computadores",
+   "tipo": "multipla",
+   "enunciado": "O 5G é um dos padrões tecnológicos mais recentes para serviços móveis. Com características como altas taxas de transmissão de dados e baixa latência, o 5G possibilita uma ampla gama de aplicações, inclusive no âmbito dos Tribunais de Justiça.\n\nConsiderando a operação multibanda do 5G e suas vantagens em relação ao 4G, analise as afirmativas a seguir.\n\nI. A tecnologia sem fio 5G é dividida em quatro tipos de banda (baixa, média, alta e ultra-alta), em função do espectro de frequências de rádio que eles suportam. Na banda de ultra-alta frequência, as velocidades de pico do 5G podem atingir até 10 vezes as do 4G.\n\nII. A banda baixa do 5G opera abaixo de 1 GHz, próxima às frequências usadas pelo 4G. A banda média usa frequências na faixa de 1 a 2,6 GHz e de 3,5 a 6 GHz. A latência do 5G pode ser de quatro a cinco vezes menor que a do 4G, em parte devido ao aperfeiçoamento da tecnologia de rádio 5G.\n\nIII. A banda alta utiliza frequências na faixa de 8 a 15 GHz, enquanto a banda ultra-alta opera entre 20 e 25 GHz. O 5G pode suportar até 1.000 vezes mais dispositivos e endpoints do que o 4G.\n\nEstá correto o que se afirma em",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "I, apenas."
+    },
+    {
+     "letra": "B",
+     "texto": "II, apenas."
+    },
+    {
+     "letra": "C",
+     "texto": "III, apenas."
+    },
+    {
+     "letra": "D",
+     "texto": "I e III, apenas."
+    },
+    {
+     "letra": "E",
+     "texto": "II e III, apenas."
+    }
+   ],
+   "gabarito": "B",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 78"
+  },
+  {
+   "numero": "79",
+   "disciplina": "Legislação dos Órgãos",
+   "assunto": "Resolução CNJ nº 615/2025 - Estabelece diretrizes para o uso de inteligência artificial no Poder Judiciário",
+   "tipo": "multipla",
+   "enunciado": "O Conselho Nacional de Justiça (CNJ), por meio da Resolução nº 615/2025, estabeleceu princípios que orientam o desenvolvimento, a governança, a auditoria, o monitoramento e o uso responsável de soluções de inteligência artificial (IA) no âmbito dos tribunais.\n\nCom base nesses princípios, analise as afirmativas a seguir e assinale aquela que não corresponde a um princípio previsto na Resolução.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "A transparência, a eficiência, a explicabilidade, a contestabilidade, a auditabilidade e a confiabilidade das soluções que adotam técnicas de IA."
+    },
+    {
+     "letra": "B",
+     "texto": "A eficiência e a qualidade na prestação jurisdicional pelo Poder Judiciário, garantindo sempre a observância dos direitos fundamentais."
+    },
+    {
+     "letra": "C",
+     "texto": "A prevenção, a precaução e o controle para a mitigação de riscos derivados do uso intencional ou não intencional de soluções que adotam técnicas de IA."
+    },
+    {
+     "letra": "D",
+     "texto": "A capacitação contínua, oferecida pelos tribunais e suas escolas a magistrados e servidores, com foco nos riscos da automação, nos vieses algorítmicos e na análise crítica dos resultados gerados por IA."
+    },
+    {
+     "letra": "E",
+     "texto": "A supervisão automatizada, periódica e adequada no ciclo de vida da IA, considerando custos financeiros, possibilidade de ajuste de contratos e impactos da solução utilizada."
+    }
+   ],
+   "gabarito": "X",
+   "anulada": true,
+   "dificuldade": "1",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 79"
+  },
+  {
+   "numero": "80",
+   "disciplina": "Informática",
+   "assunto": "Hardware > Conceitos básicos em Informática",
+   "tipo": "multipla",
+   "enunciado": "Os codecs permitem aos usuários que reproduzam diferentes formatos de arquivos de áudio e vídeo. O Media Player do Windows suporta uma grande variedade de codecs.\n\nCom base nisso, selecione a opção que apresenta, respectivamente, um codec de áudio e um codec de vídeo.",
+   "alternativas": [
+    {
+     "letra": "A",
+     "texto": "DV e VC1."
+    },
+    {
+     "letra": "B",
+     "texto": "AAC e M4A."
+    },
+    {
+     "letra": "C",
+     "texto": "3GP e WAV."
+    },
+    {
+     "letra": "D",
+     "texto": "MP3 e AMR."
+    },
+    {
+     "letra": "E",
+     "texto": "FLAC e H.263."
+    }
+   ],
+   "gabarito": "E",
+   "anulada": false,
+   "dificuldade": "3",
+   "fonte": "FGV 2025 – TJ RS – Técnico do Poder Judiciário – Área: Administrativo-Judiciária, questão 80"
+  }
+ ]
+}
